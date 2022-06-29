@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acdh:ACDH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#">
+    <acdh:Constanst>
+        <acdh:DefaultLang>de</acdh:DefaultLang>
+    </acdh:Constanst>
+    <acdh:TopCollection rdf:about="https://ferdinand-korrespondenz.acdh.oeaw.ac.at">
+        <!--<acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-8562-D</acdh:hasPid>-->
+        <acdh:hasTitle xml:lang="de">Die Familienkorrespondenz von Ferdinand I.</acdh:hasTitle>
+        <acdh:hasDescription xml:lang="de">Die Familienkorrespondenz von Ferdinand I. kodiert in XML/TEI, ergänzt um ein Personen-, Orts- und Sachregister, eine Suchfunktion und einem online-Kartendienst mit den Einträgen aus dem Ortsregister.</acdh:hasDescription>
+        <acdh:hasActor rdf:resource="http://d-nb.info/gnd/118532502"/><!-- RH: Kaiser Ferdinand I -->        
+        <acdh:hasContact rdf:resource="https://d-nb.info/gnd/121046842"/><!-- RH: Christopher Laferl -->
+        <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13295639X"/><!-- RH: Richard Hörmann -->
+        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1050382196"/><!-- RH: Martin Müller ?xxxx -->
+        <!-- <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-01-01</acdh:hasCoverageStartDate>
+      <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-01-01</acdh:hasCoverageEndDate>
+      <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+      <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate> -->        
+        <acdh:hasRelatedDiscipline xml:lang="de">History, Archaeology</acdh:hasRelatedDiscipline><!-- RH: link? "<a> not allowed here" xxxx -->
+        <acdh:hasSubject xml:lang="de">Edition</acdh:hasSubject>
+        <acdh:hasAvailableDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">yyyy-mm-dd</acdh:hasAvailableDate><!-- RH: ?xxxx -->
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/><!-- RH: ?xxxx -->
+    </acdh:TopCollection>
+    <acdh:Cols>
+        <acdh:Collection rdf:about="https://ferdinand-korrespondenz.acdh.oeaw.ac.at/editions">
+            <acdh:isPartOf rdf:resource="https://ferdinand-korrespondenz.acdh.oeaw.ac.at"/><!-- RH: ?xxxx -->
+            <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML/TEI Dokumente</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/><!-- RH: ?xxxx -->
+            <!-- <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-01-01</acdh:hasCoverageStartDate>
+         <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-01-01</acdh:hasCoverageEndDate>
+         <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+         <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate> -->
+        </acdh:Collection>        
+        <acdh:Collection rdf:about="https://ferdinand-korrespondenz.acdh.oeaw.ac.at/indices">
+            <acdh:isPartOf rdf:resource="https://ferdinand-korrespondenz.acdh.oeaw.ac.at"/><!-- RH: ?xxxx -->
+            <acdh:hasTitle xml:lang="de">Register</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML/TEI kodiertes Orts-, Sach- und Personenregister</acdh:hasDescription>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <!-- <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-01</acdh:hasCreatedStartDate>
+         <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-31</acdh:hasCreatedEndDate> -->
+        </acdh:Collection>
+    </acdh:Cols>
+    <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
+    
+    <!-- 
+    <acdh:MetaAgents></acdh:MetaAgents>
+    -->
+    
+    <!-- mandatory properties shared by acdh:Collection AND acdh:Resource -->
+    <acdh:RepoObject>
+        <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/121046842"/><!-- RH. Christopher Laferl -->
+        <acdh:hasContact rdf:resource="https://d-nb.info/gnd/121046842"/><!-- RH: Christopher Laferl -->        
+        <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/><!-- RH: ?xxxx -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/><!-- RH: ?xxxx -->
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"/>
+        <!-- German Literature -->
+        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/121046842"/><!-- RH. Christopher Laferl -->        
+        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/><!-- RH: Peter Andorfer -->
+        <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1050382196"/><!-- RH: Martin Müller ?xxxx -->
+        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/13295639X"/><!-- RH: Richard Hörmann -->
+        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/><!-- RH: Peter Andorfer -->        
+        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1248646223"/><!-- RH. Joseph Wang -->
+        <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/13295639X"/><!-- RH: Richard Hörmann -->
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/><!-- RH: ?xxxx -->
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/><!-- RH: ?xxxx -->
+        <!-- RH: has AvailableDate ?xxxx -->
+    </acdh:RepoObject>
+</acdh:ACDH>

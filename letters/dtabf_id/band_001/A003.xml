@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A3.</title>
+            <title type="sub">Ferdinand der Katholische
+               Ferdinand an 1515 November 12, Cazalegas</title>
+            <author>
+               <persName ref="nognd">
+            </persName>
+            </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher xml:id="nnnn">
+               <orgName role="hostingInstitution">Universität Salzburg</orgName>
+               <orgName role="project">Edition der Familienkorrespondenz Ferdinands I.</orgName>
+               <address>
+                  <addrLine>
+                             Paris Lodron Universität Salzburg PLUS
+                             Kapitelgasse 4
+                             A-5020 Salzburg - Österreich
+                          </addrLine>
+               </address>
+            </publisher>
+            <distributor>
+               <orgName ref="https://dhplus.plus.ac.at/">dhPLUS-Digital Humanities Plattform der PLUS</orgName>
+            </distributor>
+            <pubPlace>Salzburg</pubPlace>
+            <date type="publication">2015-07-09</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">
+                  <p>Creative Commons BY 3.0</p>
+               </licence>
+            </availability>
+            <idno type="PID">nnnn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="MS"/>
+            <bibl>Converted from a Word document</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="nognd">Ferdinand der Katholische</persName>
+               <placeName ref="nognd">Cazalegas</placeName>
+               <date notBefore="1515-11-12" notAfter="1515-11-12" when="1515-11-12">1515 November 12</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="nognd">Ferdinand</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2021-02-04T13:54:57Z</date>
+               <name ref="nognd">Pitzer Doris</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="header">
+            <p>
+               <anchor xml:id="bookmark19"/>
+               <hi rendition="#b">A3.</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <hi rendition="#i">Ferdinand der Katholische an Ferdinand.</hi>
+                  </cell>
+                  <cell>
+                     <hi rendition="#i">1515 November 12. Cazalegas.</hi>
+                  </cell>
+               </row>
+            </table>
+         </div>
+         <div type="regest" xml:lang="de">
+            <p>Vertröstet F auf gemeinsames Jagdglück. Seine Gesundheit.</p>
+         </div>
+         <div type="regest" xml:lang="en">
+            <p>Ferdinand the Catholic promises F a successful hunting trip in the future. His health.</p>
+         </div>
+         <div type="archive_desc">
+            <p>Wien, St.-A. Familienarchiv. Original mit auf gedrücktem Siegel.</p>
+            <p>Druck: Familienkorrespondenz Bd. 1, Nr. 3, S. 3.</p>
+         </div>
+         <div type="letter">
+            <p>Ill<hi rendition="#sup">mo</hi> infante, mi muy caro y muy amado nieto y hijo. Reçebi vuestra letra con que he holgado y pues en el monte pasado no aveys fecho nada, da os priesa en lo que quando, porque quando os veo plaziendo á nuestro señor, tengays mucha <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d4e184a1039" key="Jagd">caça</term>
+               </index>. <persName xml:id="person_d2e209a1038"
+                         ref="nognd"
+                         resp="Christopher_F._Laferl"
+                         key="Ferdinand II., der Katholische, König von Aragón">Yo</persName> voy con muy mucho mejoría de <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d4e193a1039"
+                        key="Gesundheit/Krankheit, Ferdinand der Katholische">salud</term>
+               </index> á dios gracias como este grado vuestro os dira.</p>
+            <p>De <placeName xml:id="place_d4e200a1038"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Cazalegas">Caçalegas</placeName> a 12. de noviembre de 515 años.</p>
+            <p>Yo<hi rendition="#sup">a</hi>) el Rey.</p>
+            <p>Por mandado de Su Alteza <persName xml:id="person_d2e268a1038"
+                         ref="nognd"
+                         resp="Christopher_F._Laferl"
+                         key="Quintana, Pedro de, Sekretär Ferdinands des Katholischen">Pedro de Quyntana</persName>.</p>
+         </div>
+         <div type="commentary">
+            <p>Rückwärts Adresse: <hi rendition="#i">Al ill</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i">ynfante don Hernando, mi muy caro et muy amado nyeto et hijo.</hi>
+            </p>
+            <p>Der hier erwähnte Brief F’s wurde nicht vorgefunden.</p>
+            <p>Kommentar der Herausgeber der digitalen Edition: Im ersten Band der Familienkorrespondenz war der Ortsname fälschlich mit <hi rendition="#i">Casaleggio</hi> aufgelöst worden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

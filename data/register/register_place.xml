@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Place Register in TEI generated from TEI data of letters</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d4e200a1038">Cazalegas</placeName>
+               </note>
+               <note type="writings">
+                  <p>Caçalegas</p>
+               </note>
+               <note type="occurence">
+                  <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d2e231a1038">Gmunden</placeName>
+               </note>
+               <note type="writings">
+                  <p>Gmunden</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d3e227a1038">Innsbruck</placeName>
+               </note>
+               <note type="writings">
+                  <p>Inspruk</p>
+               </note>
+               <note type="occurence">
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>
