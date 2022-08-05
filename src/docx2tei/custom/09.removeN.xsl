@@ -2,30 +2,28 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei"
-    version="2.0">
-    
+    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs tei" version="2.0">
+
     <xsl:output method="xml" indent="no"/>
-    
-    <xsl:template match="@*|tei:*|text()">
+
+    <xsl:template match="@*|tei:*|text()" mode="RHremoveN">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="RHremoveN" select="@*"/>
+            <xsl:apply-templates mode="RHremoveN"/>
         </xsl:copy>
     </xsl:template>
-    
-    <xsl:template match="tei:p[@n]">
+
+    <xsl:template match="tei:p[@n]" mode="RHremoveN">
         <xsl:variable name="firstTextNodeId" select="generate-id((.//text())[1])"/>
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
+            <xsl:apply-templates select="@*" mode="RHremoveN"/>
             <xsl:apply-templates mode="removeFirstNumber">
                 <xsl:with-param name="replaceN" select="@n"/>
                 <xsl:with-param name="replaceId" select="$firstTextNodeId"/>
             </xsl:apply-templates>
         </xsl:copy>
     </xsl:template>
-    
+
     <xsl:template match="tei:*" mode="removeFirstNumber">
         <xsl:param name="replaceN"/>
         <xsl:param name="replaceId"/>
@@ -37,7 +35,7 @@
             </xsl:apply-templates>
         </xsl:copy>
     </xsl:template>
-    
+
     <xsl:template match="text()" mode="removeFirstNumber">
         <xsl:param name="replaceN"/>
         <xsl:param name="replaceId"/>
@@ -56,5 +54,5 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
 </xsl:stylesheet>

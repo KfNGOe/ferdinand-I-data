@@ -3,33 +3,31 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:uibk="http://igwee.uibk.ac.at/custom/ns"
-    exclude-result-prefixes="xs"
-    version="2.0">
-    
+    xmlns:uibk="http://igwee.uibk.ac.at/custom/ns" exclude-result-prefixes="xs" version="2.0">
+
     <xsl:output indent="no" method="xml"/>
-    
-    
-    <xsl:template match="/">
+
+
+    <xsl:template match="/" mode="RHcommentToRs">
         <xsl:variable name="hiToMilestone">
             <xsl:apply-templates mode="hiToMilestones"/>
         </xsl:variable>
-        
+
         <xsl:variable name="useRS">
             <xsl:call-template name="elimComment">
                 <xsl:with-param name="node" select="$hiToMilestone"/>
             </xsl:call-template>
         </xsl:variable>
-        
+
         <xsl:variable name="backToHi">
             <xsl:call-template name="backToHi">
                 <xsl:with-param name="node" select="$useRS"/>
             </xsl:call-template>
         </xsl:variable>
-        
+
         <xsl:copy-of select="$backToHi"/>
     </xsl:template>
-    
+
     <xsl:template name="elimComment">
         <xsl:param name="node"/>
         <xsl:variable name="result">
@@ -59,16 +57,16 @@
         </xsl:variable>
         <xsl:copy-of select="$result2"></xsl:copy-of>
     </xsl:template>
-    
+
     <xsl:template mode="elimateCommentStartEnd" match="@*|comment()">
         <xsl:copy>
             <xsl:apply-templates mode="elimateCommentStartEnd" select="@*"/>
             <xsl:apply-templates select="text()|comment()|*" mode="elimateCommentStartEnd"/>
         </xsl:copy>
     </xsl:template>
-    
-    
-    
+
+
+
     <xsl:template match="text()|*" mode="elimateCommentStartEnd">
         <xsl:variable name="prevUibkComment" select="preceding-sibling::uibk:comment[1]"/>
         <xsl:variable name="nextUibkComment" select="following-sibling::uibk:comment[1]"/>
@@ -83,17 +81,17 @@
                 </xsl:copy>
             </xsl:otherwise>
         </xsl:choose>
-        
+
     </xsl:template>
-    
-    
+
+
     <xsl:template mode="elimateCommentStartEnd" match="uibk:comment[@type='start']">
         <xsl:variable name="commentId" select="@commentId"/>
         <xsl:variable name="nextUibkComment" select="following-sibling::uibk:comment[1]"/>
         <xsl:variable name="canConvert">
             <xsl:if test="$nextUibkComment/@type='end' and $nextUibkComment/@commentId=$commentId">yes</xsl:if>
         </xsl:variable>
-        
+
         <xsl:choose>
             <xsl:when test="$canConvert='yes'">
                 <xsl:element name="rs">
@@ -113,7 +111,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template mode="elimateCommentStartEnd" match="uibk:comment[@type='end']">
         <xsl:variable name="commentId" select="@commentId"/>
         <xsl:variable name="prevUibkComment" select="preceding-sibling::uibk:comment[1]"/>
@@ -129,16 +127,16 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-    
-    
+
+
+
     <xsl:template match="@*|*|text()|comment()" mode="hiToMilestones">
         <xsl:copy>
             <xsl:apply-templates mode="hiToMilestones" select="@*"/>
             <xsl:apply-templates mode="hiToMilestones"/>
         </xsl:copy>
     </xsl:template>
-    
+
     <xsl:template match="tei:hi" mode="hiToMilestones">
         <xsl:variable name="generateId" select="generate-id()"/>
         <xsl:element name="uibk:Hi">
@@ -152,7 +150,7 @@
             <xsl:attribute name="type">end</xsl:attribute>
         </xsl:element>
     </xsl:template>
-    
+
     <xsl:template name="backToHi">
         <xsl:param name="node"/>
         <xsl:variable name="result">
@@ -167,11 +165,11 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template mode="backToHi" match="@*|comment()">
         <xsl:copy-of select="."/>
     </xsl:template>
-    
+
     <xsl:template mode="backToHi" match="uibk:Hi[@type='start']">
         <xsl:variable name="hiAfter" select="following-sibling::uibk:Hi[1]"/>
         <xsl:choose>
@@ -182,7 +180,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template mode="backToHi" match="uibk:Hi[@type='end']">
         <xsl:variable name="hiBefore" select="preceding-sibling::uibk:Hi[1]"/>
         <xsl:choose>
@@ -193,7 +191,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template match="text()" mode="backToHi">
         <xsl:variable name="hiBefore" select="preceding-sibling::uibk:Hi[1]"/>
         <xsl:variable name="hiAfter" select="following-sibling::uibk:Hi[1]"/>
@@ -209,45 +207,45 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template mode="backToHi" match="*">
         <xsl:copy>
             <xsl:apply-templates mode="backToHi" select="@*"/>
             <xsl:apply-templates mode="backToHi"/>
         </xsl:copy>
     </xsl:template>
-    
-    
-    
+
+
+
     <xsl:template match="@*">
         <xsl:copy/>
     </xsl:template>
-    
+
     <xsl:template match="*|text()|comment()">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
-    
-    
-    
+
+
+
     <xsl:template match="tei:hi[@rend='annotation_reference']">
         <xsl:apply-templates/>
     </xsl:template>
-    
-    
+
+
     <xsl:template name="canConvert">
         <xsl:param name="startNode"/>
         <xsl:param name="endNode"/>
         <xsl:value-of select="$startNode/ancestor::tei:p[1]=$endNode/ancestor::tei:p[1]"/>
     </xsl:template>
-    
+
     <xsl:template name="getNote">
         <xsl:param name="commentId"/>
         <xsl:value-of select="//tei:note[@commentId=$commentId]"/>
     </xsl:template>
-    
+
     <xsl:template name="copyWithIn">
         <xsl:param name="parent"/>
         <xsl:param name="from"/>
@@ -261,12 +259,12 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    
+
     <xsl:template mode="copy" match="text()|@*|*|comment()">
         <xsl:copy>
             <xsl:apply-templates mode="copy" select="@*"/>
             <xsl:apply-templates mode="copy"/>
         </xsl:copy>
     </xsl:template>
-    
+
 </xsl:stylesheet>

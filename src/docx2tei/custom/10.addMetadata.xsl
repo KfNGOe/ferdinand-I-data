@@ -3,12 +3,10 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:uibk="http://www.uibk.ac.at/igwee/ns"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei uibk"
-    version="2.0">
-    
+    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs tei uibk" version="2.0">
+
     <xsl:output method="xml" indent="no"/>
-    
+
     <xsl:variable name="headerInfo">
         <xsl:variable name="letterHeader">
             <xsl:choose>
@@ -38,8 +36,7 @@
             </uibk:title>
             <xsl:variable name="metadataLine1">
                 <xsl:choose>
-                    <xsl:when test="count($letterHeader/tei:table)=1 and
-                        count($letterHeader/tei:table//tei:cell)=2">
+                    <xsl:when test="count($letterHeader/tei:table)=1 and count($letterHeader/tei:table//tei:cell)=2">
                         <xsl:value-of select="($letterHeader/tei:table//tei:cell)[1]/string()"/>
                     </xsl:when>
                     <xsl:when test="count($letterHeader/tei:table)=1 and count($letterHeader/tei:table//tei:cell)=1 and
@@ -87,10 +84,10 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </uibk:recipient>
+
             <xsl:variable name="metadataLine2">
                 <xsl:choose>
-                    <xsl:when test="count($letterHeader/tei:table)=1 and
-                        count($letterHeader/tei:table//tei:cell)=2">
+                    <xsl:when test="count($letterHeader/tei:table)=1 and count($letterHeader/tei:table//tei:cell)=2">
                         <xsl:value-of select="($letterHeader/tei:table//tei:cell)[2]/string()"/>
                     </xsl:when>
                     <xsl:when test="count($letterHeader/tei:table)=1 and count($letterHeader/tei:table//tei:cell)=1">
@@ -101,10 +98,17 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
+
             <xsl:variable name="metadataLine2WithoutBrackets" select="replace($metadataLine2, '[\[\]()?]', '')"/>
-            <xsl:variable name="dates" select="uibk:dateparser($metadataLine2WithoutBrackets,'de[full-ymd]')"/>
+
+            <!-- <xsl:variable name="dates" select="uibk:dateparser($metadataLine2WithoutBrackets,'de[full-ymd]')"/> -->
+            <!-- RH start -->
+            <xsl:variable name="dates" select="substring-before($metadataLine2WithoutBrackets,'. ')"/>
+            <xsl:variable name="places" select="substring-before(substring-after($metadataLine2WithoutBrackets,'. '), '.')"/>
+            <!-- RH end
+            substring-after($metadataLine2WithoutBrackets,". ") -->
             <uibk:dating>
-                <xsl:choose>
+                <!-- <xsl:choose>
                     <xsl:when test="$dates/uibk:date">
                         <xsl:variable name="firstDate" select="($dates/uibk:date)[1]"/>
                         <xsl:if test="$firstDate/@notBefore">
@@ -119,45 +123,53 @@
                         <xsl:value-of select="$firstDate"/>
                     </xsl:when>
                     <xsl:otherwise></xsl:otherwise>
-                </xsl:choose>
+                </xsl:choose> 
+                -->
+                <xsl:value-of select="$dates"/>
             </uibk:dating>
             <uibk:placeName>
+                <!-- 
                 <xsl:choose>
                     <xsl:when test="$dates/uibk:date">
                         <xsl:variable name="lastPart" select="$dates/text()[not(following-sibling::text()) and not(following-sibling::uibk:date)]"/>
-                        <xsl:message>last part for <xsl:copy-of select="$letterHeader/tei:p"/>: <xsl:copy-of select="$lastPart"/></xsl:message>
-                        <xsl:analyze-string select="normalize-space($lastPart)" regex="(\W*)([^-\[\]—().;+0-9,]+)\W*">
-                            <xsl:matching-substring>
-                                <xsl:variable name="placeNameFull" select="normalize-space(regex-group(2))"/>
-                                <xsl:choose>
-                                    <xsl:when test="matches($placeNameFull, '^.*[A-Z]\.$')">
-                                        <xsl:value-of select="$placeNameFull"/>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:value-of select="replace($placeNameFull, '\.$', '')"/>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                            </xsl:matching-substring>
-                        </xsl:analyze-string>
-                    </xsl:when>
-                    <xsl:otherwise></xsl:otherwise>
-                </xsl:choose>
+                        <xsl:message>last part for <xsl:copy-of select="$letterHeader/tei:p"/>
+:                        <xsl:copy-of select="$lastPart"/>
+                    </xsl:message>
+                    <xsl:analyze-string select="normalize-space($lastPart)" regex="(\W*)([^-\[\]—().;+0-9,]+)\W*">
+                        <xsl:matching-substring>
+                            <xsl:variable name="placeNameFull" select="normalize-space(regex-group(2))"/>
+                            <xsl:choose>
+                                <xsl:when test="matches($placeNameFull, '^.*[A-Z]\.$')">
+                                    <xsl:value-of select="$placeNameFull"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="replace($placeNameFull, '\.$', '')"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:matching-substring>
+                    </xsl:analyze-string>
+                </xsl:when>
+                <xsl:otherwise></xsl:otherwise>
+            </xsl:choose> 
+            -->
+                <xsl:value-of select="$places"/>
             </uibk:placeName>
+
         </uibk:headerInfo>
     </xsl:variable>
-    
-    <xsl:template match="@*|tei:*|text()">
+
+    <xsl:template match="@*|tei:*|text()" mode="RHaddMetadata">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="RHaddMetadata" select="@*"/>
+            <xsl:apply-templates mode="RHaddMetadata"/>
         </xsl:copy>
     </xsl:template>
-    
-    <xsl:template match="/">
-        <xsl:apply-templates/>
+
+    <xsl:template match="/" mode="RHaddMetadata">
+        <xsl:apply-templates mode="RHaddMetadata"/>
     </xsl:template>
-    
-    <xsl:template match="tei:titleStmt">
+
+    <xsl:template match="tei:titleStmt" mode="RHaddMetadata">
         <xsl:copy>
             <title type="main">
                 <xsl:value-of select="$headerInfo//uibk:title"/>
@@ -175,7 +187,7 @@
                     <date>
                         <xsl:if test="$headerInfo//uibk:dating/@notBefore">
                             <xsl:attribute name="notBefore" select="$headerInfo//uibk:dating/@notBefore"/>
-                        </xsl:if>                        
+                        </xsl:if>
                         <xsl:if test="$headerInfo//uibk:dating/@notAfter">
                             <xsl:attribute name="notAfter" select="$headerInfo//uibk:dating/@notAfter"/>
                         </xsl:if>
@@ -198,11 +210,11 @@
             </xsl:if>
         </xsl:copy>
     </xsl:template>
-    
-    <xsl:template match="tei:fileDesc">
+
+    <xsl:template match="tei:fileDesc" mode="RHaddMetadata">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates />
+            <xsl:apply-templates select="@*" mode="RHaddMetadata"/>
+            <xsl:apply-templates mode="RHaddMetadata"/>
         </xsl:copy>
         <xsl:if test="$headerInfo//uibk:sender!='UNKNOWN'">
             <profileDesc>
@@ -220,7 +232,7 @@
                             <date>
                                 <xsl:if test="$headerInfo//uibk:dating/@notBefore">
                                     <xsl:attribute name="notBefore" select="$headerInfo//uibk:dating/@notBefore"/>
-                                </xsl:if>                        
+                                </xsl:if>
                                 <xsl:if test="$headerInfo//uibk:dating/@notAfter">
                                     <xsl:attribute name="notAfter" select="$headerInfo//uibk:dating/@notAfter"/>
                                 </xsl:if>

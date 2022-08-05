@@ -3,20 +3,18 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:uibk="http://igwee.uibk.ac.at/custom/ns"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei"
-    version="2.0">
-    
+    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs tei" version="2.0">
+
     <xsl:output method="xml" indent="no" />
-    
-    <xsl:template match="@*|tei:*|uibk:*|text()">
+
+    <xsl:template match="@*|tei:*|uibk:*|text()" mode="RHshiftSeparationAnchor">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates />
+            <xsl:apply-templates select="@*" mode="RHshiftSeparationAnchor"/>
+            <xsl:apply-templates mode="RHshiftSeparationAnchor"/>
         </xsl:copy>
     </xsl:template>
-    
-    <xsl:template match="uibk:anchor">
+
+    <xsl:template match="uibk:anchor" mode="RHshiftSeparationAnchor">
         <xsl:choose>
             <xsl:when test="@subtype='begin'">
                 <xsl:choose>
@@ -37,13 +35,13 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-    <xsl:template match="tei:body">
+
+    <xsl:template match="tei:body" mode="RHshiftSeparationAnchor">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates />
+            <xsl:apply-templates mode="RHshiftSeparationAnchor" select="@*"/>
+            <xsl:apply-templates mode="RHshiftSeparationAnchor" />
             <uibk:anchor type="separator" subtype="end" n="Kommentar"/>
         </xsl:copy>
     </xsl:template>
-    
+
 </xsl:stylesheet>

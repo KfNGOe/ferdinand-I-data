@@ -2,26 +2,24 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei"
-    version="2.0">
-    
+    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs tei" version="2.0">
+
     <xsl:output method="xml" indent="no" encoding="UTF-8"/>
-    
-    
+
+
     <!-- Try to connect transcription with commentary, do this to regesta, too? -->
-    
+
     <xsl:template match="/">
         <xsl:apply-templates />
     </xsl:template>
-    
+
     <xsl:template match="tei:*|@*">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates/>    
+            <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
-    
+
     <xsl:template match="tei:div[@type='transcript' or @type='notes']/tei:p">
         <xsl:variable name="origNode" select="."/>
         <xsl:variable name="paragraphText">
@@ -48,12 +46,12 @@
             </xsl:when>
         </xsl:choose>
     </xsl:template>
-    
-    
+
+
     <xsl:template match="tei:p" mode="onlyNonItalic">
         <xsl:apply-templates mode="onlyNonItalic"/>
     </xsl:template>
-    
+
     <xsl:template match="text()" mode="onlyNonItalic">
         <xsl:choose>
             <xsl:when test="ancestor::*[contains(@rend, 'italic')]">
@@ -64,6 +62,6 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-    
+
+
 </xsl:stylesheet>

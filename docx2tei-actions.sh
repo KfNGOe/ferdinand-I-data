@@ -4,8 +4,8 @@
 
 echo starting docx2tei transformation
  
-inputDir="letters/docx/band_001/"
-outputDir="letters/tei/band_001/"
+inputDir="data/docx/band_001/"
+outputDir="data/tei/band_001/"
 
 for changed_file in $changes; do
   echo "Found changed file: ${changed_file}."
@@ -21,7 +21,9 @@ for changed_file in $changes; do
 
     if test -f "$changed_file"; then
       echo "Docx was changed/added. Starting transform"
-      ant -f ./src/docx2tei/docx/build-from.xml -DinputFile="../../../$changed_file" -DoutputFile="../../../$outputDir$name.xml"
+      ant -f ./src/docx2tei/docx/build-from.xml -DinputFile=../../../$filename -DoutputFile="${cwd}/${outputDir}tempIn/$filename.xml"
+  java -cp src/docx2tei/saxon-he-10.jar net.sf.saxon.Transform -s:"${cwd}/${outputDir}tempIn/$filename.xml" -xsl:"${cwd}/src/docx2tei/docx2tei.xsl" -o:"${cwd}/${outputDir}$name.xml"
+     # . docx2tei.sh $changed_file $outputDir
     fi
   fi
 done
