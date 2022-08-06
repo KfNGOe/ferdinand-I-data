@@ -18,6 +18,612 @@
          <list>
             <item>
                <note type="place">
+                  <placeName xml:id="place_d140e471a1050">Adria</placeName>
+               </note>
+               <note type="writings">
+                  <p>Adriatico</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d65e203a1050">Alcalá</placeName>
+               </note>
+               <note type="writings">
+                  <p>Alcala</p>
+               </note>
+               <note type="occurence">
+                  <p source="A062.xml">A62.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d70e151a1050">Aldersbach</placeName>
+               </note>
+               <note type="writings">
+                  <p>Alprespach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A067.xml">A67.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d161e167a1050">Alessandria</placeName>
+               </note>
+               <note type="writings">
+                  <p>Alexandria</p>
+               </note>
+               <note type="occurence">
+                  <p source="A157.xml">A157.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d82e232a1050">Alexandria</placeName>
+               </note>
+               <note type="writings">
+                  <p>Alexandrie</p>
+               </note>
+               <note type="occurence">
+                  <p source="A079.xml">A79.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d235e184a1050">Amboise</placeName>
+               </note>
+               <note type="writings">
+                  <p>Amboise</p>
+               </note>
+               <note type="occurence">
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d112e121a1050">Amstetten</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ambstete</p>
+               </note>
+               <note type="occurence">
+                  <p source="A109.xml">A109.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d228e128a1050">Antwerpen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Anvers</p>
+               </note>
+               <note type="occurence">
+                  <p source="A224.xml">A224.</p>
+                  <p source="A228.xml">A228.</p>
+                  <p source="A242.xml">A242.</p>
+                  <p source="A250.xml">A250.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d57e106a1050">Aragón</placeName>
+               </note>
+               <note type="writings">
+                  <p>Arragon</p>
+                  <p>Arragonum</p>
+               </note>
+               <note type="occurence">
+                  <p source="A054.xml">A54.</p>
+                  <p source="A062.xml">A62.</p>
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d149e352a1050">Aranjuez</placeName>
+               </note>
+               <note type="writings">
+                  <p>Aranjuez</p>
+               </note>
+               <note type="occurence">
+                  <p source="A145.xml">A145.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e255a1050">Arles</placeName>
+               </note>
+               <note type="writings">
+                  <p>Arles</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d235e363a1050">Arques-la-Bataille</placeName>
+               </note>
+               <note type="writings">
+                  <p>Argues</p>
+               </note>
+               <note type="occurence">
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d11e125a1050">Astorga</placeName>
+               </note>
+               <note type="writings">
+                  <p>obispado</p>
+               </note>
+               <note type="occurence">
+                  <p source="A008.xml">A8.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d14e119a1050">Augsburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ausbourg</p>
+                  <p>Auguste</p>
+                  <p>Augsbourg</p>
+                  <p>Augsburg</p>
+                  <p>Aubsbourg</p>
+                  <p>Augusta</p>
+                  <p>Augusta</p>
+                  <p>Augspurg</p>
+                  <p>Auspurg</p>
+                  <p>Auspourg</p>
+                  <p>Augusta Vindelicorum</p>
+                  <p>Augspour</p>
+                  <p>Ausburg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A011.xml">A11.</p>
+                  <p source="A023.xml">A23.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A029.xml">A29.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A088.xml">A88.</p>
+                  <p source="A156.xml">A156.</p>
+                  <p source="A162.xml">A162.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A166.xml">A166.</p>
+                  <p source="A167.xml">A167.</p>
+                  <p source="A174.xml">A174.</p>
+                  <p source="A175.xml">A175.</p>
+                  <p source="A178.xml">A178.</p>
+                  <p source="A183.xml">A183.</p>
+                  <p source="A187.xml">A187.</p>
+                  <p source="A237.xml">A237.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A242.xml">A242.</p>
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e117a1050">Auvergne</placeName>
+               </note>
+               <note type="writings">
+                  <p>Auvergne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e346a1050">Auxonne</placeName>
+               </note>
+               <note type="writings">
+                  <p>Auxonne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d143e442a1050">Baden</placeName>
+               </note>
+               <note type="writings">
+                  <p>Baden</p>
+               </note>
+               <note type="occurence">
+                  <p source="A139.xml">A139.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d162e304a1050">Baena</placeName>
+               </note>
+               <note type="writings">
+                  <p>Baenna</p>
+               </note>
+               <note type="occurence">
+                  <p source="A158.xml">A158.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d241e280a1050">Balaton</placeName>
+               </note>
+               <note type="writings">
+                  <p>Plattensee</p>
+               </note>
+               <note type="occurence">
+                  <p source="A237.xml">A237.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d135e339a1050">Balingen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Balingen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A131.xml">A131.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d149e216a1050">Bar, Herzogtum</placeName>
+               </note>
+               <note type="writings">
+                  <p>duché de Bar</p>
+               </note>
+               <note type="occurence">
+                  <p source="A145.xml">A145.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d15e133a1050">Barcelona</placeName>
+               </note>
+               <note type="writings">
+                  <p>Barcelonne</p>
+                  <p>Barcellonne</p>
+                  <p>Barcelona</p>
+                  <p>Barcelona</p>
+                  <p>Barcellone</p>
+               </note>
+               <note type="occurence">
+                  <p source="A012.xml">A12.</p>
+                  <p source="A054.xml">A54.</p>
+                  <p source="A062.xml">A62.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A145.xml">A145.</p>
+                  <p source="A182.xml">A182.</p>
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d129e106a1050">Basel</placeName>
+               </note>
+               <note type="writings">
+                  <p>Basle</p>
+                  <p>Basel</p>
+               </note>
+               <note type="occurence">
+                  <p source="A125.xml">A125.</p>
+                  <p source="A153.xml">A153.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e118a1050">Bayonne</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bayonne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+                  <p source="A238.xml">A238.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d206e125a1050">Belgrad</placeName>
+               </note>
+               <note type="writings">
+                  <p>Nandor Alba</p>
+               </note>
+               <note type="occurence">
+                  <p source="A202.xml">A202.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d94e101a1050">Bern</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bernes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A091.xml">A91.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d137e176a1050">Besançon</placeName>
+               </note>
+               <note type="writings">
+                  <p>Besançon</p>
+               </note>
+               <note type="occurence">
+                  <p source="A133.xml">A133.</p>
+                  <p source="A165.xml">A165.</p>
+                  <p source="A169.xml">A169.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e107a1050">Bidache</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vidachen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d72e289a1050">Blois</placeName>
+               </note>
+               <note type="writings">
+                  <p>Blois</p>
+               </note>
+               <note type="occurence">
+                  <p source="A069.xml">A69.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e417a1050">Bologna</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bolongne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d135e186a1050">Bosnien</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bozna</p>
+               </note>
+               <note type="occurence">
+                  <p source="A131.xml">A131.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e263a1050">Bourguignon</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bourguignon</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e2434a1050">Brandenburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Brandenburgensis</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e487a1050">Bratislava</placeName>
+               </note>
+               <note type="writings">
+                  <p>Posoniensem</p>
+                  <p>Preßburg</p>
+                  <p>Preßburg</p>
+                  <p>Presbourg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A155.xml">A155.</p>
+                  <p source="A236.xml">A236.</p>
+                  <p source="A239.xml">A239.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d182e202a1050">Breda</placeName>
+               </note>
+               <note type="writings">
+                  <p>Breda</p>
+               </note>
+               <note type="occurence">
+                  <p source="A178.xml">A178.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d209e142a1050">Brescia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bressa</p>
+                  <p>Brescia</p>
+               </note>
+               <note type="occurence">
+                  <p source="A205.xml">A205.</p>
+                  <p source="A252.xml">A252.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e198a1050">Brixen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Briscan</p>
+                  <p>Brixinensem</p>
+                  <p>Brixen</p>
+                  <p>l’evesché de Brixenne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A170.xml">A170.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d43e101a1050">Bruck an der Leitha</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pruk</p>
+               </note>
+               <note type="occurence">
+                  <p source="A040.xml">A40.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d161e289a1050">Bruneck</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bruneck</p>
+               </note>
+               <note type="occurence">
+                  <p source="A157.xml">A157.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d8e128a1050">Brüssel</placeName>
+               </note>
+               <note type="writings">
+                  <p>Brusselas</p>
+                  <p>Bruselle</p>
+                  <p>Bruxelles</p>
+                  <p>Brüssel</p>
+                  <p>Bruxellis</p>
+                  <p>Bruxellensi</p>
+               </note>
+               <note type="occurence">
+                  <p source="A005.xml">A5.</p>
+                  <p source="A006.xml">A6.</p>
+                  <p source="A016.xml">A16.</p>
+                  <p source="A021.xml">A21.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A034.xml">A34.</p>
+                  <p source="A035.xml">A35.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A075.xml">A75.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A164.xml">A164.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d43e220a1050">Budapest</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bude</p>
+                  <p>Ofen</p>
+                  <p>Budẹ</p>
+                  <p>Budẹ</p>
+                  <p>Budae</p>
+                  <p>Budam</p>
+               </note>
+               <note type="occurence">
+                  <p source="A040.xml">A40.</p>
+                  <p source="A069.xml">A69.</p>
+                  <p source="A148.xml">A148.</p>
+                  <p source="A155.xml">A155.</p>
+                  <p source="A185.xml">A185.</p>
+                  <p source="A200.xml">A200.</p>
+                  <p source="A202.xml">A202.</p>
+                  <p source="A210.xml">A210.</p>
+                  <p source="A237.xml">A237.</p>
+                  <p source="A239.xml">A239.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d49e222a1050">Burgos</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bourges</p>
+                  <p>Burgos</p>
+                  <p>Burgensi</p>
+                  <p>eveschié de Borgos</p>
+                  <p>Bourgos</p>
+               </note>
+               <note type="occurence">
+                  <p source="A046.xml">A46.</p>
+                  <p source="A062.xml">A62.</p>
+                  <p source="A069.xml">A69.</p>
+                  <p source="A071.xml">A71.</p>
+                  <p source="A072.xml">A72.</p>
+                  <p source="A080.xml">A80.</p>
+                  <p source="A081.xml">A81.</p>
+                  <p source="A130.xml">A130.</p>
+                  <p source="A215.xml">A215.</p>
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d242e433a1050">Béarn</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bearne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A238.xml">A238.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d132e115a1050">Cambrai</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cambray</p>
+               </note>
+               <note type="occurence">
+                  <p source="A128.xml">A128.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d247e184a1050">Cartagena</placeName>
+               </note>
+               <note type="writings">
+                  <p>Carthagene</p>
+               </note>
+               <note type="occurence">
+                  <p source="A243.xml">A243.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
                   <placeName xml:id="place_d6e113a1050">Cazalegas</placeName>
                </note>
                <note type="writings">
@@ -25,6 +631,468 @@
                </note>
                <note type="occurence">
                   <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d60e203a1050">Celje</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cilli</p>
+               </note>
+               <note type="occurence">
+                  <p source="A057.xml">A57.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e825a1050">Cervia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cervia</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d235e322a1050">Charolais</placeName>
+               </note>
+               <note type="writings">
+                  <p>Charolays</p>
+               </note>
+               <note type="occurence">
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e456a1050">Cheb</placeName>
+               </note>
+               <note type="writings">
+                  <p>Eger</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e678a1050">Chiavenna</placeName>
+               </note>
+               <note type="writings">
+                  <p>Chiavenna</p>
+                  <p>Clavance</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e253a1050">Châtelot</placeName>
+               </note>
+               <note type="writings">
+                  <p>Châtelot</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e257a1050">Clémont, Burg in der Franche-Comté</placeName>
+               </note>
+               <note type="writings">
+                  <p>Clémont</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d235e240a1050">Como</placeName>
+               </note>
+               <note type="writings">
+                  <p>Come</p>
+               </note>
+               <note type="occurence">
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d170e147a1050">Cremona</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cremone</p>
+                  <p>Cremone</p>
+                  <p>Cremona</p>
+               </note>
+               <note type="occurence">
+                  <p source="A166.xml">A166.</p>
+                  <p source="A223.xml">A223.</p>
+                  <p source="A238.xml">A238.</p>
+                  <p source="A250.xml">A250.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e259a1050">Dauphiné</placeName>
+               </note>
+               <note type="writings">
+                  <p>Dauphiné</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d242e430a1050">Dijon</placeName>
+               </note>
+               <note type="writings">
+                  <p>Dyon</p>
+               </note>
+               <note type="occurence">
+                  <p source="A238.xml">A238.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e268a1050">Diois</placeName>
+               </note>
+               <note type="writings">
+                  <p>d’Yois</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e164a1050">Dôle</placeName>
+               </note>
+               <note type="writings">
+                  <p>Dole</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+                  <p source="A152.xml">A152.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e691a1050">Dömitz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Dömitz</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e826a1050">Eberbach</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ebberach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d39e241a1050">Ebernburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ebernburg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A036.xml">A36.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d225e182a1050">Engelsburg in Rom</placeName>
+               </note>
+               <note type="writings">
+                  <p>chasteau de saint Angel</p>
+               </note>
+               <note type="occurence">
+                  <p source="A221.xml">A221.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e724a1050">Enna, Schloss in Südtirol</placeName>
+               </note>
+               <note type="writings">
+                  <p>Schloß Enn in Tirol</p>
+                  <p>Schloß Enn</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+                  <p source="A058.xml">A58</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d45e133a1050">Enns</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hens</p>
+                  <p>Ennss</p>
+                  <p>chasteau de Ems</p>
+                  <p>Hems</p>
+               </note>
+               <note type="occurence">
+                  <p source="A042.xml">A42.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A121b.xml">A121b.</p>
+                  <p source="A157.xml">A157.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e147a1050">Ensisheim</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ensesen</p>
+                  <p>Ensisheim</p>
+                  <p>Enghsse</p>
+                  <p>Anghessen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A184.xml">A184.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e245a1050">Esslingen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Esselinga</p>
+                  <p>Eslingen</p>
+                  <p>Eßlingen</p>
+                  <p>Esslingen</p>
+                  <p>Essolingen</p>
+                  <p>Eslinghen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A069.xml">A69.</p>
+                  <p source="A072.xml">A72.</p>
+                  <p source="A078.xml">A78.</p>
+                  <p source="A085.xml">A85.</p>
+                  <p source="A133.xml">A133.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A140.xml">A140.</p>
+                  <p source="A154.xml">A154.</p>
+                  <p source="A241.xml">A241.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e272a1050">Estebon (?)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Estebon</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d96e152a1050">Esztergom</placeName>
+               </note>
+               <note type="writings">
+                  <p>Strigoniense</p>
+               </note>
+               <note type="occurence">
+                  <p source="A093.xml">A93.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d106e247a1050">Etsch</placeName>
+               </note>
+               <note type="writings">
+                  <p>Etsch</p>
+               </note>
+               <note type="occurence">
+                  <p source="A103.xml">A103.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e139a1050">Florenz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Florentins</p>
+                  <p>Florance</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+                  <p source="A205.xml">A205.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d39e221a1050">Frankfurt am Main</placeName>
+               </note>
+               <note type="writings">
+                  <p>Frankfort</p>
+                  <p>Francofurdianas</p>
+                  <p>Francfort</p>
+                  <p>Franckfort</p>
+                  <p>Francafort</p>
+               </note>
+               <note type="occurence">
+                  <p source="A036.xml">A36.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A081.xml">A81.</p>
+                  <p source="A088.xml">A88.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e908a1050">Freiburg im Breisgau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Friburgi</p>
+                  <p>Freybourg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A070.xml">A70.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e500a1050">Freistadt</placeName>
+               </note>
+               <note type="writings">
+                  <p>Freystat</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d32e265a1050">Friaul</placeName>
+               </note>
+               <note type="writings">
+                  <p>Friaul</p>
+                  <p>Fryolle</p>
+                  <p>Friole</p>
+                  <p>Friauls</p>
+                  <p>Friau</p>
+                  <p>Fryoli</p>
+               </note>
+               <note type="occurence">
+                  <p source="A029.xml">A29.</p>
+                  <p source="A073.xml">A73.</p>
+                  <p source="A090.xml">A90.</p>
+                  <p source="A131.xml">A131.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A166.xml">A166.</p>
+                  <p source="A175.xml">A175.</p>
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d199e109a1050">Friesland</placeName>
+               </note>
+               <note type="writings">
+                  <p>Frize</p>
+               </note>
+               <note type="occurence">
+                  <p source="A195.xml">A195.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e441a1050">Gaeta</placeName>
+               </note>
+               <note type="writings">
+                  <p>Gayete</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d7e110a1050">Galisteo</placeName>
+               </note>
+               <note type="writings">
+                  <p>Galisteo</p>
+               </note>
+               <note type="occurence">
+                  <p source="A004.xml">A4.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d210e131a1050">Geldern</placeName>
+               </note>
+               <note type="writings">
+                  <p>Gheldres</p>
+               </note>
+               <note type="occurence">
+                  <p source="A206.xml">A206.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e320a1050">Gent</placeName>
+               </note>
+               <note type="writings">
+                  <p>Gand</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e556a1050">Genua</placeName>
+               </note>
+               <note type="writings">
+                  <p>Genua</p>
+                  <p>Genesve</p>
+                  <p>Genues</p>
+                  <p>Januenses</p>
+                  <p>Jennevois</p>
+                  <p>Jenues</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A046.xml">A46.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A137.xml">A137.</p>
+                  <p source="A143.xml">A143.</p>
+                  <p source="A145.xml">A145.</p>
+                  <p source="A207.xml">A207.</p>
+                  <p source="A215.xml">A215.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A243.xml">A243.</p>
+                  <p source="A260.xml">A260.</p>
                </note>
             </item>
             <item>
@@ -40,13 +1108,2535 @@
             </item>
             <item>
                <note type="place">
+                  <placeName xml:id="place_d159e253a1050">Grad (Goričko)</placeName>
+               </note>
+               <note type="writings">
+                  <p>superiori Limbach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A155.xml">A155.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e650a1050">Granada</placeName>
+               </note>
+               <note type="writings">
+                  <p>Granada</p>
+                  <p>Granade</p>
+                  <p>Grenade</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+                  <p source="A218.xml">A218.</p>
+                  <p source="A228.xml">A228.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A243.xml">A243.</p>
+                  <p source="A252.xml">A252.</p>
+                  <p source="A255.xml">A255.</p>
+                  <p source="A256.xml">A256.</p>
+                  <p source="A257.xml">A257.</p>
+                  <p source="A260.xml">A260.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e269a1050">Granges</placeName>
+               </note>
+               <note type="writings">
+                  <p>Granges</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d177e179a1050">Graz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Graz</p>
+               </note>
+               <note type="occurence">
+                  <p source="A173.xml">A173.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d170e502a1050">Grießen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Grießen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d128e369a1050">Guadalupe</placeName>
+               </note>
+               <note type="writings">
+                  <p>Guadalupe</p>
+               </note>
+               <note type="occurence">
+                  <p source="A124.xml">A124.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d19e184a1050">Gurk</placeName>
+               </note>
+               <note type="writings">
+                  <p>Curg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A016.xml">A16.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e313a1050">Haguenau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hagnault</p>
+                  <p>Hagenoia</p>
+                  <p>Hagenoia</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d43e106a1050">Hainburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hainburgh</p>
+               </note>
+               <note type="occurence">
+                  <p source="A040.xml">A40.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d76e195a1050">Hamburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Embourg</p>
+                  <p>Hamburgensem</p>
+                  <p>Hambourc</p>
+               </note>
+               <note type="occurence">
+                  <p source="A073.xml">A73.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A121b.xml">A121b.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d18e155a1050">Heidelberg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Heidelberg</p>
+                  <p>Heidelbergẹ</p>
+                  <p>Haidelberg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A015.xml">A15.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A209.xml">A209.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d108e249a1050">Heusden</placeName>
+               </note>
+               <note type="writings">
+                  <p>Heusden</p>
+               </note>
+               <note type="occurence">
+                  <p source="A105.xml">A105.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e767a1050">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hirsperg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d29e211a1050">Hohentwiel, Schloss</placeName>
+               </note>
+               <note type="writings">
+                  <p>chasteau Oghetueil</p>
+               </note>
+               <note type="occurence">
+                  <p source="A026.xml">A26.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d224e304a1050">Holland</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hollande</p>
+               </note>
+               <note type="occurence">
+                  <p source="A220.xml">A220.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e322a1050">Hondarribia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Fuenterrabia</p>
+                  <p>Fontarabie</p>
+                  <p>Fontearabie</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A056.xml">A56.</p>
+                  <p source="A072.xml">A72.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d248e286a1050">Hoogstraten</placeName>
+               </note>
+               <note type="writings">
+                  <p>Hochstraten</p>
+               </note>
+               <note type="occurence">
+                  <p source="A244.xml">A244.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e247a1050">Héricourt</placeName>
+               </note>
+               <note type="writings">
+                  <p>Héricourt</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
                   <placeName xml:id="place_d5e138a1050">Innsbruck</placeName>
                </note>
                <note type="writings">
                   <p>Inspruk</p>
+                  <p>Inspruck</p>
+                  <p>Innsbruck</p>
+                  <p>Ysprug</p>
+                  <p>Ysbruck</p>
+                  <p>ceste ville</p>
+                  <p>Ysbrug</p>
+                  <p>Ysbrug</p>
+                  <p>Ysbruch</p>
+                  <p>Ysbrouch</p>
+                  <p>Isbrouch</p>
+                  <p>Ysbourgh</p>
+                  <p>Insprugg</p>
+                  <p>Ysbrough</p>
+                  <p>Ynsbrouch</p>
+                  <p>Ysbrouck</p>
+                  <p>Ynsbrouch</p>
+                  <p>Isbrug</p>
+                  <p>Ynsprug</p>
+                  <p>Ysbroug</p>
+                  <p>Ysproug</p>
+                  <p>Isprug</p>
+                  <p>Insprug</p>
+                  <p>Espruque</p>
+                  <p>Ispruc</p>
+                  <p>Isbroug</p>
+                  <p>Innsbruck</p>
+                  <p>Inspruchk</p>
+                  <p>Ysprouck</p>
                </note>
                <note type="occurence">
                   <p source="A002.xml">A2.</p>
+                  <p source="A010.xml">A10.</p>
+                  <p source="A018.xml">A18.</p>
+                  <p source="A021.xml">A21.</p>
+                  <p source="A032.xml">A32.</p>
+                  <p source="A033.xml">A33.</p>
+                  <p source="A034.xml">A34.</p>
+                  <p source="A035.xml">A35.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A037.xml">A37.</p>
+                  <p source="A038.xml">A38.</p>
+                  <p source="A039.xml">A39.</p>
+                  <p source="A042.xml">A42.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A073.xml">A73.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A106.xml">A106.</p>
+                  <p source="A107.xml">A107.</p>
+                  <p source="A112.xml">A112.</p>
+                  <p source="A114.xml">A114.</p>
+                  <p source="A116.xml">A116.</p>
+                  <p source="A118.xml">A118.</p>
+                  <p source="A119.xml">A119.</p>
+                  <p source="A120.xml">A120.</p>
+                  <p source="A122.xml">A122.</p>
+                  <p source="A124.xml">A124.</p>
+                  <p source="A125.xml">A125.</p>
+                  <p source="A128.xml">A128.</p>
+                  <p source="A129.xml">A129.</p>
+                  <p source="A130.xml">A130.</p>
+                  <p source="A131.xml">A131.</p>
+                  <p source="A132.xml">A132.</p>
+                  <p source="A134.xml">A134.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A139.xml">A139.</p>
+                  <p source="A140.xml">A140.</p>
+                  <p source="A142.xml">A142.</p>
+                  <p source="A144.xml">A144.</p>
+                  <p source="A156.xml">A156.</p>
+                  <p source="A166.xml">A166.</p>
+                  <p source="A228.xml">A228.</p>
+                  <p source="A232.xml">A232.</p>
+                  <p source="A233.xml">A233.</p>
+                  <p source="A234.xml">A234.</p>
+                  <p source="A237.xml">A237.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A243.xml">A243.</p>
+                  <p source="A250.xml">A250.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d108e124a1050">Innsbruck </placeName>
+               </note>
+               <note type="writings">
+                  <p>Ynsbrouck</p>
+               </note>
+               <note type="occurence">
+                  <p source="A105.xml">A105.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d206e122a1050">Istanbul</placeName>
+               </note>
+               <note type="writings">
+                  <p>Constantinopoli</p>
+               </note>
+               <note type="occurence">
+                  <p source="A202.xml">A202.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d32e268a1050">Istrien</placeName>
+               </note>
+               <note type="writings">
+                  <p>Istrien</p>
+                  <p>Ystria</p>
+                  <p>Istriens</p>
+               </note>
+               <note type="occurence">
+                  <p source="A029.xml">A29.</p>
+                  <p source="A073.xml">A73.</p>
+                  <p source="A090.xml">A90.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e366a1050">Jajce</placeName>
+               </note>
+               <note type="writings">
+                  <p>Jayza</p>
+                  <p>Jajce</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d192e108a1050">Karpaten </placeName>
+               </note>
+               <note type="writings">
+                  <p>Krabathischen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A188.xml">A188.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d38e200a1050">Kassel</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cassel</p>
+               </note>
+               <note type="occurence">
+                  <p source="A035.xml">A35.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d26e332a1050">Kastilien</placeName>
+               </note>
+               <note type="writings">
+                  <p>Kastilien</p>
+               </note>
+               <note type="occurence">
+                  <p source="A023.xml">A23.</p>
+                  <p source="A089.xml">A89.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d57e113a1050">Katalonien</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cathelongue</p>
+               </note>
+               <note type="occurence">
+                  <p source="A054.xml">A54.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d254e329a1050">Kempten</placeName>
+               </note>
+               <note type="writings">
+                  <p>Kempten</p>
+               </note>
+               <note type="occurence">
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e535a1050">Klis</placeName>
+               </note>
+               <note type="writings">
+                  <p>Clissa</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A189.xml">A189.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d258e277a1050">Komárno/Komárom</placeName>
+               </note>
+               <note type="writings">
+                  <p>Komorn</p>
+               </note>
+               <note type="occurence">
+                  <p source="A254.xml">A254.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d39e114a1050">Konstanz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Constance</p>
+               </note>
+               <note type="occurence">
+                  <p source="A036.xml">A36.</p>
+                  <p source="A046.xml">A46.</p>
+                  <p source="A050.xml">A50.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d35e218a1050">Kreuznach, Burg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Kreuznach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A032.xml">A32.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d238e181a1050">Kufstein</placeName>
+               </note>
+               <note type="writings">
+                  <p>Cofstan</p>
+               </note>
+               <note type="occurence">
+                  <p source="A234.xml">A234.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d17e114a1050">Köln</placeName>
+               </note>
+               <note type="writings">
+                  <p>Couloingne</p>
+                  <p>Coloniẹ</p>
+                  <p>Coloniensis</p>
+                  <p>Coulongne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A014.xml">A14.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A085.xml">A85.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d242e459a1050">Laeken</placeName>
+               </note>
+               <note type="writings">
+                  <p>Laeken</p>
+               </note>
+               <note type="occurence">
+                  <p source="A238.xml">A238.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d35e221a1050">Landstuhl</placeName>
+               </note>
+               <note type="writings">
+                  <p>Landstuhl</p>
+                  <p>Neustall</p>
+                  <p>Landstuhls</p>
+                  <p>Naustall</p>
+               </note>
+               <note type="occurence">
+                  <p source="A032.xml">A32.</p>
+                  <p source="A034.xml">A34.</p>
+                  <p source="A036.xml">A36.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d49e214a1050">Languedoc</placeName>
+               </note>
+               <note type="writings">
+                  <p>Languedoc</p>
+               </note>
+               <note type="occurence">
+                  <p source="A046.xml">A46.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d159e259a1050">Lendava</placeName>
+               </note>
+               <note type="writings">
+                  <p>inferiori Limbach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A155.xml">A155.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e694a1050">Lenzen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lenzen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d8e120a1050">Leuven/Louvain</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lobayna</p>
+                  <p>Louvain</p>
+               </note>
+               <note type="occurence">
+                  <p source="A005.xml">A5.</p>
+                  <p source="A016.xml">A16.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e294a1050">Linz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lins</p>
+                  <p>Linz</p>
+                  <p>Lyntz</p>
+                  <p>Lincz</p>
+                  <p>Lintz</p>
+                  <p>Linz</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A082.xml">A82.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A106.xml">A106.</p>
+                  <p source="A209.xml">A209.</p>
+                  <p source="A234.xml">A234.</p>
+                  <p source="A237.xml">A237.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A240.xml">A240.</p>
+                  <p source="A241.xml">A241.</p>
+                  <p source="A252.xml">A252.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d210e124a1050">Liège</placeName>
+               </note>
+               <note type="writings">
+                  <p>Liege</p>
+               </note>
+               <note type="occurence">
+                  <p source="A206.xml">A206.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d204e123a1050">Ljubljana</placeName>
+               </note>
+               <note type="writings">
+                  <p>Labacensis</p>
+               </note>
+               <note type="occurence">
+                  <p source="A200.xml">A200.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d106e275a1050">Lodi</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lodi</p>
+                  <p>Lodj</p>
+                  <p>Lodi</p>
+                  <p>Laude</p>
+               </note>
+               <note type="occurence">
+                  <p source="A103.xml">A103.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A212.xml">A212.</p>
+                  <p source="A221.xml">A221.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d49e203a1050">Logroño</placeName>
+               </note>
+               <note type="writings">
+                  <p>Logroño</p>
+               </note>
+               <note type="occurence">
+                  <p source="A046.xml">A46.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d72e292a1050">London</placeName>
+               </note>
+               <note type="writings">
+                  <p>London</p>
+               </note>
+               <note type="occurence">
+                  <p source="A069.xml">A69.</p>
+                  <p source="A071.xml">A71.</p>
+                  <p source="A243.xml">A243.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d37e101a1050">Lothringen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lorraine</p>
+                  <p>Lotharingorum</p>
+                  <p>Lotharingis</p>
+               </note>
+               <note type="occurence">
+                  <p source="A034.xml">A34.</p>
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e151a1050">Lucca</placeName>
+               </note>
+               <note type="writings">
+                  <p>Luçois</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d99e114a1050">Luxemburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Luxembourg</p>
+                  <p>Luxemburg</p>
+                  <p>Luxembourgois</p>
+               </note>
+               <note type="occurence">
+                  <p source="A096.xml">A96.</p>
+                  <p source="A117.xml">A117.</p>
+                  <p source="A154.xml">A154.</p>
+                  <p source="A205.xml">A205.</p>
+                  <p source="A207.xml">A207.</p>
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d63e151a1050">Luzern</placeName>
+               </note>
+               <note type="writings">
+                  <p>Luzern</p>
+               </note>
+               <note type="occurence">
+                  <p source="A060.xml">A60.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d115e219a1050">Lyon</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lyon</p>
+                  <p>Lyon</p>
+               </note>
+               <note type="occurence">
+                  <p source="A112.xml">A112.</p>
+                  <p source="A141.xml">A141.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A183.xml">A183.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e262a1050">Lyonnais</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lyonnois</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e1005a1050">Lübeck</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lubecensisv5</p>
+                  <p>Lubecenses</p>
+                  <p>Lübeck</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A088.xml">A88.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d122e112a1050">L’Isle sur le Doubs, Herrschaft</placeName>
+               </note>
+               <note type="writings">
+                  <p>Lille</p>
+                  <p>L'Isle sur le Doubs</p>
+                  <p>seignorie de Lille</p>
+               </note>
+               <note type="occurence">
+                  <p source="A119.xml">A119.</p>
+                  <p source="A122.xml">A122.</p>
+                  <p source="A125.xml">A125.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d168e138a1050">Maastricht</placeName>
+               </note>
+               <note type="writings">
+                  <p>Maastricht</p>
+                  <p>Trech</p>
+                  <p>Mastrecht</p>
+                  <p>Maestricht</p>
+                  <p>Mastricht</p>
+                  <p>Maiestrich</p>
+               </note>
+               <note type="occurence">
+                  <p source="A164.xml">A164.</p>
+                  <p source="A191.xml">A191.</p>
+                  <p source="A198.xml">A198.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A217.xml">A217.</p>
+                  <p source="A220.xml">A220.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A238.xml">A238.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A241.xml">A241.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d120e207a1050">Madrid</placeName>
+               </note>
+               <note type="writings">
+                  <p>Madril</p>
+                  <p>Madrylle</p>
+                  <p>Madrid</p>
+               </note>
+               <note type="occurence">
+                  <p source="A117.xml">A117.</p>
+                  <p source="A120.xml">A120.</p>
+                  <p source="A121b.xml">A121b.</p>
+                  <p source="A123.xml">A123.</p>
+                  <p source="A127.xml">A127.</p>
+                  <p source="A133.xml">A133.</p>
+                  <p source="A145.xml">A145.</p>
+                  <p source="A239.xml">A239.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d39e217a1050">Mainz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Mayence</p>
+                  <p>Maience</p>
+               </note>
+               <note type="occurence">
+                  <p source="A036.xml">A36.</p>
+                  <p source="A085.xml">A85.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d76e294a1050">Marano Lagunare</placeName>
+               </note>
+               <note type="writings">
+                  <p>Maran</p>
+                  <p>Marran</p>
+               </note>
+               <note type="occurence">
+                  <p source="A073.xml">A73.</p>
+                  <p source="A131.xml">A131.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d91e379a1050">Marseille</placeName>
+               </note>
+               <note type="writings">
+                  <p>Marseille</p>
+               </note>
+               <note type="occurence">
+                  <p source="A088.xml">A88.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d196e103a1050">Masowien</placeName>
+               </note>
+               <note type="writings">
+                  <p>duché de Maß</p>
+                  <p>la duché</p>
+                  <p>duché de Masse</p>
+               </note>
+               <note type="occurence">
+                  <p source="A192.xml">A192.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A260.xml">A260.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e316a1050">Maya del Baztán, Burg (Navarra)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Maya</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e288a1050">Mechelen/Malines</placeName>
+               </note>
+               <note type="writings">
+                  <p>Malines</p>
+                  <p>Mecheln</p>
+                  <p>Mecheln</p>
+                  <p>Malines</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+                  <p source="A060.xml">A60.</p>
+                  <p source="A102.xml">A102.</p>
+                  <p source="A128.xml">A128.</p>
+                  <p source="A137.xml">A137.</p>
+                  <p source="A215.xml">A215.</p>
+                  <p source="A217.xml">A217.</p>
+                  <p source="A220.xml">A220.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e1729a1050">Medina del Campo</placeName>
+               </note>
+               <note type="writings">
+                  <p>Medina del Campo</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e1545a1050">Metlika</placeName>
+               </note>
+               <note type="writings">
+                  <p>Metlingensem</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d10e113a1050">Middelburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Middelbourg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A007.xml">A7.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d36e107a1050">Mindelheim</placeName>
+               </note>
+               <note type="writings">
+                  <p>Mondelheim</p>
+                  <p>Mindelheim</p>
+               </note>
+               <note type="occurence">
+                  <p source="A033.xml">A33.</p>
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e634a1050">Moldau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Moldaviam</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d29e735a1050">Molukken</placeName>
+               </note>
+               <note type="writings">
+                  <p>Molukken</p>
+               </note>
+               <note type="occurence">
+                  <p source="A026.xml">A26.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d235e625a1050">Mons</placeName>
+               </note>
+               <note type="writings">
+                  <p>Berghes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e360a1050">Montbéliard</placeName>
+               </note>
+               <note type="writings">
+                  <p>Mömpelgard</p>
+                  <p>Montbelliard</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A138.xml">A138.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e260a1050">Montrond-le-Château</placeName>
+               </note>
+               <note type="writings">
+                  <p>Montron</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e278a1050">Montélimar</placeName>
+               </note>
+               <note type="writings">
+                  <p>Monteslimar</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d100e145a1050">Moskau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Moscovie</p>
+                  <p>Moscovye</p>
+               </note>
+               <note type="occurence">
+                  <p source="A097.xml">A97.</p>
+                  <p source="A117.xml">A117.</p>
+                  <p source="A124.xml">A124.</p>
+                  <p source="A143.xml">A143.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e281a1050">Mousson (?)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Moson</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e675a1050">Musso</placeName>
+               </note>
+               <note type="writings">
+                  <p>Musso</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d36e117a1050">Mézières</placeName>
+               </note>
+               <note type="writings">
+                  <p>Masieres</p>
+               </note>
+               <note type="occurence">
+                  <p source="A033.xml">A33.</p>
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e312a1050">Navarra</placeName>
+               </note>
+               <note type="writings">
+                  <p>Navarra</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e244a1050">Neuchâtel</placeName>
+               </note>
+               <note type="writings">
+                  <p>Neuchâtel</p>
+                  <p>seigneuries de Neufchastel</p>
+                  <p>Neufchastel</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+                  <p source="A152.xml">A152.</p>
+                  <p source="A172.xml">A172.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d26e187a1050">Nizza</placeName>
+               </note>
+               <note type="writings">
+                  <p>Nice</p>
+                  <p>Nizza</p>
+               </note>
+               <note type="occurence">
+                  <p source="A023.xml">A23.</p>
+                  <p source="A252.xml">A252.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d70e174a1050">Novara</placeName>
+               </note>
+               <note type="writings">
+                  <p>Novara</p>
+                  <p>Novarre</p>
+               </note>
+               <note type="occurence">
+                  <p source="A067.xml">A67.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A221.xml">A221.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d88e186a1050">Nördlingen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Nerlingen</p>
+                  <p>Nördlingen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A085.xml">A85.</p>
+                  <p source="A104.xml">A104.</p>
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e270a1050">Nürnberg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Neuremberg</p>
+                  <p>Nürnberg</p>
+                  <p>Nürnberger</p>
+                  <p>Nuernbergam</p>
+                  <p>Nuremberg</p>
+                  <p>Neurembergh</p>
+                  <p>Neuremberg</p>
+                  <p>Nürnberg</p>
+                  <p>Neuremberghe</p>
+                  <p>Nueremberga</p>
+                  <p>Noremberge</p>
+                  <p>Nueremberga</p>
+                  <p>Norembergensi</p>
+                  <p>Nurembergẹ</p>
+                  <p>Noremberga</p>
+                  <p>Norembergam</p>
+                  <p>Norembergẹ</p>
+                  <p>Norembergẹ</p>
+                  <p>Norimbergensi</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A021.xml">A21.</p>
+                  <p source="A023.xml">A23.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A037.xml">A37.</p>
+                  <p source="A038.xml">A38.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A051.xml">A51.</p>
+                  <p source="A052.xml">A52.</p>
+                  <p source="A053.xml">A53.</p>
+                  <p source="A054.xml">A54.</p>
+                  <p source="A058.xml">A58</p>
+                  <p source="A060.xml">A60.</p>
+                  <p source="A062.xml">A62.</p>
+                  <p source="A063.xml">A63.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A066.xml">A66.</p>
+                  <p source="A072.xml">A72.</p>
+                  <p source="A073.xml">A73.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A079.xml">A79.</p>
+                  <p source="A080.xml">A80.</p>
+                  <p source="A081.xml">A81.</p>
+                  <p source="A085.xml">A85.</p>
+                  <p source="A145.xml">A145.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A162.xml">A162.</p>
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d52e136a1050">Nürnberg </placeName>
+               </note>
+               <note type="writings">
+                  <p>Nueremberge</p>
+                  <p>Nueremberge</p>
+               </note>
+               <note type="occurence">
+                  <p source="A049.xml">A49.</p>
+                  <p source="A057.xml">A57.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e274a1050">Orange, Fürstentum</placeName>
+               </note>
+               <note type="writings">
+                  <p>principaulté d’Oranges</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d224e151a1050">Outremeuse (Liège)</placeName>
+               </note>
+               <note type="writings">
+                  <p>d’Oultremeuze</p>
+               </note>
+               <note type="occurence">
+                  <p source="A220.xml">A220.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d161e250a1050">Padua</placeName>
+               </note>
+               <note type="writings">
+                  <p>Padua</p>
+                  <p>Padova</p>
+               </note>
+               <note type="occurence">
+                  <p source="A157.xml">A157.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d209e146a1050">Palma</placeName>
+               </note>
+               <note type="writings">
+                  <p>Palme</p>
+               </note>
+               <note type="occurence">
+                  <p source="A205.xml">A205.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d51e153a1050">Pamplona</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pampelona</p>
+                  <p>Pamplona</p>
+               </note>
+               <note type="occurence">
+                  <p source="A048.xml">A48.</p>
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e266a1050">Parma</placeName>
+               </note>
+               <note type="writings">
+                  <p>Parma</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e544a1050">Passau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Patavia</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e258a1050">Pavia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pabia</p>
+                  <p>Pabia</p>
+                  <p>Pavie</p>
+                  <p>Pavye</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+                  <p source="A140.xml">A140.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A217.xml">A217.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d147e310a1050">Perpignan</placeName>
+               </note>
+               <note type="writings">
+                  <p>Perpignan</p>
+               </note>
+               <note type="occurence">
+                  <p source="A143.xml">A143.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e420a1050">Perugia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Perouse</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d214e125a1050">Petrovaradin</placeName>
+               </note>
+               <note type="writings">
+                  <p>Varadinum Petri</p>
+                  <p>Peterverdin</p>
+               </note>
+               <note type="occurence">
+                  <p source="A210.xml">A210.</p>
+                  <p source="A221.xml">A221.</p>
+                  <p source="A223.xml">A223.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e717a1050">Piacenza</placeName>
+               </note>
+               <note type="writings">
+                  <p>Piacenza</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+                  <p source="A120.xml">A120.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e426a1050">Pisa</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pise</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e705a1050">Pliva</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pliva</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d256e410a1050">Po</placeName>
+               </note>
+               <note type="writings">
+                  <p>Po</p>
+                  <p>Pol</p>
+               </note>
+               <note type="occurence">
+                  <p source="A252.xml">A252.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d29e524a1050">Pommern</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pomeren</p>
+               </note>
+               <note type="occurence">
+                  <p source="A026.xml">A26.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d126e266a1050">Pomson (?)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Pomson</p>
+               </note>
+               <note type="occurence">
+                  <p source="A122.xml">A122.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e394a1050">Port Hercule</placeName>
+               </note>
+               <note type="writings">
+                  <p>Port-Hercules</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d29e732a1050">Portugal</placeName>
+               </note>
+               <note type="writings">
+                  <p>Portugal</p>
+               </note>
+               <note type="occurence">
+                  <p source="A026.xml">A26.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e510a1050">Prag</placeName>
+               </note>
+               <note type="writings">
+                  <p>Bragensi</p>
+                  <p>Praga</p>
+                  <p>Prag</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A025.xml">A25.</p>
+                  <p source="A093.xml">A93.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e547a1050">Preußen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Prussiẹ</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d49e190a1050">Provence</placeName>
+               </note>
+               <note type="writings">
+                  <p>Provance</p>
+                  <p>Provence</p>
+               </note>
+               <note type="occurence">
+                  <p source="A046.xml">A46.</p>
+                  <p source="A056.xml">A56.</p>
+                  <p source="A089.xml">A89.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d241e277a1050">Raab</placeName>
+               </note>
+               <note type="writings">
+                  <p>Raab</p>
+               </note>
+               <note type="occurence">
+                  <p source="A237.xml">A237.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d203e276a1050">Radstadt</placeName>
+               </note>
+               <note type="writings">
+                  <p>Radstadt</p>
+               </note>
+               <note type="occurence">
+                  <p source="A199.xml">A199.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e2383a1050">Ravensburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ravenspurg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+                  <p source="A121b.xml">A121b.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e541a1050">Regensburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ratispona</p>
+                  <p>Ratisponẹ</p>
+                  <p>Regensburg</p>
+                  <p>Ratisponensi</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A078.xml">A78.</p>
+                  <p source="A079.xml">A79.</p>
+                  <p source="A101.xml">A101.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d26e212a1050">Rhodos</placeName>
+               </note>
+               <note type="writings">
+                  <p>Rodes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A023.xml">A23.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d108e151a1050">Rhône</placeName>
+               </note>
+               <note type="writings">
+                  <p>Rosne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A105.xml">A105.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e374a1050">Rom</placeName>
+               </note>
+               <note type="writings">
+                  <p>Romme</p>
+                  <p>Rom</p>
+                  <p>Rome</p>
+                  <p>Romẹ</p>
+                  <p>Roma</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+                  <p source="A038.xml">A38.</p>
+                  <p source="A047.xml">A47.</p>
+                  <p source="A069.xml">A69.</p>
+                  <p source="A071.xml">A71.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A081.xml">A81.</p>
+                  <p source="A089.xml">A89.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A105.xml">A105.</p>
+                  <p source="A120.xml">A120.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A137.xml">A137.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A166.xml">A166.</p>
+                  <p source="A182.xml">A182.</p>
+                  <p source="A205.xml">A205.</p>
+                  <p source="A221.xml">A221.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A252.xml">A252.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d247e199a1050">Romagna</placeName>
+               </note>
+               <note type="writings">
+                  <p>Romagne</p>
+                  <p>Romayne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A243.xml">A243.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d203e199a1050">Rothenburg ob der Tauber</placeName>
+               </note>
+               <note type="writings">
+                  <p>Rotemburg am Taber</p>
+               </note>
+               <note type="occurence">
+                  <p source="A199.xml">A199.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d153e520a1050">Rovereto</placeName>
+               </note>
+               <note type="writings">
+                  <p>Rovereto</p>
+               </note>
+               <note type="occurence">
+                  <p source="A149.xml">A149.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d49e210a1050">Saint Jean-Pied-de Port</placeName>
+               </note>
+               <note type="writings">
+                  <p>Saint Jehan Pied</p>
+               </note>
+               <note type="occurence">
+                  <p source="A046.xml">A46.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e121a1050">Saint-Jean-de-Luz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Saint Jehan de Lux</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e104a1050">Salvatierra</placeName>
+               </note>
+               <note type="writings">
+                  <p>Salvatierra</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e100a1050">Santander</placeName>
+               </note>
+               <note type="writings">
+                  <p>Saintander</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d220e385a1050">Savona</placeName>
+               </note>
+               <note type="writings">
+                  <p>Savonne</p>
+               </note>
+               <note type="occurence">
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d26e190a1050">Savoyen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Savoye</p>
+                  <p>Sabaudiensibus</p>
+               </note>
+               <note type="occurence">
+                  <p source="A023.xml">A23.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A217.xml">A217.</p>
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d151e349a1050">Schladming</placeName>
+               </note>
+               <note type="writings">
+                  <p>Schladming</p>
+               </note>
+               <note type="occurence">
+                  <p source="A147.xml">A147.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e242a1050">Schottland</placeName>
+               </note>
+               <note type="writings">
+                  <p>affaire d’Ecosse</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e1913a1050">Schwarzwald</placeName>
+               </note>
+               <note type="writings">
+                  <p>Nigre Sylv</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d53e711a1050">Schweinfurt</placeName>
+               </note>
+               <note type="writings">
+                  <p>Schweinfurt</p>
+               </note>
+               <note type="occurence">
+                  <p source="A050.xml">A50.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d149e141a1050">Segovia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Segovia</p>
+               </note>
+               <note type="occurence">
+                  <p source="A145.xml">A145.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d34e96a1050">Senj</placeName>
+               </note>
+               <note type="writings">
+                  <p>Zengg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A031.xml">A31.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d162e212a1050">Sevilla</placeName>
+               </note>
+               <note type="writings">
+                  <p>Siville</p>
+                  <p>Ceville</p>
+                  <p>Seville</p>
+               </note>
+               <note type="occurence">
+                  <p source="A158.xml">A158.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A189.xml">A189.</p>
+                  <p source="A190.xml">A190.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d252e168a1050">Siebenbürgen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Siebenbürgens</p>
+               </note>
+               <note type="occurence">
+                  <p source="A248.xml">A248.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d123e154a1050">Siena</placeName>
+               </note>
+               <note type="writings">
+                  <p>Senois</p>
+                  <p>terre de Senes</p>
+                  <p>Senis</p>
+                  <p>Senes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A120.xml">A120.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A238.xml">A238.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d115e202a1050">Soncino</placeName>
+               </note>
+               <note type="writings">
+                  <p>Soncino</p>
+               </note>
+               <note type="occurence">
+                  <p source="A112.xml">A112.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d43e89a1050">Sopron</placeName>
+               </note>
+               <note type="writings">
+                  <p>Sopronienses</p>
+                  <p>Eydembourg</p>
+                  <p>Ödenburg (Sopron)</p>
+                  <p>Semproniensi</p>
+                  <p>Semproniene</p>
+                  <p>Sopronium</p>
+                  <p>Sompronii</p>
+                  <p>Oedemburg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A040.xml">A40.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A052.xml">A52.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A121b.xml">A121b.</p>
+                  <p source="A148.xml">A148.</p>
+                  <p source="A155.xml">A155.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e257a1050">Speyer</placeName>
+               </note>
+               <note type="writings">
+                  <p>Spira</p>
+                  <p>Spirensi</p>
+                  <p>Spiram</p>
+                  <p>Spirensem</p>
+                  <p>Spirensi</p>
+                  <p>Spire</p>
+                  <p>Spiere</p>
+                  <p>Spire</p>
+                  <p>Espira</p>
+                  <p>Spier</p>
+                  <p>Spiers</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A080.xml">A80.</p>
+                  <p source="A085.xml">A85.</p>
+                  <p source="A088.xml">A88.</p>
+                  <p source="A121b.xml">A121b.</p>
+                  <p source="A140.xml">A140.</p>
+                  <p source="A187.xml">A187.</p>
+                  <p source="A198.xml">A198.</p>
+                  <p source="A199.xml">A199.</p>
+                  <p source="A205.xml">A205.</p>
+                  <p source="A206.xml">A206.</p>
+                  <p source="A207.xml">A207.</p>
+                  <p source="A211.xml">A211.</p>
+                  <p source="A212.xml">A212.</p>
+                  <p source="A214.xml">A214.</p>
+                  <p source="A221.xml">A221.</p>
+                  <p source="A222.xml">A222.</p>
+                  <p source="A223.xml">A223.</p>
+                  <p source="A224.xml">A224.</p>
+                  <p source="A225.xml">A225.</p>
+                  <p source="A226.xml">A226.</p>
+                  <p source="A227.xml">A227.</p>
+                  <p source="A228.xml">A228.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A256.xml">A256.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d255e109a1050">Sremska Mitrovica</placeName>
+               </note>
+               <note type="writings">
+                  <p>Sirmiensem</p>
+               </note>
+               <note type="occurence">
+                  <p source="A251.xml">A251.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d79e2431a1050">Stendal</placeName>
+               </note>
+               <note type="writings">
+                  <p>Stendel</p>
+               </note>
+               <note type="occurence">
+                  <p source="A076.xml">A76.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d243e980a1050">Straßburg</placeName>
+               </note>
+               <note type="writings">
+                  <p>Straßburg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A239.xml">A239.</p>
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d74e170a1050">Stuttgart</placeName>
+               </note>
+               <note type="writings">
+                  <p>Stocquart</p>
+                  <p>Stocart</p>
+                  <p>Stuetgardiẹ</p>
+                  <p>Estocarte</p>
+                  <p>Stuttgarts</p>
+               </note>
+               <note type="occurence">
+                  <p source="A071.xml">A71.</p>
+                  <p source="A072.xml">A72.</p>
+                  <p source="A073.xml">A73.</p>
+                  <p source="A074.xml">A74.</p>
+                  <p source="A075.xml">A75.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A195.xml">A195.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d253e102a1050">Székesfehérvár</placeName>
+               </note>
+               <note type="writings">
+                  <p>Albensis</p>
+               </note>
+               <note type="occurence">
+                  <p source="A249.xml">A249.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d254e354a1050">Südtirol</placeName>
+               </note>
+               <note type="writings">
+                  <p>Südtirol</p>
+               </note>
+               <note type="occurence">
+                  <p source="A250.xml">A250.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d203e286a1050">Tauern</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tauern</p>
+               </note>
+               <note type="occurence">
+                  <p source="A199.xml">A199.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e752a1050">Toledo</placeName>
+               </note>
+               <note type="writings">
+                  <p>Toledo</p>
+                  <p>Toledo</p>
+                  <p>Tolledo</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+                  <p source="A138.xml">A138.</p>
+                  <p source="A141.xml">A141.</p>
+                  <p source="A143.xml">A143.</p>
+                  <p source="A144.xml">A144.</p>
+                  <p source="A145.xml">A145.</p>
+                  <p source="A146.xml">A146.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A150.xml">A150.</p>
+                  <p source="A153.xml">A153.</p>
+                  <p source="A158.xml">A158.</p>
+                  <p source="A159.xml">A159.</p>
+                  <p source="A165.xml">A165.</p>
+                  <p source="A168.xml">A168.</p>
+                  <p source="A169.xml">A169.</p>
+                  <p source="A170.xml">A170.</p>
+                  <p source="A175.xml">A175.</p>
+                  <p source="A182.xml">A182.</p>
+                  <p source="A184.xml">A184.</p>
+                  <p source="A260.xml">A260.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d11e174a1050">Tolosa</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tolosa</p>
+               </note>
+               <note type="occurence">
+                  <p source="A008.xml">A8.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d97e138a1050">Tordesillas</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tour de Cilles</p>
+                  <p>Tordecille</p>
+                  <p>Tordesillas</p>
+               </note>
+               <note type="occurence">
+                  <p source="A094.xml">A94.</p>
+                  <p source="A100.xml">A100.</p>
+                  <p source="A101.xml">A101.</p>
+                  <p source="A231.xml">A231.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d11e150a1050">Tortosa</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tolosa</p>
+               </note>
+               <note type="occurence">
+                  <p source="A008.xml">A8.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d247e214a1050">Toscana</placeName>
+               </note>
+               <note type="writings">
+                  <p>Toscane</p>
+               </note>
+               <note type="occurence">
+                  <p source="A243.xml">A243.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d32e255a1050">Trient</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tridenti</p>
+                  <p>Tridenti</p>
+                  <p>Trient</p>
+                  <p>Trente</p>
+                  <p>Trento</p>
+                  <p>Trient</p>
+               </note>
+               <note type="occurence">
+                  <p source="A029.xml">A29.</p>
+                  <p source="A080.xml">A80.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A111.xml">A111.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A153.xml">A153.</p>
+                  <p source="A158.xml">A158.</p>
+                  <p source="A162.xml">A162.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A175.xml">A175.</p>
+                  <p source="A220.xml">A220.</p>
+                  <p source="A243.xml">A243.</p>
+                  <p source="A250.xml">A250.</p>
+                  <p source="A254.xml">A254.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d26e260a1050">Trier</placeName>
+               </note>
+               <note type="writings">
+                  <p>Treves</p>
+                  <p>cité</p>
+                  <p>Treverib5</p>
+                  <p>Treverensis</p>
+                  <p>Treverensi</p>
+               </note>
+               <note type="occurence">
+                  <p source="A023.xml">A23.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A085.xml">A85.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d151e258a1050">Tübingen</placeName>
+               </note>
+               <note type="writings">
+                  <p>Tibinghen</p>
+                  <p>Tibinguen</p>
+                  <p>Tibingen</p>
+                  <p>Tubinghen</p>
+                  <p>Tubinguen</p>
+                  <p>Tubingenn</p>
+                  <p>Tubingen</p>
+                  <p>Tübingen</p>
+               </note>
+               <note type="occurence">
+                  <p source="A147.xml">A147.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A150.xml">A150.</p>
+                  <p source="A151.xml">A151.</p>
+                  <p source="A152.xml">A152.</p>
+                  <p source="A153.xml">A153.</p>
+                  <p source="A154.xml">A154.</p>
+                  <p source="A155.xml">A155.</p>
+                  <p source="A156.xml">A156.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A162.xml">A162.</p>
+                  <p source="A164.xml">A164.</p>
+                  <p source="A187.xml">A187.</p>
+                  <p source="A188.xml">A188.</p>
+                  <p source="A191.xml">A191.</p>
+                  <p source="A192.xml">A192.</p>
+                  <p source="A193.xml">A193.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e242a1050">Ulm</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ulma</p>
+                  <p>Ulm</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+                  <p source="A140.xml">A140.</p>
+                  <p source="A162.xml">A162.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d166e184a1050">Urach</placeName>
+               </note>
+               <note type="writings">
+                  <p>Urach</p>
+               </note>
+               <note type="occurence">
+                  <p source="A162.xml">A162.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e110a1050">Ustaritz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ostarez</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d224e278a1050">Utrecht</placeName>
+               </note>
+               <note type="writings">
+                  <p>ceulx d’Utrecht</p>
+               </note>
+               <note type="occurence">
+                  <p source="A220.xml">A220.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e265a1050">Valence</placeName>
+               </note>
+               <note type="writings">
+                  <p>contéz de Valance</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d57e116a1050">Valencia</placeName>
+               </note>
+               <note type="writings">
+                  <p>Valence</p>
+               </note>
+               <note type="occurence">
+                  <p source="A054.xml">A54.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d132e109a1050">Valenciennes</placeName>
+               </note>
+               <note type="writings">
+                  <p>Valenchiennes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A128.xml">A128.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d21e301a1050">Valladolid</placeName>
+               </note>
+               <note type="writings">
+                  <p>Valladolid</p>
+                  <p>Valdoly</p>
+                  <p>Valladoly</p>
+                  <p>Vailladolid</p>
+                  <p>Vailladoly</p>
+               </note>
+               <note type="occurence">
+                  <p source="A018.xml">A18.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A029.xml">A29.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A037.xml">A37.</p>
+                  <p source="A041.xml">A41.</p>
+                  <p source="A089.xml">A89.</p>
+                  <p source="A090.xml">A90.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A260.xml">A260.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d93e128a1050">Verona</placeName>
+               </note>
+               <note type="writings">
+                  <p>Verona</p>
+                  <p>Verona</p>
+               </note>
+               <note type="occurence">
+                  <p source="A090.xml">A90.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A149.xml">A149.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d93e132a1050">Vicenza</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vincence</p>
+               </note>
+               <note type="occurence">
+                  <p source="A090.xml">A90.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d161e177a1050">Vigevano</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vegevene</p>
+                  <p>Vigivena</p>
+               </note>
+               <note type="occurence">
+                  <p source="A157.xml">A157.</p>
+                  <p source="A221.xml">A221.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d88e359a1050">Villefranche-sur-Mer</placeName>
+               </note>
+               <note type="writings">
+                  <p>Villafranca</p>
+                  <p>Ville-Franche</p>
+               </note>
+               <note type="occurence">
+                  <p source="A085.xml">A85.</p>
+                  <p source="A216.xml">A216.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d59e297a1050">Vitoria-Gasteiz</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vittoria</p>
+                  <p>Victoria</p>
+               </note>
+               <note type="occurence">
+                  <p source="A056.xml">A56.</p>
+                  <p source="A215.xml">A215.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d140e708a1050">Vrbas</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vrbas</p>
+               </note>
+               <note type="occurence">
+                  <p source="A136.xml">A136.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d114e144a1050">Vöcklabruck</placeName>
+               </note>
+               <note type="writings">
+                  <p>Wecklapurg</p>
+               </note>
+               <note type="occurence">
+                  <p source="A111.xml">A111.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d68e630a1050">Walachei</placeName>
+               </note>
+               <note type="writings">
+                  <p>Valachiam transalpinam</p>
+               </note>
+               <note type="occurence">
+                  <p source="A065.xml">A65.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d100e119a1050">Waldshut im Breisgau</placeName>
+               </note>
+               <note type="writings">
+                  <p>Walzwt</p>
+                  <p>Waldshut</p>
+                  <p>Walsoultz</p>
+               </note>
+               <note type="occurence">
+                  <p source="A097.xml">A97.</p>
+                  <p source="A105.xml">A105.</p>
+                  <p source="A166.xml">A166.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d14e127a1050">Wels</placeName>
+               </note>
+               <note type="writings">
+                  <p>Wels</p>
+               </note>
+               <note type="occurence">
+                  <p source="A011.xml">A11.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d19e121a1050">Wien</placeName>
+               </note>
+               <note type="writings">
+                  <p>Vyanne</p>
+                  <p>Wiens</p>
+                  <p>Viennensi</p>
+                  <p>Wien</p>
+                  <p>Vienne</p>
+                  <p>Viena</p>
+                  <p>Wien</p>
+                  <p>Vyenne</p>
+                  <p>Viene</p>
+               </note>
+               <note type="occurence">
+                  <p source="A016.xml">A16.</p>
+                  <p source="A018.xml">A18.</p>
+                  <p source="A025.xml">A25.</p>
+                  <p source="A026.xml">A26.</p>
+                  <p source="A085.xml">A85.</p>
+                  <p source="A087.xml">A87.</p>
+                  <p source="A088.xml">A88.</p>
+                  <p source="A091.xml">A91.</p>
+                  <p source="A092.xml">A92.</p>
+                  <p source="A096.xml">A96.</p>
+                  <p source="A097.xml">A97.</p>
+                  <p source="A102.xml">A102.</p>
+                  <p source="A103.xml">A103.</p>
+                  <p source="A104.xml">A104.</p>
+                  <p source="A105.xml">A105.</p>
+                  <p source="A106.xml">A106.</p>
+                  <p source="A107.xml">A107.</p>
+                  <p source="A236.xml">A236.</p>
+                  <p source="A237.xml">A237.</p>
+                  <p source="A239.xml">A239.</p>
+                  <p source="A247.xml">A247.</p>
+                  <p source="A250.xml">A250.</p>
+                  <p source="A253.xml">A253.</p>
+                  <p source="A254.xml">A254.</p>
+                  <p source="A261.xml">A261.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d24e457a1050">Wiener Neustadt</placeName>
+               </note>
+               <note type="writings">
+                  <p>Neustadt</p>
+                  <p>Nyenstat</p>
+                  <p>Neustat</p>
+                  <p>Nieuwstadt</p>
+                  <p>Wiener-Neustadt</p>
+                  <p>Novẹ Civitatis</p>
+                  <p>Neufve cité</p>
+               </note>
+               <note type="occurence">
+                  <p source="A021.xml">A21.</p>
+                  <p source="A042.xml">A42.</p>
+                  <p source="A048.xml">A48.</p>
+                  <p source="A050.xml">A50.</p>
+                  <p source="A052.xml">A52.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A121b.xml">A121b.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d211e378a1050">Wijnendale (Torhout)</placeName>
+               </note>
+               <note type="writings">
+                  <p>Wynendalle</p>
+               </note>
+               <note type="occurence">
+                  <p source="A207.xml">A207.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d17e130a1050">Worms</placeName>
+               </note>
+               <note type="writings">
+                  <p>Wormss</p>
+                  <p>Wormbs</p>
+                  <p>Wormes</p>
+                  <p>Wormaciense</p>
+                  <p>Wormaciensi</p>
+                  <p>Wormaciẹ</p>
+                  <p>Wormatiẹ</p>
+                  <p>Wormatie</p>
+                  <p>Vormez</p>
+                  <p>Worms</p>
+                  <p>Vormes</p>
+               </note>
+               <note type="occurence">
+                  <p source="A014.xml">A14.</p>
+                  <p source="A015.xml">A15.</p>
+                  <p source="A036.xml">A36.</p>
+                  <p source="A065.xml">A65.</p>
+                  <p source="A076.xml">A76.</p>
+                  <p source="A080.xml">A80.</p>
+                  <p source="A136.xml">A136.</p>
+                  <p source="A149.xml">A149.</p>
+                  <p source="A157.xml">A157.</p>
+                  <p source="A216.xml">A216.</p>
+                  <p source="A239.xml">A239.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d147e189a1050">Xàtiva</placeName>
+               </note>
+               <note type="writings">
+                  <p>Chativa</p>
+               </note>
+               <note type="occurence">
+                  <p source="A143.xml">A143.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d240e111a1050">Ybbs</placeName>
+               </note>
+               <note type="writings">
+                  <p>Ybbs</p>
+               </note>
+               <note type="occurence">
+                  <p source="A236.xml">A236.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d250e93a1050">Zagreb</placeName>
+               </note>
+               <note type="writings">
+                  <p>Zagrabiensi</p>
+               </note>
+               <note type="occurence">
+                  <p source="A246.xml">A246.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d10e116a1050">Zeeland</placeName>
+               </note>
+               <note type="writings">
+                  <p>Zuellan[de]</p>
+                  <p>Zellande</p>
+                  <p>Zelland</p>
+               </note>
+               <note type="occurence">
+                  <p source="A007.xml">A7.</p>
+                  <p source="A231.xml">A231.</p>
+                  <p source="A242.xml">A242.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d63e154a1050">Zürich</placeName>
+               </note>
+               <note type="writings">
+                  <p>Zürich</p>
+                  <p>Zurich</p>
+                  <p>Zürichs</p>
+               </note>
+               <note type="occurence">
+                  <p source="A060.xml">A60.</p>
+                  <p source="A069.xml">A69.</p>
+                  <p source="A079.xml">A79.</p>
+                  <p source="A097.xml">A97.</p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName xml:id="place_d34e280a1050">Šintava</placeName>
+               </note>
+               <note type="writings">
+                  <p>Sempthe</p>
+               </note>
+               <note type="occurence">
+                  <p source="A031.xml">A31.</p>
                </note>
             </item>
          </list>
