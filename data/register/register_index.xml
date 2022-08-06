@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Index Register in TEI generated from TEI data of letters</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <item>
+               <note type="index">
+                  <index>
+                     <term xml:id="index_d4e168a1051">Frankreich</term>
+                  </index>
+               </note>
+               <note type="writings">
+                  <p>Frankreich</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="index">
+                  <index>
+                     <term xml:id="index_d6e108a1051">Gesundheit/Krankheit, Ferdinand der Katholische</term>
+                  </index>
+               </note>
+               <note type="writings">
+                  <p>salud</p>
+               </note>
+               <note type="occurence">
+                  <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+            <item>
+               <note type="index">
+                  <index>
+                     <term xml:id="index_d4e172a1051">Heirat, F mit Renée de France</term>
+                  </index>
+               </note>
+               <note type="writings">
+                  <p>Vermählung</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="index">
+                  <index>
+                     <term xml:id="index_d6e101a1051">Jagd</term>
+                  </index>
+               </note>
+               <note type="writings">
+                  <p>caça</p>
+               </note>
+               <note type="occurence">
+                  <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

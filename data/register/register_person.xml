@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Person Register in TEI generated from TEI data of letters</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d5e148a1050">Bannissis, Jacobus de, Sekretär Maximilians I. </persName>
+               </note>
+               <note type="writings">
+                  <p>Ja. de Bannissis.</p>
+               </note>
+               <note type="occurence">
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e129a1050">Ferdinand der Katholische</persName>
+               </note>
+               <note type="writings">
+                  <p>regi</p>
+                  <p>Catholicum regem,</p>
+                  <p>Yo</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+                  <p source="A002.xml">A2.</p>
+                  <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e189a1050">Germaine de Foix</persName>
+               </note>
+               <note type="writings">
+                  <p>Germaine</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d5e111a1050">Gylabertus, Aloysius</persName>
+               </note>
+               <note type="writings">
+                  <p>Aloysio Gylaberto</p>
+               </note>
+               <note type="occurence">
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e132a1050">Isabella die Katholische</persName>
+               </note>
+               <note type="writings">
+                  <p>regine</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e192a1050">Johanna von Kastilien</persName>
+               </note>
+               <note type="writings">
+                  <p>Johanna von Kastilien</p>
+                  <p>sermas reginas matres</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d5e126a1050">Katharina von Österreich</persName>
+               </note>
+               <note type="writings">
+                  <p>ames</p>
+               </note>
+               <note type="occurence">
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e119a1050">Maximilian I.</persName>
+               </note>
+               <note type="writings">
+                  <p>nobis</p>
+                  <p>Maximilianus</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+                  <p source="A002.xml">A2.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e113a1050">Orti, Gabriel von</persName>
+               </note>
+               <note type="writings">
+                  <p>Cabriel de Horti</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e178a1050">Quintana, Pedro de</persName>
+               </note>
+               <note type="writings">
+                  <p>Petrus Quintana</p>
+                  <p>Pedro de Quyntana</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+                  <p source="A003.xml">A3.</p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName xml:id="person_d4e175a1050">Renée (Renata) de France, spätere Herzogin von Ferrara</persName>
+               </note>
+               <note type="writings">
+                  <p>Renata</p>
+               </note>
+               <note type="occurence">
+                  <p source="A001.xml">A1.</p>
+               </note>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>
