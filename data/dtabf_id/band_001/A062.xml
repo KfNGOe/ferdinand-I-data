@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:13Z</date>
+               <date>2022-08-09T19:59:40Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -104,7 +104,7 @@
          <div n="4"><!-- archive_desc -->
             <p>(W.) Wien, St.-A. Belgica PA 5. Konzept mit zahlreichen Verbesserungen von anderer Hand. Grundlage für den folgenden Abdruck.</p>
             <p>(B.) Brüssel, Arch. gén. Pap. de l'État et de lʼAudience vol. 42. Kopie s. XVIII.</p>
-            <p>Druck: Abschnitt 9 von <hi rendition="#i">j’entendz et congnois</hi> an in DRA 4, S. 640, Anm. 1. Familienkorrespondenz Bd. 1, Nr. 62, S. 103-110.</p>
+            <p>Druck: Abschnitt 9 von<hi rendition="#i"> j’entendz et congnois</hi> an in DRA 4, S. 640, Anm. 1. Familienkorrespondenz Bd. 1, Nr. 62, S. 103-110.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mon bon frere, j’ai par la voie d’<index resp="Abel_Laura">
@@ -285,7 +285,7 @@
                          resp="Abel_Laura"
                          key="Klemens VII.">sainct pere</persName> m’aura envoyé l’indult pardeça.</p>
             <p>Quant<hi rendition="#sup">l</hi>) ausurplus de tous mes aultres affaires d’estat etc. soit mis, quant en la lectre de m<hi rendition="#sup">me</hi> jusques à ce que sans deliberer faire de ma part. Et cependant vous prie vous tenir à la frontiere de <index resp="Abel_Laura">
-                  <term xml:id="index_d68e390a1051" key="Ferrette ">Ferrete</term>
+                  <term xml:id="index_d4e375a1051" key="Ferrette">Ferrete</term>
                </index> pour donner crainte aux ennemiz et adviser avec lesd. <persName xml:id="person_d54e97a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -315,7 +315,7 @@
                   <term xml:id="index_d24e452a1051" key="HRR, Reichstag, Nürnberg (1522/23)">RT</term>
                </index> angenommenen Anschlag wider die Türken eingehen wollten. In dieser Proposition heißt es jedoch: <hi rendition="#i">„und aber ir kai. M</hi>
                <hi rendition="#i #sup">t</hi>
-               <hi rendition="#i">gnediclich bedacht, daz diser zeit der gemain phening, ee er eingebracht, etwas vil weil und zeit nemen wurd und doch ainer eilenden hilf wider die Turken hoch von nöten .</hi> . .“ DRA. 4, S. 294. Hieraus ergibt sich, daß zumindest Hannart von der Forderung des Gemeinen Pfennigs absah. Es war von diesem, wie es scheint, in den Verhandlungen mit den Ständen nicht weiter die Rede. Der RT schlug bekanntlich auch die Gewährung einer eilenden Hilfe ab. Ebenda S. 520.</p>
+               <hi rendition="#i"> gnediclich bedacht, daz diser zeit der gemain phening, ee er eingebracht, etwas vil weil und zeit nemen wurd und doch ainer eilenden hilf wider die Turken hoch von nöten .</hi> . .“ DRA. 4, S. 294. Hieraus ergibt sich, daß zumindest Hannart von der Forderung des Gemeinen Pfennigs absah. Es war von diesem, wie es scheint, in den Verhandlungen mit den Ständen nicht weiter die Rede. Der RT schlug bekanntlich auch die Gewährung einer eilenden Hilfe ab. Ebenda S. 520.</p>
             <p>g) in W durchstrichen: <hi rendition="#i">plus avant qu’il n’est, de sorte qu’il pourra aider à son frere, estant pardela, lequel vous prie ce pendant.</hi> - h) in W folgte ursprünglich: <hi rendition="#i">ainsi que vous semblera.</hi>
             </p>
             <p>Vgl. Nr. A42.</p>

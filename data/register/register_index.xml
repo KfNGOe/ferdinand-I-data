@@ -931,9 +931,9 @@
                <note type="writings">
                   <p/>
                   <p>Ferrette</p>
+                  <p>Ferrete</p>
                   <p>Ferretensis</p>
                   <p>Ferretensem</p>
-                  <p>Ferrete</p>
                   <p>Ferrette</p>
                   <p>Ferette</p>
                   <p>Ferrete</p>
@@ -942,6 +942,7 @@
                   <p source="370215KFa.xml">370215KFa.</p>
                   <p source="A018.xml">A18.</p>
                   <p source="A021.xml">A21.</p>
+                  <p source="A062.xml">A62.</p>
                   <p source="A072.xml">A72.</p>
                   <p source="A076.xml">A76.</p>
                   <p source="A089.xml">A89.</p>
@@ -957,19 +958,6 @@
                   <p source="A153.xml">A153.</p>
                   <p source="A184.xml">A184.</p>
                   <p source="A256.xml">A256.</p>
-               </note>
-            </item>
-            <item>
-               <note type="index">
-                  <index>
-                     <term xml:id="index_d68e390a1051">Ferrette </term>
-                  </index>
-               </note>
-               <note type="writings">
-                  <p>Ferrete</p>
-               </note>
-               <note type="occurence">
-                  <p source="A062.xml">A62.</p>
                </note>
             </item>
             <item>
