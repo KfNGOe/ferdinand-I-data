@@ -104,27 +104,27 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 7, S. 6.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons<hi rendition="#sup">r</hi> mon nepveu. Je me recommande à vous de si bon cueur, comme je puis. <persName xml:id="person_d13e98a1050"
+            <p>Mons<hi rendition="#sup">r</hi> mon nepveu. Je me recommande à vous de si bon cueur, comme je puis. <persName xml:id="person_d12e98a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Osorio, Álvaro de, Bischof von Astorga">Don Alvares Ozorio</persName> pourteur de cestes est venu d’<index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d4e211a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d12e102a1051" key="Deutschland">Allemaigne</term>
                </index> et a passé par ici. Et pour ce que je desiroie bien sçavoir des nouvelles de la dame, de devers laquelle il vient, je l’ai retenu ici aucuns jours pour m’en dire ce qu’il en a veu, saichant que n’aurez à regret son sejour ici. Vous entendrez par lui toutes choses tant dud. quartier d’Allemaigne que pardeça, mesmes de la briefve allée du roi mons<hi rendition="#sup">r</hi>, mon nepveu pardeça. Parquoi ne vous seroie pour le present escripre autre chose fors que s’il est plaisir ne service que vous faire, m’en advertissant me trouverez preste à mi employer de bon cueur, à l’aide de dieu auquel je prie mons<hi rendition="#sup">r</hi>, mon nepveu, vous donner ce que plus desirez.</p>
-            <p>Escript à <placeName xml:id="place_d13e113a1050"
+            <p>Escript à <placeName xml:id="place_d12e113a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Middelburg">Middelbourg</placeName> en <placeName xml:id="place_d13e116a1050"
+                          key="Middelburg">Middelbourg</placeName> en <placeName xml:id="place_d12e116a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Zeeland">Zuellan[de]</placeName>, le 23<hi rendition="#sup">e</hi> jour d’aoust 1517.</p>
             <p>Vostre<hi rendition="#sup">a</hi>) bonne tante</p>
             <p>
-               <persName xml:id="person_d13e128a1050"
+               <persName xml:id="person_d12e128a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Mg">Marguerite</persName>.</p>
             <p>
-               <persName xml:id="person_d13e132a1050"
+               <persName xml:id="person_d12e132a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Barres, Guillaume de, Sekretär Mg‘s">Des Barres</persName>, secretaire.</p>
@@ -135,7 +135,7 @@
                <hi rendition="#i">mon nepveu, l’infante dom Fernande.</hi>
             </p>
             <p>a) <hi rendition="#i">Vostre – Marguerite</hi> eigenhändig.</p>
-            <p>Der hier genannte Alvares Ozorio ist jedenfalls identisch mit dem Erzieher des Infanten, der seit 1515 Bischof von Astorga ist (gestorben 1539). Über dessen Reise nach Deutschland ist sonst nichts bekannt, doch geht aus dem folgenden Briefe hervor, dass er in Gegenwart <persName xml:id="person_d7e119a1050"
+            <p>Der hier genannte Alvares Ozorio ist jedenfalls identisch mit dem Erzieher des Infanten, der seit 1515 Bischof von Astorga ist (gestorben 1539). Über dessen Reise nach Deutschland ist sonst nichts bekannt, doch geht aus dem folgenden Briefe hervor, dass er in Gegenwart <persName xml:id="person_d6e119a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Maximilian I.">Maximilians I., </persName>Mg’s und K’s über F’s Unterhalt verhandelte.</p>

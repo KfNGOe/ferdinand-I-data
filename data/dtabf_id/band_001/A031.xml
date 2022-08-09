@@ -96,28 +96,28 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>In den letzten Tagen hat Gf. <persName xml:id="person_d37e87a1050"
+            <p>In den letzten Tagen hat Gf. <persName xml:id="person_d36e87a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Bernhard von">Bernhard de Frangipanibus </persName>samt seinen Söhnen <persName xml:id="person_d37e90a1050"
+                         key="Frangepan, Bernhard von">Bernhard de Frangipanibus </persName>samt seinen Söhnen <persName xml:id="person_d36e90a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Christoph von">Cristoforus</persName> und <persName xml:id="person_d37e93a1050"
+                         key="Frangepan, Christoph von">Cristoforus</persName> und <persName xml:id="person_d36e93a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Ferdinand von">Ferdinand</persName> mit einer nicht unbeträchtlichen Anzahl deutscher Soldaten die Stadt <placeName xml:id="place_d37e96a1050"
+                         key="Frangepan, Ferdinand von">Ferdinand</persName> mit einer nicht unbeträchtlichen Anzahl deutscher Soldaten die Stadt <placeName xml:id="place_d36e96a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Senj">Zengg</placeName>
                <hi rendition="#i">(civitatem nostram Segniensem) </hi>angefallen<hi rendition="#i"> et more hostili depopulato eius agro non minori sevitia, quam si </hi>
-               <persName xml:id="person_d4e175a1050"
+               <persName xml:id="person_d5e133a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Süleyman I.">
                   <hi rendition="#i">Turcus </hi>
                </persName>
                <hi rendition="#i">esset, ipsam civitatem obsidione cinxerat admotisque machinis expugnare conatus est, addens tanto sceleri vana quoque verba ausus est, nanque homo nepharius affirmare se non propriis solum viribus fretum eam expedicionem suscepisse, sed Sertis Vre suasu et auxilio, ut facilius ad dedicionem cives impellerentur.</hi> Da wir dies nicht glauben können, vielmehr Gf. Bernhard <hi rendition="#i">sit homo impacentissimus quietis, ingenii subdoli propositi instabilis, . . . qui propter ipsius multa facinora, cum sepius et debuissemus et potuissemus eum opprimere, omisimus tribuentes id etati eius et iniquitati temporis, . . . nec credimus vel benignitatem nostram vel hostis communis conatus ab insania ipsum Bernardinum posse removere </hi>und obwohl er durch den Banus von <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d24e230a1051" key="Kroatien">Kroatien</term>
+                  <term xml:id="index_d23e230a1051" key="Kroatien">Kroatien</term>
                </index> und die Grenzsoldaten zur schimpflichen Flucht und Aufhebung der Belagerung gezwungen wurde, beschlossen wir, diese <hi rendition="#i">temerarios conatus</hi> nicht ohne Strafe zu lassen. Da er sich nun bei seinem Raubzug deutscher Soldaten bedient hat, und zwar auch F’s Untertanen, <hi rendition="#i">rogamus Ser</hi>
                <hi rendition="#i #sup">tem</hi>
                <hi rendition="#i">V</hi>
@@ -138,14 +138,14 @@
                <hi rendition="#i #sup">tem</hi>
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">ram</hi>
-               <hi rendition="#i"> quam in nos arma movisse.</hi> Hat über diese Dinge mit <persName xml:id="person_d24e180a1050"
+               <hi rendition="#i"> quam in nos arma movisse.</hi> Hat über diese Dinge mit <persName xml:id="person_d23e180a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Burgo">Andreas de Burgo </persName>gesprochen und ihn gebeten, darüber weiteres zu berichten.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
             <p>In the last days Count Bernhard de Frangipabibus together with his sons Cristoforus and Ferdinand attacked the city of Zengg <hi rendition="#i">(civitatem nostram Segniensem) </hi>with a not inconsiderable number of German soldiers <hi rendition="#i">et more hostili depopulato eius agro non minori sevitia, quam si </hi>
-               <persName xml:id="person_d4e175a1050"
+               <persName xml:id="person_d5e133a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Süleyman I.">
@@ -178,24 +178,24 @@
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">principi domino Ferdinando, archiduci </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d22e125a1051" key="Österreich"/>
+                  <term xml:id="index_d21e125a1051" key="Österreich"/>
                </index>
                <hi rendition="#i">, duci </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d37e264a1051" key="Burgund, Herzogtum"/>
+                  <term xml:id="index_d36e264a1051" key="Burgund, Herzogtum"/>
                </index>
                <hi rendition="#i">, principi </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d11e144a1051" key="Spanien"/>
+                  <term xml:id="index_d10e144a1051" key="Spanien"/>
                </index>
                <hi rendition="#i">etc., </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d4e437a1051" key="HRR"/>
+                  <term xml:id="index_d17e122a1051" key="HRR"/>
                </index>
                <hi rendition="#i"> vicario, fratri et sororio nostro char</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">. Als Datum: Datum in castro nostro </hi>
-               <placeName xml:id="place_d37e280a1050"
+               <placeName xml:id="place_d36e280a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Šintava">

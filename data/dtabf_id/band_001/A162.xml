@@ -109,18 +109,18 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 162, S. 343-344.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>M<hi rendition="#sup">me</hi>, ma bonne tante, humblement et de bon cueur à vostre bonne grace me recommande. M<hi rendition="#sup">me</hi>, j’ai receu vostre lettre du 20<hi rendition="#sup">e</hi> d’octobre et entendu comme il vous a pleu faire continuer les postes d’entre <placeName xml:id="place_d4e929a1050"
+            <p>M<hi rendition="#sup">me</hi>, ma bonne tante, humblement et de bon cueur à vostre bonne grace me recommande. M<hi rendition="#sup">me</hi>, j’ai receu vostre lettre du 20<hi rendition="#sup">e</hi> d’octobre et entendu comme il vous a pleu faire continuer les postes d’entre <placeName xml:id="place_d16e119a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Augsburg">Augspurg</placeName> et <placeName xml:id="place_d35e255a1050"
+                          key="Augsburg">Augspurg</placeName> et <placeName xml:id="place_d34e255a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Trient">Trente</placeName> comme au paravant dont suis tres joyeulx et vous en mercie bien humblement, car, comme pouez, m<hi rendition="#sup">me</hi>, bien penser, ce sera pour le bien et utilité des affaires de l’empereur mons<hi rendition="#sup">r</hi>, pour austant que tant mieulx et plus souvent l’on pourra estre averti de toutes choses, comme est bien de besoing, ainsi que desia avez peu entendre. Depuis mes dernieres lettres ne m’est, m<hi rendition="#sup">me</hi>, survenu autre chose que ce qu’avez veu par icelles.</p>
             <p>J’ai mis ordre aux affaires de ce pays ici au mieulx qu’ai peu et m’ont accordéz les estas pour survenir à la despence de guerres passées et autres necessitéz 140000 florins d’or à payer en trois ans; de ce que plus me surviendra rendrai tousiours devoir le vous faire savoir, vous suppliant, m<hi rendition="#sup">me</hi>, faire le semblable.</p>
             <p>Je me partirey deans cinq ou six jours pour aller à <index resp="Abel_Laura">
-                  <term xml:id="index_d147e285a1051" key="HRR, Reichstag, Augsburg (1525)">Augspurg à la diete imperiale</term>
+                  <term xml:id="index_d146e285a1051" key="HRR, Reichstag, Augsburg (1525)">Augspurg à la diete imperiale</term>
                </index> où j’ai aussi convocqué les deputéz de tous les estatz de mes pays pour regarder d’avoir d’eulx quelque aide et aussi faire aucunes provisions pour contrevenir et empescher semblables mutacions que celles passées. Et sur ce je prie à nostre seigneur qui m<hi rendition="#sup">me</hi>, ma bonne tante, vous doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d154e258a1050"
+            <p>De <placeName xml:id="place_d153e258a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tubinghen</placeName>, ce 11<hi rendition="#sup">e</hi> de novembre a<hi rendition="#sup">o</hi> 25.</p>
@@ -129,19 +129,19 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>F’s Brief vom 20. Oktober fand sich nicht vor. — Die Fortsetzung der Postlinie Trient — Augsburg nach den <index resp="Abel_Laura">
-                  <term xml:id="index_d4e244a1051" key="Niederlande">Niederlanden</term>
-               </index>, um die es sich hier offenbar handelt, hat ihre Analogie in der Postverbindung, die Mg im Jahre 1522 nach <placeName xml:id="place_d4e932a1050"
+                  <term xml:id="index_d4e114a1051" key="Niederlande">Niederlanden</term>
+               </index>, um die es sich hier offenbar handelt, hat ihre Analogie in der Postverbindung, die Mg im Jahre 1522 nach <placeName xml:id="place_d23e270a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Nürnberg">Nürnberg</placeName> weiterspannte. W. Bauer, Die Taxissche Post usw. Mitt. d. Inst. f. österr. Gesch. 27, S. 452; Rübsam, Hist. Jahrb. 15, S. 827, A. 1.</p>
             <p>Laut Landtagsabschied vom 30. Oktober hat sich das Land <index resp="Abel_Laura">
-                  <term xml:id="index_d27e151a1051" key="Württemberg">Württemberg</term>
+                  <term xml:id="index_d26e151a1051" key="Württemberg">Württemberg</term>
                </index> nur zur Zahlung von 50.000 Gulden verpflichtet, wozu noch 36.000 Gulden (in dreijährigen gleichen Raten abzuzahlen) kommen, die den Prälaten zur Erhaltung von Reisigen zum Zwecke der inneren Ordnung auferlegt worden sind. Sattler, Gesch. des Herzogthums Würtenberg unter der Regierung der Herzogen 3., Beilagen, S. 4 ff.</p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig</p>
-            <p>F verließ am 19. November 1525 Tübingen und zog über <placeName xml:id="place_d169e184a1050"
+            <p>F verließ am 19. November 1525 Tübingen und zog über <placeName xml:id="place_d168e184a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Urach">Urach</placeName> und <placeName xml:id="place_d71e242a1050"
+                          key="Urach">Urach</placeName> und <placeName xml:id="place_d70e242a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Ulm">Ulm</placeName> nach Augsburg.</p>

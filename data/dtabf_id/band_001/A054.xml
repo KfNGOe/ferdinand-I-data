@@ -106,23 +106,23 @@
             <p>Druck: Lanz, Jahrb. der Literatur 112, S. 42. Familienkorrespondenz Bd. 1, Nr. 54, S. 95-96.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai ici en mon service ung medicin, nommé le docteur <persName xml:id="person_d60e103a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai ici en mon service ung medicin, nommé le docteur <persName xml:id="person_d59e103a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Forcz, Dr. Dominikus Adam de, Arzt">Adan de Forcz</persName>, natif de vostre royaulme d’<placeName xml:id="place_d60e106a1050"
+                         key="Forcz, Dr. Dominikus Adam de, Arzt">Adan de Forcz</persName>, natif de vostre royaulme d’<placeName xml:id="place_d59e106a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Aragón">Arragon</placeName>, lequel m’a bien et lealement servi et sert encoires journellement en sond. estat, parquoi je desire sa promocion et avancement. Et pour ce mons<hi rendition="#sup">r</hi>, qu’il est en voulenté et d’intencion estre d’eglise, à quoi a desia fait commancement et que ci-après se vouldroit bien retirer ez pays depardela, à cause que s’est le lieu de sa nativité, vous supplie treshumblement l’avoir pour recommandé en l’avancement de quelque abbaye ou autre bon benefice en voz royaulmes d’Arragon, <placeName xml:id="place_d60e113a1050"
+                          key="Aragón">Arragon</placeName>, lequel m’a bien et lealement servi et sert encoires journellement en sond. estat, parquoi je desire sa promocion et avancement. Et pour ce mons<hi rendition="#sup">r</hi>, qu’il est en voulenté et d’intencion estre d’eglise, à quoi a desia fait commancement et que ci-après se vouldroit bien retirer ez pays depardela, à cause que s’est le lieu de sa nativité, vous supplie treshumblement l’avoir pour recommandé en l’avancement de quelque abbaye ou autre bon benefice en voz royaulmes d’Arragon, <placeName xml:id="place_d59e113a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Katalonien">Cathelongue</placeName> ou <placeName xml:id="place_d60e116a1050"
+                          key="Katalonien">Cathelongue</placeName> ou <placeName xml:id="place_d59e116a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Valencia">Valence</placeName>. Et quant l’indult de nostre sainct pere vous viendra, il vous plaise aussi mons<hi rendition="#sup">r</hi> le denommer dedans icellui sur la premiere prebende et chasnoine qui deslors escherra vacquant en l’eglise cathedrale de <placeName xml:id="place_d18e133a1050"
+                          key="Valencia">Valence</placeName>. Et quant l’indult de nostre sainct pere vous viendra, il vous plaise aussi mons<hi rendition="#sup">r</hi> le denommer dedans icellui sur la premiere prebende et chasnoine qui deslors escherra vacquant en l’eglise cathedrale de <placeName xml:id="place_d17e133a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Barcelona">Barcelonne</placeName> et, en ce faisant, me ferez mons<hi rendition="#sup">r</hi> grant honneur. Mons<hi rendition="#sup">r</hi>, je prie à tant le createur, qui vous doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d4e932a1050"
+            <p>De <placeName xml:id="place_d23e270a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Nürnberg">Neuremberg</placeName>, ce 13<hi rendition="#sup">e</hi> de janvier a<hi rendition="#sup">o</hi> 23.</p>
@@ -133,11 +133,11 @@
             <p>Rückwärts Adresse:</p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
             <p>K versprach, dem Wunsche F’s willfahren zu wollen, Nr. A62.</p>
-            <p>Dieser Adan de Forcz scheint mit der von <persName xml:id="person_d6e188a1050"
+            <p>Dieser Adan de Forcz scheint mit der von <persName xml:id="person_d5e188a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Salinas</persName> in dessen Berichten öfter erwähnten maestre Adan (Villa, S. 262), oft auch doctor Adan (ebenda, S. 282, 590, 907) genannten Persönlichkeit identisch zu sein. Darnach scheint er sich bereits 1525 nach <index resp="Abel_Laura">
-                  <term xml:id="index_d11e144a1051" key="Spanien">Spanien</term>
+                  <term xml:id="index_d10e144a1051" key="Spanien">Spanien</term>
                </index> an den Kaiserhof begeben zu haben, trat aber erst 1534 in die Dienste K’s.</p>
          </div>
       </body>

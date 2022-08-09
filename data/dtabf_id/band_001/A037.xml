@@ -107,36 +107,36 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>
-               <persName xml:id="person_d13e128a1050"
+               <persName xml:id="person_d12e128a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">M<hi rendition="#sup">me</hi>
-               </persName>, je vous envoie avec cestes aucunes lettres qui me sont esté envoyées de <placeName xml:id="place_d4e932a1050"
+               </persName>, je vous envoie avec cestes aucunes lettres qui me sont esté envoyées de <placeName xml:id="place_d23e270a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Nürnberg">Neuremberg </placeName>et de <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d43e105a1051" key="Dänemark">Dannemarke</term>
-               </index>, par lesquelles pourrez au long estre avertie de la disposicion des affaires dud. <persName xml:id="person_d43e108a1050"
+                  <term xml:id="index_d42e105a1051" key="Dänemark">Dannemarke</term>
+               </index>, par lesquelles pourrez au long estre avertie de la disposicion des affaires dud. <persName xml:id="person_d42e108a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Christian II.">roi de Dannemarck</persName>.</p>
             <p>J’ai aussi eu lettres d’<index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d11e144a1051" key="Spanien">Espaigne </term>
+                  <term xml:id="index_d10e144a1051" key="Spanien">Espaigne </term>
                </index>du 21<hi rendition="#sup">e</hi> de mars, par lesquelles l’on m’avertissoit de la bonne santé et disposicion de l’empereur mons<hi rendition="#sup">r</hi> et aussi des grosses apprestes qu’il faisoit pour la continuacion de la <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d35e140a1051" key="Frankreich B">guerre</term>
-               </index>, semblablement qu’il devoit tost depescher <persName xml:id="person_d43e127a1050"
+                  <term xml:id="index_d34e140a1051" key="Frankreich B">guerre</term>
+               </index>, semblablement qu’il devoit tost depescher <persName xml:id="person_d42e127a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mocqueron, Herr von (?)">Mocqueron</persName> pour venir es pays de pardela que croi doit estre parti.</p>
-            <p>Il y avoit comme couru quelque bruit que le <persName xml:id="person_d4e194a1050"
+            <p>Il y avoit comme couru quelque bruit que le <persName xml:id="person_d5e130a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Franz I.">roi de France </persName>
                <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d43e135a1051"
+                  <term xml:id="index_d42e135a1051"
                         key="Tod, Gerüchte, Franz I. von Frankreich">devoit estre mort</term>
                </index>, mais l’on crandroit que ce fust quelque finesse. Atant m<hi rendition="#sup">me</hi>, ma bonne tante, je prie dieu vous donner bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d4e797a1050"
+            <p>De <placeName xml:id="place_d7e138a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Innsbruck">Ysbruck</placeName>, ce 13<hi rendition="#sup">e</hi> jour de mai a<hi rendition="#sup">o</hi> 23.</p>
@@ -144,13 +144,13 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>Die Briefe aus Dänemark liegen nicht vor.</p>
-            <p>Gemeint ist der Bericht <persName xml:id="person_d27e98a1050"
+            <p>Gemeint ist der Bericht <persName xml:id="person_d26e98a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Hemricourt">Hemricourts</persName> und <persName xml:id="person_d6e188a1050"
+                         key="Hemricourt">Hemricourts</persName> und <persName xml:id="person_d5e188a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Salinas">Salinas</persName> an F aus <placeName xml:id="place_d4e449a1050"
+                         key="Salinas">Salinas</persName> an F aus <placeName xml:id="place_d4e119a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Valladolid">Valladolid</placeName>. Villa, S. 114—116. Vgl. Nr. 35 [1].</p>
