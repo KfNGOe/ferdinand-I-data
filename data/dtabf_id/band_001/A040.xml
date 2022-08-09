@@ -97,24 +97,24 @@
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
             <p>ln diesen Tagen haben die Bürger der Stadt Ödenburg <hi rendition="#i">(cives </hi>
-               <placeName xml:id="place_d43e89a1050"
+               <placeName xml:id="place_d44e89a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sopron">
                   <hi rendition="#i">Sopronienses</hi>
                </placeName>
                <hi rendition="#i">)</hi> mitgeteilt, es sei ihnen die Ausfuhr des <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d43e96a1051" key="Wein, Ausfuhr, Sopron">Weines</term>
+                  <term xml:id="index_d44e96a1051" key="Wein, Ausfuhr, Sopron">Weines</term>
                </index>
                <hi rendition="#i">per civitates </hi>
-               <placeName xml:id="place_d43e101a1050"
+               <placeName xml:id="place_d44e101a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Bruck an der Leitha">
                   <hi rendition="#i">Pruk</hi>
                </placeName>
                <hi rendition="#i"> et </hi>
-               <placeName xml:id="place_d43e106a1050"
+               <placeName xml:id="place_d44e106a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Hainburg">
@@ -122,7 +122,7 @@
                </placeName>
                <hi rendition="#i"> aliaque loca archiducatus </hi>
                <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d19e125a1051" key="Österreich"/>
+                  <term xml:id="index_d20e125a1051" key="Österreich"/>
                </index>
                <hi rendition="#i"> Ser</hi>
                <hi rendition="#i #sup">tis</hi>
@@ -130,20 +130,20 @@
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i">inhibitam per regentes eiusdem, licet a ser</hi>
                <hi rendition="#i #sup">mis</hi>
-               <persName xml:id="person_d43e130a1050"
+               <persName xml:id="person_d44e130a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Friedrich III., Kaiser">
                   <hi rendition="#i">Friderico</hi>
                </persName>
                <hi rendition="#i"> et </hi>
-               <persName xml:id="person_d4e119a1050"
+               <persName xml:id="person_d5e119a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Maximilian I.">
                   <hi rendition="#i">Maximiliano</hi>
                </persName>
-               <hi rendition="#i"> . . . literas et indulta se habere asserant </hi>unter der Bedingung, daß es ihnen freistehe, <hi rendition="#i">sique cause alique acciderent,</hi> ihre Erlaubnis zu widerrufen. Nun sind diese Briefe auf <persName xml:id="person_d17e158a1050"
+               <hi rendition="#i"> . . . literas et indulta se habere asserant </hi>unter der Bedingung, daß es ihnen freistehe, <hi rendition="#i">sique cause alique acciderent,</hi> ihre Erlaubnis zu widerrufen. Nun sind diese Briefe auf <persName xml:id="person_d18e158a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Ludwig II.">Ludwigs </persName>Bitte hin von F bestätigt worden und nichts ist vorgefallen, <hi rendition="#i">cur huiusmodi privilegia et indulta divorum imperatorum et Ser</hi>
@@ -170,7 +170,7 @@
          <div n="4"><!-- archive_desc -->
             <p>Wien, St.-A. Hungarica 1. Or. mit eigenhändiger Unterschrift. Siegel abgefallen. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">principi, domino Ferdinando, principi Hyspaniarum, archiduci Austrie, duci Burgundie etc., sacri Romani imperii vicario generali, fratri et sororio nostro charmo. </hi>Als Datum: <placeName xml:id="place_d43e220a1050"
+               <hi rendition="#i">principi, domino Ferdinando, principi Hyspaniarum, archiduci Austrie, duci Burgundie etc., sacri Romani imperii vicario generali, fratri et sororio nostro charmo. </hi>Als Datum: <placeName xml:id="place_d44e220a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Budapest">

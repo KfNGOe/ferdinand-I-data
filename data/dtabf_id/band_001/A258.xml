@@ -99,17 +99,17 @@
             <p>
                <hi rendition="#i">Rogarunt nos fideles nostri, domini comites regni </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d21e230a1051" key="Kroatien"/>
+                  <term xml:id="index_d22e230a1051" key="Kroatien"/>
                </index>
                <hi rendition="#i">, ut in commendacionem egregii </hi>
-               <persName xml:id="person_d262e92a1050"
+               <persName xml:id="person_d263e92a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Perwsyth, Johannes">
                   <hi rendition="#i">Joannis Perwsyth </hi>
                </persName>
                <hi rendition="#i">et </hi>
-               <persName xml:id="person_d262e97a1050"
+               <persName xml:id="person_d263e97a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Crysenith, Gaspar">

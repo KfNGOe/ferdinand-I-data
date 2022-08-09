@@ -98,7 +98,7 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Is </hi>
-               <persName xml:id="person_d263e88a1050"
+               <persName xml:id="person_d264e88a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Johannes Baptista (?)">
@@ -116,7 +116,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten: <persName xml:id="person_d250e134a1050"
+            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten: <persName xml:id="person_d251e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">

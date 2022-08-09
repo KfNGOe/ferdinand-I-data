@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">A226.</title>
-            <title type="sub">Ferdinand an Margareta, 1526 August 27, Speier.</title>
+            <title type="main">*370108FK.</title>
+            <title type="sub">Ferdinand an Karl, 1537 Januar 8, Wien.</title>
             <author>
                <persName ref="nognd">Ferdinand</persName>
             </author>
@@ -54,11 +54,11 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Ferdinand</persName>
-               <placeName ref="nognd">Speier</placeName>
-               <date>1526 August 27</date>
+               <placeName ref="nognd">Wien</placeName>
+               <date>1537 Januar 8</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="nognd">Margareta</persName>
+               <persName ref="nognd">Karl</persName>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:12:22Z</date>
+               <date>2022-08-09T08:47:01Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -82,41 +82,26 @@
       <body>
          <div n="1"><!-- letter_header -->
             <p>
-               <hi rendition="#b">A226.</hi>
+               <hi rendition="#b">*370108FK.</hi>
             </p>
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rendition="#i">Ferdinand an Margareta.</hi>
+                     <hi rendition="#i">Ferdinand an Karl.</hi>
                   </cell>
                   <cell>
-                     <hi rendition="#i">1526 August 27. Speier.</hi>
+                     <hi rendition="#i">1537 Januar 8. (Wien).</hi>
                   </cell>
                </row>
             </table>
          </div>
-         <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Empfehlung für seinen Küchenjunker.</p>
-         </div>
-         <div n="3" xml:lang="en"><!-- regest_en -->
-            <p>Commendation for his scullion.</p>
-         </div>
-         <div n="4"><!-- archive_desc -->
-            <p>Lille, Arch. départ. Lettres missives, portf. 50<hi rendition="#sup">bis</hi>. Original.</p>
-            <p>Druck: Familienkorrespondenz Bd. 1, Nr. 226, S. 436.</p>
-         </div>
-         <div type="letter" n="5"><!-- transcription -->
-            <p>M<hi rendition="#sup">me</hi>, mon <index resp="Abel_Laura">
-                  <term xml:id="index_d231e105a1051" key="Küchenjunker">escuier de cuisine</term>
-               </index>, present porteur, s’en va par devers pour aucunes ses afferes, lesquelz il vous declairera tant au long; et pour ce, m<hi rendition="#sup">me</hi>, que en consideracion des bons et agreables services qu’il m’a faiz et fait journellement je desireroie lui porter toute faveur et adresse en sesd. afferes, parquoi vous supplie, m<hi rendition="#sup">me</hi>, en iceulx l’avoir à ma contemplacion en si bonne recommandacion qu’il congnoisse ma faveur et recommandacion lui avoir prouffit et vous me ferez honneur et plesir. Et sur ce, m<hi rendition="#sup">me</hi>, ma bonne tante, je prie à dieu vous donner bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d69e257a1050"
-                          ref="nognd"
-                          resp="Abel_Laura"
-                          key="Speyer">Spier</placeName>, ce 27<hi rendition="#sup">e</hi> d’aoust a<hi rendition="#sup">o</hi> 26.</p>
-            <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveur Ferdinandus.</p>
-         </div>
          <div n="6"><!-- commentary -->
-            <p>e) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
+            <p>Zu erschließen aus n. 370215KFa/1 vom 15. 2. 1537, wo K den Empfang eines Schreibens vom 8. 1. 1537 bestätigt: <hi rendition="">j’ay dernierement receu voz lettres des 15 et 16</hi>
+               <hi rendition="">e </hi>
+               <hi rendition="">de decembre et 8</hi>
+               <hi rendition="">e</hi>
+               <hi rendition=""> de janvier appourtées dois Gennes par ung mesme passaige.</hi>
+            </p>
          </div>
       </body>
    </text>
