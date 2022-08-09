@@ -106,13 +106,13 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 10, S. 9-10.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Ser<hi rendition="#sup">me</hi> princeps, domine sponse et frater char<hi rendition="#sup">me</hi>, salutem et omnis felicitatis continuum incrementum nostrique praecipuam commendationem. Cum ad eorum, qui de nobis bene meriti sunt, honorem et commodum nos aspirare non inconveniens sit et nobilis devota nobis dilecta <persName xml:id="person_d22e103a1050"
+            <p>Ser<hi rendition="#sup">me</hi> princeps, domine sponse et frater char<hi rendition="#sup">me</hi>, salutem et omnis felicitatis continuum incrementum nostrique praecipuam commendationem. Cum ad eorum, qui de nobis bene meriti sunt, honorem et commodum nos aspirare non inconveniens sit et nobilis devota nobis dilecta <persName xml:id="person_d21e103a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Caballis, Paula von">Paula</persName> domina de <persName xml:id="person_d22e106a1050"
+                         key="Caballis, Paula von">Paula</persName> domina de <persName xml:id="person_d21e106a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Firmian an der Etsch, Niklas">Firmiano</persName>, gubernatrix nostra, tam humiliter tamque<hi rendition="#sup">a</hi>) nos observaverit, ut cognatum suum <persName xml:id="person_d22e113a1050"
+                         key="Firmian an der Etsch, Niklas">Firmiano</persName>, gubernatrix nostra, tam humiliter tamque<hi rendition="#sup">a</hi>) nos observaverit, ut cognatum suum <persName xml:id="person_d21e113a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Caballis, Friedrich von">Fridericum de Coballis</persName>
@@ -123,7 +123,7 @@
             <p>Date Inspruck vigesima secunda die februarii anno domini decimo nono.</p>
             <p>E. S. V. fidissime</p>
             <p>
-               <persName xml:id="person_d22e149a1050"
+               <persName xml:id="person_d21e149a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="A">Anna</persName> regina etc. <hi rendition="#sup">c</hi>)</p>

@@ -106,13 +106,13 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 172, S. 356-357.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mon bon frere, j’ai receu voz lettres par maistre <persName xml:id="person_d185e97a1050"
+            <p>Mon bon frere, j’ai receu voz lettres par maistre <persName xml:id="person_d184e97a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend">Guillaume Basin</persName> et <persName xml:id="person_d165e106a1050"
+                         key="Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend">Guillaume Basin</persName> et <persName xml:id="person_d164e106a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Masson, Jehan">Jehan Macon</persName>, present porteur, et oui ce qu’ilz m’ont dit, touchant vostre affaire des terres de <placeName xml:id="place_d135e244a1050"
+                         key="Masson, Jehan">Jehan Macon</persName>, present porteur, et oui ce qu’ilz m’ont dit, touchant vostre affaire des terres de <placeName xml:id="place_d134e244a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Neuchâtel">Neufchastel</placeName>. Sur quoi et sur tous les autres affaires dont par plusieurs voz lettres m’avez adverti.<hi rendition="#sup">1</hi>)</p>

@@ -104,14 +104,14 @@
                <hi rendition="#i">hunc fidelem nostrum, rev</hi>
                <hi rendition="#i #sup">mum</hi>
                <hi rendition="#i">dominum </hi>
-               <persName xml:id="person_d99e204a1050"
+               <persName xml:id="person_d98e204a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Brodaric">
                   <hi rendition="#i">Stephanum Brodericum</hi>
                </persName>
                <hi rendition="#i">, dominum, dominum episcopum </hi>
-               <placeName xml:id="place_d264e109a1050"
+               <placeName xml:id="place_d263e109a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sremska Mitrovica">
@@ -129,7 +129,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d259e134a1050"
+            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d258e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">
@@ -139,7 +139,7 @@
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i"> principi, domino Ferdinando, dei gracia electo regi Bohemie, infanti </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d17e144a1051" key="Spanien"/>
+                  <term xml:id="index_d16e144a1051" key="Spanien"/>
                </index>
                <hi rendition="#i">, archiduci Austrie, duci Burgundie et Brabancie etc., domino et fratri maiori char</hi>
                <hi rendition="#i #sup">mo</hi>

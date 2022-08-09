@@ -96,16 +96,16 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Obgleich er nur ungern <persName xml:id="person_d30e180a1050"
+            <p>Obgleich er nur ungern <persName xml:id="person_d29e180a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Burgo">Andreas de Burgo</persName>, <hi rendition="#i">comiti Castellionis</hi>, Erlaubnis gab, <index resp="Abel_Laura">
                   <term xml:id="index_d6e196a1051" key="Ungarn">Ungarn</term>
                </index> zu verlassen, so konnte er ihm schließlich sein Verlangen, nach Hause zurückzukehren, nicht abschlagen und willigte ein, daß er den Sommer dort verbringe. Da aber wichtige Geschäfte dazwischenkamen, die den Kaiser, ihn, M und die ganze <index resp="Abel_Laura">
-                  <term xml:id="index_d9e162a1051" key="Christenheit">Christenheit</term>
+                  <term xml:id="index_d8e162a1051" key="Christenheit">Christenheit</term>
                </index> betreffen, ist er gezwungen, Burgo, <hi rendition="#i">quamvis persona et aliis male dispositum</hi>, an den Kaiser zu senden. Da Burgo F’s und M’s gemeinsame Anliegen kennt, gibt er ihr dessen Abreise bekannt, damit sie Burgo eventuell Aufträge, besonders in der <index resp="Abel_Laura">
-                  <term xml:id="index_d9e309a1051" key="Türken">Türkensache</term>
-               </index>, erteilen und eine Beglaubigung senden könne. Sie müßte aber solche Aufträge an die Regenten in Wien senden, damit sie diese an die Innsbrucker Regenten mit der Post befördern und dann nach <placeName xml:id="place_d62e724a1050"
+                  <term xml:id="index_d8e309a1051" key="Türken">Türkensache</term>
+               </index>, erteilen und eine Beglaubigung senden könne. Sie müßte aber solche Aufträge an die Regenten in Wien senden, damit sie diese an die Innsbrucker Regenten mit der Post befördern und dann nach <placeName xml:id="place_d61e724a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Enna, Schloss in Südtirol">Schloß Enn</placeName> weitergeben, wo sie spätestens am 15. April einlangen müssen.</p>
@@ -120,7 +120,7 @@
                <hi rendition="#i">principi, domine Marie Hungarie et Boemie etc. regine, marchionisse Moravie etc., sorori nostre char</hi>
                <hi rendition="#i #sup">me</hi>
                <hi rendition="#i">.</hi> — Als Datum: <hi rendition="#i">Datum</hi>
-               <placeName xml:id="place_d9e932a1050"
+               <placeName xml:id="place_d8e932a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Nürnberg">

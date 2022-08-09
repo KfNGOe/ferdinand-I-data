@@ -102,7 +102,7 @@
                          key="Ludwig II.">Ludovici</persName>, regis <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d6e196a1051" key="Ungarn">Ungariæ</term>
                </index>, pro Helena, Martini Sibenburgeri vidua, intercedentes apud Ferdinandum regem.</p>
-            <p>Das Datum lautet: <placeName xml:id="place_d30e510a1050"
+            <p>Das Datum lautet: <placeName xml:id="place_d29e510a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Prag">Praga</placeName>, decima decembris, anno domini 1522.</p>
@@ -111,10 +111,10 @@
          <div n="6"><!-- commentary -->
             <p>Wie er früher eingetreten war bei F<hi rendition="#i"> pro </hi>
                <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d30e196a1051"
+                  <term xml:id="index_d29e196a1051"
                         key="Österreich, Stände, Prozess, Wiener Neustädter Blutgericht (1522)"/>
                </index>
-               <persName xml:id="person_d37e108a1050"
+               <persName xml:id="person_d36e108a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Siebenbürger, Dr. Martin">
@@ -128,7 +128,7 @@
                   <hi rendition="#i">Viennensi</hi>
                </placeName>
                <hi rendition="#i">, condonando, ita nunc quoque honeste domine </hi>
-               <persName xml:id="person_d37e118a1050"
+               <persName xml:id="person_d36e118a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Siebenbürger, Helene">
@@ -148,19 +148,19 @@
                <hi rendition="#i #sup">ram</hi>
                <hi rendition="#i"> nostro nomine diligenter promoveant et commendent.</hi>
             </p>
-            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d37e154a1050"
+            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d36e154a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d37e157a1050"
+                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d36e157a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d37e160a1050"
+                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d36e160a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d37e163a1050"
+                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d36e163a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d37e166a1050"
+                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d36e166a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d4e185a1050"

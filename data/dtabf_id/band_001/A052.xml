@@ -96,14 +96,14 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Zu <placeName xml:id="place_d33e457a1050"
+            <p>Zu <placeName xml:id="place_d32e457a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Wiener Neustadt">Wiener-Neustadt</placeName> wurde jüngst vereinbart, daß zur Beseitigung der zwischen <index resp="Abel_Laura">
                   <term xml:id="index_d6e196a1051" key="Ungarn">Ungarn</term>
                </index> und <index resp="Abel_Laura">
-                  <term xml:id="index_d28e125a1051" key="Österreich">Österreich</term>
-               </index> entstandenen Kontroversen betreffs der Grenzen und Untertanen von beiden Seiten Männer nach <placeName xml:id="place_d52e89a1050"
+                  <term xml:id="index_d27e125a1051" key="Österreich">Österreich</term>
+               </index> entstandenen Kontroversen betreffs der Grenzen und Untertanen von beiden Seiten Männer nach <placeName xml:id="place_d51e89a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Sopron">Ödenburg (Sopron)</placeName> am 30. November zu einer Zusammenkunft hingeschickt werden sollen. Er sandte nun deren vier hin, die aber dort vergeblich warteten. Er ist darüber verwundert und hält für die Entscheidung der Streitfragen eine Verzögerung nicht für erforderlich.</p>
@@ -117,7 +117,7 @@
                <hi rendition="#i">principi, domino, domino Ludovico regi Hungarie et Bohemie etc., marchioni Moravie etc., domino et sororio col</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">. Als Datum: Datum in civitate imperiali </hi>
-               <placeName xml:id="place_d9e932a1050"
+               <placeName xml:id="place_d8e932a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Nürnberg">
