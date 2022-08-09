@@ -104,14 +104,14 @@
                <hi rendition="#i">hunc fidelem nostrum, rev</hi>
                <hi rendition="#i #sup">mum</hi>
                <hi rendition="#i">dominum </hi>
-               <persName xml:id="person_d92e204a1050"
+               <persName xml:id="person_d91e204a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Brodaric">
                   <hi rendition="#i">Stephanum Brodericum</hi>
                </persName>
                <hi rendition="#i">, dominum, dominum episcopum </hi>
-               <placeName xml:id="place_d257e109a1050"
+               <placeName xml:id="place_d256e109a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sremska Mitrovica">
@@ -119,7 +119,7 @@
                </placeName>
                <hi rendition="#i">, cancellarium huius regni </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d19e162a1051" key="Ungarn"/>
+                  <term xml:id="index_d18e162a1051" key="Ungarn"/>
                </index>
                <hi rendition="#i">etc., in arduis rebus, cuius medio nonnulla eidem nunciavimus. Quare rogamus M</hi>
                <hi rendition="#i #sup">tem</hi>
@@ -129,7 +129,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d252e134a1050"
+            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d251e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">
@@ -139,7 +139,7 @@
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i"> principi, domino Ferdinando, dei gracia electo regi Bohemie, infanti </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e144a1051" key="Spanien"/>
+                  <term xml:id="index_d9e144a1051" key="Spanien"/>
                </index>
                <hi rendition="#i">, archiduci Austrie, duci Burgundie et Brabancie etc., domino et fratri maiori char</hi>
                <hi rendition="#i #sup">mo</hi>

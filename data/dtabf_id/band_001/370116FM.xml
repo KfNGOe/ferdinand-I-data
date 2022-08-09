@@ -105,14 +105,14 @@
          </div>
          <div n="4"><!-- archive_desc -->
             <p>Brüssel, Archives générales du Royaume, Audience 1521, 154<hi rendition="">r-v</hi>. Or. RV <hi rendition="">Der durchleuchtigen furstin, frauen Maria, zu Hungern unnd Beheim etc. kunigin, witib, unser fruntlichen, lieben swester.</hi> Vermerk <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d5e102a1051" key="Niederlande"/>
+                  <term xml:id="index_d4e102a1051" key="Niederlande"/>
                </index>
-               <hi rendition="">.</hi> Eingangsvermerk von anderer Hand <hi rendition="">1537, recepi 6 februarii.</hi> GZ <persName xml:id="person_d5e109a1050"
+               <hi rendition="">.</hi> Eingangsvermerk von anderer Hand <hi rendition="">1537, recepi 6 februarii.</hi> GZ <persName xml:id="person_d4e109a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Cles">
                   <hi rendition="">Cles</hi>
-               </persName>. Sekretär: <persName xml:id="person_d5e114a1050"
+               </persName>. Sekretär: <persName xml:id="person_d4e114a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Neuner, Hans, Sekretär">
@@ -124,23 +124,23 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Durchleuchtige furstin, fruntliche, liebe swesster, wir geben E. L. bruederlicher unnd fruntlicher maynung zu erkhennen, das unns furkombt, wie das sich etlich <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d5e126a1051" key="Landsknechte"/>
-               </index> haimlich durch <placeName xml:id="place_d5e128a1050"
+                  <term xml:id="index_d4e126a1051" key="Landsknechte"/>
+               </index> haimlich durch <placeName xml:id="place_d4e128a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Kurpfalz">Phaltz</placeName>, <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d5e132a1051" key="Hessen"/>
-               </index>, <placeName xml:id="place_d5e134a1050"
+                  <term xml:id="index_d4e132a1051" key="Hessen"/>
+               </index>, <placeName xml:id="place_d4e134a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Braunschweig">Braunschweig</placeName> nach der <placeName xml:id="place_d5e137a1050"
+                          key="Braunschweig">Braunschweig</placeName> nach der <placeName xml:id="place_d4e137a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Nordsee">see</placeName> stellen, welhe volgennds in <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d5e142a1051" key="England"/>
+                  <term xml:id="index_d4e142a1051" key="England"/>
                </index> unnd nicht in <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d5e145a1051" key="Dänemark"/>
-               </index> farn sollen. Wo nu dem also were, hetten E. L. zu ermessen, das solhes der Rom. kay. M. etc. zu nacht[ei]l praticiert unnd furgenomen wurde. Demnach wir solhes E. L. der notturfft nach nit verhalten wellen, damit die in dem fal notdurfftige erfarung unnd erkhondigung hallte unnd, wo solhes dermass befunden, alsdann den knechten der durchzug abgestrickt unnd gewert werde, wie solhes E. L. zu der notdurfft ze thun werden wissen. Geben in unser stat <placeName xml:id="place_d5e147a1050"
+                  <term xml:id="index_d4e145a1051" key="Dänemark"/>
+               </index> farn sollen. Wo nu dem also were, hetten E. L. zu ermessen, das solhes der Rom. kay. M. etc. zu nacht[ei]l praticiert unnd furgenomen wurde. Demnach wir solhes E. L. der notturfft nach nit verhalten wellen, damit die in dem fal notdurfftige erfarung unnd erkhondigung hallte unnd, wo solhes dermass befunden, alsdann den knechten der durchzug abgestrickt unnd gewert werde, wie solhes E. L. zu der notdurfft ze thun werden wissen. Geben in unser stat <placeName xml:id="place_d4e147a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Wien">Wienn</placeName>, den 16. tag januarii anno etc. 37, unnserer reiche des Rom. im sibennden und der anndern im ailfften.</p>

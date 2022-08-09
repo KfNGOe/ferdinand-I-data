@@ -96,13 +96,13 @@
             </table>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, Hofbibliothek, Hs. 8136 Bl. 73. Gleichzeitige Kopie. Gleichzeitiger Vermerk: Helene Siebenburgerin kopey. Litteræ <persName xml:id="person_d19e158a1050"
+            <p>Wien, Hofbibliothek, Hs. 8136 Bl. 73. Gleichzeitige Kopie. Gleichzeitiger Vermerk: Helene Siebenburgerin kopey. Litteræ <persName xml:id="person_d18e158a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">Ludovici</persName>, regis <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d19e162a1051" key="Ungarn">Ungariæ</term>
+                  <term xml:id="index_d18e162a1051" key="Ungarn">Ungariæ</term>
                </index>, pro Helena, Martini Sibenburgeri vidua, intercedentes apud Ferdinandum regem.</p>
-            <p>Das Datum lautet: <placeName xml:id="place_d23e510a1050"
+            <p>Das Datum lautet: <placeName xml:id="place_d22e510a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Prag">Praga</placeName>, decima decembris, anno domini 1522.</p>
@@ -111,24 +111,24 @@
          <div n="6"><!-- commentary -->
             <p>Wie er früher eingetreten war bei F<hi rendition="#i"> pro </hi>
                <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d23e196a1051"
+                  <term xml:id="index_d22e196a1051"
                         key="Österreich, Stände, Prozess, Wiener Neustädter Blutgericht (1522)"/>
                </index>
-               <persName xml:id="person_d30e108a1050"
+               <persName xml:id="person_d29e108a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Siebenbürger, Dr. Martin">
                   <hi rendition="#i">doctori Martino Sybennbwrger</hi>
                </persName>
                <hi rendition="#i">, civi </hi>
-               <placeName xml:id="place_d5e147a1050"
+               <placeName xml:id="place_d4e147a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Wien">
                   <hi rendition="#i">Viennensi</hi>
                </placeName>
                <hi rendition="#i">, condonando, ita nunc quoque honeste domine </hi>
-               <persName xml:id="person_d30e118a1050"
+               <persName xml:id="person_d29e118a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Siebenbürger, Helene">
@@ -148,22 +148,22 @@
                <hi rendition="#i #sup">ram</hi>
                <hi rendition="#i"> nostro nomine diligenter promoveant et commendent.</hi>
             </p>
-            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d30e154a1050"
+            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d29e154a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d30e157a1050"
+                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d29e157a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d30e160a1050"
+                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d29e160a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d30e163a1050"
+                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d29e163a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d30e166a1050"
+                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d29e166a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d30e170a1050"
+                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d29e170a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Salamanca">Gabriel Salamanca </persName>vom 16. November, dass der ursprünglich gefasste Beschluss <hi rendition="#i">pro vidua doctoris Martini Silimberg</hi> von den Beamten nicht eingehalten worden sei und sie von ihr noch 600 fl. forderten. Wien St.-A. Rom. Hofkorr. 1. Or.</p>
