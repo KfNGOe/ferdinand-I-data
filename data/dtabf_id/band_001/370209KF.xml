@@ -102,7 +102,7 @@
             <p>Refers to letters sent to F and to Dr. Matthias (Held).</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, HHStA, Hausarchiv, Familienkorrespondenz A 1, 79<hi rendition="#sup">r-v</hi>. Or. chiffriert. Sekretär <placeName xml:id="place_d9e96a1050"
+            <p>Wien, HHStA, Hausarchiv, Familienkorrespondenz A 1, 79<hi rendition="#sup">r-v</hi>. Or. chiffriert. Sekretär <placeName xml:id="place_d8e96a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Bave, Jean, Sekretär">
@@ -112,13 +112,13 @@
             <p>Druck:</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons., mon bon frere, par-dessus le contenu aux autres mes lettres que vont avec cestes et en celles pour <persName xml:id="person_d9e110a1050"
+            <p>Mons., mon bon frere, par-dessus le contenu aux autres mes lettres que vont avec cestes et en celles pour <persName xml:id="person_d8e110a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Held, Dr. Matthias">le docteur Mathiaz<hi rendition="">a)</hi>
                </persName>
             </p>
-            <p>A tant, Mons. mon bon frere. Je prie le Createur vous donner voz desirs. Escript à <placeName xml:id="place_d9e117a1050"
+            <p>A tant, Mons. mon bon frere. Je prie le Createur vous donner voz desirs. Escript à <placeName xml:id="place_d8e117a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Barcelona">Barcellonne</placeName>, le 9<hi rendition="">e</hi> de fevrier 1537. </p>
@@ -126,7 +126,7 @@
          <div n="6"><!-- commentary -->
             <p>a) Der Rest des Briefes ist chiffriert; eine Auflösung des chiffrierten Teils liegt nicht vor. </p>
             <p>K bezieht sich hier auf die Briefe nn. 370215KFa und 370215KFb vom 15. 2. 1537.</p>
-            <p>Zur Mission Helds in <placeName xml:id="place_d9e129a1050"
+            <p>Zur Mission Helds in <placeName xml:id="place_d8e129a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Deutschland">Deutschland</placeName> s. nn. 370305FK/3 vom 5. 3. und 370414FK/1+3 vom 14. 4. 1537.</p>

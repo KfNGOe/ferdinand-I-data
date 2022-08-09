@@ -108,22 +108,22 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Muy ill. infante, nuestro muy caro y muy amado nieto y hijo. Reçebimos vuestra carta y agradeçemos os el cuidado que tuvistes de saber de nuestra <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d16e108a1051"
+                  <term xml:id="index_d15e108a1051"
                         key="Gesundheit/Krankheit, Ferdinand der Katholische">salud</term>
                </index>. Nos á dios gracias estamos bueno y cada dia nos hallamos de meior dispusicion, que son las nuevas que vos desseays saber y las mismas desseamos nos siempre saber de vuestra salud y buena dispusicion. Nuestro señor vos la de, como nos y vos lo desseamos. La <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d16e101a1051" key="Jagd">caça</term>
+                  <term xml:id="index_d15e101a1051" key="Jagd">caça</term>
                </index>, despues que partimos desta ciudad, ha sido comunal. E sea muy ill. infante, nuestro muy caro y muy amado nieto y hijo, la santa trinidad todos tiempos en vuestra continua protección y guarda.</p>
-            <p>De <placeName xml:id="place_d17e110a1050"
+            <p>De <placeName xml:id="place_d16e110a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Galisteo">Galisteo </placeName>a 14 de deziembre año de 1515.</p>
             <p>
-               <persName xml:id="person_d14e129a1050"
+               <persName xml:id="person_d13e129a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ferdinand der Katholische">Yo<hi rendition="#sup">a</hi>) el Rey</persName>.</p>
             <p>
-               <persName xml:id="person_d14e178a1050"
+               <persName xml:id="person_d13e178a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Quintana, Pedro de">Quintana </persName>secretario.</p>

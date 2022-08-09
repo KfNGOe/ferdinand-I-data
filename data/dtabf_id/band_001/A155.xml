@@ -102,14 +102,14 @@
                <hi rendition="#i"> V</hi>
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i"> (latis </hi>
-               <placeName xml:id="place_d53e220a1050"
+               <placeName xml:id="place_d52e220a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Budapest">
                   <hi rendition="#i">Budẹ </hi>
                </placeName>
                <hi rendition="#i">in festo beati Bartholamei apostoli </hi>[24. August]<hi rendition="#i"> intelleximus quẹ nobis ad instantiam et sollicitationem regnicolarum suorum nobis significavit super quodam conventu celebrando </hi>
-               <placeName xml:id="place_d53e89a1050"
+               <placeName xml:id="place_d52e89a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sopron">
@@ -120,7 +120,7 @@
                <hi rendition="#i"> V</hi>
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i"> et nostros ad festum divi Martini </hi>[11. November]<hi rendition="#i"> proxime futuri pro tollendis et componendis quibusdam controversiis, ultro et citro inter eosdem partim ob acceptas et illatas iniurias et damna et partim finium et metarum provinciarum utriusque nostrorum iam diu ortis.</hi> Hat sofort seinem Regiment und Rat von <index resp="Abel_Laura">
-                  <term xml:id="index_d31e407a1051" key="Niederösterreich">Niederösterreich</term>
+                  <term xml:id="index_d30e407a1051" key="Niederösterreich">Niederösterreich</term>
                </index> den Auftrag gegeben, die Sache zu betreiben, und wenn die Frist zu kurz wäre, bei L um Bewilligung eines anderen Tages anzusuchen.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
@@ -141,7 +141,7 @@
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i"> minor frater et bonus sororius Ferdinandus. </hi>Siegel abgefallen. Rückwärts Adresse:<hi rendition="#i"> Sermo principi et domino, domino </hi>
-               <persName xml:id="person_d7e179a1050"
+               <persName xml:id="person_d6e179a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">
@@ -149,7 +149,7 @@
                </persName>
                <hi rendition="#i">regi Hungariẹ, Bohemiẹ etc. marchioni Moraviẹ etc., domino et sororio nostro coll</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">.</hi> Als Datum: Datum <placeName xml:id="place_d161e258a1050"
+               <hi rendition="#i">.</hi> Als Datum: Datum <placeName xml:id="place_d160e258a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Tübingen">Tubingenn</placeName>, die prima mensis octobris 1525.</p>
@@ -157,7 +157,7 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>F beantwortet Nr. A148. — Was der Grund der ungewöhnlichen Verzögerung war, ist nicht recht ersichtlich. Ein vorhergehender Meinungsaustausch mit den österreichischen Behörden scheint es nicht gewesen zu sein, denn erst am 21. Oktober richtet F an Vizestatthalter und Räte der niederösterreichischen Lande den Befehl, <hi rendition="#i">„daz ir zwo verstenndig, zu diser sachen tewglich personen furnemet unnd sy mit notdurfftigem bericht und gnuegsamen gewalt und bevelch auf den bestimbten sant Martinstag daselbsthin gen </hi>
-               <placeName xml:id="place_d53e89a1050"
+               <placeName xml:id="place_d52e89a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sopron">
@@ -169,45 +169,45 @@
                <hi rendition="#i #sup">t</hi>
                <hi rendition="#i">yetz vor augen sein an denselben hof“</hi> werde man den nächsten Martinitag nicht einhalten können, zumal die Untertanen der fünf niederösterreichischen Länder nicht benachrichtigt seien und von den ungarischen Untertanen bis zum Lukastag noch keine Beschwerde eingelangt sei. Bitten um Ansetzung eines anderen Tages (ebenda, Konzept). Nichtsdestoweniger drängte Ludwig in seinem Briefe vom 8. November an die Regenten zur Einhaltung des Martinitages (ebenda, Original). Aus späteren Briefentwürfen geht hervor, daß Ludwig die Frist auf den Andreastag (30. November) erstreckt hat, der aber der niederösterreichischen Regierung ebenfalls zu nahe schien. — Eine undatierte Denkschrift (ebenda, mit Bleistiftvermerk 1523, vel 1524) trägt die Überschrift: <hi rendition="#i">Sequuntur gravamina et querele pro parte ser</hi>
                <hi rendition="#i #sup">mi</hi>
-               <hi rendition="#i">principis archiducis Austrie etc. coram consiliariis et commissariis pretextu pacis ad hoc ad Sopronium deputatis.</hi> Unter den Beschwerden wird angeführt, daß die Untertanen des zu Österreich gehörenden Klosters Marienburg von den ungarischen Beamten <hi rendition="#i">cum exactione tricesime et dicationis contra tractatus pacis et concordie</hi> bedrängt würden. Ferner wird die Bestrafung eines Ungarn namens <persName xml:id="person_d169e226a1050"
+               <hi rendition="#i">principis archiducis Austrie etc. coram consiliariis et commissariis pretextu pacis ad hoc ad Sopronium deputatis.</hi> Unter den Beschwerden wird angeführt, daß die Untertanen des zu Österreich gehörenden Klosters Marienburg von den ungarischen Beamten <hi rendition="#i">cum exactione tricesime et dicationis contra tractatus pacis et concordie</hi> bedrängt würden. Ferner wird die Bestrafung eines Ungarn namens <persName xml:id="person_d168e226a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat">Ciriac</persName> verlangt, der obgenanntem Kloster den Frieden gebrochen hat. Die Ausschreitungen und Raubzüge der Leute des <persName xml:id="person_d169e229a1050"
+                         key="Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat">Ciriac</persName> verlangt, der obgenanntem Kloster den Frieden gebrochen hat. Die Ausschreitungen und Raubzüge der Leute des <persName xml:id="person_d168e229a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bösing, Graf Franz von St. Georgen und (?)">Gfen von Pösing</persName> in das österreichische Gebiet des <persName xml:id="person_d169e233a1050"
+                         key="Bösing, Graf Franz von St. Georgen und (?)">Gfen von Pösing</persName> in das österreichische Gebiet des <persName xml:id="person_d168e233a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Lamberg, Graf Johann von">Gfen Johann von Lamberg</persName> blieben trotz der Abmachungen von <placeName xml:id="place_d31e487a1050"
+                         key="Lamberg, Graf Johann von">Gfen Johann von Lamberg</persName> blieben trotz der Abmachungen von <placeName xml:id="place_d30e487a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Bratislava">Preßburg </placeName>ungesühnt. Desgleichen blieb das erpresserische Vorgehen Pösings gegen einen nach <index resp="Abel_Laura">
-                  <term xml:id="index_d29e125a1051" key="Österreich">Österreich</term>
-               </index> ziehenden bayrischen Kaufmann, ferner die Gefangennahme der <persName xml:id="person_d169e243a1050"
+                  <term xml:id="index_d28e125a1051" key="Österreich">Österreich</term>
+               </index> ziehenden bayrischen Kaufmann, ferner die Gefangennahme der <persName xml:id="person_d168e243a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Weißpriach, Herrin von">domina de Weispriach</persName> samt ihren Kindern durch <persName xml:id="person_d169e246a1050"
+                         key="Weißpriach, Herrin von">domina de Weispriach</persName> samt ihren Kindern durch <persName xml:id="person_d168e246a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Terniko, Georg">Georg Terniko</persName>, die Schädigungen des österreichischen Grenzgebietes durch <persName xml:id="person_d169e249a1050"
+                         key="Terniko, Georg">Georg Terniko</persName>, die Schädigungen des österreichischen Grenzgebietes durch <persName xml:id="person_d168e249a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Széchy, Thomas">Thomas de Zetschi </persName>de <placeName xml:id="place_d169e253a1050"
+                         key="Széchy, Thomas">Thomas de Zetschi </persName>de <placeName xml:id="place_d168e253a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Grad (Goričko)">superiori Limbach </placeName>und <persName xml:id="person_d169e256a1050"
+                          key="Grad (Goričko)">superiori Limbach </placeName>und <persName xml:id="person_d168e256a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Bánffy, ?">Bamphi</persName> de <placeName xml:id="place_d169e259a1050"
+                         key="Bánffy, ?">Bamphi</persName> de <placeName xml:id="place_d168e259a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Lendava">inferiori Limbach</placeName>, schließlich der Einfall des capitaneus castri Crapin in das Land des Ehgs ohne Sühne. Bestrafung und Schadenersatz fordert F. Überdies finden entgegen den Vertragsbestimmungen einige flüchtige Rebellen in Ungarn Zuflucht, so Georg Dulther aus Wien in Ovar (Altenburg), der bekannte Räuber <persName xml:id="person_d169e262a1050"
+                          key="Lendava">inferiori Limbach</placeName>, schließlich der Einfall des capitaneus castri Crapin in das Land des Ehgs ohne Sühne. Bestrafung und Schadenersatz fordert F. Überdies finden entgegen den Vertragsbestimmungen einige flüchtige Rebellen in Ungarn Zuflucht, so Georg Dulther aus Wien in Ovar (Altenburg), der bekannte Räuber <persName xml:id="person_d168e262a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Sorator, Räuber">Sorator</persName> bei dem <persName xml:id="person_d169e265a1050"
+                         key="Sorator, Räuber">Sorator</persName> bei dem <persName xml:id="person_d168e265a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Vlaklo, Hg Laurenz de">Hg Laurenz de Vlaklo</persName>, <persName xml:id="person_d169e268a1050"
+                         key="Vlaklo, Hg Laurenz de">Hg Laurenz de Vlaklo</persName>, <persName xml:id="person_d168e268a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Walitzko, Paul, nach Ungarn entflohener Rebell">Paul Walitzko</persName> u. a. F verlangt deren Auslieferung. Es verstößt auch gegen den Frieden, wenn an österreichischen Untertanen Repressalien geübt werden. Es sollen gegenseitig die ungarischen Untertanen bei F und umgekehrt Gerechtigkeit finden</p>
