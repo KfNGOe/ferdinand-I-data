@@ -98,7 +98,7 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Nobilis </hi>
-               <persName xml:id="person_d258e88a1050"
+               <persName xml:id="person_d257e88a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Posonio, Martinus de">
@@ -107,7 +107,7 @@
                <hi rendition="#i">a puero semper in aula ser</hi>
                <hi rendition="#i #sup">mi</hi>
                <hi rendition="#i">quondam principis domini </hi>
-               <persName xml:id="person_d18e158a1050"
+               <persName xml:id="person_d17e158a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">
@@ -121,7 +121,7 @@
                <hi rendition="#i #sup">tis</hi>
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">re</hi>
-               <placeName xml:id="place_d20e121a1050"
+               <placeName xml:id="place_d19e121a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Wien">
