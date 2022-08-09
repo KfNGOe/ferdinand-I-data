@@ -420,24 +420,14 @@
             </item>
             <item>
                <note type="person">
-                  <persName xml:id="person_d179e97a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
-               </note>
-               <note type="writings">
-                  <p>Guillaume Basin</p>
-               </note>
-               <note type="occurence">
-                  <p source="A172.xml">A172.</p>
-               </note>
-            </item>
-            <item>
-               <note type="person">
-                  <persName xml:id="person_d159e103a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend </persName>
+                  <persName xml:id="person_d159e103a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
                </note>
                <note type="writings">
                   <p>Guillaume Basin</p>
                </note>
                <note type="occurence">
                   <p source="A152.xml">A152.</p>
+                  <p source="A172.xml">A172.</p>
                </note>
             </item>
             <item>
