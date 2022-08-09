@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">370116FM.</title>
+            <title type="sub">Ferdinand an Maria, 1537 Januar 16, Wien.</title>
+            <author>
+               <persName ref="nognd">Ferdinand</persName>
+            </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher xml:id="nnnn">
+               <orgName role="hostingInstitution">Universität Salzburg</orgName>
+               <orgName role="project">Edition der Familienkorrespondenz Ferdinands I.</orgName>
+               <address>
+                  <addrLine>Paris Lodron Universität Salzburg PLUS</addrLine>
+                  <addrLine>Kapitelgasse 4</addrLine>
+                  <addrLine>A-5020 Salzburg - Österreich</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Salzburg</pubPlace>
+            <date type="publication">2015-07-09</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">
+                  <p>Creative Commons BY 3.0</p>
+               </licence>
+            </availability>
+            <idno type="DOI">nnnn</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="MS">Die Korrespondenz Ferdinands I. Familienkorrespondenz bis 1526</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">Die Korrespondenz Ferdinands I. Familienkorrespondenz bis 1526</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>
+                     <name>Holzhausen</name>
+                  </publisher>
+                  <publisher>
+                     <name>Kommission für Neuere Geschichte Österreichs</name>
+                  </publisher>
+                  <pubPlace>Wien</pubPlace>
+                  <date type="publication">1912</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="nognd">Ferdinand</persName>
+               <placeName ref="nognd">Wien</placeName>
+               <date>1537 Januar 16</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="nognd">Maria</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2022-08-09T08:57:06Z</date>
+               <name ref="nognd">Pitzer Doris</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="1"><!-- letter_header -->
+            <p>
+               <hi rendition="#b">370116FM.</hi>
+            </p>
+            <table rend="rules">
+               <row>
+                  <cell>
+                     <hi rendition="#i">Ferdinand an Maria.</hi>
+                  </cell>
+                  <cell>
+                     <hi rendition="#i">1537 Januar 16. Wien.</hi>
+                  </cell>
+               </row>
+            </table>
+         </div>
+         <div n="2" xml:lang="de"><!-- regest_de -->
+            <p>Hat erfahren, dass Landsknechte über die Pfalz, Hessen und Braunschweig an die (Nord)see ziehen, um von dort nach Dänemark und nicht – wie vorgesehen – nach England zu gelangen. Ersucht M, Erkundigungen darüber einzuholen und den Zug (nach Dänemark) gegebenenfalls zu stoppen. </p>
+         </div>
+         <div n="3" xml:lang="en"><!-- regest_en -->
+            <p>
+               <hi rendition="">Has learned that lansquenets are moving via the Palatinate, Hesse and Brunswick to the (North) Sea in order to reach Denmark from there and not – as planned – England. Asks M to gather information and to stop their intended passage (to Denmark).</hi>
+            </p>
+         </div>
+         <div n="4"><!-- archive_desc -->
+            <p>Brüssel, Archives générales du Royaume, Audience 1521, 154<hi rendition="">r-v</hi>. Or. RV <hi rendition="">Der durchleuchtigen furstin, frauen Maria, zu Hungern unnd Beheim etc. kunigin, witib, unser fruntlichen, lieben swester.</hi> Vermerk <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d5e102a1051" key="Niederlande"/>
+               </index>
+               <hi rendition="">.</hi> Eingangsvermerk von anderer Hand <hi rendition="">1537, recepi 6 februarii.</hi> GZ <persName xml:id="person_d5e109a1050"
+                         ref="nognd"
+                         resp="Christopher_F._Laferl"
+                         key="Cles">
+                  <hi rendition="">Cles</hi>
+               </persName>. Sekretär: <persName xml:id="person_d5e114a1050"
+                         ref="nognd"
+                         resp="Christopher_F._Laferl"
+                         key="Neuner, Hans, Sekretär">
+                  <hi rendition="">Neuner</hi>
+               </persName>. </p>
+            <p>
+               <hi rendition="">Druck:</hi>
+            </p>
+         </div>
+         <div type="letter" n="5"><!-- transcription -->
+            <p>Durchleuchtige furstin, fruntliche, liebe swesster, wir geben E. L. bruederlicher unnd fruntlicher maynung zu erkhennen, das unns furkombt, wie das sich etlich <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d5e126a1051" key="Landsknechte"/>
+               </index> haimlich durch <placeName xml:id="place_d5e128a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Kurpfalz">Phaltz</placeName>, <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d5e132a1051" key="Hessen"/>
+               </index>, <placeName xml:id="place_d5e134a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Braunschweig">Braunschweig</placeName> nach der <placeName xml:id="place_d5e137a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Nordsee">see</placeName> stellen, welhe volgennds in <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d5e142a1051" key="England"/>
+               </index> unnd nicht in <index resp="Christopher_F._Laferl">
+                  <term xml:id="index_d5e145a1051" key="Dänemark"/>
+               </index> farn sollen. Wo nu dem also were, hetten E. L. zu ermessen, das solhes der Rom. kay. M. etc. zu nacht[ei]l praticiert unnd furgenomen wurde. Demnach wir solhes E. L. der notturfft nach nit verhalten wellen, damit die in dem fal notdurfftige erfarung unnd erkhondigung hallte unnd, wo solhes dermass befunden, alsdann den knechten der durchzug abgestrickt unnd gewert werde, wie solhes E. L. zu der notdurfft ze thun werden wissen. Geben in unser stat <placeName xml:id="place_d5e147a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Wien">Wienn</placeName>, den 16. tag januarii anno etc. 37, unnserer reiche des Rom. im sibennden und der anndern im ailfften.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Bei dem genannten Sekretär handelt es sich um Hans Neuner, der in den Hofstaatsverzeichnissen aus den Jahren 1539 und 1544 als Hofstaatssekretär bzw. als deutscher Sekretär geführt wird, s. Fellner/Kretschmayr: Die österreichische Zentralverwaltung I, 157, 162. Zur Angelegenheit um Dänemark s. zuletzt n. 1035/5 vom 26. 8. 1536. Bezüglich des Zuzugs deutscher Landsknechte nach England s. auch n. 370228KFa/4 vom 28. 2. 1537.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

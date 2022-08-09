@@ -107,11 +107,11 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi> mon frere, je me recommande humblement à vostre bonne grace. J’ay recheu deux lettres de vous, de quoy humblement vous mercie de la bonne souvenance que vous aves de moy. J’ay fait bien mal mon devoir de vous escripre la response. Je vous prie qu’il vous plauye moy pardonner et pleut à dieu que nous fussions pleus pres l’un de l’autre, car s’et<hi rendition="#sup">a</hi>) l’un des pleus grans desirs que j’ay an se monde que de vous voir, afin que je vous puise ferre quelque servise, comme à mon bien aymé seigneur et frere. Et combien que je soie elongié<hi rendition="#sup">b</hi>) de vous, ne veullies lesser de moy escripre, an quoy je vous poroie servire pardesa et je la complerey de bonne vollonte. Sa set dieu, auquel je prie, mons<hi rendition="#sup">r</hi> mon frere qu’il vous doint bonne vie et longue et acomplisement de se que vostre ceure desire.</p>
-            <p>A <placeName xml:id="place_d9e128a1050"
+            <p>A <placeName xml:id="place_d10e128a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Brüssel">Bruselle</placeName> se 15<hi rendition="#sup">e</hi> de julet.</p>
-            <p>De vostre humble seur <persName xml:id="person_d10e119a1050"
+            <p>De vostre humble seur <persName xml:id="person_d11e119a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Eleonore von Österreich">Leonor</persName>.</p>
@@ -122,7 +122,7 @@
             <p>b) undeutlich geschrieben, wohl für <hi rendition="#i">eloignié.</hi>
             </p>
             <p>Das Datum dieses Briefes ist, soweit es die Jahrzahl betrifft, unsicher und schwer festzustellen. Das Jahr 1517 dürfte es nicht sein, da in diesem Falle Eleonora wohl nicht verabsäumt hätte, auf ihre unmittelbar bevorstehende Reise nach <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d9e144a1051" key="Spanien">Spanien </term>
+                  <term xml:id="index_d10e144a1051" key="Spanien">Spanien </term>
                </index>hinzuweisen. Anderseits scheint aus dem ganzen Ton des Briefes hervorzugehen, dass eine Zusammenkunft mit ihrem Bruder in nicht allzu entfernter Zukunft liege. Dies deutet auf 1516, in welchem Jahre man am Hofe zu Brüssel offiziell von einer baldigen Abfahrt nach den spanischen Königreichen sprach.</p>
          </div>
       </body>

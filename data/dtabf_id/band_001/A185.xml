@@ -107,24 +107,24 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>
-               <persName xml:id="person_d18e158a1050"
+               <persName xml:id="person_d19e158a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">Ludovicus</persName>, dei gratia rex Hungariẹ et Bohemiae etc., ser<hi rendition="#sup">mo</hi> principi domino Ferdinando, infanti Hispaniarum, archiduci Austriẹ, duci Burgundiae ac sancti Romani imperii locumtenenti generali, fratri et, sororio nostro char<hi rendition="#sup">mo</hi>, salutem et felicitatis continuum incrementum. Ser<hi rendition="#sup">me</hi> princeps, frater et sororie noster char<hi rendition="#sup">me</hi>. Scripserat nobis Ser<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi> proximis diebus ac etiam per rev<hi rendition="#sup">um</hi>
-               <persName xml:id="person_d190e121a1050"
+               <persName xml:id="person_d191e121a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Polydor von Brixen (Polidoro di Bressanone), Titularbischof von Oropus">Polydorum, episcopum Oropiensem</persName>, nuncium suum, nunciaverat ex parte cuiusdam <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d190e125a1051"
+                  <term xml:id="index_d191e125a1051"
                         key="Heirat, Peter (II.?) Erdödy von Monyorókerék et Monoszló mit Katharina Dersffy">matrimonii</term>
-               </index> inter fidelem nostrum egregium <persName xml:id="person_d190e128a1050"
+               </index> inter fidelem nostrum egregium <persName xml:id="person_d191e128a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Erdödy von Monyorókerék et Monoszló, Peter (II.?)">Petrum Erdewdi de Monyarokerek</persName> et honestam puellam <persName xml:id="person_d190e131a1050"
+                         key="Erdödy von Monyorókerék et Monoszló, Peter (II.?)">Petrum Erdewdi de Monyarokerek</persName> et honestam puellam <persName xml:id="person_d191e131a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Dersffy, Katharina, Nichte des Bans von Kroatien, Ferenc von Batthyány de Németújvár, Kammerfrau von F’s Gattin Anna">Catherinam Dersfy</persName>, camerariam ser<hi rendition="#sup">me</hi> sororis nostrae, consortis Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">rae</hi> charme, conficiendi. Qua in re nos libenter partes nostras interposuissemus, nisi interim, dum nuncius Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">rae</hi> apud nos egit, Petrus Erdewdy in aliud votum atque propositum, ut nobis dicitur, sese dimovisset. Quod si non contigisset, fuissemus in ea ipsa re, ut in omnibus solemus, quam libentissime V<hi rendition="#sup">rae</hi> Ser<hi rendition="#sup">ti</hi> gratificaturi. Reliqua prefatus Polydorus V<hi rendition="#sup">rae</hi> Ser<hi rendition="#sup">ti</hi> referet, quam felicissimam valere optamus.</p>
-            <p>Datum <placeName xml:id="place_d44e220a1050"
+            <p>Datum <placeName xml:id="place_d45e220a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Budapest">Budae</placeName>, 22. februarii anno domini 1526.</p>
@@ -140,7 +140,7 @@
             <p>In dem Entschuldigungsschreiben Peter Erdeödys an F vom 22. März 1526 aus Monyorokerek (<hi rendition="#i">feria V. post dominicain judica</hi>) erinnert er daran, daß F sich ihm stets als gnädig erwies, namentlich in der letzten Zeit, als B. Polydorus Oropiensis von F eigens delegiert wurde, <hi rendition="#i">ut matrimonium contrahendum inter neptem mag</hi>
                <hi rendition="#i #sup">ci</hi>
                <hi rendition="#i"> domini </hi>
-               <persName xml:id="person_d190e198a1050"
+               <persName xml:id="person_d191e198a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Batthyány de Németújvár, Ferenc, Ban von Kroatien">
@@ -172,7 +172,7 @@
                <hi rendition="#i #sup">rae</hi>
                <hi rendition="#i"> exarare intendo, repentino quodam angustoque temporis momento tante tamque frequentes diversorum competentium preces, obtestationes ac quasi coartationes animum meum solicitantes, imo perturbantes super me irruerunt, ut perspicienti ex hoc tam innumerabiles et varias emulationes ac odia inter primates nostros </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d18e162a1051" key="Ungarn"> </term>
+                  <term xml:id="index_d19e162a1051" key="Ungarn"> </term>
                </index>
                <hi rendition="#i">et. me oriundas, quo pedem citra talia pericula figere debuissem, michi ambiguum satis videretur, nisi preter ipsorum omnium spes ac solicitas petitiones aliquid tale medium, prout feci, delegissem, nec tamen a favore V</hi>
                <hi rendition="#i #sup">rae</hi>
@@ -189,7 +189,7 @@
                <hi rendition="#i"> conformarem, quam medio ipsius rev</hi>
                <hi rendition="#i #sup">mi</hi>
                <hi rendition="#i"> domini </hi>
-               <persName xml:id="person_d190e121a1050"
+               <persName xml:id="person_d191e121a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Polydor von Brixen (Polidoro di Bressanone), Titularbischof von Oropus">
