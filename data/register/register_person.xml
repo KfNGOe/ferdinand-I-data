@@ -357,24 +357,15 @@
             </item>
             <item>
                <note type="person">
-                  <persName xml:id="person_d32e249a1050">Bannissis, Jacobus de, Sekretär Maximilians I.</persName>
-               </note>
-               <note type="writings">
-                  <p>Jacobi Bannisii</p>
-               </note>
-               <note type="occurence">
-                  <p source="A029.xml">A29.</p>
-               </note>
-            </item>
-            <item>
-               <note type="person">
-                  <persName xml:id="person_d5e148a1050">Bannissis, Jacobus de, Sekretär Maximilians I. </persName>
+                  <persName xml:id="person_d5e148a1050">Bannissis, Jacobus de, Sekretär Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>Ja. de Bannissis.</p>
+                  <p>Jacobi Bannisii</p>
                </note>
                <note type="occurence">
                   <p source="A002.xml">A2.</p>
+                  <p source="A029.xml">A29.</p>
                </note>
             </item>
             <item>
@@ -396,24 +387,14 @@
             </item>
             <item>
                <note type="person">
-                  <persName xml:id="person_d176e97a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
-               </note>
-               <note type="writings">
-                  <p>Guillaume Basin</p>
-               </note>
-               <note type="occurence">
-                  <p source="A172.xml">A172.</p>
-               </note>
-            </item>
-            <item>
-               <note type="person">
-                  <persName xml:id="person_d156e103a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend </persName>
+                  <persName xml:id="person_d156e103a1050">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
                </note>
                <note type="writings">
                   <p>Guillaume Basin</p>
                </note>
                <note type="occurence">
                   <p source="A152.xml">A152.</p>
+                  <p source="A172.xml">A172.</p>
                </note>
             </item>
             <item>
