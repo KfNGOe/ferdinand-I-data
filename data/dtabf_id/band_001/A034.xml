@@ -111,10 +111,10 @@
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">M<hi rendition="#sup">me</hi>
-               </persName>, depuis mes dernieres lettres n’est survenu chose digne d’escripre, sinon que les trois princes ont assiegé une des meilleurs places de Francisque, laquelle ilz entendent à l’aide de dieu brief obtenir. Et est led. Francisque parti secretement et est allé en <placeName xml:id="place_d37e101a1050"
+               </persName>, depuis mes dernieres lettres n’est survenu chose digne d’escripre, sinon que les trois princes ont assiegé une des meilleurs places de Francisque, laquelle ilz entendent à l’aide de dieu brief obtenir. Et est led. Francisque parti secretement et est allé en <placeName xml:id="place_d36e101a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Lothringen">Lorraine</placeName> vers ung qui se nomme<persName xml:id="person_d37e104a1050"
+                          key="Lothringen">Lorraine</placeName> vers ung qui se nomme<persName xml:id="person_d36e104a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Pole, Richard de la, Herzog (Earl) von Suffolk, genannt &#34;La blanche Rose&#34;"> La blanche Rose</persName>. Lequel a assemblé à ce que l’on dit six mil pietons pour iceulx mener à l’encontre des pays de pardela et sollicite led. Francisque que au passer ilz lui soient en aide à lever le siege que lesd. princes tiennent devant sond. chasteau.</p>
@@ -137,7 +137,7 @@
             <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Die Nachricht von der geheimen Abreise Sickingens nach Lothringen ist falsch und vielleicht darauf zurückzuführen, dass dessen jüngster Sohn Franz Konrad damals <placeName xml:id="place_d35e221a1050"
+            <p>Die Nachricht von der geheimen Abreise Sickingens nach Lothringen ist falsch und vielleicht darauf zurückzuführen, dass dessen jüngster Sohn Franz Konrad damals <placeName xml:id="place_d34e221a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Landstuhl">Landstuhl</placeName> verließ.</p>

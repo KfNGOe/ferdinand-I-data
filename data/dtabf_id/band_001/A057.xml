@@ -100,7 +100,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Ludwig II.">L</persName> in Kroatien zur <index resp="Abel_Laura">
-                  <term xml:id="index_d38e130a1051" key="Türkenabwehr">Verteidigung gegen die Türken</term>
+                  <term xml:id="index_d37e130a1051" key="Türkenabwehr">Verteidigung gegen die Türken</term>
                </index> getroffen habe. Erfuhr von allen Seiten und besonders <hi rendition="#i">ex ipsis literis Ser</hi>
                <hi rendition="#i #sup">tis</hi>
                <hi rendition="#i">V</hi>
@@ -138,7 +138,7 @@
                <hi rendition="#i">principi et domino Ludovico Hungariẹ et Boemiẹ etc. regi, marchioni Moraviẹ etc., domino et sororio nostro col</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">.</hi> Als Datum: <hi rendition="#i">Datum </hi>
-               <placeName xml:id="place_d52e136a1050"
+               <placeName xml:id="place_d51e136a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Nürnberg ">
@@ -149,12 +149,12 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>Die Kosten der Ausrüstung der 200 Pferde, wofür man ungefähr 1500 Gulden veranschlagte, sollten aus den Aufschlägen in <index resp="Abel_Laura">
-                  <term xml:id="index_d60e192a1051" key="Krain">Krain</term>
+                  <term xml:id="index_d59e192a1051" key="Krain">Krain</term>
                </index> gedeckt werden. Mon. Hist. Hung., S. 282. Auch Proviantankäufe in <index resp="Abel_Laura">
-                  <term xml:id="index_d60e196a1051" key="Steiermark">Steiermark</term>
+                  <term xml:id="index_d59e196a1051" key="Steiermark">Steiermark</term>
                </index>, <index resp="Abel_Laura">
-                  <term xml:id="index_d60e200a1051" key="Kärnten">Kärnten</term>
-               </index>, Krain und <placeName xml:id="place_d60e203a1050"
+                  <term xml:id="index_d59e200a1051" key="Kärnten">Kärnten</term>
+               </index>, Krain und <placeName xml:id="place_d59e203a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Celje">Cilli</placeName> sollten stattfinden und der Provianttransport überall gefördert werden. Ebenda, S. 280 f.</p>

@@ -96,16 +96,16 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>In den letzten Tagen hat Gf. <persName xml:id="person_d34e87a1050"
+            <p>In den letzten Tagen hat Gf. <persName xml:id="person_d33e87a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Bernhard von">Bernhard de Frangipanibus </persName>samt seinen Söhnen <persName xml:id="person_d34e90a1050"
+                         key="Frangepan, Bernhard von">Bernhard de Frangipanibus </persName>samt seinen Söhnen <persName xml:id="person_d33e90a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Christoph von">Cristoforus</persName> und <persName xml:id="person_d34e93a1050"
+                         key="Frangepan, Christoph von">Cristoforus</persName> und <persName xml:id="person_d33e93a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Frangepan, Ferdinand von">Ferdinand</persName> mit einer nicht unbeträchtlichen Anzahl deutscher Soldaten die Stadt <placeName xml:id="place_d34e96a1050"
+                         key="Frangepan, Ferdinand von">Ferdinand</persName> mit einer nicht unbeträchtlichen Anzahl deutscher Soldaten die Stadt <placeName xml:id="place_d33e96a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Senj">Zengg</placeName>
@@ -182,7 +182,7 @@
                </index>
                <hi rendition="#i">, duci </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d34e264a1051" key="Burgund, Herzogtum"/>
+                  <term xml:id="index_d33e264a1051" key="Burgund, Herzogtum"/>
                </index>
                <hi rendition="#i">, principi </hi>
                <index resp="Hofer-Bindeus_Johannes">
@@ -195,7 +195,7 @@
                <hi rendition="#i"> vicario, fratri et sororio nostro char</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">. Als Datum: Datum in castro nostro </hi>
-               <placeName xml:id="place_d34e280a1050"
+               <placeName xml:id="place_d33e280a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Šintava">
