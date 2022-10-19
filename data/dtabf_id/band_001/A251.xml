@@ -104,14 +104,14 @@
                <hi rendition="#i">hunc fidelem nostrum, rev</hi>
                <hi rendition="#i #sup">mum</hi>
                <hi rendition="#i">dominum </hi>
-               <persName xml:id="person_d89e204a1050"
+               <persName xml:id="person_d90e204a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Brodaric">
                   <hi rendition="#i">Stephanum Brodericum</hi>
                </persName>
                <hi rendition="#i">, dominum, dominum episcopum </hi>
-               <placeName xml:id="place_d254e109a1050"
+               <placeName xml:id="place_d255e109a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sremska Mitrovica">
@@ -129,7 +129,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d249e134a1050"
+            <p>Wien, St.-A. Original, Siegel abgefallen. Eigenhändige Unterschrift : <hi rendition="#i">E. S. V. obediens soror Maria etc</hi>. Rechts unten vermerkt: <persName xml:id="person_d250e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">

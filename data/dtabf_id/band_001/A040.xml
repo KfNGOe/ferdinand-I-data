@@ -97,24 +97,24 @@
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
             <p>ln diesen Tagen haben die Bürger der Stadt Ödenburg <hi rendition="#i">(cives </hi>
-               <placeName xml:id="place_d42e89a1050"
+               <placeName xml:id="place_d43e89a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sopron">
                   <hi rendition="#i">Sopronienses</hi>
                </placeName>
                <hi rendition="#i">)</hi> mitgeteilt, es sei ihnen die Ausfuhr des <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d42e96a1051" key="Wein, Ausfuhr, Sopron">Weines</term>
+                  <term xml:id="index_d43e96a1051" key="Wein, Ausfuhr, Sopron">Weines</term>
                </index>
                <hi rendition="#i">per civitates </hi>
-               <placeName xml:id="place_d42e101a1050"
+               <placeName xml:id="place_d43e101a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Bruck an der Leitha">
                   <hi rendition="#i">Pruk</hi>
                </placeName>
                <hi rendition="#i"> et </hi>
-               <placeName xml:id="place_d42e106a1050"
+               <placeName xml:id="place_d43e106a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Hainburg">
@@ -130,7 +130,7 @@
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i">inhibitam per regentes eiusdem, licet a ser</hi>
                <hi rendition="#i #sup">mis</hi>
-               <persName xml:id="person_d42e130a1050"
+               <persName xml:id="person_d43e130a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Friedrich III., Kaiser">
@@ -170,7 +170,7 @@
          <div n="4"><!-- archive_desc -->
             <p>Wien, St.-A. Hungarica 1. Or. mit eigenhändiger Unterschrift. Siegel abgefallen. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">principi, domino Ferdinando, principi Hyspaniarum, archiduci Austrie, duci Burgundie etc., sacri Romani imperii vicario generali, fratri et sororio nostro charmo. </hi>Als Datum: <placeName xml:id="place_d42e220a1050"
+               <hi rendition="#i">principi, domino Ferdinando, principi Hyspaniarum, archiduci Austrie, duci Burgundie etc., sacri Romani imperii vicario generali, fratri et sororio nostro charmo. </hi>Als Datum: <placeName xml:id="place_d43e220a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Budapest">
