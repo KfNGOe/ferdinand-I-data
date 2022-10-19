@@ -106,29 +106,29 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 170, S. 356.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mon bon frere, j’ai receu voz lettres par <persName xml:id="person_d161e238a1050"
+            <p>Mon bon frere, j’ai receu voz lettres par <persName xml:id="person_d160e238a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salamanca, Francisco de">Francisco de Salamanca</persName>, present pourteur, et ai eu plaisir de l’election de <persName xml:id="person_d45e106a1050"
+                         key="Salamanca, Francisco de">Francisco de Salamanca</persName>, present pourteur, et ai eu plaisir de l’election de <persName xml:id="person_d44e106a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Georg von Österreich">Don George</persName> à <placeName xml:id="place_d24e198a1050"
+                         key="Georg von Österreich">Don George</persName> à <placeName xml:id="place_d23e198a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Brixen">l’evesché de Brixenne</placeName>, sur laquelle evesché ai fait faire les despeches telz que par iceulx pourrez faire veoir et entendre conforme à ce que voz gens ont demandé de vostre part.</p>
-            <p>Je vous eusse voluntiers despeché <persName xml:id="person_d41e249a1050"
+            <p>Je vous eusse voluntiers despeché <persName xml:id="person_d40e249a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Córdoba, Pedro de">Don Pedro de Cordova</persName>, comme vous ai escript que feroie, mais à cause que maintenant se communicque sur le fait de la <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">paix</term>
-               </index> d’entre moi et le <persName xml:id="person_d21e327a1050"
+                  <term xml:id="index_d124e645a1051" key="Madrid, Friede von (1526)">paix</term>
+               </index> d’entre moi et le <persName xml:id="person_d20e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Franz I.">roi de France</persName> et aussi d’entre <persName xml:id="person_d53e635a1050"
+                         key="Franz I.">roi de France</persName> et aussi d’entre <persName xml:id="person_d52e635a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">le pape</persName> et moi avec autres grans affaires, concernans le bien commung de nous deux, de quoi bien amplement j’entendz vous advertir par led. Don Pedro, à ceste cause je l’ai encoires retenu et espere le faire partir endedens 12 ou 15 jours. A ceste cause ne vous ferai pour ceste fois plus longue lettre. Priant dieu etc.</p>
-            <p>A <placeName xml:id="place_d140e752a1050"
+            <p>A <placeName xml:id="place_d139e752a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le 9<hi rendition="#sup">e</hi> de janvier 1526.</p>
