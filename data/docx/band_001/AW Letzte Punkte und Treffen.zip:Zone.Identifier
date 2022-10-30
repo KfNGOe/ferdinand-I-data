@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://webmail.mymagenta.business/appsuite/signin
+HostUrl=https://webmail.mymagenta.business/appsuite/api/mail?action=zip_attachments&folder=default0%2FINBOX&id=74225&attachment=2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14&decrypt=&session=120e2e9a3eff44a7bad19a34a7ce580b&callback=antivirus
