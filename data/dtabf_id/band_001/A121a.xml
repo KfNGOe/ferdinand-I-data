@@ -185,14 +185,14 @@
          <div n="6"><!-- commentary -->
             <p>Kommentar der Herausgeber der digitalen Edition: Der Brief Nr. A121 der gedruckten Edition wurde aus technischen Gründen in zwei Briefe aufgeteilt: Nr. A121a und A121b.</p>
             <p>a) ursprünglich folgte: <hi rendition="#i">et qu’il dit avoir esté accorde à </hi>
-               <persName xml:id="person_d23e98a1050"
+               <persName xml:id="person_d24e98a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hemricourt">
                   <hi rendition="#i">Hemericourt</hi>
                </persName>
                <hi rendition="#i"> que par </hi>
-               <persName xml:id="person_d48e241a1050"
+               <persName xml:id="person_d49e241a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">
@@ -215,7 +215,7 @@
                <hi rendition="#i #sup">xx</hi>
                <hi rendition="#i">et dix mil</hi> W.</p>
             <p>Damit waren die Forderungen des Pfalzgfen nicht erschöpft. Gerade damals richtete der Ehg. an Mg die Mitteilung, daß Friedrich von ihm die Zahlung von 2000 fl. rh. verlangt habe, die ihm <hi rendition="#i">par les statutz imperiaulx</hi> auf die alten Reichssteuern angewiesen worden sind. Da aber augenblicklich die Erhaltung der Reichskammer und die eilende <index resp="Abel_Laura">
-                  <term xml:id="index_d37e130a1051" key="Türkenabwehr">Türkenhilfe </term>
+                  <term xml:id="index_d38e130a1051" key="Türkenabwehr">Türkenhilfe </term>
                </index>so viel Geld verschlungen habe, so habe das Reichsregiment gemeint, daß man dem Pfalzgfen jene Quote zuweise, welche das Hgtum Burgund dem Reiche beizusteuern habe. Lille, Arch. depart. Lettres missives, portf. 50. Französische Übersetzung aus dem Lateinischen.</p>
             <p>d) W<hi rendition="#sup">1</hi>
                <hi rendition="#i">en</hi>. </p>
