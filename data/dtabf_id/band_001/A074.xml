@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:16Z</date>
+               <date>2022-11-12T09:58:40Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,8 @@
             <p>1. Accreditation for Bredam. 2. Asks K to take action against the Lutherans.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Eigenhändig von F geschriebenes Original mit Papiersiegel.</p>
+            <p>Wien, St.-A. Belgica PA. 7. Eigenhändig von F geschriebenes Original mit Papiersiegel. Rückwärts eigenhändig geschriebene Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>. </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 74, S. 146.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -121,8 +122,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts eigenhändig geschriebene Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>a) <hi rendition="#i">comme </hi>darnach getilgt. </p>
             <p>b) hier beginnt ein Tintenwechsel.</p>
          </div>

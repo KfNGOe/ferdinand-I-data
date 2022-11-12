@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">*A44.</title>
-            <title type="sub">Karl an Ferdinand, 1523 August 15, ValladolidO: Valladolid.</title>
+            <title type="sub">Karl an Ferdinand, 1523 August 15, Valladolid.</title>
             <author>
                <persName ref="nognd">Karl</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Karl</persName>
-               <placeName ref="nognd">ValladolidO: Valladolid</placeName>
+               <placeName ref="nognd">Valladolid</placeName>
                <date>1523 August 15</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:56:41Z</date>
+               <date>2022-11-12T09:55:35Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -90,7 +90,7 @@
                      <hi rendition="#i">Karl an Ferdinand.</hi>
                   </cell>
                   <cell>
-                     <hi rendition="#i">1523 August 15. [Valladolid.]</hi>
+                     <hi rendition="#i">1523 August 15. (Valladolid).</hi>
                   </cell>
                </row>
             </table>

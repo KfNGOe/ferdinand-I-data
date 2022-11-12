@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:09:58Z</date>
+               <date>2022-11-12T10:10:57Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,12 @@
             <p>1. Has received Mg's letter dated May 5. 2. Uprising in Milan. 3. Another five-week prorogation in the trial in Maastricht.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de lʼÉtat et de lʼAud., vol. 93, Bl. 14. Original.</p>
+            <p>Brüssel, Arch. gén. Papiers de lʼÉtat et de lʼAud., vol. 93, Bl. 14. Original. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 198, S. 386-387.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -115,7 +120,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bourbon">mons<hi rendition="#sup">r</hi> de Bourbon</persName>, car de longtemps les bateaulx sont partis pour l’aller querre. S’il me survient quelque autre chose, rendrai tousiours devoir vous en incontinant participer.</p>
-            <p>Touchant l’affaire de <placeName xml:id="place_d168e138a1050"
+            <p>Touchant l’affaire de <placeName xml:id="place_d168e137a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Maastricht">Mastrecht</placeName> dont dictes, m<hi rendition="#sup">me</hi>, le terme de trois sepmaines estre trop court pour pouoir traicter d’icellui, comme vous en avoie escript, j’ai de rechief suivant vostre desir obtenu prorogacion de cinq sepmaines, durant lequel temps vous prie, m<hi rendition="#sup">me</hi>, y faire telle provision que plus grant mal ne s’en ensuive, car autrement la chambre imperiale y procedera plus avant. M<hi rendition="#sup">me</hi>, ma bonne tante, je prie atant le createur qui vous doint bonne vie et longue.</p>
@@ -126,12 +131,6 @@
             <p>Vostre<hi rendition="#sup">b</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’arclriducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) Lücke.</p>
             <p>Der Brief Mg's vom 5. Mai wurde nicht aufgefunden.</p>
             <p>Der blutige Aufstand in Mailand erfolgte am 16. Juni. Es kam auch zu Plünderungen vonseiten der schlecht bezahlten kaiserlichen Söldner, die nur mit Mühe hintangehalten werden konnten. Baumgarten 2, S. 507f.</p>

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:57:32Z</date>
+               <date>2022-11-12T09:56:38Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,7 @@
             <p>Intercession on behalf of Doctor Adan de Forcz, who wishes to return home to Aragonia.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA 7. Original.</p>
+            <p>Wien, St.-A. Belgica PA 7. Original. Rückwärts Adresse:</p>
             <p>Druck: Lanz, Jahrb. der Literatur 112, S. 42. Familienkorrespondenz Bd. 1, Nr. 54, S. 95-96.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -130,7 +130,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse:</p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
             <p>K versprach, dem Wunsche F’s willfahren zu wollen, Nr. A62.</p>
             <p>Dieser Adan de Forcz scheint mit der von <persName xml:id="person_d24e101a1050"

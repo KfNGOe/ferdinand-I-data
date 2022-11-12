@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:07:27Z</date>
+               <date>2022-11-12T10:08:04Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -110,9 +110,9 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Dyr, Sigismund de">Sigismond de Dyr</persName> m’a fait tant en mes guerres que autrement je l’ai en bonne recommandacion et desire lui bien faire et advancer. A ceste cause, ayant entendu que ou quartier de <index resp="Abel_Laura">
-                  <term xml:id="index_d60e192a1051" key="Krain">Carniole</term>
+                  <term xml:id="index_d60e188a1051" key="Krain">Carniole</term>
                </index> dont il est y a ung office à vostre disposicion, qui s’appelle wistunck de Carniole, lequel duiroit fort aud. Sigismond pour sa retraicte, je vous prie, mon bon frere, que, si led. office vient à vacquer, l’en vuillez pourveoir et le preferer en ce à tous autres que ne l’auroient si bien merité, l’ayant ausurplus en ses affaires pour recommandé. Et vous me ferez agreable plesir. Mon bon frere, nostre seigneur vous doint ce que plus desirez.</p>
-            <p>De <placeName xml:id="place_d140e752a1050"
+            <p>De <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le 16<hi rendition="#sup">e</hi> du mois de decembre 1525.</p>

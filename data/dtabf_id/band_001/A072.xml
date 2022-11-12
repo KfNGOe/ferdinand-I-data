@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:06Z</date>
+               <date>2022-11-12T09:58:28Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,8 @@
             <p>1. Has received K's letters from December, January and March 3. Is pleased that Fuentarabias has been seized. 2. Will satisfy Bourbon's, Lannoy's and Beaurain's requests and support the Emperor in Italy. 3. Count Palatine Frederick. 4. Taxing the empire's churches and subjects is impossible at this point in time. Difficulties obtaining a brief as regards the church tax in Austria. 5. Will push ahead the imperial ban and confiscation against the King of France. 6. Dissolution of the army and entry into Burgundy. Suspicions regarding Salamanca. 7. Armament in Ferrette. Reasons he is traveling to Austria. 8. Is sending 5,000 men to Italy. 9. Apologizes for not replying to K's letters sooner.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W.) Wien, St.-A. Belgica PA. 7. Original.</p>
+            <p>(W.) Wien, St.-A. Belgica PA. 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>. </p>
             <p>(W<hi rendition="#sup">1</hi>.) Ebenda, Hs. B 597 I, 25—27.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 72, S. 138-141.</p>
          </div>
@@ -127,7 +128,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Friedrich II.">conte Palatin Frederick</persName>, auquel avant la reception de vostre lettre ai fait bailler 5000 florins d’or à bon compte de ce que lui pouoit estre deu, car autrement il s’en vouloit aller de la <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">diete</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">diete</term>
                </index> de <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -136,10 +137,10 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannart</persName> pour lever <index resp="Abel_Laura">
-                  <term xml:id="index_d59e374a1051" key="HRR, Kirchensteuer">l’aide sur les eglises</term>
+                  <term xml:id="index_d59e372a1051" key="HRR, Kirchensteuer">l’aide sur les eglises</term>
                </index> à vous et au sainte empire subiectes, nous avons par ensemble advisé et bien pensé, par quel moyen l’on y pourroit besoingner, ce que n’avons sceu trouver, et est, mons<hi rendition="#sup">r</hi>, chose bien mal possible d’y parvenir tant à cause de ceste <index resp="Abel_Laura">
                   <term xml:id="index_d29e217a1051" key="Lutheraner">secte Luterianne</term>
-               </index> que d’autres rebellions, mouvemens et difficultéz, estans presentement en icellui empire. Et vous avise mons<hi rendition="#sup">r</hi> que j’ai impetré de <persName xml:id="person_d53e635a1050"
+               </index> que d’autres rebellions, mouvemens et difficultéz, estans presentement en icellui empire. Et vous avise mons<hi rendition="#sup">r</hi> que j’ai impetré de <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">nostre sainct pere</persName> pour<hi rendition="#sup">b</hi>) aucunement survenir aux affaires de la guerre contre <persName xml:id="person_d26e215a1050"
@@ -149,7 +150,7 @@
                   <term xml:id="index_d21e249a1051" key="Schwäbischer Bund">ligue de Zuwave</term>
                </index>.</p>
             <p>Touchant ce que m’avez mons<hi rendition="#sup">r</hi> mandé et aussi à vostre regiment pour faire proceder au <index resp="Abel_Laura">
-                  <term xml:id="index_d75e199a1051" key="HRR, Reichsbann">ban imperial </term>
+                  <term xml:id="index_d75e205a1051" key="HRR, Reichsbann">ban imperial </term>
                </index>et confiscation contre <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -200,14 +201,12 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>a) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i"> — recommande</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
             <p>Unter dem Brief vom Jänner ist vermutlich Nr. A56 gemeint. Der vom 3. März ist nicht auffindbar.</p>
             <p>Mg schrieb am 7. oder 8. April an Hannart, daß Fuentarabia genommen sei, <hi rendition="#i">mais ce a esté par appointement, </hi>nachdem es zwei Breschen erhalten hatte. Brüssel, Arch. gén. Secret. de l'Ét. et de lʼAud. Diètes 1. Original. — Die Burg kam am 27. Februar in den Besitz der Kaiserlichen. Lanz 1, S. 96.</p>
-            <p>Worin die gute Abfertigung des Gesandten des Pfalzgfen bestand, erfährt man aus dem Schreiben K’s an <persName xml:id="person_d10e128a1050"
+            <p>Worin die gute Abfertigung des Gesandten des Pfalzgfen bestand, erfährt man aus dem Schreiben K’s an <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">Mg</persName> 1524, März 23, <placeName xml:id="place_d49e222a1050"

@@ -56,7 +56,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:03:18Z</date>
+               <date>2022-11-12T10:03:19Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -87,7 +87,7 @@
          </div>
          <div n="4"><!-- archive_desc -->
             <p>(W) Wien, St.-A. Urkundenrepert. 1. Original. Instruktion (Auszug aus Nr. 76) und Beantwortung in zwei Kolumnen von zwei verschiedenen Händen geschrieben. Die Antwort rührt wahrscheinlich von der Hand L'Allemands selbst her.</p>
-            <p>(Wl) Ebenda, Belgica PA 5. Konzept der Antwort mit zwei Einschüben und Verbesserungen von anderer Hand.</p>
+            <p>(W<hi rendition="#sup">1</hi>) Ebenda, Belgica PA 5. Konzept der Antwort mit zwei Einschüben und Verbesserungen von anderer Hand.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 121 I., S. 253-258.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -183,7 +183,7 @@
             </table>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Kommentar der Herausgeber der digitalen Edition: Der Brief Nr. A121 der gedruckten Edition wurde aus technischen Gründen in zwei Briefe aufgeteilt: Nr. A121a und A121b.</p>
+            <p>Kommentar der Herausgeber der digitalen Edition: Der Brief Nr. 121 der gedruckten Edition wurde aus technischen Gründen in zwei Briefe aufgeteilt: Nr. A121a und A121b.</p>
             <p>a) ursprünglich folgte: <hi rendition="#i">et qu’il dit avoir esté accorde à </hi>
                <persName xml:id="person_d24e98a1050"
                          ref="nognd"
@@ -198,11 +198,11 @@
                          key="Hannart">
                   <hi rendition="#i">Hannart</hi>
                </persName>
-               <hi rendition="#i"> l’on lui envoieroit la commission de pouvoir publier le paitaige et les pouvoir tenir en propre nom, vrai est que l’on accorda, moyennant que mons</hi>
+               <hi rendition="#i"> l’on lui envoieroit la commission de pouvoir publier le partaige et les pouvoir tenir en propre nom, vrai est que l’on accorda, moyennant que mons</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i"> pour les aides que les subgectz lui feroient, en tel cas quittasse les 200,000 ducas de son mariage et ce qu’il dit avoir payé ou nom de sa m</hi>
                <hi rendition="#i #sup">te</hi>
-               <hi rendition="#i"> au duc de Saxen, George, et puis que maintenant les 200,000 ducas sont consignez sur l’appoinctement des Veniciens, sa m</hi>
+               <hi rendition="#i"> au duc de Saxen, George, et puis que maintenant les 200,000 ducas sont consignéz sur l’appoinctement des Veniciens, sa m</hi>
                <hi rendition="#i #sup">te</hi>
                <hi rendition="#i"> est contant que moyennant l’acquit dud. George icelle commission de publication se face.</hi>
             </p>
@@ -220,7 +220,7 @@
             <p>d) W<hi rendition="#sup">1</hi>
                <hi rendition="#i">en</hi>. </p>
             <p>Vgl. Bauer, S. 205.</p>
-            <p>Die Urkunde über die Veröffentlichung der Übergabe Tirols, der Vorlande und Württembergs trägt das Datum 15. Februar 1525. Die Mandate über die Eidesleistung wurden aber erst am 31. Oktober desselben Jahres erfassen. Bauer, S. 233, 235.</p>
+            <p>Die Urkunde über die Veröffentlichung der Übergabe Tirols, der Vorlande und Württembergs trägt das Datum 15. Februar 1525. Die Mandate über die Eidesleistung wurden aber erst am 31. Oktober desselben Jahres erlassen. Bauer, S. 233, 235.</p>
          </div>
       </body>
    </text>

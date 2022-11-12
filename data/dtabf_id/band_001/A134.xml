@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:04:31Z</date>
+               <date>2022-11-12T10:04:43Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>1. Requests an audience for Bredam and Salinas. Ugo de Moncada. 2. Intercession on behalf of Count Salm.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien. St.-A. Belgica PA 7. Original, durchwegs von F's Hand.</p>
+            <p>Wien. St.-A. Belgica PA 7. Original, durchwegs von F's Hand. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 134, S. 281-282.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -112,10 +115,10 @@
                          key="Bredam">Bredam</persName> et a <persName xml:id="person_d24e101a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salinas">Martin de Salinas</persName>, estant contté V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, aulcunes chosses qu’il vous diront de part moy, aulx queulx ou celluy d’eulx que y sera vous suplie tres humblement vouloir benigne audience et croire ce que depar moy il vous diront, et de ce que requiert briefe response leur vouloir doner, quant et quant<hi rendition="#sup">a</hi>) don <persName xml:id="person_d138e122a1050"
+                         key="Salinas">Martin de Salinas</persName>, estant contté V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, aulcunes chosses qu’il vous diront de part moy, aulx queulx ou celluy d’eulx que y sera vous suplie tres humblement vouloir benigne audience et croire ce que depar moy il vous diront, et de ce que requiert briefe response leur vouloir doner, quant et quant<hi rendition="#sup">a</hi>) don <persName xml:id="person_d138e129a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Moncada, Ugo de">Ugo de Moncada</persName> et des aultres articles, leur<hi rendition="#sup">b</hi>) baillier teile response et sy benigne, come j'espere de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>.</p>
+                         key="Moncada, Ugo de">Ugo de Moncada</persName> et des aultres articles, leur<hi rendition="#sup">b</hi>) baillier telle response et sy benigne, come j'espere de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>.</p>
             <p>Mons<hi rendition="#sup">r</hi>, je vous suplie avoir aussy le <persName xml:id="person_d21e538a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -131,10 +134,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">quat</hi> Original. - b) <hi rendition="#i">lur</hi> Original.</p>
             <p>Hugo de Moncada geriet in die französische Gefangenschaft und wurde erst später gegen <persName xml:id="person_d21e336a1050"
                          ref="nognd"
@@ -142,7 +141,7 @@
                          key="Montmorency, Anne de">Montmorency</persName> ausgewechselt. Lanz 1, S. 161. Es scheint sich hier darum gehandelt zu haben, Schritte für dessen Freilassung einzuleiten.</p>
             <p>c) <hi rendition="#i">dever </hi>Original.</p>
             <p>Neuerdings wird Salms Verdienst um die <index resp="Abel_Laura">
-                  <term xml:id="index_d138e190a1051" key="Franz I., Gefangennahme">Gefangennahme Kg Franz’ I.</term>
+                  <term xml:id="index_d138e189a1051" key="Franz I., Gefangennahme">Gefangennahme Kg Franz’ I.</term>
                </index>, namentlich die Mitteilung, daß er des Kgs Pferd getötet habe, bezweifelt. E. v. Borries, Über Franz' I. Gefangennahme. Deutsche Zeitschr. f. Geschichtsw. 6, S. 371. — Der vorliegende Brief beweist aber gegenüber den dort niedergelegten Anschauungen, daß Salm wohl seinen Anteil geltend gemacht hat.</p>
          </div>
       </body>

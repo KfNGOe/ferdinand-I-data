@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:18Z</date>
+               <date>2022-11-12T09:57:32Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -96,7 +96,7 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Erhielt gestern ein päpstliches Breve, worin ihm <persName xml:id="person_d53e635a1050"
+            <p>Erhielt gestern ein päpstliches Breve, worin ihm <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">Klemens VII</persName>. mitteilt, er habe von glaubwürdiger Seite erfahren, daß L mit dem <persName xml:id="person_d26e215a1050"
@@ -153,11 +153,17 @@
          <div n="4"><!-- archive_desc -->
             <p>Wien, St.-A. Hungarica 1. Original mit eigenhändiger Unterschrift: <hi rendition="#i">E. Ser</hi>
                <hi rendition="#i #sup">tis</hi>
-               <hi rendition="#i">V</hi>
+               <hi rendition="#i"> V</hi>
                <hi rendition="#i #sup">re</hi>
-               <hi rendition="#i"> minor frater et bonus sororius Ferdinandus.</hi> Vermerkt: <hi rendition="#i">Spiegel.</hi> — Siegel abgefallen. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
+               <hi rendition="#i"> minor frater et bonus sororius Ferdinandus.</hi> Vermerkt: <persName xml:id="person_d66e212a1050"
+                         ref="nognd"
+                         resp="Christopher_F._Laferl"
+                         key="Spiegel, Jakob">
+                  <hi rendition="#i">Spiegel</hi>
+               </persName>
+               <hi rendition="#i">.</hi> — Siegel abgefallen. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">principi domino, domino Ludovico, regi Hungariẹ et Bohemiẹ etc., marchioni Moraviẹ etc., domino et sororio nostro col</hi>
+               <hi rendition="#i"> principi domino, domino Ludovico, regi Hungariẹ et Bohemiẹ etc., marchioni Moraviẹ etc., domino et sororio nostro col</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">.</hi>
             </p>
@@ -173,7 +179,7 @@
             <p>Druck: Firnhaber, Quellen und Forschungen, S. 109. Familienkorrespondenz Bd. 1, Nr. 63, S. 110-111.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Wenn F schreibt, er habe von Friedensunterhandlungen zwischen L und dem Sultan schon vorher gerüchtweise erfahren, so ist dies unwahr und nur gesagt, um, wie es scheint, die diplomatische Blöße zu verdecken, die sich <persName xml:id="person_d52e147a1050"
+            <p>Wenn F schreibt, er habe von Friedensunterhandlungen zwischen L und dem Sultan schon vorher gerüchtweise erfahren, so ist dies unwahr und nur gesagt, um, wie es scheint, die diplomatische Blöße zu verdecken, die sich <persName xml:id="person_d52e145a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Schnaitpeck">Johann Schnaitpeck</persName>, K's und F's Gesandter in <index resp="Abel_Laura">
@@ -185,7 +191,7 @@
                           key="Nürnberg">Nürnberg</placeName> gelangt zu sein, da am 13. d. M. <persName xml:id="person_d49e241a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Hannart">Hannart </persName>an <persName xml:id="person_d10e128a1050"
+                         key="Hannart">Hannart </persName>an <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">Mg</persName> schreibt, es sei zu fürchten, daß Kg L <hi rendition="#i">ne prendre tresve avec exclusion de l’empereur et aprèz le tout tourneroit sur </hi>
@@ -194,7 +200,7 @@
                </index>
                <hi rendition="#i">, </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d66e271a1051" key="Sizilien"/>
+                  <term xml:id="index_d66e272a1051" key="Sizilien"/>
                </index>
                <hi rendition="#i">et </hi>
                <index resp="Hofer-Bindeus_Johannes">

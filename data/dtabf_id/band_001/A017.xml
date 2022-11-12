@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">*A17.</title>
-            <title type="sub">Karl an Ferdinand, 1522 Juli 18, SantanderO: Santander.</title>
+            <title type="sub">Karl an Ferdinand, 1522 Juli 18, Santander.</title>
             <author>
                <persName ref="nognd">Karl</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Karl</persName>
-               <placeName ref="nognd">SantanderO: Santander</placeName>
+               <placeName ref="nognd">Santander</placeName>
                <date>1522 Juli 18</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:54:22Z</date>
+               <date>2022-11-12T09:52:49Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>

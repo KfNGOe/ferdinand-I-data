@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:55:34Z</date>
+               <date>2022-11-12T09:54:15Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -144,14 +144,7 @@
                          key="Burgo">Andreas de Burgo </persName>gesprochen und ihn gebeten, darüber weiteres zu berichten.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
-            <p>In the last days Count Bernhard de Frangipabibus together with his sons Cristoforus and Ferdinand attacked the city of Zengg <hi rendition="#i">(civitatem nostram Segniensem) </hi>with a not inconsiderable number of German soldiers <hi rendition="#i">et more hostili depopulato eius agro non minori sevitia, quam si </hi>
-               <persName xml:id="person_d26e215a1050"
-                         ref="nognd"
-                         resp="Hofer-Bindeus_Johannes"
-                         key="Süleyman I.">
-                  <hi rendition="#i">Turcus </hi>
-               </persName>
-               <hi rendition="#i">esset, ipsam civitatem obsidione cinxerat admotisque machinis expugnare conatus est, addens tanto sceleri vana quoque verba ausus est, nanque homo nepharius affirmare se non propriis solum viribus fretum eam expedicionem suscepisse, sed Sertis Vre suasu et auxilio, ut facilius ad dedicionem cives impellerentur. </hi>Since we cannot believe this, because Count Bernhard <hi rendition="#i">sit homo impacentissimus quietis, ingenii subdoli propositi instabilis, . . . qui propter ipsius multa facinora, cum sepius et debuissemus et potuissemus eum opprimere, omisimus tribuentes id etati eius et iniquitati temporis, . . . nec credimus vel benignitatem nostram vel hostis communis conatus ab insania ipsum Bernardinum posse removere </hi>and although he was forced by the Banus of Croatia and the border guards to the disgraceful flight and lifting of the siege, we decided not to leave these <hi rendition="#i">temerarios conatus </hi>without punishment. Now that he had used German soldiers, including F's subjects, for his raid, <hi rendition="#i">rogamus Ser</hi>
+            <p>In the last days Count Bernhard de Frangipabibus together with his sons Cristoforus and Ferdinand attacked the city of Zengg <hi rendition="#i">(civitatem nostram Segniensem) </hi>with a not inconsiderable number of German soldiers <hi rendition="#i">et more hostili depopulato eius agro non minori sevitia, quam si Turcus esset, ipsam civitatem obsidione cinxerat admotisque machinis expugnare conatus est, addens tanto sceleri vana quoque verba ausus est, nanque homo nepharius affirmare se non propriis solum viribus fretum eam expedicionem suscepisse, sed Sertis Vre suasu et auxilio, ut facilius ad dedicionem cives impellerentur. </hi>Since we cannot believe this, because Count Bernhard <hi rendition="#i">sit homo impacentissimus quietis, ingenii subdoli propositi instabilis, . . . qui propter ipsius multa facinora, cum sepius et debuissemus et potuissemus eum opprimere, omisimus tribuentes id etati eius et iniquitati temporis, . . . nec credimus vel benignitatem nostram vel hostis communis conatus ab insania ipsum Bernardinum posse removere </hi>and although he was forced by the Banus of Croatia and the border guards to the disgraceful flight and lifting of the siege, we decided not to leave these <hi rendition="#i">temerarios conatus </hi>without punishment. Now that he had used German soldiers, including F's subjects, for his raid, <hi rendition="#i">rogamus Ser</hi>
                <hi rendition="#i #sup">tem</hi>
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">ram</hi>
@@ -182,7 +175,7 @@
                </index>
                <hi rendition="#i">, duci </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d34e264a1051" key="Burgund, Herzogtum"/>
+                  <term xml:id="index_d34e259a1051" key="Burgund, Herzogtum"/>
                </index>
                <hi rendition="#i">, principi </hi>
                <index resp="Hofer-Bindeus_Johannes">
@@ -195,7 +188,7 @@
                <hi rendition="#i"> vicario, fratri et sororio nostro char</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">. Als Datum: Datum in castro nostro </hi>
-               <placeName xml:id="place_d34e280a1050"
+               <placeName xml:id="place_d34e275a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Šintava">

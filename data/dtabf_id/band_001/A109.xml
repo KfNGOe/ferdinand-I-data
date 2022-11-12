@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:02:17Z</date>
+               <date>2022-11-12T10:02:08Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -118,10 +118,10 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Amstetten">Ambstete</placeName>, ce 13<hi rendition="#sup">e</hi> de novembre a<hi rendition="#sup">o</hi> 24.</p>
-            <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveur Ferdinandus</p>
+            <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveur Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>a) von <hi rendition="#i">vostre </hi>an eigenhändig</p>
+            <p>a) von <hi rendition="#i">vostre </hi>an eigenhändig. </p>
          </div>
       </body>
    </text>

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:55:49Z</date>
+               <date>2022-11-12T09:54:33Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -107,7 +107,7 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>
-               <persName xml:id="person_d10e128a1050"
+               <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">M<hi rendition="#sup">me</hi>

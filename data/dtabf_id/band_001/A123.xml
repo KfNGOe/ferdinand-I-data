@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:03:34Z</date>
+               <date>2022-11-12T10:03:38Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -107,7 +107,7 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mon bon frere, j’ai receu vostre lettre, par laquelle me faictes responce, touchant la coadjutorie de l’<index resp="Abel_Laura">
-                  <term xml:id="index_d107e115a1051" key="Salzburg, Erzbistum">archevesché de Saltzbourg</term>
+                  <term xml:id="index_d107e122a1051" key="Salzburg, Erzbistum">archevesché de Saltzbourg</term>
                </index> dont vous avoie escript pour <persName xml:id="person_d45e106a1050"
                          ref="nognd"
                          resp="Abel_Laura"

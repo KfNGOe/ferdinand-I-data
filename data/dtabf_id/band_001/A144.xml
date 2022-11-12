@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:23Z</date>
+               <date>2022-11-12T10:05:44Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -130,7 +130,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Meneses">Meneses</persName>. Priant dieu atant qui, mon bon frere, vous ait en sa saincte garde.</p>
-            <p>Escript à <placeName xml:id="place_d140e752a1050"
+            <p>Escript à <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le 27<hi rendition="#sup">e</hi> de jung anno 25.</p>

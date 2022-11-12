@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:12Z</date>
+               <date>2022-11-12T10:05:32Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -97,7 +97,7 @@
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
             <p>1. Empfing K's Brief vom 28. Februar. K’s Gesundheit. 2. Dankt für K’s Freundlichkeit gegenüber de Bredam. 3. Vorderösterreich und Tirol. Bauernaufruhr daselbst. 4. Die Bauern in Salzburg. 5. Tod Friedrichs von Sachsen. 6. Notwendigkeit eines Friedens mit Frankreich.</p>
-            <p>[Nachschrift.] 7. Lannoy führt Kg Frans I. zu K. 8. Beglaubigung für Salinas.</p>
+            <p>[Nachschrift.] 7. Lannoy führt Kg Franz I. zu K. 8. Beglaubigung für Salinas.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
             <p>1. Has received K's letter dated February 28. K's health. 2. Thanks K for the kindness shown to Bredam. 3. Further Austria and Tirol. The peasant insurgency there. 4. The peasants in Salzburg. 5. Frederick of Saxony's death. 6. Peace with France necessary.</p>
@@ -116,7 +116,7 @@
             <p>J’ai, mons<hi rendition="#sup">r</hi>, semblablement entendu par led. <persName xml:id="person_d29e696a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bredam">s<hi rendition="#sup">r</hi> de Bredam</persName> le bon vouloir et amour fraternelle qu’avez envers moi et la bonne depesche qu’il vous a pleu lui faire sur sa charge dont de tout vous mercie très humblement et dieu me doint la grace et moyen de sçavoir le tout desservir envers Vostred. M<hi rendition="#sup">te</hi>, car il ne tiendra à bonne voulenté fors a l’impuissance. Toutesfois, mons<hi rendition="#sup">r</hi>, comme maintesfois vous ai escript et faict dire, je demeurerai à jamais vostre tres humble, tres obeissant et tres leal frere pour ma personne avec ce que dieu m’a donné estre employéz à accomplir tout ce entierement qu’il vous plaira me commander, non faisant doubte que la reste de l’instruction dud. s<hi rendition="#sup">r</hi> de Bredam qui n’a peu estre depesché à cause de la diversité du temps V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> aura le tout, quant le temps la donnera mieulx en vostre meilleure souvenance et recommandation, ce que vous supplie, mions<hi rendition="#sup">r</hi>, tres humblement avoir.</p>
+                         key="Bredam">s<hi rendition="#sup">r</hi> de Bredam</persName> le bon vouloir et amour fraternelle qu’avez envers moi et la bonne depesche qu’il vous a pleu lui faire sur sa charge dont de tout vous mercie très humblement et dieu me doint la grace et moyen de sçavoir le tout desservir envers Vostred. M<hi rendition="#sup">te</hi>, car il ne tiendra à bonne voulenté fors a l’impuissance. Toutesfois, mons<hi rendition="#sup">r</hi>, comme maintesfois vous ai escript et faict dire, je demeurerai à jamais vostre tres humble, tres obeissant et tres leal frere pour ma personne avec ce que dieu m’a donné estre employéz à accomplir tout ce entierement qu’il vous plaira me commander, non faisant doubte que la reste de l’instruction dud. s<hi rendition="#sup">r</hi> de Bredam qui n’a peu estre depesché à cause de la diversité du temps V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> aura le tout, quant le temps la donnera mieulx en vostre meilleure souvenance et recommandation, ce que vous supplie, mons<hi rendition="#sup">r</hi>, tres humblement avoir.</p>
             <p>Quant à la depesche que le <persName xml:id="person_d29e696a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -139,7 +139,7 @@
             <p>Au pays de <index resp="Abel_Laura">
                   <term xml:id="index_d41e403a1051" key="Salzburg">Salsburg</term>
                </index> tout le commung y est semblablement tout <index resp="Abel_Laura">
-                  <term xml:id="index_d107e296a1051" key="Bauernkrieg, Salzburg">rebellé et revolté</term>
+                  <term xml:id="index_d107e298a1051" key="Bauernkrieg, Salzburg">rebellé et revolté</term>
                </index> et ont les paysans desia si avant poursui leur intention qu’ilz ont prins tout entierement le pays, villes et chasteaulx ensemble la ville de Salsburg, reservé le chasteau d’illecq, oùquel lesd. paysans tiengnent assiegéz leur <persName xml:id="person_d18e152a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -151,15 +151,15 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Friedrich III. der Weise, Herzog von Sachsen, Kurfürst">duc Frederick de Saxen</persName>, et semblablement par tout les pays <index resp="Abel_Laura">
-                  <term xml:id="index_d53e359a1051" key="Sachsen">de Saxonie</term>
+                  <term xml:id="index_d53e365a1051" key="Sachsen">de Saxonie</term>
                </index> s’ont revoltéz et mutinéz comme aux aultres lieux.</p>
             <p>Mons<hi rendition="#sup">r</hi>, je vous supplie tres humblement avoir bon et brief advis sur les choses dessusd. ensemble sur tout ce que <persName xml:id="person_d106e225a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Meneses">Meneses</persName>, mon chambellan, vous a dict de ma part et à tout vouliez pourveoir convenablement, et si mon advis estoit d’accepter, il me semble, mons<hi rendition="#sup">r</hi>, soubz correction, actendu mesmement que ce sera pour le bien repoz et transquilité non seullement de la <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Germanie</term>
+                         key="Meneses">Meneses</persName>, mon chambellan, vous a dict de ma part et à tout veullez pourveoir convenablement, et si mon advis estoit d’accepter, il me semble, mons<hi rendition="#sup">r</hi>, soubz correction, actendu mesmement que ce sera pour le bien repoz et transquilité non seullement de la <index resp="Abel_Laura">
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Germanie</term>
                </index>, mais aussi de l’universelle chrestienté que V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> ne devroit laisser à faire quelque bonne et durable <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">paix</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">paix</term>
                </index> avec le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"

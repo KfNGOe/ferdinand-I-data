@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:00:46Z</date>
+               <date>2022-11-12T10:00:23Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -118,12 +118,12 @@
             <p>De <placeName xml:id="place_d19e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Wien">Vienne</placeName>, ce dernier de septembre ao 24.</p>
-            <p>Vostrea) bon et humble nepveu</p>
+                          key="Wien">Vienne</placeName>, ce dernier de septembre a<hi rendition="#sup">o</hi> 24.</p>
+            <p>Vostre<hi rendition="#sup">a)</hi> bon et humble nepveu</p>
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>a) von vostre an eigenhändig.</p>
+            <p>a) von <hi rendition="#i">vostre </hi>an eigenhändig.</p>
             <p>Der Tag zu Bern dürfte in der zweiten Hälfte des Monats Juli abgehalten worden sein, doch ist bei der mangelhaften Überlieferung von Quellen darüber der Wortlaut der Mahnung vonseiten der Eidgenossen nicht erhalten. Eidg. Absch. 4,1, S. 465; J. Strickler, Aktensammlung 1, S. 301.</p>
          </div>
       </body>

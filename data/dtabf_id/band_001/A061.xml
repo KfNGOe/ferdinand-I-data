@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">A61.</title>
+            <title type="main">*A61.</title>
             <title type="sub">Karl an Ferdinand, .</title>
             <author>
                <persName ref="nognd">Karl</persName>
@@ -71,7 +71,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:08Z</date>
+               <date>2022-11-12T09:57:20Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -81,12 +81,12 @@
       <body>
          <div n="1"><!-- letter_header -->
             <p>
-               <hi rendition="#b">A61.</hi>
+               <hi rendition="#b">*A61.</hi>
             </p>
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rendition="#i">*Karl an Ferdinand.</hi>
+                     <hi rendition="#i">Karl an Ferdinand.</hi>
                   </cell>
                   <cell>
                      <hi rendition="#i">1524 April 9.</hi>

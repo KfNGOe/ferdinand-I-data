@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:57:42Z</date>
+               <date>2022-11-12T09:56:49Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,26 +102,27 @@
             <p>1. Has not received word from F in four months. Requests frequent updates from F. His army's successes in France. Battle of Bayonne. 2. Repeats his request for news. 3. Funds are necessary for the alliance against the Turks. Is hoping to receive funding from the Swabian League. 4. Suggests calling on German churches to make a monetary contribution. Leaves the decision up to F. 5. F shall approach the French border and take Burgundy in alliance with Bourbon. 6. F shall have the imperial ban issued against Francis I. of France.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W.) Wien, St.-A. Belgica PA. 5. Konzept mit Verbesserungen und Nachträgen von anderer Hand. Grundlage für den folgenden Abdruck.</p>
+            <p>(W.) Wien, St.-A. Belgica PA. 5. Konzept mit Verbesserungen und Nachträgen von anderer Hand. Grundlage für den folgenden Abdruck. Rückwärts Adresse: <hi rendition="#i">A mon bon frere, l’archiduc, prince infante des Espaignes, duc de Bourgoigne etc.</hi>
+            </p>
             <p>(B.) Brüssel, Coll. Arch. gén. Papiers de l’Etat et d’Audience. 43, Bl. 1, Kopie s. XVIII, vermutlich nach dem Original; vollständiger als (W.).</p>
             <p>Druck: Lanz, Korrespondenz 1, 80—83 nach (B.). Familienkorrespondenz Bd. 1, Nr. 56, S. 96-101.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mon bon frere, il<hi rendition="#sup">a</hi>) y a plus de quatre mois passéz que je n’ai eu de voz nouvelles. Vous sçavez bien que ce me sera grand plaisir d’en estre adverti souvent et vous prie cordiallement ainsi le vouloir faire. Et pour vous dire des miennes tout amplement et cela qu’est survenu dez le partement des dernieres lettres de decembre que nagaires vous ai escript c’est du progres de mon armée assavoir que, voyant la diversité de l’iver aprèz<hi rendition="#sup">b</hi>) la prinse de la ville de <placeName xml:id="place_d59e104a1050"
+            <p>Mon bon frere, il<hi rendition="#sup">a</hi>) y a plus de quatre mois passéz que je n’ai eu de voz nouvelles. Vous sçavez bien que ce me sera grand plaisir d’en estre adverti souvent et vous prie cordiallement ainsi le vouloir faire. Et pour vous dire des miennes tout amplement et cela qu’est survenu dez le partement des dernieres lettres de decembre que nagaires vous ai escript c’est du progres de mon armée assavoir que, voyant la diversité de l’iver aprèz<hi rendition="#sup">b</hi>) la prinse de la ville de <placeName xml:id="place_d59e107a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Salvatierra">Salvatierra</placeName>, considerant que icelle ville estoit si avant en pays qu’elle ne se pouoit garder, je feiz razer la force et icelle habandonner, pour non faire cuirie de mes gens à mes propres ennemis. Dez led. Salvatierra, mon armée print la ville de <placeName xml:id="place_d59e107a1050"
+                          key="Salvatierra">Salvatierra</placeName>, considerant que icelle ville estoit si avant en pays qu’elle ne se pouoit garder, je feiz razer la force et icelle habandonner, pour non faire cuirie de mes gens à mes propres ennemis. Dez led. Salvatierra, mon armée print la ville de <placeName xml:id="place_d59e110a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Bidache">Vidachen</placeName> et le chasteau d’assault, tuerent ceulx qui y estoient, et le feug mis dedens de sorte que tout ce quartier en bonne grandeur a esté bien visité. De la tirarent à <placeName xml:id="place_d59e110a1050"
+                          key="Bidache">Vidachen</placeName> et le chasteau d’assault, tuerent ceulx qui y estoient, et le feug mis dedens de sorte que tout ce quartier en bonne grandeur a esté bien visité. De la tirarent à <placeName xml:id="place_d59e113a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Ustaritz">Ostarez</placeName> que <index resp="Abel_Laura">
                   <term xml:id="index_d26e142a1051" key="Deutsche">les Allemans</term>
-               </index> avoient destruit en venant, et c’est à deux lieues de <placeName xml:id="place_d59e118a1050"
+               </index> avoient destruit en venant, et c’est à deux lieues de <placeName xml:id="place_d59e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Bayonne">Bayonne</placeName>, où avoie conclud faire mettre le siege, ayant tant de bonne artillerie que j’ai, mais lesd. ennemis s’en doubtans ont bruslé et gasté tout le quartier environ led. Bayonne, et de sorte que mes gens ont estéz fort constrains de famine par là entour environ six jours, et fin force leur a esté tirer à <placeName xml:id="place_d59e121a1050"
+                          key="Bayonne">Bayonne</placeName>, où avoie conclud faire mettre le siege, ayant tant de bonne artillerie que j’ai, mais lesd. ennemis s’en doubtans ont bruslé et gasté tout le quartier environ led. Bayonne, et de sorte que mes gens ont estéz fort constrains de famine par là entour environ six jours, et fin force leur a esté tirer à <placeName xml:id="place_d59e124a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Saint-Jean-de-Luz">Saint Jehan de Lux</placeName> qu’ilz ont bruslé. Et en y venant, leur vindrent costoyer deux cens hommes d’armes François et deux mil pietons, lesquelz, voyans mes gens en ordre, sans le vouloir attendre se mirent en fuite, de sorte que lesd. François cuidarent perdre leurs mesmes pietons et y eust quelque prisonniers des leurs en petit nombre, car mes gens estoient lors en tel estat de fain qu’ilz n’eurent point de suite d’eulx. Maintenant ilz sont au siege de <placeName xml:id="place_d21e322a1050"
@@ -141,17 +142,17 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannart</persName>, mon ambassadeur en <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemagne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemagne</term>
                </index>, une instruction, touchant ceste affaire, pour icelle vous bailler et monstrer, et par vostre bon conseil, ordonnance et deliberacion, et non autrement proceder et entendre en ceste affaire où quel vous prie vouloir entendre et vous employer de vostre mieulx comme j’ai ma fiance entiere a vous.</p>
-            <p>Et pour les mesmes raisons devant escriptes, considerant que l’estat de l’empire pourroit estre fort bas et vuide d’argent, et ne pourroit l’on recouvrer d’icellui si tost ne promptement sommes de deniers, j’ai aussi deliberé et avec l’auctorité de <persName xml:id="person_d53e635a1050"
+            <p>Et pour les mesmes raisons devant escriptes, considerant que l’estat de l’empire pourroit estre fort bas et vuide d’argent, et ne pourroit l’on recouvrer d’icellui si tost ne promptement sommes de deniers, j’ai aussi deliberé et avec l’auctorité de <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">nostre sainct pere, le pape</persName>, ou de la mienne seulle, si faire se pouvoit et que bon vous semble<hi rendition="#sup">k</hi>) requerir, imposer et exiger aide et succours des eglises, subiectes à moi et au sainct empire, sans toutesfois les vouloir grever ni efforcer, mais les traicter le plus dolcement que sera possible. A quoi par raison ilz ne devront contredire, actendu mesmes que icelles eglises sont fondées et dotées par noz predecesseurs empereurs et rois, et que pour la deffence, augmentation et soubstenement de la foi les biens desd. eglises doivent estre employéz. Et par ce moyen pourrons lever de chacune eglise selon sa qualité quelque bon aide et prenant au deffault d’argent monnoyé ung meuble, joyau ou baghe, assavoir de une eglise metropolitaine ung joyaul en valeur de dix marcs, le marc compté pour 103 florins de Rin, de une eglise cathedrale ung joyaux ou cinq marcs d’argent, d’une eglise collegiale ung marc d’argent, d’une eglise parrochiale demi marc, d’une abbaye 10 marcs, d’ung prioré cinq marcs, et consequamment selon la qualité des eglises et benefices sans nulz excepter. Aussi y a des eveschiés subz l’empire jusques au nombre de soixante ou environ et d’abbayes, prioréz, Colleges, prevostéz, convenis de <index resp="Abel_Laura">
-                  <term xml:id="index_d59e189a1051" key="Benediktinerorden">l’ordere Saint Benoist</term>
+                  <term xml:id="index_d59e192a1051" key="Benediktinerorden">l’ordere Saint Benoist</term>
                </index>, de <index resp="Abel_Laura">
-                  <term xml:id="index_d59e193a1051" key="Zisterzienserorden">l’ordre de Cisteaulx</term>
+                  <term xml:id="index_d59e196a1051" key="Zisterzienserorden">l’ordre de Cisteaulx</term>
                </index>, chanoinies regulieres de Premonstier, <index resp="Abel_Laura">
-                  <term xml:id="index_d59e197a1051" key="Antoniusklöster">monasteres de Saint Anthoine</term>
+                  <term xml:id="index_d59e200a1051" key="Antoniusklöster">monasteres de Saint Anthoine</term>
                </index>, des abesses, des prieuses et des eglises parrochiales en grant nombre, des chartreues fort riches et opulens, devers tous lesquelx vous pourrez aider de cestui moyen, et comme dit est, en faire user et disposer comme il vous semblera pour le mieulx. Car je le remetz entierement à vous selon que plus au long j’escriptz aud. maistre Jehan <persName xml:id="person_d49e241a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -167,38 +168,38 @@
                </index>. Vostre presence servira beaucop à noz commungs affaires et y donnera grosse faveur et reputacion. Et si par les moyens de gens et d’argent que sont ci-dessus declairéz et par l’intelligence que aussi pourrez prendre avec led. s<hi rendition="#sup">r</hi> de Bourbon et mon armée d’<index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
                </index> que marchera avant pouiez secretement emprendre et parvenir ceste prouchaine saison à la conqueste de la <index resp="Abel_Laura">
-                  <term xml:id="index_d34e264a1051" key="Burgund, Herzogtum">duché de Bourgoigne</term>
+                  <term xml:id="index_d34e259a1051" key="Burgund, Herzogtum">duché de Bourgoigne</term>
                </index>, comment aultrefoiz vous ai escript. Ce vous seroit chose grandement honnorable, prouffitable et à moi tres agreable, ainsi que pouez penser. Je remetz l’affaire à vous et à la bonne affection que je crois fermement y avez pour l’honneur de vous et de moi. Car de vous en escripre souvent vous sçavez qu’il y a trop long de l’ung à l’aultre et devroit estre le cop baillé et executé avant que actendre responce ni nouvelle de moi que suis si longtain et vous baillo<hi rendition="#sup">m</hi>) les moyens que je puis avoir, et si en avoir aultres les vous bailleroie.<hi rendition="#sup">n</hi>)</p>
             <p>Aussi,<hi rendition="#sup">o</hi>) mon frere, par mes lettres en allemand je vous escriptz et à <index resp="Christopher_F._Laferl">
                   <term xml:id="index_d29e267a1051" key="HRR, Reichskammergericht">ma chambre imperialle </term>
                </index>pour faire proceder au ban imperial et confiscation contre led. <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Franz I.">roi François</persName>, nostre ennemi, des terres qu’il usurpe et occupe subgectes de l’empire,<hi rendition="#sup">p</hi>) si comme du royaume d’<placeName xml:id="place_d59e255a1050"
+                         key="Franz I.">roi François</persName>, nostre ennemi, des terres qu’il usurpe et occupe subgectes de l’empire,<hi rendition="#sup">p</hi>) si comme du royaume d’<placeName xml:id="place_d59e258a1050"
                           ref="nognd"
                           resp="Laferl_Christopher"
-                          key="Arles">Arles</placeName> et <placeName xml:id="place_d59e259a1050"
+                          key="Arles">Arles</placeName> et <placeName xml:id="place_d59e262a1050"
                           ref="nognd"
                           resp="Laferl_Christopher"
-                          key="Dauphiné">Dauphiné</placeName>, <placeName xml:id="place_d59e262a1050"
+                          key="Dauphiné">Dauphiné</placeName>, <placeName xml:id="place_d59e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Lyonnais">Lyonnois</placeName>, <placeName xml:id="place_d59e265a1050"
+                          key="Lyonnais">Lyonnois</placeName>, <placeName xml:id="place_d59e268a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Valence">contéz de Valance</placeName>, <placeName xml:id="place_d59e268a1050"
+                          key="Valence">contéz de Valance</placeName>, <placeName xml:id="place_d59e271a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Diois">d’Yois</placeName>, <placeName xml:id="place_d49e190a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Provence">Provance</placeName>, <placeName xml:id="place_d59e274a1050"
+                          key="Provence">Provance</placeName>, <placeName xml:id="place_d59e277a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Orange, Fürstentum">principaulté d’Oranges</placeName>, <placeName xml:id="place_d59e278a1050"
+                          key="Orange, Fürstentum">principaulté d’Oranges</placeName>, <placeName xml:id="place_d59e281a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Montélimar">Monteslimar</placeName>, seigneuries de <placeName xml:id="place_d59e281a1050"
+                          key="Montélimar">Monteslimar</placeName>, seigneuries de <placeName xml:id="place_d59e284a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Mousson (?)">Moson</placeName>, de <placeName xml:id="place_d36e117a1050"
@@ -209,18 +210,17 @@
                </index> contre moi. Je vous prie que sans delai ni actendre consulte vers moi vous entendez à ceste matiere de la faire pousser oultre comme mon lieutenant general et ordonner les adjournement, sentence et condempnacion à la forme de l’empire ainsi que par mad. lectre en allemand je vous escriptz de sorte qu’il en soit bruit et renommée par tout le monde et sache nostred. ennemi ceste procedure avec les ceremonies en tel cas necessaires et accoustumées et vaille ce que pourra valoir ou temps advenir avec l’execution que mad. armée d’<index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
                </index> y pourra faire, vous priant de rechief prendre ceste affaire à ceur, et que j’aie de vous nouvelles le plus souvent que pourrez. Et je ferai le semblable, priant dieu atant que, mon bon frere, vous doint ce que plus desirez.</p>
-            <p>Escript à <placeName xml:id="place_d59e297a1050"
+            <p>Escript à <placeName xml:id="place_d59e300a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Vitoria-Gasteiz">Vittoria</placeName>, le 16<hi rendition="#sup">e</hi> de janvier 24.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A mon bon frere, l’archiduc, prince infante des Espaignes, duc de Bourgoigne etc</hi>.</p>
             <p>a) <hi rendition="#i">Il y a — l’iver </hi>in W an der Seite nachgetragen. - b) <hi rendition="#i">aprèz — sera vous avertirai</hi> fehlt in W.</p>
             <p>K, der, um dem Kriegsschauplätze näher zu sein, von <placeName xml:id="place_d51e153a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Pamplona">Pamplona</placeName> nach <placeName xml:id="place_d59e297a1050"
+                          key="Pamplona">Pamplona</placeName> nach <placeName xml:id="place_d59e300a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Vitoria-Gasteiz">Vittoria</placeName> zog, hatte mit seinem Heere eigentlich weniger erreicht, als man nach dem vorliegenden Berichte meinen könnte. Wenn man <persName xml:id="person_d24e101a1050"
@@ -237,11 +237,11 @@
                </index> eben damals eine feindliche Spannung, die zu verschiedenen Beschwerden und gegenseitigen Anklagen führte. Notizenbl. 2 (1852), S. 81 ff., und DRA 4, S. 18, 28 usw.</p>
             <p>k) <hi rendition="#i">semblat</hi> B.</p>
             <p>Die Einführung einer außerordentlichen <index resp="Abel_Laura">
-                  <term xml:id="index_d59e374a1051" key="HRR, Kirchensteuer">Reichskirchensteuer</term>
+                  <term xml:id="index_d59e372a1051" key="HRR, Kirchensteuer">Reichskirchensteuer</term>
                </index> aus Anlaß der <index resp="Abel_Laura">
                   <term xml:id="index_d38e130a1051" key="Türkenabwehr">Türkengefahr</term>
                </index> drang nicht durch. Vielleicht war der Gedanke an den <index resp="Abel_Laura">
-                  <term xml:id="index_d53e310a1051" key="HRR, Gemeiner Pfennig">Gemeinen Pfennig</term>
+                  <term xml:id="index_d53e316a1051" key="HRR, Gemeiner Pfennig">Gemeinen Pfennig</term>
                </index>, den auch die Geistlichen und Klöster zu entrichten hatten, für K und dessen Räte mitbestimmend für diesen Plan. Die Meinung, daß die Kirchen als Gründungen der deutschen Kaiser und Könige zu Leistungen für die Verteidigung und Ausbreitung des <index resp="Abel_Laura">
                   <term xml:id="index_d35e111a1051" key="Christenheit">christlichen Glaubens</term>
                </index> herangezogen werden können, klingt an mittelalterliche Anschauungen betreffs des Reichskirchengutes an. Schröder, Lehrbuch der deutschen Rechtsgesch., S. 506 f.</p>
@@ -249,7 +249,7 @@
             <p>Schon in Nr. A46 wurde F von K aufgefordert, sich Burgunds zu bemächtigen. Immer kehrt von seiten des kaiserlichen Hofes die Klage wieder, daß F so fern vom Schauplatze des Krieges sei. Villa, S. 155. Trotzdem verweigerte man F zu seinem großen Leidwesen ein bestimmtes Kommando. — Über den Inhalt der Sendung Beaurains an Bourbon schreibt K am 15. Dezember aus <placeName xml:id="place_d51e153a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Pamplona">Pamplona</placeName> an <persName xml:id="person_d10e128a1050"
+                          key="Pamplona">Pamplona</placeName> an <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">Mg</persName>: ,<hi rendition="#i">Et afin que sachez la responce que je fais presentement aud. s</hi>
@@ -257,7 +257,7 @@
                <hi rendition="#i"> de Bourbon: J’envoye le s</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i"> de Beaurain et led. </hi>
-               <persName xml:id="person_d59e408a1050"
+               <persName xml:id="person_d59e406a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Lurssy, Gesandter K’s bei Bourbon">
@@ -273,7 +273,7 @@
                <hi rendition="#i"> il persuade aud. s</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i"> de Bourbon d’emprendre la guerre par le Dauphiné ou Provence à ceste prima vera, comme j’espere qu’il fera. Et afin qu’il ne soit sans charge, lui ai envoyé commission de mon lieutenant general, representant ma propre personne en mon armée. Et si ai donné ordre pour lui faire furnir le complement de ses cent mille escuz. J’escriptz aud. </hi>
-               <persName xml:id="person_d59e423a1050"
+               <persName xml:id="person_d59e421a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Praet">

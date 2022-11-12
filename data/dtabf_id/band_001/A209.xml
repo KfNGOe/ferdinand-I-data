@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:10:54Z</date>
+               <date>2022-11-12T10:12:01Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -108,17 +108,21 @@
                <hi rendition="#i #sup">o</hi>
                <hi rendition="#i"> 26. De la couche de m</hi>
                <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse.</hi>
+               <hi rendition="#i"> l’archiducesse. </hi>Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">archiducesse d’Austrice, regente et gouvernante etc. </hi>
             </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 209, S. 399-400.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>M<hi rendition="#sup">me</hi>, a ceste heure me sont venues les nouvelles, co[mme]<hi rendition="#sup">a</hi>) <index resp="Abel_Laura">
-                  <term xml:id="index_d213e119a1051" key="Geburt, Elisabeth von Österreich">ma bonne compaigne</term>
+                  <term xml:id="index_d213e132a1051" key="Geburt, Elisabeth von Österreich">ma bonne compaigne</term>
                </index> en la ville de <placeName xml:id="place_d21e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Linz">Lintz</placeName>, où elle est [oit]<hi rendition="#sup">a</hi>) actendant l’heure, est le 9<hi rendition="#sup">e</hi> de ce mois à 6 heures du matin delivré d’une <persName xml:id="person_d213e132a1050"
+                          key="Linz">Lintz</placeName>, où elle est [oit]<hi rendition="#sup">a</hi>) actendant l’heure, est le 9<hi rendition="#sup">e</hi> de ce mois à 6 heures du matin delivré d’une <persName xml:id="person_d213e145a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Elisabeth von Österreich">fille</persName> dont m<hi rendition="#sup">me</hi>, saichant la joie et plaisir qu’en recevries, n’ai voulu laisser de par ce present pourteur Boisrond, gentilhomme de ma chambre, vous en incontinant avertir. Et atant, m<hi rendition="#sup">me</hi>, ma bonne tante, après m’estre recommandé humblement et de bon cueur à vostre bonne grace prie à nostre seigneur qui vous doint bonne vie et longue.</p>
@@ -129,12 +133,6 @@
             <p>Vostre<hi rendition="#sup">b</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">archiducesse d’Austrice, regente et gouvernante etc.</hi>
-            </p>
             <p>a) Lücke. - b) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
             <p>Es handelt sich hier um die Geburt des erstgebornen Kindes aus der Ehe F’s mit Anna, der Erzherzogin Elisabeth. — Anna weilte seit 15. Mai in Linz. Wie ihr Briefwechsel mit B <persName xml:id="person_d21e421a1050"
                          ref="nognd"

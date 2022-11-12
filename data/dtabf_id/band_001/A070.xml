@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:56Z</date>
+               <date>2022-11-12T09:58:16Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,14 +102,15 @@
             <p>The Estates intend to send an imperial delegation to K and the King of France. His attempts to thwart this.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Original.</p>
+            <p>Wien, St.-A. Belgica PA. 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 70, S. 134-136.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, je vous avertis que ceulx des <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d73e104a1051" key="HRR, Reichsstände">estatz de l’empire </term>
+                  <term xml:id="index_d73e110a1051" key="HRR, Reichsstände">estatz de l’empire </term>
                </index>avoient concluz envoyer une <index resp="Abel_Laura">
-                  <term xml:id="index_d73e108a1051"
+                  <term xml:id="index_d73e114a1051"
                         key="HRR, Gesandtschaft der Reichsstände nach Frankreich (1524)">ambassade</term>
                </index> devers le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
@@ -129,7 +130,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannart</persName> non seullement ne leur pourrions bailler consentement, ains serions contrainctz de faire ce que voulentiers ne vouldrions. Quoi non obstant que je l’eusse dit ausd. princes feablement et appart, si l’ont ilz proposéz en publicque ausd. estatz de l’empire ce que n’eusse jamais pensé, lesquelz tous voyans la contradicion que leur faisions, à la fin ont changéz leur opinion et laissé à envoyer lad. legation, protestans publicquement que, si par ce advenoit aucun dommaige et inconvenient non seullement aux choses publicques de l’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemangne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemangne</term>
                </index>, mais de toute la <index resp="Abel_Laura">
                   <term xml:id="index_d35e111a1051" key="Christenheit">chrestienté</term>
                </index>, ilz en vouloient estre excuséz devant dieu et le monde. En disant aussi que jamais de nulz empereurs ni rois des Rommains n’eurent telle responce ni parolle que celle dessusd. qu’est que serions contrainct faire aucunes choses que ne ferions voulentiers et que pour ce que des <index resp="Abel_Laura">
@@ -145,8 +146,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>a) zwischen <hi rendition="#i">28</hi>
                <hi rendition="#i #sup">e</hi> und <hi rendition="#i">a</hi>
                <hi rendition="#i #sup">o</hi> Lücke.</p>

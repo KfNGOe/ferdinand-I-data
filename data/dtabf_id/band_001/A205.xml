@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:10:33Z</date>
+               <date>2022-11-12T10:11:37Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,12 @@
             <p>1. Has received Mg's letter dated June 15. Unpleasant news. 2. Alliance between the Pope, Venice, Florence, France and England in defense of Milan. The enemy's armaments. 3. F can only partially satisfy the imperial generals' request for assistance in Italy. 4. Has received Mg's letter dated May 24. Reiterates his intercession on behalf of Dr. Enscheinghen.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de l’État et de l'Aud., vol. 93, Bl. 16—17. Original.</p>
+            <p>Brüssel, Arch. gén. Papiers de l’État et de l'Aud., vol. 93, Bl. 16—17. Original. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 205, S. 392-394.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -116,7 +121,7 @@
                   <term xml:id="index_d21e283a1051" key="Venedig">Venise</term>
                </index> que de <index resp="Abel_Laura">
                   <term xml:id="index_d24e550a1051" key="Mailand">Milan</term>
-               </index> et autres lieux l’on m’a averti, comme le <persName xml:id="person_d53e635a1050"
+               </index> et autres lieux l’on m’a averti, comme le <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName>, les Veneciens, <placeName xml:id="place_d123e139a1050"
@@ -131,10 +136,10 @@
                          key="Heinrich VIII.">d’Angleterre</persName> sont alliéz ensemble pour deffendre et secourir le <persName xml:id="person_d24e555a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Francesco II.">duc de Milan</persName> et ont desia lesd. Veniciens envoyé leur excercité qui est de 9000 pietons et 600 lances avec beacop d’artillerie et municion à <placeName xml:id="place_d209e142a1050"
+                         key="Francesco II.">duc de Milan</persName> et ont desia lesd. Veniciens envoyé leur excercité qui est de 9000 pietons et 600 lances avec beacop d’artillerie et municion à <placeName xml:id="place_d209e153a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Brescia">Bressa</placeName>. Le pape a semblablement envoyé le sien qui est de 8000 à 9000 pietons et 500 lances la voie de <placeName xml:id="place_d209e146a1050"
+                          key="Brescia">Bressa</placeName>. Le pape a semblablement envoyé le sien qui est de 8000 à 9000 pietons et 500 lances la voie de <placeName xml:id="place_d209e157a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Palma">Palme</placeName> pour se joindre avec cellui desd. Veniciens. Et avec ce font iceulx, pape et Veniciens, descendre bonne quantitey de <index resp="Abel_Laura">
@@ -147,10 +152,10 @@
                </index>, <index resp="Abel_Laura">
                   <term xml:id="index_d21e129a1051" key="Schweiz">Suisses</term>
                </index> et autrement ne m’est possible satisfaire. Toutesfois mesd. affaires et que ce me soit bien grande charge à supporter, je leur furniz jusques à 2000 pietons seullement. De ce que plus me surviendra rendrai tousiours, m<hi rendition="#sup">me</hi>, devoir le plus incontinant faire savoir, vous suppliant continuer au semblable.</p>
-            <p>M<hi rendition="#sup">me</hi>, j’ai puis aucuns jours receu vostre lettre du 24<hi rendition="#sup">e</hi> de mai, responsive à ce que vous avoie escript et supplie en faveur du <persName xml:id="person_d209e178a1050"
+            <p>M<hi rendition="#sup">me</hi>, j’ai puis aucuns jours receu vostre lettre du 24<hi rendition="#sup">e</hi> de mai, responsive à ce que vous avoie escript et supplie en faveur du <persName xml:id="person_d209e189a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Enscheinghen, Dr., Bewerber um die Stelle eines conseillier ordinaire in Luxemburg (vielleicht identisch mit Eustzringen)">docteur Enscheinghen</persName> qu’il vous pleust le pourveoir de conseillier ordinaire a <placeName xml:id="place_d99e114a1050"
+                         key="Enscheinghen, Dr., Bewerber um die Stelle eines conseillier ordinaire in Luxemburg (vielleicht identisch mit Eustzringen)">docteur Enscheinghen</persName> qu’il vous pleust le pourveoir de conseillier ordinaire a <placeName xml:id="place_d99e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Luxemburg">Luxemburg</placeName>, s’il avoit lieu vacquant, et sinon de conseillier extraordinaire, actendant l’ordinaire. Surquoi, m<hi rendition="#sup">me</hi>, m’avez fait responce que voulentiers ne pourvoies d’estas d’importance sans le sceu de l’empereur, mons<hi rendition="#sup">r</hi> et frere. Et combien que jacoit ce que ainsi soit, toutesfois pour austant que sa m<hi rendition="#sup">te</hi> n’a congnoissance de tous ses bons et loyaulx serviteurs pardeça, entre lesquelz je congnois led. docteur Enscheinghen avoir merité non cella seullement, mais bien plus grant chose, quant il vous plaira escripre à sad. m<hi rendition="#sup">te</hi> ainsi en avoir bien pourveu, tiens pour certain ne le desniera, ains l’aura pour tres agreable, veu mesmes l’idoineté dud. docteur. Parquoi, m<hi rendition="#sup">me</hi>, vous supplie de rechief bien humblement et à certes que à ma contemplacion en consideracion mesmes de sesd. services il vous plaise le vouloir pourveoir comme dessus et m’envoyer la depesche et mandement à ce neccessaire, enquoi me ferez honneur et singulier plaisir. M<hi rendition="#sup">me</hi>, ma bonne [tante],<hi rendition="#sup">a</hi>) je supplie atant le createur qui vous doint bonne vie et longue.</p>
@@ -161,15 +166,9 @@
             <p>Vostre<hi rendition="#sup">b</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>Der Inhalt von 1] und 4] zeigt, daß der Brief nicht in einem Zuge geschrieben wurde.</p>
             <p>Der Brief Mg’s vom 15. Juni wurde nicht vorgefunden.</p>
-            <p>Die Streitkräfte der Verbündeten wurden damals auf 23.000 berechnet, wozu anfangs Juli noch 5000 Schweizer hinzukamen. Fastor 4, 2, S. 220f.</p>
+            <p>Die Streitkräfte der Verbündeten wurden damals auf 23.000 berechnet, wozu anfangs Juli noch 5000 Schweizer hinzukamen. Pastor 4, 2, S. 220f.</p>
             <p>Einzelheiten über die Rüstungen F’s gegen die Verbündeten bei Sanuto 42, 79.</p>
             <p>a) fehlt im Texte. - b) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
             <p>Der Brief Mg’s vom 24. Mai wurde nicht vorgefunden. Über Dr. Enscheinghen vgl. Nr. A207.</p>

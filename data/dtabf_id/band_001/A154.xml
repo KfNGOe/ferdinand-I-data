@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:16Z</date>
+               <date>2022-11-12T10:06:43Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,12 @@
             <p>Intercession on behalf of Jehan de Eustzringen, who is planning to travel to the government of Luxembourg.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel. Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 3. Original.</p>
+            <p>Brüssel. Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 3. Original. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 154, S. 332.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -111,29 +116,23 @@
                </index> à <placeName xml:id="place_d68e245a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Esslingen">Eslinghen</placeName>, nommé <persName xml:id="person_d158e110a1050"
+                          key="Esslingen">Eslinghen</placeName>, nommé <persName xml:id="person_d158e121a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Eustzringen, Jehan de, Dr. (vielleicht identisch mit Dr. Enscheinghen)">mess<hi rendition="#sup">r</hi> Jehan de Eustzringhen</persName>, lequel à cause qu’il est naturel du pays de <placeName xml:id="place_d99e114a1050"
+                         key="Eustzringen, Jehan de, Dr. (vielleicht identisch mit Dr. Enscheinghen)">mess<hi rendition="#sup">r</hi> Jehan de Eustzringhen</persName>, lequel à cause qu’il est naturel du pays de <placeName xml:id="place_d99e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Luxemburg">Luxemburg</placeName> et qu’il a illecq son patrimoine, desireroit bien avoir placé et retenue de conseilleur au gouvernement dud. Luxemburg, affin de se pouoir illecq honnestement retirer et tousiours continuer au service de l’empereur mons<hi rendition="#sup">r</hi> selon le bon vouloir qu’il a de ce faire. Et pour les bonnes et louables vertuz que sçai estre en sa personne, car pour sa bonne experiance il tient aud. regiment de l’empire place où nom de <persName xml:id="person_d21e389a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Greiffenklau, Richard von">l’archevesque de Treves</persName>, aussi en consideracion des bons et loyaulx services qu’il a faiz et fait journellement à sa m<hi rendition="#sup">te</hi> aud. regiment ai icellui docteur pour singulierement recommandé. Parquoi, m<hi rendition="#sup">me</hi>, vous supplie bien humblement, ayant regard à ce que dessus et à ma contemplacion, le vouloir pourveoir d’estat de conseilleur aud. gouvernement de Luxemburg. Et avec que y pourvoierez de personne idoine et digne de telle ou plus grande recommandacion, à moi ferez tres grant honneur et plaisir dont vous prie en avoir vostre bonne responce. Et sur ce prie nostre seigneur qui m<hi rendition="#sup">me</hi>, ma bonne tante, vous doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d151e258a1050"
+            <p>De <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tubinghen</placeName>, ce 14<hi rendition="#sup">e</hi> de septembre a<hi rendition="#sup">o</hi> 25.</p>
-            <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveuFerdinandus.</p>
+            <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
             <p>Der Name Eustzringgen ist etwas undeutlich geschrieben.</p>
          </div>

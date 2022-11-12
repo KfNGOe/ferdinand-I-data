@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:07:52Z</date>
+               <date>2022-11-12T10:08:33Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -106,7 +106,7 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 173, S. 357-358.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Que V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi> communibus nostris oratoribus ad <persName xml:id="person_d100e148a1050"
+            <p>Que V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi> communibus nostris oratoribus ad <persName xml:id="person_d100e155a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Wassili III. Iwanowitsch, Großfürst von Moskau">Ruthenorum principem </persName>missis in mandatis dedit, cum nihil sit, quod in eo preterea desiderari possit, plurimum laudamus et approbamus. Placent et nobis non minus oratores ipsi cum natalibus clari tum propriis virtutibus egregiisque animi dotibus ornati, singulari ad hoc rerum gerendarum peritia praediti. Quodque alter apud quondam caesarem <persName xml:id="person_d4e119a1050"
@@ -116,11 +116,11 @@
             <p>Cui itaque mandatum ad hoc nostrum ex animi sui sententia remittimus, in quo nil aliud immutavimus quam unum articulum, qui se ad instructionem referens totius mandati vim et nervum illuc conferebat, quem tamquam minus necessarium e medio toli maluimus, quam ut ob id ansam porrigi partibus investigandi nostri animi et mentis arcana, quae instructioni ad plurimum liberius inseruntur oratorumque fidei et ingenio ex rerum et negotiorum statu et variatione tractanda seorsum tutius commituntur. Alia vero, de quibus certior fieri cupit V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi>, sive cum <persName xml:id="person_d86e145a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Sigismund I.">Poloniae rege </persName>sive <persName xml:id="person_d100e148a1050"
+                         key="Sigismund I.">Poloniae rege </persName>sive <persName xml:id="person_d100e155a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Wassili III. Iwanowitsch, Großfürst von Moskau">Moscorum duce </persName>vel cum ipsorum altero seu confecta prius vel etiam spreta et desperata inter eos pace agenda et tractanda, omnia V<hi rendition="#sup">re</hi> Ser<hi rendition="#sup">tis</hi> summe prudentiae et voluntati integre reservare et commendare voluimus, ut id totum, quemadmodum utrique nostrum rebusque isthic nostris omnibus habita rei, loci et temporis ratione opportunius consultiusque fore visum fuerit, libere perpendere, dirigere, agere et perficere posset. Quod nobis aeque atque V<hi rendition="#sup">re</hi> Ser<hi rendition="#sup">ti</hi> iucundius gratumque erit. Et valeat V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi> quam felicissime. Datum . . .</p>
-            <p>Vester bonus frater	Carolus</p>
+            <p>Vester bonus frater Carolus</p>
             <p>
                <persName xml:id="person_d39e105a1050"
                          ref="nognd"
@@ -129,7 +129,7 @@
             </p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Als Gesandte hatte F <persName xml:id="person_d53e222a1050"
+            <p>Als Gesandte hatte F <persName xml:id="person_d53e228a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Herberstein, Siegmund von">Sigismund von Herberstein</persName> und <persName xml:id="person_d147e299a1050"

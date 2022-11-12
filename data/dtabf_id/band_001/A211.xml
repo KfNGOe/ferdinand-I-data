@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:11:04Z</date>
+               <date>2022-11-12T10:12:13Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,17 +102,22 @@
             <p>The trial of Jehan Kasselt.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de l’État et de I'Aud., vol. 93, Bl. 24. Original.</p>
+            <p>Brüssel, Arch. gén. Papiers de l’État et de I'Aud., vol. 93, Bl. 24. Original. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 211, S. 401-402.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>M<hi rendition="#sup">me</hi>, ma bonne tante, humblement et de bon cueur a vostre bonne grace me recommande. M<hi rendition="#sup">me</hi>, les juge et assesseurs de la <index resp="Abel_Laura">
                   <term xml:id="index_d29e267a1051" key="HRR, Reichskammergericht">chambre imperialle</term>
-               </index> m’ont presenté la requeste que vous envoie avec cestes et ce touchant la delivrance de <persName xml:id="person_d195e120a1050"
+               </index> m’ont presenté la requeste que vous envoie avec cestes et ce touchant la delivrance de <persName xml:id="person_d195e134a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Kasselt, Jehan">Jehan Kesselt</persName>, comme verrez; je vous prie, m<hi rendition="#sup">me</hi>, vouloir incontinant pourveoir a l’affaire, affin d’evicter les inconveniens que à faulte de ce adviendront. Autrement il leur sera force ou cas que n’y pourvoyez autrement declerer le <index resp="Abel_Laura">
-                  <term xml:id="index_d75e199a1051" key="HRR, Reichsbann">ban imperial</term>
+                  <term xml:id="index_d75e205a1051" key="HRR, Reichsbann">ban imperial</term>
                </index>, comme le plus amplement entendrez par lad. requeste. Et sur ce, m<hi rendition="#sup">me</hi>, ma bonne tante, je prie à dieu qui vous doint bonne vie et longue.</p>
             <p>De <placeName xml:id="place_d68e257a1050"
                           ref="nognd"
@@ -121,12 +126,6 @@
             <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
          </div>
       </body>
