@@ -1,1 +1,0 @@
-curl -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token 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" https://api.github.com/repos/KfNGOe/ferdinand-I-app/dispatches -d '{"event_type":"data-repository-dispatch","client_payload":{"unit":false,"integration":true}}'
