@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T08:58:38Z</date>
+               <date>2022-11-12T09:51:29Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,20 +102,24 @@
             <p>Ferdinand the Catholic promises F a successful hunting trip in the future. His health.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Familienarchiv. Original mit aufgedrücktem Siegel.</p>
+            <p>Wien, St.-A. Familienarchiv. Original mit aufgedrücktem Siegel. Rückwärts Adresse: <hi rendition="#i">Al ill</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i"> ynfante don Hernando, mi muy caro et muy amado nyeto et hijo. </hi>
+            </p>
+            <p>Der hier erwähnte Brief F’s wurde nicht vorgefunden.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 3, S. 3.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Ill<hi rendition="#sup">mo</hi> infante, mi muy caro y muy amado nieto y hijo. Reçebi vuestra letra con que he holgado y pues en el monte pasado no aveys fecho nada, da os priesa en lo que quando, porque quando os veo plaziendo á nuestro señor, tengays mucha <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d6e101a1051" key="Jagd">caça</term>
+                  <term xml:id="index_d6e109a1051" key="Jagd">caça</term>
                </index>. <persName xml:id="person_d4e129a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Ferdinand der Katholische">Yo</persName> voy con muy mucho mejoria de <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d6e108a1051"
+                  <term xml:id="index_d6e116a1051"
                         key="Gesundheit/Krankheit, Ferdinand der Katholische">salud</term>
                </index> á dios gracias como este grado vuestro os dira.</p>
-            <p>De <placeName xml:id="place_d6e113a1050"
+            <p>De <placeName xml:id="place_d6e121a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Cazalegas">Caçalegas</placeName> a 12. de noviembre de 515 años.</p>
@@ -126,11 +130,6 @@
                          key="Quintana, Pedro de">Pedro de Quyntana</persName>.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">Al ill</hi>
-               <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">ynfante don Hernando, mi muy caro et muy amado nyeto et hijo.</hi>
-            </p>
-            <p>Der hier erwähnte Brief F’s wurde nicht vorgefunden.</p>
             <p>a) <hi rendition="#i">Yo el Rey</hi> eigenhändig.</p>
             <p>Kommentar der Herausgeber der digitalen Edition: Im ersten Band der Familienkorrespondenz war der Ortsname fälschlich mit <hi rendition="#i">Casaleggio</hi> aufgelöst worden.</p>
          </div>

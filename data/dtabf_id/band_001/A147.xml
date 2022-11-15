@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:39Z</date>
+               <date>2022-11-12T10:06:01Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -96,7 +96,7 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>1. Erhielt K’s Brief vom 27. Juni. Meneses und Salinas. 2. Umtriebe des Papstes, Venedigs und des Hgs von Mailand, Rüstungen in Tirol. 3. Bauernaufruhr, besonders in Tirol und Österreich. 4. Gf Salm, 5. Bauernaufruhr im Elsaß. 6. Hat jetzt 1000 Pferde und ungefähr 5000 Fußgänger bereit. 7. Ausbleiben der venezianischen Rente.</p>
+            <p>1. Erhielt K’s Brief vom 27. Juni. Meneses und Salinas. 2. Umtriebe des Papstes, Venedigs und des Hgs von Mailand, Rüstungen in Tirol. 3. Bauernaufruhr, besonders in Tirol und Österreich. 4. Gf Salm. 5. Bauernaufruhr im Elsaß. 6. Hat jetzt 1000 Pferde und ungefähr 5000 Fußgänger bereit. 7. Ausbleiben der venezianischen Rente.</p>
             <p>8. [Nachschrift.] Ankunft des Meneses. Absendung eines neuerlichen Gesandten.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
@@ -104,7 +104,10 @@
             <p>8. [Postscript.] Meneses' arrival. Dispatch of a new envoy.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) Wien, St.-A. Belgica PA 7. Original. Grundlage für den folgenden Abdruck.</p>
+            <p>(W) Wien, St.-A. Belgica PA 7. Original. Grundlage für den folgenden Abdruck. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>(W<hi rendition="#sup">1</hi>) Ebenda Hs. B. 597, I, S. 46—47. Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 147, S. 318-320.</p>
          </div>
@@ -119,7 +122,7 @@
             <p>Quant aux affaires d’Italie, je ne faiz, mons<hi rendition="#sup">r</hi>, doubte que par le <persName xml:id="person_d51e97a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bourbon">duc de Bourbonnois</persName> et autres voz capitaines et serviteurs illecq n’ayez esté et journellement estes averti de la disposition d’iceulx, mesmement des practicques du <persName xml:id="person_d53e635a1050"
+                         key="Bourbon">duc de Bourbonnois</persName> et autres voz capitaines et serviteurs illecq n’ayez esté et journellement estes averti de la disposition d’iceulx, mesmement des practicques du <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pappe</persName>, <index resp="Abel_Laura">
@@ -146,7 +149,7 @@
             <p>Touchant les <index resp="Abel_Laura">
                   <term xml:id="index_d108e230a1051" key="Bauernkrieg (Deutscher), 1524-1526">motions</term>
                </index> de pardeça, elles sont, mons<hi rendition="#sup">r</hi>, universellement estées par tout l’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemangne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemangne</term>
                </index>, toutesfois que le dieu mercis la <index resp="Abel_Laura">
                   <term xml:id="index_d21e249a1051" key="Schwäbischer Bund">ligue de Zwave</term>
                </index> a tellement exploitié qu’elle a mis à obeissance la plus grant partie. Et quant à ceulx du <index resp="Abel_Laura">
@@ -154,7 +157,7 @@
                </index>, j’avoie advisé y envoyer gens pour les chastoier, mais à cause que le pays est montaigneux et aussi que aucunement se sont mis en meilleur obeissance qu’ilz n’avoient estéz, je les ai bien voulu comporter, esperant qu’ilz se porteront de mieulx et se desmontreront ci-après meilleurs subgectz qu’ilz n’ont faiz. Quant à ceulx d’<index resp="Abel_Laura">
                   <term xml:id="index_d19e125a1051" key="Österreich">Austrice</term>
                </index>, j’avoie illecq ung mien capitaine avec ung nombre de gens de piet et de cheval pour les chastier, lequel, après qu’il eust commancé à faire bon exploit et remectre les rebelles à obeissance, se mit en une ville aud. pays, et pensant en icelle estre bien asseuré par ceulx de lad. ville et par les <index resp="Abel_Laura">
-                  <term xml:id="index_d107e296a1051" key="Bauernkrieg, Salzburg">paysans de Salsburg</term>
+                  <term xml:id="index_d107e298a1051" key="Bauernkrieg, Salzburg">paysans de Salsburg</term>
                </index> que y confinent fut surprins, ses gens en partie tuéz, pilléz et desrobéz, lui et aulcuns aultres nobles gens retenuz prisonniers.</p>
             <p>Depuis ai de nouveau renvoyé le <persName xml:id="person_d21e538a1050"
                          ref="nognd"
@@ -181,7 +184,7 @@
                          resp="Abel_Laura"
                          key="Lannoy">viceroi de Naples</persName>, vous supplie, mons<hi rendition="#sup">r</hi>, tres humblement que, si on traictoit avec eulx, veullez donner ordre que soie satisfait sans qu’ilz m’y mectent plus longue dilacion n’y entretiennent de frivolles excusations, comme ilz ont fait jusques à present.</p>
             <p>Mons<hi rendition="#sup">r</hi>, je supplie<hi rendition="#sup">b</hi>) atant le createur qui vous doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d151e258a1050"
+            <p>De <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tibinghen</placeName>, ce 24<hi rendition="#sup">e</hi> d’aoust a<hi rendition="#sup">o</hi> 25.</p>
@@ -193,13 +196,9 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i"> —recommande</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
+               <hi rendition="#i">– recommande</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
             <p>Bezieht sich auf Nr. A144.</p>
             <p>Am 10. August schrieb F an die Gesandten K’s in Venedig, <persName xml:id="person_d44e215a1050"
                          ref="nognd"
@@ -227,7 +226,7 @@
                          key="Spagna, Cornelius de">
                   <hi rendition="#i">Cornelius de Spagna</hi>
                </persName>
-               <hi rendition="#i"> tamquam comissarius</hi>. Sie sollen deshalb in seinem Namen bi der Signorie für diese Truppen <hi rendition="#i">litteras passus et salvum conductum</hi> verlangen und vorsehen, daß Lebensmittel usw. für Geld beschafft werden. Wien, St.-A. Belgica PA 92. Kopie.</p>
+               <hi rendition="#i"> tamquam comissarius</hi>. Sie sollen deshalb in seinem Namen bei der Signorie für diese Truppen <hi rendition="#i">litteras passus et salvum conductum</hi> verlangen und vorsehen, daß Lebensmittel usw. für Geld beschafft werden. Wien, St.-A. Belgica PA 92. Kopie.</p>
             <p>Es handelt sich hier um den Landeshauptmann von Steiermark, <persName xml:id="person_d151e346a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -236,12 +235,12 @@
                           resp="Abel_Laura"
                           key="Schladming">Schladming</placeName> überrascht und gefangengenommen worden ist. Köchl, Mitt. d. Ges. f. Salzburger Landeskunde 47, S. 38f.</p>
             <p>Gemeint ist hier Gf Niklas Salm.</p>
-            <p>b) in W<hi rendition="#sup">1</hi> folgt etc. und fehlt <hi rendition="#i">atant — longue.</hi>
+            <p>b) in W<hi rendition="#sup">1</hi> folgt <hi rendition="#i">etc.</hi> und fehlt <hi rendition="#i">atant – longue.</hi>
             </p>
-            <p>Am 30. August befiehlt F aus Tübingen seinen Gesandten in Venedig, <persName xml:id="person_d151e363a1050"
+            <p>Am 30. August befiehlt F aus Tübingen seinen Gesandten in Venedig, <persName xml:id="person_d151e366a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Angrer, Dr. Gregor, F’s Gesandter in Venedig">Gregor Angrer</persName> und <persName xml:id="person_d151e366a1050"
+                         key="Angrer, Dr. Gregor, F’s Gesandter in Venedig">Gregor Angrer</persName> und <persName xml:id="person_d151e369a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Dornberg, Erasmus von">Erasmus von Dornberg</persName>, den Empfang der von Venedig an <persName xml:id="person_d21e550a1050"

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:08:42Z</date>
+               <date>2022-11-12T10:09:30Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,12 @@
             <p>1. Has received Mg's letter dated January 29 with news of peace. Messages from Venice regarding the French King's marriage alliance with Leonora. 2. Lack of funds in Italy.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. Gén. Papiers de l'État et de lʼAud., vol. 93, Bl. 10. Original.</p>
+            <p>Brüssel, Arch. Gén. Papiers de l'État et de lʼAud., vol. 93, Bl. 10. Original. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 183, S. 368-369.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -113,11 +118,11 @@
                          resp="Abel_Laura"
                          key="Franz I.">roi de France</persName>, que m’ont tres grandement resioui, actendu mesmes que s’est tant à l’honneur de sa m<hi rendition="#sup">te</hi>, ainsi comme m’escripvez, l’on vous a escript en general dont, m<hi rendition="#sup">me</hi>, vous mercie bien humblement qu’il vous a pleu m’en incontinant de partir, priant que la teneur d’icelle vous estre venue vouloir faire le semblable. Ce jourd’hui me sont venues les mesmes nouvelles de <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Venise</term>
-               </index> et du camp et avec icelles est aucunement contenu des articles mesmes du mariaige dud. roi de France avec <persName xml:id="person_d9e119a1050"
+               </index> et du camp et avec icelles est aucunement contenu des articles mesmes du mariaige dud. roi de France avec <persName xml:id="person_d9e131a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Eleonore von Österreich">m<hi rendition="#sup">me</hi> Leonor</persName>, ma bonne seur, et de la rediction de la <index resp="Abel_Laura">
-                  <term xml:id="index_d34e264a1051" key="Burgund, Herzogtum">duché de Bourgoigne</term>
+                  <term xml:id="index_d34e259a1051" key="Burgund, Herzogtum">duché de Bourgoigne</term>
                </index>, combien que ceulx qui le m’ont escript ne l’ont eu que d’aucuns particuliers. Je ne fais doubte que sad. m<hi rendition="#sup">te</hi> sera si bien esté conseillé que son prouffit et honneur y aura esté observé et me tarde bien que puisse avoir le tout pour l’entendre plus à plein.</p>
             <p>Les affaires <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">d’Italie </term>
@@ -133,15 +138,9 @@
             <p>Vostre<hi rendition="#sup">b</hi>) bon et humble ne[pveur] Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) Lücke.</p>
             <p>Der erwähnte Brief Mg’s hat sich nicht vorgefunden. Es ist immerhin bemerkenswert, daß drei Wochen nach Abschluß des Friedens die Bedingungen noch nicht in ihrer Gesamtheit zur Kenntnis F’s gelangt sind. K bezieht sich in Nr. A182 [1], also erst am 2. Februar, auf nähere Mitteilungen darüber, die er F werde zukommen lassen. Vgl. Nr. A187. Am 29. Jänner gelangte der <index resp="Abel_Laura">
-                  <term xml:id="index_d187e195a1051" key="Vertrag von Madrid">Vertrag von Madrid </term>
+                  <term xml:id="index_d187e194a1051" key="Vertrag von Madrid">Vertrag von Madrid </term>
                </index>erst nach <placeName xml:id="place_d115e219a1050"
                           ref="nognd"
                           resp="Abel_Laura"

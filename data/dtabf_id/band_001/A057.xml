@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:57:48Z</date>
+               <date>2022-11-12T09:56:56Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -122,11 +122,7 @@
                <hi rendition="#i #sup">tis</hi>
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">re</hi>
-               <hi rendition="#i"> ex novis ac schedis illis inclusis </hi>about the threatening preparations of the Turks against Hungary, Croatia and the Austrian borderlands. <hi rendition="#i">Constituimus et ordinavimus his diebus in defensionem illorum confinium ducentos equites leves et sexcentos pedites pixidarios et cuspidarios, ut saltim excursiones que nunc fortassis a </hi>
-               <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d21e226a1051" key="Türken"/>
-               </index>
-               <hi rendition="#i">parantur et moliuntur evitare et excipere possint.</hi> Urges L, for his part, to do his utmost to help exhausted Croatia with just as many or more troops. L should also instruct the Banus to hold reliable spies among the Turks, so that they may be truthfully informed about the movements of the infidels.</p>
+               <hi rendition="#i"> ex novis ac schedis illis inclusis </hi>about the threatening preparations of the Turks against Hungary, Croatia and the Austrian borderlands. <hi rendition="#i">Constituimus et ordinavimus his diebus in defensionem illorum confinium ducentos equites leves et sexcentos pedites pixidarios et cuspidarios, ut saltim excursiones que nunc fortassis a Thurcis parantur et moliuntur evitare et excipere possint.</hi> Urges L, for his part, to do his utmost to help exhausted Croatia with just as many or more troops. L should also instruct the Banus to hold reliable spies among the Turks, so that they may be truthfully informed about the movements of the infidels.</p>
          </div>
          <div n="4"><!-- archive_desc -->
             <p>Wien, St.-A. Hungarica 1. Original mit eigenhändiger Unterschrift: <hi rendition="#i">E. Ser</hi>
@@ -138,7 +134,7 @@
                <hi rendition="#i">principi et domino Ludovico Hungariẹ et Boemiẹ etc. regi, marchioni Moraviẹ etc., domino et sororio nostro col</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">.</hi> Als Datum: <hi rendition="#i">Datum </hi>
-               <placeName xml:id="place_d52e136a1050"
+               <placeName xml:id="place_d52e134a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Nürnberg ">
@@ -149,12 +145,12 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>Die Kosten der Ausrüstung der 200 Pferde, wofür man ungefähr 1500 Gulden veranschlagte, sollten aus den Aufschlägen in <index resp="Abel_Laura">
-                  <term xml:id="index_d60e192a1051" key="Krain">Krain</term>
+                  <term xml:id="index_d60e188a1051" key="Krain">Krain</term>
                </index> gedeckt werden. Mon. Hist. Hung., S. 282. Auch Proviantankäufe in <index resp="Abel_Laura">
-                  <term xml:id="index_d60e196a1051" key="Steiermark">Steiermark</term>
+                  <term xml:id="index_d60e192a1051" key="Steiermark">Steiermark</term>
                </index>, <index resp="Abel_Laura">
-                  <term xml:id="index_d60e200a1051" key="Kärnten">Kärnten</term>
-               </index>, Krain und <placeName xml:id="place_d60e203a1050"
+                  <term xml:id="index_d60e196a1051" key="Kärnten">Kärnten</term>
+               </index>, Krain und <placeName xml:id="place_d60e199a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Celje">Cilli</placeName> sollten stattfinden und der Provianttransport überall gefördert werden. Ebenda, S. 280 f.</p>

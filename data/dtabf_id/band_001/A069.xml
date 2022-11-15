@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:50Z</date>
+               <date>2022-11-12T09:58:10Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -111,9 +111,9 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">visconte de Lombeke</persName>, mon ambassadeur en <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaigne</term>
                </index>, j’ai plainnement entendu la grande diligence, soing, traveil et labeur que vous avez prins en la derniere <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
                </index>, enquoi vous estes employé si prudentement que l’on ne pourroit mieulx dont vous mercie grandement. J’ai aussi par plusieurs articles desd. lectres entendu bien au long les affaires et matieres que se sont traictéz en icelle diete dont aucuns estoient assez dissonans à raison, toutesfois que j’espere y aurez usé de telle prudence et si bien tenu la main que riens ni aura esté fait au prejudice de nostre auctorité ni de l’empire.</p>
             <p>Je ne vous puis bien amplement advertir de mon intencion sur toutes choses avant que d’avoir sceu et entendu par voz lectres propres la totale et finale conclusion des estas d’<index resp="Abel_Laura">
                   <term xml:id="index_d17e162a1051" key="Ungarn">Hongrie</term>
@@ -134,7 +134,7 @@
                          key="Franz I.">le roi François</persName> pour nous induire à paix ou tresves sur le bruit et rumeur de la descente <persName xml:id="person_d26e215a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Süleyman I.">du Turc</persName>. Il me semble, qu’il n’est besoing que lesd. estas envoient lesd. ambassadeurs à ceste occasion, car ce ne seroient sinon grans frais et travaulx pour eulx et paine perdue,<hi rendition="#sup">c</hi>) puisque <persName xml:id="person_d53e635a1050"
+                         key="Süleyman I.">du Turc</persName>. Il me semble, qu’il n’est besoing que lesd. estas envoient lesd. ambassadeurs à ceste occasion, car ce ne seroient sinon grans frais et travaulx pour eulx et paine perdue,<hi rendition="#sup">c</hi>) puisque <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">nostre sainct pere</persName> fait telles poursuites sur lesd. paix ou tresves que le tout est remis en sa main<hi rendition="#sup">d</hi>) et a envoyé à cest effet <persName xml:id="person_d72e157a1050"
@@ -145,7 +145,7 @@
                          resp="Abel_Laura"
                          key="Heinrich VIII.">roi d’Angleterre</persName>, comme vous ai dernierement<hi rendition="#sup">e</hi>) escript au long.<hi rendition="#sup">f</hi>) Et pour ce le pourrez dire et faire remonstrer ausd. estas, afin qu’ilz ne facent telz frais sans estre besoing et vous prie tenir main que lesd. ambassadeurs ne bougent, car ce ne seroit mon honneur, ains par le contraire grosse reputation aud. roi François, que n’est convenable à ce temps present, comme bien entendez.</p>
             <p>
-               <persName xml:id="person_d10e128a1050"
+               <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">M<hi rendition="#sup">me</hi>, nostre bonne tante</persName>, m’a escript touchant le payement de la pension, deue aux <index resp="Abel_Laura">
@@ -175,7 +175,7 @@
                </index>, il me semble qu’il servira beaucop à la matiere de leur faire demande une diete à <placeName xml:id="place_d63e154a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Zürich">Zurich</placeName>, les advertissant que à icelle viendront les ambassadeurs de <persName xml:id="person_d53e635a1050"
+                          key="Zürich">Zurich</placeName>, les advertissant que à icelle viendront les ambassadeurs de <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">nostre sainct pere</persName>, les miens, ceulx du <persName xml:id="person_d35e129a1050"

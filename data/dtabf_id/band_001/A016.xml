@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:54:17Z</date>
+               <date>2022-11-12T09:52:44Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -145,13 +145,13 @@
                          resp="Christopher_F._Laferl"
                          key="Villinger, Jakob">Jakob Villinger </persName>vom 8. Februar 1514 (Innsbruck), <hi rendition="#i">„daz er doctor Cunradten Renner achtzehen brabandisch ellen swartzen samat, so im die kay. m</hi>
                <hi rendition="#i #sup">t</hi>
-               <hi rendition="#i">fur ain eerclaid auch daz er yetzo in potschafften reytten wirdet bei ime zu geben verordent und verschaffen hat, geben soll“</hi>. (Wien, St-A. Reichsreg. Y Bl. 70.) — B. von Wien war damals Georg Slatconia, der am 26. April 1522 als 66jähriger Mann gestorben ist. Xystus Schier, Die Bischöfe und Erzbischöfe von Wien, Graz 1777, S. 36. Zu seinem Nachfolger wurde nach der kurzen Zwischenzeit des <persName xml:id="person_d19e169a1050"
+               <hi rendition="#i"> fur ain eerclaid auch daz er yetzo in potschafften reytten wirdet bei ime zu geben verordent und verschaffen hat, geben soll“</hi>. (Wien, St-A. Reichsreg. Y Bl. 70.) — B. von Wien war damals Georg Slatconia, der am 26. April 1522 als 66jähriger Mann gestorben ist. Xystus Schier, Die Bischöfe und Erzbischöfe von Wien, Graz 1777, S. 36. Zu seinem Nachfolger wurde nach der kurzen Zwischenzeit des <persName xml:id="person_d19e168a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Bonomo, Petrus, Bischof von Wien">Petrus Bonomo </persName>1523 <persName xml:id="person_d19e172a1050"
+                         key="Bonomo, Petrus, Bischof von Wien">Petrus Bonomo </persName>1523 <persName xml:id="person_d19e171a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Revellis, Johann de, Bischof von Wien">Johann de Revellis </persName>bestellt. Nun scheint Doktor Konrad Renner dafür, dass er um die Nachfolge gekommen ist, eine Art Entschädigung bekommen zu haben, denn am 28. September 1530 schreibt <persName xml:id="person_d19e176a1050"
+                         key="Revellis, Johann de, Bischof von Wien">Johann de Revellis </persName>bestellt. Nun scheint Doktor Konrad Renner dafür, dass er um die Nachfolge gekommen ist, eine Art Entschädigung bekommen zu haben, denn am 28. September 1530 schreibt <persName xml:id="person_d19e175a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Fabri, Johann, Bischof von Wien">Johann Fabri </persName>an die niederösterreichische Regierung über das Wiener Bistum: <hi rendition="#i">„dartzu gemelts bistumb mit grossen außwendigen schulden beladen und uber das der herr Conrad Renner vierhundert und der </hi>
@@ -160,7 +160,7 @@
                          resp="Christopher_F._Laferl"
                          key="Lang, Matthäus">
                   <hi rendition="#i">bischove von </hi>
-                  <placeName xml:id="place_d19e184a1050"
+                  <placeName xml:id="place_d19e183a1050"
                              ref="nognd"
                              resp="Christopher_F._Laferl"
                              key="Gurk">

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:53:28Z</date>
+               <date>2022-11-12T09:51:45Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,12 @@
             <p>She apologizes for her delay in replying to F's previous two letters. She longs to see F soon and offers her services.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Familienarchiv. Eigenhändiges Original.</p>
+            <p>Wien, St.-A. Familienarchiv. Eigenhändiges Original. Rückwärts Adresse: <hi rendition="#i">A mons</hi>
+               <hi rendition="#i #sup">r </hi>
+               <hi rendition="#i">mon frere le s</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">infante. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 6, S. 5-6.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -111,13 +116,12 @@
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Brüssel">Bruselle</placeName> se 15<hi rendition="#sup">e</hi> de julet.</p>
-            <p>De vostre humble seur <persName xml:id="person_d9e119a1050"
+            <p>De vostre humble seur <persName xml:id="person_d9e131a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Eleonore von Österreich">Leonor</persName>.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: A mons<hi rendition="#sup">r </hi>mon frere le s<hi rendition="#sup">r</hi> infante.</p>
             <p>a) vermutlich für <hi rendition="#i">s’est</hi>. </p>
             <p>b) undeutlich geschrieben, wohl für <hi rendition="#i">eloignié.</hi>
             </p>

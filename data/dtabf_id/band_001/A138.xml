@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:04:52Z</date>
+               <date>2022-11-12T10:05:07Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -130,18 +130,18 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Montbéliard">Montbelliard</placeName>, ce vous seroit une piece fort duisable le vous y penserez et atant, mon bon frere, nostre seigneur vous ait en sa sainte garde.</p>
-            <p>Escript<hi rendition="#sup">a</hi>) en <placeName xml:id="place_d140e752a1050"
+            <p>Escript<hi rendition="#sup">a</hi>) en <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le 4<hi rendition="#sup">e</hi> jour de mai a<hi rendition="#sup">o</hi> 1525.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Es scheinen dies ähnliche Verhandlungspunkte gewesen zu sein wie die von <persName xml:id="person_d138e122a1050"
+            <p>Es scheinen dies ähnliche Verhandlungspunkte gewesen zu sein wie die von <persName xml:id="person_d138e129a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Moncada, Ugo de">Hugo de Moncada</persName> dem Kaiser überbrachten. Champollion-Figeac, Captivité, S. 170ff.; Baumgarten 2, S. 425, Anm.</p>
             <p>Vgl. Nr. A131.</p>
-            <p>a) en —1525 nur in W<hi rendition="#sup">1</hi>.</p>
+            <p>a) en —1525 nur in W<hi rendition="#sup">1</hi>. </p>
          </div>
       </body>
    </text>

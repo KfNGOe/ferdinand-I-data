@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:07:57Z</date>
+               <date>2022-11-12T10:08:38Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,11 @@
             <p>Accreditation for Gabriel Salamanca, Count of Ortenburg.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Original, durchwegs von F’s eigener Hand. Rückwärts von einer Hand des 16. Jahrhunderts vermerkt: Allemaigne 26, 27, 28. <hi rendition="#i">De mons</hi>
+            <p>Wien, St.-A. Belgica PA. 7. Original, durchwegs von F’s eigener Hand. Rückwärts Adresse: <hi rendition="#i">A l’empereur</hi>
+               <hi rendition="#i #sup">a</hi>
+               <hi rendition="#i">) mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>Rückwärts von einer Hand des 16. Jahrhunderts vermerkt: <hi rendition="#i">Allemaigne 26, 27, 28. De mons</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i"> l’archiduc pour l’an 1526 et 27 et aussi pour le temps qu’il fut en fin dud. an 26 esleu roi de Boheme et après de Hongrie et qu’il conquesta led. Hongrie sur le vayvoda de Transilvanie en l’an 27</hi>.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 174, S. 358-359.</p>
@@ -111,7 +115,7 @@
             <p>Mons<hi rendition="#sup">r</hi>, sy humblement que faire puis à vostre bonne grace me recomende. Mons<hi rendition="#sup">r</hi>, j’envoie presentement le <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salamanca">conte de Ortembuorg</persName>, mon tresorier, devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pour vous dire la bonne prou vous face et aultres afaires, come par luy vous plaira amplement entendre, lequel vous suplie, mons<hi rendition="#sup">r</hi>, tres humblement en ce qu’il vous dira de ma part croire<hi rendition="#sup">a</hi>) et doner tele foy et credence<hi rendition="#sup">b</hi>) come à moy memes, car de tout ce qu’il vous pleira savoir en poures par luy entierement estre informé, come de se luy qui set bien tous les<hi rendition="#sup">c</hi>) affaires de par desa et de ce dont il vous parlara à pouer sufisant en escript, vous supliant, mons<hi rendition="#sup">r</hi>, m’avoir en celuy afaire pour recomendé, puis que me poues aider as vostre domage et ay toute ma fiance en V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>. Atant, mons<hi rendition="#sup">r</hi>, je prie le createur vous donner bonne vie et longue.</p>
+                         key="Salamanca">conte de Ortembuorg</persName>, mon tresorier, devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pour vous dire la bonne prou vous face et aultres afaires, come par luy vous plaira amplement entendre, lequel vous suplie, mons<hi rendition="#sup">r</hi>, tres humblement en ce qu’il vous dira de ma part croire<hi rendition="#sup">b</hi>) et doner tele foy et credence<hi rendition="#sup">c</hi>) come à moy memes, car de tout ce qu’il vous pleira savoir en poures par luy entierement estre informé, come de se luy qui set bien tous les<hi rendition="#sup">d</hi>) affaires de par-desa et de ce dont il vous parlara à pouer sufisant en escript, vous supliant, mons<hi rendition="#sup">r</hi>, m’avoir en celuy afaire pour recomendé, puis que me poues aider as vostre domage et ay toute ma fiance en V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>. Atant, mons<hi rendition="#sup">r</hi>, je prie le createur vous donner bonne vie et longue.</p>
             <p>De <placeName xml:id="place_d14e119a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -120,17 +124,11 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur</hi>
-               <hi rendition="#i #sup">d</hi>
-               <hi rendition="#i">) mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
+            <p>a) <hi rendition="#i">emperur</hi> Original.</p>
+            <p>b) ausgestrichen <hi rendition="#i">corire.</hi>
             </p>
-            <p>a) ausgestrichen <hi rendition="#i">corire.</hi>
-            </p>
-            <p>b) <hi rendition="#i">credece</hi> Original.</p>
-            <p>c) <hi rendition="#i">le</hi> Original.</p>
-            <p>d) <hi rendition="#i">emperur</hi> Original.</p>
+            <p>c) <hi rendition="#i">credece</hi> Original.</p>
+            <p>d) <hi rendition="#i">le</hi> Original. </p>
          </div>
       </body>
    </text>

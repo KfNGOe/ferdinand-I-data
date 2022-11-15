@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:11:19Z</date>
+               <date>2022-11-12T10:12:30Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,11 @@
             <p>The Venetians' defeat at Milan.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud. vol. 93, Bl. 31. Original. Vermerkt Cito, citissime. Ebenda Bibliothèque Royale de Belgique cod. 14834, Bl. 13, ziemlich gleichzeitige Kopie.</p>
+            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud. vol. 93, Bl. 31. Original. Vermerkt <hi rendition="#i">Cito, citissime</hi>. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>Ebenda Bibliothèque Royale de Belgique cod. 14834, Bl. 13, ziemlich gleichzeitige Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 214, S. 404-405.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -121,14 +125,8 @@
             <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
-            <p>Über die Vorgänge vom 7. Juli vor Mailand im päpstlich-venezianischen Lager geben auch die Berichte <persName xml:id="person_d218e164a1050"
+            <p>Über die Vorgänge vom 7. Juli vor Mailand im päpstlich-venezianischen Lager geben auch die Berichte <persName xml:id="person_d218e167a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Guicciardini, Francesco">Francesco Guicciardinis </persName>an Giberti Aufschluß. Archivio Storico Lombardo 1896, S. 276ff. Sanuto 42, 89ff.</p>

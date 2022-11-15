@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:36Z</date>
+               <date>2022-11-12T10:01:21Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,16 @@
             <p>1. Is pleased with the decisions made by the Convent of Regensburg. Asks F to thank all participants in K's name, particularly the Dukes of Bavaria. Hopes the other Imperial Estates will follow this example of suppressing the Lutheran heresy. 2. Is enclosing several signed letters; is leaving their delivery up to F.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Rom. Vatik. Archiv. Lettere de’ Principi 1, Bl. 46. Kopie.</p>
+            <p>Rom. Vatik. Archiv. Lettere de’ Principi 1, Bl. 46. Kopie. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i">principi domino Ferdinando, infanti </hi>
+               <index resp="Hofer-Bindeus_Johannes">
+                  <term xml:id="index_d8e144a1051" key="Spanien"/>
+               </index>
+               <hi rendition="#i">, archiduci Austriae etc., fratri nostro char</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Balan, Mon. ref. Luth., S. 390f. Familienkorrespondenz Bd. 1, Nr. 101, S. 229-230.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -111,7 +120,7 @@
                           resp="Hofer-Bindeus_Johannes"
                           key="Regensburg">Ratisponensi </placeName>
                <index resp="Abel_Laura">
-                  <term xml:id="index_d104e106a1051" key="Regensburg, Konvent (1524)">conventu</term>
+                  <term xml:id="index_d104e122a1051" key="Regensburg, Konvent (1524)">conventu</term>
                </index> tanta sumus letitia affecti, ut maiori certe non potuissemus, promptissimumque consilium Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">rae</hi> ceterorumque, qui ad tam excellens opus suffragia sua administrarunt, non solum toto animo probamus, sed ob id maximas vobis omnibus agendas gratias censemus Vestramque Ser<hi rendition="#sup">tem</hi> hortamur, ut ipsorum singulis, qui aut eiusmodi comitiis interfuerunt suosve nuncios et mandatarios miserunt, plurimas nostro nomine gratias agat ac ita, ut ipsorum unusquisque ac presertim <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d41e189a1051" key="Bayern">Bavariae </term>
                </index>
@@ -126,7 +135,7 @@
             <p>Caeterum, quo melius etiam negotium perficere possit, scribimus et nos <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d15e122a1051" key="HRR">sacri Romani imperii</term>
                </index> electoribus ac <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Germaniae </term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Germaniae </term>
                </index>civitatibus dimissa literarum suprascriptione, ut ipsa V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi> pro arbitrio suo illas dirigere possit. Nobis quidem nihil erit unquam antiquius, quam ut demum haec pestifera hydra quomodocumque tollatur et in florentissima provincia nostra Germania pristinus et deo gratus vigeat pietatis cultus. Et valeat V<hi rendition="#sup">ra</hi> Ser<hi rendition="#sup">tas</hi> quam felicissime.</p>
             <p>Datum in oppido nostro <placeName xml:id="place_d97e138a1050"
                           ref="nognd"
@@ -134,23 +143,13 @@
                           key="Tordesillas">Tordesillas</placeName>, die ultimo octobris anno domini 1524.</p>
             <p>Vester bonus frater	                                                                                      Carolus.</p>
             <p>
-               <persName xml:id="person_d104e170a1050"
+               <persName xml:id="person_d104e186a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Granvelle, Nicolas Perrenot">Ph. Nicola.</persName>
             </p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">Ser</hi>
-               <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i"> principi domino Ferdinando, infanti </hi>
-               <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d8e144a1051" key="Spanien"/>
-               </index>
-               <hi rendition="#i">, archiduci Austriae etc., fratri nostro char</hi>
-               <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>Die hier genannten Ausschreibungsformulare wurden nicht vorgefunden.</p>
          </div>
       </body>

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:54:53Z</date>
+               <date>2022-11-12T09:53:26Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -131,7 +131,7 @@
                </index>ont exploicté à l’encontre des<index resp="Christopher_F._Laferl">
                   <term xml:id="index_d4e168a1051" key="Frankreich"> Franchois</term>
                </index>, m<hi rendition="#sup">me</hi> nostre tante m’en a au long averti. Et combien qu’ilz aient faict assez leur debvoir, j’eusse bien desiré qu’ilz l’eussent faict d’aventaige, combien que je croi n’a tenu à eulx et beaucop moins à m<hi rendition="#sup">me</hi>
-               <persName xml:id="person_d10e128a1050"
+               <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">nostred. tante</persName>, sinon à ce que l’on ne peult tousjours faire ce que l’on vouldroit bien.</p>
@@ -212,7 +212,7 @@
                </index>auch an <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Nürnberg">Nürnberg</placeName>. <persName xml:id="person_d10e128a1050"
+                          key="Nürnberg">Nürnberg</placeName>. <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">Mg </persName>willigte in diesen Plan ein. Vgl. Lanz 1, S. 71 f.</p>

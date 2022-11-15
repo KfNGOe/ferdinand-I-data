@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:21Z</date>
+               <date>2022-11-12T09:58:46Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,8 @@
             <p>1. Intercession on behalf of Bernhard Cles, Bishop of Trent. 2. Defends Salamanca against the malicious slander circulating about him.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA 7. Eigenhändig von F geschriebenes Original. Rote Siegelspuren.</p>
+            <p>Wien, St.-A. Belgica PA 7. Eigenhändig von F geschriebenes Original. Rote Siegelspuren. Rückwärts eigenhändig geschriebene Adresse: <hi rendition="#i">A l’empereur monsigneur. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 75, S. 146-147.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -130,8 +131,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts eigenhändig geschriebene Adresse: <hi rendition="#i">A l’empereur monsigneur.</hi>
-            </p>
             <p>Über die Persönlichkeit des B Bernhard Cles vgl. Bauer, S. 173 ff. Worin das ihm von K bei der Abreise nach Brüssel gegebene Versprechen bestand, ist nicht angegeben.</p>
             <p>Betreffs Salamancas vgl. ebenda, S. 167 ff. Den Anlaß zu den Spannungen zwischen dem Schatzmeister F’s und dem Hofe K’s gab bekanntlich die venezianische Frage im Vorjahre. S. Nr. A51.</p>
             <p>Dieser Brief wurde wohl <persName xml:id="person_d29e696a1050"

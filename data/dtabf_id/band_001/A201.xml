@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">A201.</title>
-            <title type="sub">Maria an Ferdinand, 1526 Mai 29, OfenO: Budapest.</title>
+            <title type="sub">Maria an Ferdinand, 1526 Mai 29, Ofen.</title>
             <author>
                <persName ref="nognd">Maria</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Maria</persName>
-               <placeName ref="nognd">OfenO: Budapest</placeName>
+               <placeName ref="nognd">Ofen</placeName>
                <date>1526 Mai 29</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:10:14Z</date>
+               <date>2022-11-12T10:11:15Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -96,7 +96,7 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Empfehlung für den Priester <persName xml:id="person_d204e115a1050"
+            <p>Empfehlung für den Priester <persName xml:id="person_d204e127a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mertlykh, Leonhard">Leonhard Mertlykh</persName>.</p>
@@ -105,13 +105,19 @@
             <p>Commendation for Priest Leonhard Mertlykh.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Ungarn 2. Original, gleichlautend mit dem obigen Briefe Ludwigs II. Die eigenhändige Unterfertigung lautet: <hi rendition="#i">E. S. V. obediens soror Maria etc. Rückwärts Adresse: Ser</hi>
+            <p>Wien, St.-A. Ungarn 2. Original, gleichlautend mit dem obigen Briefe Ludwigs II. Die eigenhändige Unterfertigung lautet: <hi rendition="#i">E. S. V. obediens soror Maria etc. </hi>Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">principi, domino Ferdinando, infanti Hispaniarum, archiduci Austriae, duci Burgundiae etc., fratri nostro char</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">.</hi>
             </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 201, S. 390.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort des Briefes ist <placeName xml:id="place_d43e220a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Budapest">Budapest</placeName>.</p>
          </div>
       </body>
    </text>

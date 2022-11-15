@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:12:32Z</date>
+               <date>2022-11-12T10:13:53Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,14 +102,19 @@
             <p>Requests quick carriage for Presinger via Antwerp to Spain.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 51.</p>
+            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 51. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 228, S. 438.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Sendet jetzt, nach Beendigung des </hi>
                <index resp="Abel_Laura">
-                  <term xml:id="index_d191e210a1051" key="HRR, Reichstag, Speyer (1526)"/>
+                  <term xml:id="index_d191e217a1051" key="HRR, Reichstag, Speyer (1526)"/>
                </index>
                <hi rendition="#i">, </hi>
                <persName xml:id="person_d231e110a1050"
@@ -121,7 +126,7 @@
                <hi rendition="#i"> an den Kaiser (gleichlautend mit Nr. A227).</hi> Et pour ce, m<hi rendition="#sup">me</hi>, que par lui entendrez le tout ensemble de mon partement et allée à <placeName xml:id="place_d5e138a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Innsbruck">Ysproug</placeName>, me deporte vous en escripre plus avant et ai advisé pour le plus seur qu'il prengne son chemin pardela et s’embarque en <placeName xml:id="place_d228e128a1050"
+                          key="Innsbruck">Ysproug</placeName>, me deporte vous en escripre plus avant et ai advisé pour le plus seur qu'il prengne son chemin pardela et s’embarque en <placeName xml:id="place_d228e139a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Antwerpen">Anvers</placeName> en quelque naviere, allant en <index resp="Abel_Laura">
@@ -134,12 +139,6 @@
             <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) von <hi rendition="#i">vostre </hi>an eigenhändig.</p>
             <p>Presinger, der tatsächlich über <index resp="Abel_Laura">
                   <term xml:id="index_d24e297a1051" key="Flandern">Flandern</term>

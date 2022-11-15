@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">A253.</title>
-            <title type="sub">Maria an Ferdinand, 1526 November 24, PreßburgO: Bratislava.</title>
+            <title type="sub">Maria an Ferdinand, 1526 November 24, Preßburg.</title>
             <author>
                <persName ref="nognd">Maria</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Maria</persName>
-               <placeName ref="nognd">PreßburgO: Bratislava</placeName>
+               <placeName ref="nognd">Preßburg</placeName>
                <date>1526 November 24</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:14:43Z</date>
+               <date>2022-11-12T10:16:22Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -143,13 +143,19 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Ungarn 2. Original. Siegel teilweise abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria regina. Datum: sabato proximo ante festum beate Katherine, virginis ac martiris.</hi> Rückwärts Adresse: <hi rendition="#i">Ser</hi>
+            <p>Wien, St.-A. Ungarn 2. Original. Siegel teilweise abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria regina.</hi> Datum: <hi rendition="#i">sabato proximo ante festum beate Katherine, virginis ac martiris.</hi> Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">principi, domino Ferdinando, dei gracia electo regi Bohemie, principi Hispaniarum, archiduci Austrie, duci Burgundie ac comiti Tyrolis Romanique imperii locumtenenti generali etc. fratri nostro char</hi>
                <hi rendition="#i #sup">mo</hi>
                <hi rendition="#i">atque honoranti.</hi>
             </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 253, S. 492-493.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d21e487a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Bratislava">Bratislava</placeName>/Preßburg. </p>
          </div>
       </body>
    </text>

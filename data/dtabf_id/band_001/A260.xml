@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:15:18Z</date>
+               <date>2022-11-12T10:17:03Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -111,7 +111,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Martin de Salinas</persName> m’a dit de vostre part entendu la bonne nouvelle de vostre paisible et unanime ellection au <index resp="Abel_Laura">
-                  <term xml:id="index_d251e111a1051" key="F, Königswahl Böhmen">royaulme de Boesme</term>
+                  <term xml:id="index_d251e115a1051" key="F, Königswahl Böhmen">royaulme de Boesme</term>
                </index> dont j’ai eu si grand joie et plaisir, que plus ne se pourroit dire et ai bon espoir en dieu que moyennant sa divine bonté et les bonnes provisions que avez faictes vous aurez la semblable <index resp="Abel_Laura">
                   <term xml:id="index_d248e179a1051" key="F, Königswahl Ungarn">ellection en Hongrie</term>
                </index> et croi que de ceste heure icelle vostre ellection ait desia son effect, de quoi je desire fort avoir bonnes nouvelles et du tout rendre graces à nostre createur qui tant de grandz biens a faiz et fait chascun jour à vous et moi, lui suppliant permectre que noz personnes et estas se puissent employer à son sainct service, bien et restauracion de nostre religion chrestienne et conservation de nostre saincte foi catholique.</p>
@@ -125,7 +125,7 @@
                          key="Mendoza, Antonio de">Anthonio de Mandoça</persName> qui est en chemin pour aller devers vous. Maintenant je lui envoie après en toute dilligence aultres nouvelles depesches de merciement à ceulx qui vous ont servi, esd. ellecteurs de Hongrie et Boesme pour en user selon le temps et la saison et comme lui commanderez, car la charge qu’il a de moi est telle qu’il se conduise et entierement vous obeisse comme à moi-mesmes et tout ainsi, que si j’estoie au lieu, où vous estes.</p>
             <p>Quant à ce que m’escripvez des 100000 escuz de <index resp="Abel_Laura">
                   <term xml:id="index_d24e297a1051" key="Flandern">Flandres</term>
-               </index> que, <persName xml:id="person_d10e128a1050"
+               </index> que, <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre tante</persName>, ne vous a fet delivrer, vous pourriez panser que ce fut par sa faulte et culpe ce que non, car je vous advertiz qu’elle n’avoit nul pouoir d’en disposer et avant la reception de voz lettres j’avoie desia mandé delivrer la moitié pour soubstenir les gens de guerre que maintenant avez envoyé en <index resp="Abel_Laura">
@@ -151,12 +151,12 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Salinas</persName> vous a bien servi et me tiens fort contant et satisfaict de lui, c’est raison que, puis vous ni moi ni avons trouvé faulte et que à cause des royaulmes et estas que tenez vous avez le pouoir et mieulx le moyen, que vous advisez desmaintenant à lui dresser ung si bon ordinaire qu’il en soit bien payé et bien traicté, je vous prie, mon frere, que le vuillez ainsi faire et je vous asseure qu’il sera bien employé et si me ferez singulier plaisir et que m’en vuillez faire responce par le premier courrier telle que je cognoisse, ne l’avez oblié.</p>
-            <p>Vous m’avez derrierement escript que m’advertirez que c’est de la <placeName xml:id="place_d196e103a1050"
+            <p>Vous m’avez derrierement escript que m’advertirez que c’est de la <placeName xml:id="place_d196e110a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Masowien">duché de Masse</placeName> en <index resp="Abel_Laura">
                   <term xml:id="index_d79e2588a1051" key="Polen">Polonie</term>
-               </index>, devolue à l’empire, je vous prie ainsi le faire. Et quant à ce que l’on vous a dit que j’avoie exempté le <persName xml:id="person_d243e753a1050"
+               </index>, devolue à l’empire, je vous prie ainsi le faire. Et quant à ce que l’on vous a dit que j’avoie exempté le <persName xml:id="person_d243e766a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Karl III. von Savoyen, Herzog">duc de Savoye</persName> de contribuir en la <index resp="Abel_Laura">
@@ -180,7 +180,7 @@
                </index> plus tot que moi que les reçois par mer. Ce que me occurt à ceste heure davantaige, c’est la venue vers moi de <persName xml:id="person_d264e223a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Arezzo, Paulo d‘, päpstlicher Kämmerer, Gesandter bei K">Paule de Rezo</persName>,<hi rendition="#sup">b</hi>) chambrier du <persName xml:id="person_d53e635a1050"
+                         key="Arezzo, Paulo d‘, päpstlicher Kämmerer, Gesandter bei K">Paule de Rezo</persName>,<hi rendition="#sup">b</hi>) chambrier du <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName>, lequel a esté aucuns jours en court de <index resp="Abel_Laura">
@@ -205,7 +205,7 @@
                          key="García de Loaysa y Mendoza, Juan, Bischof von Osma, Erzbischof von Sevilla, Großinquisitor, Generaloberer der Dominikaner, Kardinal, Präsident des Indienrates, Beichtvater K‘s">l’evesque d’Osma</persName>, <persName xml:id="person_d264e260a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Villena y de la Vega, Juan Manuel de, Herr von Belmonte, Vertrauter K’s">don Juan Manuel</persName>, le <persName xml:id="person_d59e423a1050"
+                         key="Villena y de la Vega, Juan Manuel de, Herr von Belmonte, Vertrauter K’s">don Juan Manuel</persName>, le <persName xml:id="person_d59e421a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Praet">seigneur de Praet</persName> et <persName xml:id="person_d39e498a1050"
@@ -222,7 +222,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Heinrich VIII.">roi</persName> et à mons<hi rendition="#sup">r</hi> le legat, conforme à ce que par le dernier depesche lui ai escript, que j’auroie plaisir que lad. paix se puist bien conduire et conclure par leurs mains et ilz l’ont peu congnoistre par les oeuvres, puis que j’ai envoyé ample pouvoir aud. don Inigo avec instruction pour le fait de lad. paix. Et de tout ce que surviendra je vous advertirai tousjours le plus souvent que pourrai. Priant dieu, mon bon frere, etc.</p>
-            <p>De <placeName xml:id="place_d140e752a1050"
+            <p>De <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, ce 28<hi rendition="#sup">e</hi> de decembre a<hi rendition="#sup">o</hi> 26.</p>
@@ -242,14 +242,14 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Salinas</persName> berichtet darüber am 7. Jänner: <hi rendition="#i">Un camerero del </hi>
-               <persName xml:id="person_d53e635a1050"
+               <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Klemens VII.">
                   <hi rendition="#i">papa </hi>
                </persName>
                <hi rendition="#i">vinó a </hi>
-               <placeName xml:id="place_d140e752a1050"
+               <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Toledo">
@@ -270,7 +270,7 @@
                   <hi rendition="#i">D. Juan Manuel</hi>
                </persName>
                <hi rendition="#i"> y confesor y </hi>
-               <persName xml:id="person_d59e423a1050"
+               <persName xml:id="person_d59e421a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Praet">
@@ -283,7 +283,7 @@
                          key="Franz I.">
                   <hi rendition="#i">rey de Francia </hi>
                </persName>
-               <hi rendition="#i">envia un secretario con largos poderes é instrucciones para entender en la dicha paz por si; y en esto habrá mas dificultad por respecto que de los medios ó asiento que tomaren no tener esperanza que lo cumplirá, porque guarda mal su fé y palabra</hi>. Villa, S.340 f.</p>
+               <hi rendition="#i">envia un secretario con largos poderes é instrucciones para entender en la dicha paz por si; y en esto habrá mas dificultad por respecto que de los medios ó asiento que tomaren no tener esperanza que lo cumplirá, porque guarda mal su fé y palabra</hi>. Villa, S.340 f. </p>
          </div>
       </body>
    </text>

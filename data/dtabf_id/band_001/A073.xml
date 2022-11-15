@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:11Z</date>
+               <date>2022-11-12T09:58:34Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -106,7 +106,7 @@
             <p>Druck: Abschnitt 11 in Firnhaber, Vincenco Guidotos Gesandtschaft am Hofe Kg Ludwigs von Ungarn (1523—1525) in Quellen und Forschungen zur vaterländ. Geschichte, Literatur und Kunst 1849, S. 112. Familienkorrespondenz Bd. 1, Nr. 73, S. 141-146.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai receu voz lettres du 15<hi rendition="#sup">e</hi> d’avril passé. Et quant à ce que me merciez la paine qu’ai prins, pour adresser <persName xml:id="person_d53e119a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai receu voz lettres du 15<hi rendition="#sup">e</hi> d’avril passé. Et quant à ce que me merciez la paine qu’ai prins, pour adresser <persName xml:id="person_d53e125a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Montfort, Wolf">Montfort</persName>, <persName xml:id="person_d49e106a1050"
@@ -158,17 +158,17 @@
             <p>J’ai mons<hi rendition="#sup">r</hi> receu la procure que m’avez envoyé pour le recouvrement des deux cens mil ducatz qu’il vous a pleu m’assigner à <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Venise</term>
                </index> ou lieu de semblable somme de <index resp="Abel_Laura">
-                  <term xml:id="index_d18e110a1051" key="F, Heirat mit A">mon mariaige</term>
+                  <term xml:id="index_d18e122a1051" key="F, Heirat mit A">mon mariaige</term>
                </index>, dont vous mercie treshumblement. Et ai aussi receu voz lettres aux <persName xml:id="person_d65e273a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bayern, Herzöge von">ducz de Baviere</persName>, touchant le jesne <persName xml:id="person_d53e455a1050"
+                         key="Bayern, Herzöge von">ducz de Baviere</persName>, touchant le jesne <persName xml:id="person_d53e461a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Christoph von Württemberg">duc de Wirtemberg</persName>, selon ce que avoie mandé à mon solliciteur <persName xml:id="person_d24e101a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salinas">Salines</persName>, et autres, quant au depesche de <persName xml:id="person_d52e147a1050"
+                         key="Salinas">Salines</persName>, et autres, quant au depesche de <persName xml:id="person_d52e145a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Schnaitpeck">Suapinquer</persName> ou lieu de messire <persName xml:id="person_d21e180a1050"

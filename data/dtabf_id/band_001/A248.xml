@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:14:17Z</date>
+               <date>2022-11-12T10:15:52Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -113,26 +113,26 @@
                          key="Beck, Dr. Markus, von Leopoldsdorf, Rat und Prokurator der Kammer von Niederösterreich">Marcum Beck</persName> a Lewpolstorff, doctorem, consiliarium et camere nostre Inferioris Austrie procuratorem, ac <persName xml:id="person_d252e109a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Preuner, Philipp, Gesandter F’s bei Z">Philippum Prewner</persName> nuntios et commissarios nostros ad spectabilem et magnificum, syncere nobis dilectum <persName xml:id="person_d243e429a1050"
+                         key="Preuner, Philipp, Gesandter F’s bei Z">Philippum Prewner</persName> nuntios et commissarios nostros ad spectabilem et magnificum, syncere nobis dilectum <persName xml:id="person_d243e440a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Z">Johannem de Zapolia</persName>, comitem perpetuum terre Zeposiensis, wayvodam Transsylvaniensem ac comitem Siculorum, sicut Ser<hi rendition="#sup">ti</hi> V<hi rendition="#sup">re</hi> latius coram exponent. Cum itaque tam pro rerum Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">re</hi> quam nostrarum securitate et expeditione faciliori cupiamus<hi rendition="#sup">a</hi>) hanc<hi rendition="#sup">b</hi>) rerum profectionem debitum efiectum sortiri ipsosque tutius et commodius ad predictum wayvodam perduci, idcirco Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> magnopere rogamus et hortamur, ut attenta hac<hi rendition="#sup">c</hi>) potissimum ratione eisdem nuntiis et commissariis nostris nedum in hiis, que referent, fidem indubiam prestare, sed etiam eisdem<hi rendition="#sup">d</hi>) nostri contemplatione auxilio consilioque suo adesse velit, ut per viam<hi rendition="#sup">e</hi>) tutam expeditiorem et<hi rendition="#sup">f</hi>) compendiariam ad eundem wayvodam pervenire possint. In quo Ser<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi> nobis rem adprime gratam faciet omni erga eam offitio<hi rendition="#sup">g</hi>) promerendam, que bene valeat.</p>
+                         key="Z">Johannem de Zapolia</persName>, comitem perpetuum terre Zeposiensis, wayvodam Transsylvaniensem ac comitem Siculorum, sicut Ser<hi rendition="#sup">ti</hi> V<hi rendition="#sup">re</hi> latius coram exponent. Cum itaque tam pro rerum Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">re</hi> quam nostrarum securitate et expeditione faciliori cupiamus<hi rendition="#sup">a</hi>) hanc<hi rendition="#sup">b</hi>) rerum profectionem debitum effectum sortiri ipsosque tutius et commodius ad predictum wayvodam perduci, idcirco Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> magnopere rogamus et hortamur, ut attenta hac<hi rendition="#sup">c</hi>) potissimum ratione eisdem nuntiis et commissariis nostris nedum in hiis, que referent, fidem indubiam prestare, sed etiam eisdem<hi rendition="#sup">d</hi>) nostri contemplatione auxilio consilioque suo adesse velit, ut per viam<hi rendition="#sup">e</hi>) tutam expeditiorem et<hi rendition="#sup">f</hi>) compendiariam ad eundem wayvodam pervenire possint. In quo Ser<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi> nobis rem adprime gratam faciet omni erga eam offitio<hi rendition="#sup">g</hi>) promerendam, que bene valeat.</p>
             <p>Datum Vienne, die 25. octobris 1526.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Die in dem Briefe geäußerte Absicht, Markus Beck und Philipp Preuner an Zapolya zu senden, ward schließlich dahin abgeändert, daß diese an die Stände <placeName xml:id="place_d252e168a1050"
-                          ref="nognd"
-                          resp="Abel_Laura"
-                          key="Siebenbürgen">Siebenbürgens</placeName> abgefertigt wurden und sich ihnen <persName xml:id="person_d252e171a1050"
-                         ref="nognd"
-                         resp="Abel_Laura"
-                         key="Weichselberger, Sigismund, Gesandter F’s bei den Ständen Siebenbürgens">Sigismund Weichselberger</persName> (nicht Vrichelsberger, wie Smolka, Arch. f. österr. Gesch. 57, S. 42, liest) beigesellte. Die Instruktion datiert vom 27. Oktober 1526, Wien. Ebenda. Konzept mit zahlreichen Verbesserungen. — Eine kurze Inhaltsangabe davon bei Smolka a. a. O.</p>
             <p>a) folgt durchstrichen <hi rendition="#i">ipsos</hi>. – b) folgt durchstrichen <hi rendition="#i">suam pro</hi>. – c) durchstrichen <hi rendition="#i">ratio</hi>. – d) <hi rendition="#i">sub </hi>
                <hi rendition="#i">...</hi>
                <hi rendition="#i">auxilio esse</hi> durchstrichen. – e) <hi rendition="#i">magis</hi> durchstrichen.  – f) <hi rendition="#i">mag</hi> durchstrichen. – g) folgt durchstrichen <hi rendition="#i">et </hi>
                <hi rendition="#i">...</hi>
                <hi rendition="#i">jugiter.</hi>
             </p>
+            <p>Die in dem Briefe geäußerte Absicht, Markus Beck und Philipp Preuner an Zapolya zu senden, ward schließlich dahin abgeändert, daß diese an die Stände <placeName xml:id="place_d252e200a1050"
+                          ref="nognd"
+                          resp="Abel_Laura"
+                          key="Siebenbürgen">Siebenbürgens</placeName> abgefertigt wurden und sich ihnen <persName xml:id="person_d252e203a1050"
+                         ref="nognd"
+                         resp="Abel_Laura"
+                         key="Weichselberger, Sigismund, Gesandter F’s bei den Ständen Siebenbürgens">Sigismund Weichselberger</persName> (nicht Vrichelsberger, wie Smolka, Arch. f. österr. Gesch. 57, S. 42, liest) beigesellte. Die Instruktion datiert vom 27. Oktober 1526, Wien. Ebenda. Konzept mit zahlreichen Verbesserungen. — Eine kurze Inhaltsangabe davon bei Smolka a. a. O.</p>
          </div>
       </body>
    </text>

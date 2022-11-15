@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:55:59Z</date>
+               <date>2022-11-12T09:54:46Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -126,7 +126,7 @@
                </index> aulcun nombre de pietons, il manda depar vous en vertu d’aulcunes voz lettres au regiment en ceste conté de <index resp="Christopher_F._Laferl">
                   <term xml:id="index_d24e142a1051" key="Tirol">Tyrol</term>
                </index>, lesquelles j’ai veu qu’ilz eussent à bailler aulcuns mandemens pour lever quelque nombre de <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d39e131a1051" key="Landsknechte">lansknechtz</term>
+                  <term xml:id="index_d36e121a1051" key="Landsknechte">lansknechtz</term>
                </index>, semblablement aux capitaines <persName xml:id="person_d36e110a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
@@ -151,7 +151,7 @@
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Brüssel">Bruxelles</placeName>, desquelz pouez à vostre plaisir avoir et qui sçavient si bien ouvrer, ne debvez fort appeter ceulx d’<index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaigne</term>
                </index> que si difficilles sont à aller hors de leurs maisons et qui ne besoingnent point si soubtilement comme lesd. de Bruxelles.</p>
             <p>Mons<hi rendition="#sup">r</hi>, quant à ce que par vostre lettre datée du 10<hi rendition="#sup">e</hi> de janvrier m’escripvez me merciant de ma venue a Neurembergh pour les raisons continues en icelles, je vous avise mons<hi rendition="#sup">r</hi> que je l’ai tres voulentiers faict, non pour chose qu’il touchast à moi, car je n’y avoie tant d’affaires que par ung commissaire, ne les deusse peu faire solliciter et depescher, mais seullement suis venu pour ce qu’il touchoit vostre honneur, reputation et auctorité où à l’aide de dieu j’ai tant fait qu’ilz y ont esté gardéz, donnant ordre tant qu’il m’a esté possible a la paciffication de pluisjeurs differends comme administration de la justice et aultres choses.</p>
             <p>Quant au faict de <persName xml:id="person_d21e164a1050"
@@ -354,7 +354,7 @@
                </index>
                <hi rendition="#i">et ailleurs en </hi>
                <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d10e102a1051" key="Deutschland"/>
+                  <term xml:id="index_d10e110a1051" key="Deutschland"/>
                </index>
                <hi rendition="#i">.</hi> Vgl. Bergenroth 2, Nr. 536.</p>
             <p>Dieser Brief ist nicht aufzufinden. Der zweite <index resp="Christopher_F._Laferl">
@@ -371,7 +371,7 @@
                </index> Regierung erst am 12. Mai (vgl. Ulmann, S. 381, Anm. 2) von den Ereignissen des Kriegsschauplatzes Mitteilung machte. Sie schreibt: <hi rendition="#i">In diser stund ist unnss durch ain namhaffte, glaubwürdige person, so das aus aignem schreiben unnsers gnedigen hern des </hi>
                <hi rendition="#i">bischoffs zu </hi>
                <hi rendition="#i">Speir</hi>
-               <hi rendition="#i">empfanngen hat, angelangt, als das schloss </hi>
+               <hi rendition="#i"> empfanngen hat, angelangt, als das schloss </hi>
                <placeName xml:id="place_d35e221a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"

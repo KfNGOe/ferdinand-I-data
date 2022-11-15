@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:03:24Z</date>
+               <date>2022-11-12T10:03:25Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -96,13 +96,17 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>1. Dankt für F’s freundliche Vorstellungen. 2. Bezieht sich in bezug auf F’s Klagen auf die in I, 10 erwähnten Mandate. 3. Unterhalt des Reichsregimentes und der Kammer (vgl. I, 7). 4. Schulden bei verschiedenen Fürsten (vgl. I, 6). 5. Luther. 6. Wahl zum Römischen Kg. 7. Verheiratung seiner zwei Schwestern. 8. Mailand. 9. Bourbon. 10. Bezahlung der Söldner für Bourbon (vgl. I, 8). 11. Verhandlungen mit Bourbon. 12. Stellung Oles’ und Salamancas zum Vertrag mit Venedig. 13. Französische Umtriebe in Ungarn und Böhmen. 14. Lasten auf den von Maximilian I hinterlassenen Landen. 15. Reichstagskosten (vgl. I, 5). 16. Georg von Sachsen (vgl. I, 3). 17. Venezianische Rente (vgl. I, 4). 18. Pfirt und Elsaß (vgl. I, 1). 19. Burgund. 20. Vorderösterreich, Tirol und Württemberg (vgl. I, 2). 21. Niederburgund. 22. Reichstagsgesandtschaft an den Kg von Frankreich. 23. Hannart. 24. Verhinderung eines Reichstags zu Speier. 25. Burg Enns. 26. Burg Ravensberg. 27. Tag zu Hamburg. 28. Salinas. 29. Erledigung verschiedener Empfehlungen F’s.</p>
+            <p>1. Dankt für F’s freundliche Vorstellungen. 2. Bezieht sich in bezug auf F’s Klagen auf die in I, 10 erwähnten Mandate. 3. Unterhalt des Reichsregimentes und der Kammer (vgl. I, 7). 4. Schulden bei verschiedenen Fürsten (vgl. I, 6). 5. Luther. 6. Wahl zum Römischen Kg. 7. Verheiratung seiner zwei Schwestern. 8. Mailand. 9. Bourbon. 10. Bezahlung der Söldner für Bourbon (vgl. I, 8). 11. Verhandlungen mit Bourbon. 12. Stellung Oles’ und Salamancas zum Vertrag mit Venedig. 13. Französische Umtriebe in Ungarn und Böhmen. 14. Lasten auf den von Maximilian I. hinterlassenen Landen. 15. Reichstagskosten (vgl. I, 5). 16. Georg von Sachsen (vgl. I, 3). 17. Venezianische Rente (vgl. I, 4). 18. Pfirt und Elsaß (vgl. I, 1). 19. Burgund. 20. Vorderösterreich, Tirol und Württemberg (vgl. I, 2). 21. Niederburgund. 22. Reichstagsgesandtschaft an den Kg von Frankreich. 23. Hannart. 24. Verhinderung eines Reichstags zu Speier. 25. Burg Enns. 26. Burg Ravensberg. 27. Tag zu Hamburg. 28. Salinas. 29. Erledigung verschiedener Empfehlungen F’s.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
             <p>1. Thanks F for his polite introductions. 2. Regarding F's complaints, he refers to the mandates mentioned in I, 10. 3. Funding for the Imperial Government and the Chamber (see I, 7). 4. Money owed to several different princes (see I, 6). 5. Luther. 6. Election to King of the Romans. 7. His two sisters' marriages. 8. Milan. 9. Bourbon. 10. Paying for Bourbon's mercenaries (see I, 8). 11. Negotiations with Bourbon. 12. Cles' and Salamanca's positions regarding the treaty of Venice. 13. French machinations in Hungary and Bohemia. 14. Debits placed on the lands left by Maximilian I. 15. Cost of the Imperial Diet (see I, 5). 16. George of Saxony (see I, 3). 17. Venetian annuity (see I, 4). 18. Ferrette and Alsace (see I, 1). 19. Burgundy. 20. Further Austria, Tirol and Württemberg (see I, 2). 21. Lower Burgundy. 22. Imperial delegation to the King of France. 23. Hannart. 24. Preventing an Imperial Diet in Speyer. 25. Castle Enns. 26. Castle Ravensburg. 27. Diet in Hamburg. Salinas. 29. Addresses several of F's commendations.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Urkundenrepert. 1. Angeheftet an die Originalausfertigung von Nr. A121a  mit der Überschrift: Abreget de l’instruction par monsr le prince et infante des Espagnes, archiduc d’Austrice, duc de Bourgoigne, comte de Tirol etc., delivrée au sr de Brugdam, son tres humble et tres obeissant serviteur, le tresieme jour du mois de juing an 1524 à Stocquart, chief ville de sa ducé de Wirtemberg.</p>
+            <p>Wien, St.-A. Urkundenrepert. 1. Angeheftet an die Originalausfertigung von Nr. A121a mit der Überschrift: <hi rendition="#i">Abreget de l’instruction par mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i"> le prince et infante des Espagnes, archiduc d’Austrice, duc de Bourgoigne, comte de Tirol etc., delivrée au s</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i"> de Brugdam, son tres humble et tres obeissant serviteur, le tresieme jour du mois de juing an 1524 à Stocquart, chief ville de sa ducé de Wirtembe</hi>rg.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 120 II., S. 258-262.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -147,7 +151,7 @@
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Katharina von Österreich">deulx</persName>
-               <persName xml:id="person_d9e119a1050"
+               <persName xml:id="person_d9e131a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Eleonore von Österreich">seurs</persName>; avant la venue dud. s<hi rendition="#sup">r</hi> de <persName xml:id="person_d29e696a1050"
@@ -215,7 +219,7 @@
                   <term xml:id="index_d24e466a1051" key="Maximilian I., Schulden">debtes </term>
                </index>que mond. s<hi rendition="#sup">r</hi> poldroit avoir payé à la descherge des meubles de la portion de sa m<hi rendition="#sup">te</hi>, il en respond par l’article neufiesme dud. quaier.</p>
             <p>Touchant les deux voyages que mons<hi rendition="#sup">r</hi> pour le service de l’empereur a fait aux <index resp="Abel_Laura">
-                  <term xml:id="index_d125e392a1051"
+                  <term xml:id="index_d125e404a1051"
                         key="HRR, Reichstag, Nürnberg (1522/23 und 1524), Auslagen Fs">diettes des Nurenberg</term>
                </index>, sa m<hi rendition="#sup">te</hi> en parle à l’article 5<hi rendition="#sup">e</hi> dud. quaier.</p>
             <p>Des cent dix mile florins d’or, par mons<hi rendition="#sup">r</hi> payéts au duc <persName xml:id="person_d24e212a1050"
@@ -254,7 +258,7 @@
                          resp="Abel_Laura"
                          key="Franz I.">roi de France</persName>
                <index resp="Abel_Laura">
-                  <term xml:id="index_d73e108a1051"
+                  <term xml:id="index_d73e114a1051"
                         key="HRR, Gesandtschaft der Reichsstände nach Frankreich (1524)">l’ambassade </term>
                </index>des estas de l’empire, a quoi tousiours lui prie avoir regard.</p>
             <p>A promis sa m<hi rendition="#sup">te</hi> faire la raison des folies, cognardises et mauvaitiés de <persName xml:id="person_d49e241a1050"
@@ -307,7 +311,7 @@
                          key="Burgo">Andreas de Burgo</persName>, mestre <persName xml:id="person_d57e103a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Forcz, Dr. Dominikus Adam de, Arzt">Adam le docteur</persName>, maistre <persName xml:id="person_d79e2639a1050"
+                         key="Forcz, Dr. Dominikus Adam de, Arzt">Adam le docteur</persName>, maistre <persName xml:id="person_d66e212a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Spiegel, Jakob">Jacques Spiguel</persName> vers sa m<hi rendition="#sup">te</hi> fuissent sollicités ce que a esté fait, mes pour autres grans negoces sad. m<hi rendition="#sup">te</hi> a commandé iceulx affaires estre surcées et delivrées es mains du mestre <persName xml:id="person_d39e498a1050"
@@ -320,16 +324,16 @@
             <p>Die Verlobung der Infantin Katharina mit Kg <persName xml:id="person_d29e404a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Johann III. von Portugal">Johann von Portugal</persName> hatte im Oktober 1524 stattgefunden. Von K's ältester Schwester Eleonore hingegen, die seit 1521 Witwe nach Kg. <persName xml:id="person_d125e641a1050"
+                         key="Johann III. von Portugal">Johann von Portugal</persName> hatte im Oktober 1524 stattgefunden. Von K's ältester Schwester Eleonore hingegen, die seit 1521 Witwe nach Kg. <persName xml:id="person_d125e653a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Manuel I. von Portugal">Manuel von Portugal</persName> war, ist nicht bekannt, daß sie damals jemand versprochen war. Erst im <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">Frieden von Madrid</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">Frieden von Madrid</term>
                </index> wurde diese mit dem <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Franz I.">Kg von Frankreich</persName> verlobt und 1530 fand die <index resp="Abel_Laura">
-                  <term xml:id="index_d125e652a1051"
+                  <term xml:id="index_d125e664a1051"
                         key="Heirat, Eleonore von Österreich mit Franz I. von Frankreich">Vermählung</term>
                </index> statt. Hobler, S. 201, 225.</p>
             <p>Vgl. Bauer, S. 232.</p>

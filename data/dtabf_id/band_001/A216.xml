@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:11:29Z</date>
+               <date>2022-11-12T10:12:41Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -108,11 +108,11 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mon bon frere, j’ai receu voz lettres du derrier d’avril et la dupplicata, et ainsi que vous y vouloie faire responce, est arrivé vostre maistre des postes, par lequel ai receu aultres voz lettres du 20<hi rendition="#sup">e</hi> de jung. Je suis tres joyeulx que la <index resp="Abel_Laura">
-                  <term xml:id="index_d191e320a1051"
+                  <term xml:id="index_d191e327a1051"
                         key="Generallandtag der Erblande, Augsburg, 1525/26">diete des provinciaulx</term>
                </index> de voz pays est venue, comme m’escripvez, à meilleur fin et conclusion que n’esperiez, car vous sçavez que je aime et extime vostre bien comme le mien propre.</p>
             <p>Quant à l’advertissement que me donnez des affaires d’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaigne</term>
                </index> et <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">d’Ytalie</term>
                </index>, selon qu’ai entendu par la deschiffre que <persName xml:id="person_d24e101a1050"
@@ -137,7 +137,7 @@
             <p>Et pouez bien considerer, mon frere, que les despences dessusd. seront tres grandes et encoires seront plus, si le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Franz I.">roi de France</persName> m’est ennemi, car, s’il me tenoit promesse, me pourroie servir de son armée de mer et des six mil pietons dont il me devoit bailler le payement pour six mois et aussi me devoit bailler pour led. temps 500 hommes d’armes, mais l’on peult bien cognoistre que led. roi de France n’accomplira sad. promesse, veu qu’il est entré en lighe avec lesd. <persName xml:id="person_d53e635a1050"
+                         key="Franz I.">roi de France</persName> m’est ennemi, car, s’il me tenoit promesse, me pourroie servir de son armée de mer et des six mil pietons dont il me devoit bailler le payement pour six mois et aussi me devoit bailler pour led. temps 500 hommes d’armes, mais l’on peult bien cognoistre que led. roi de France n’accomplira sad. promesse, veu qu’il est entré en lighe avec lesd. <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName>, <index resp="Abel_Laura">
@@ -148,8 +148,8 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Lannoy">visroi de Naples</persName> que j’avoie envoyé vers lui pour le solliciter gracieusement d’acomplir ce que avions <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">traicté à Madril</term>
-               </index> s’en retournasse en Ytalie, ains y sans lui demander congé le lui a baillé pour venir devers moi, là, où il est presentement. Bien me presente led. roi de France à ce que m’a dit led. visroi qu’il lui a dit que pour reavoir ses enffans que j’ai en hostaiges, lesquelz sont maintenant avec la <persName xml:id="person_d9e119a1050"
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">traicté à Madril</term>
+               </index> s’en retournasse en Ytalie, ains y sans lui demander congé le lui a baillé pour venir devers moi, là, où il est presentement. Bien me presente led. roi de France à ce que m’a dit led. visroi qu’il lui a dit que pour reavoir ses enffans que j’ai en hostaiges, lesquelz sont maintenant avec la <persName xml:id="person_d9e131a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Eleonore von Österreich">roine dame Eleonore</persName>, nostre seur, à <placeName xml:id="place_d49e222a1050"
@@ -162,7 +162,7 @@
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
                </index>, que je treuve fort necessaire et la vraie medicine de la maladie ce presente et le plus prompt, meilleur et souverain remede que l’on y sçauroit donner, puis que, comme dit est, je n’y puis moi-mesmes aller et que vous y avez si bon vouloir et tant honnestement vous me offrez prandre ceste charge, mais je treuve sur vostred. passaige trois principales difficultéz.</p>
             <p>6 <hi rendition="#i">a</hi>] La premiere que, si partez <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">d’Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">d’Allemaigne</term>
                </index>, l’empire demeure en grande confusion et grand peril pour les tumultes et desordres de la <index resp="Abel_Laura">
                   <term xml:id="index_d29e217a1051" key="Lutheraner">secte de Luthere</term>
                </index>, avec lesquelx tumultes et la invasion que <persName xml:id="person_d26e215a1050"
@@ -182,13 +182,13 @@
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
                </index>, mais seroie contrainct de tant plus tot faire mon voyage, si vous trouvez illec en necessité, car vous entendez bien que, toutes choses delaissées, je vous vouldroie aller secourir et y hazarder ma personne, ma vie et tant de royaulmes et seigneuries que j’ai sans y espargner chose que se puist dire en ce monde estre en ma puissance, laquelle vous voyez que par faulte d’argent est assez petite maintenant, et ceci est l’ung des plus grandz pointz et le plus de tous ceulx qui concernent vostred. passage en Ytalie, actendu les fortunes adverses et diverses que sçavez et que avons veu adviennent souvant en fait de guerre là, où les hommes donnent les batailles et dieu donne les victoires. Joinct aussi que à paine pourrez james estre prest à passer qui ne soit près du mi-octobre,<hi rendition="#sup">c</hi>) que lors, estant l’iver, pourriez recevoir pluisieurs inconvenians et les ennemiz vous entretenir et miner pour vous consommer en despence et vous faire recevoir honte et dommaige, s’ilz pouvoient, et sur la primevere qui vient recommancer nouvelle guerre contre moi, me voyant lors affoiblir de puissance et avoir ocasion me faire pis que devant.</p>
             <p>Car quant à la difficulté du peril et dangier, en quoi demeurroient les <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">choses d’Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">choses d’Allemaigne</term>
                </index> pour vostre absence, je ne fais doubte que avant vostre partement y sçaurez bien donner ordre et remede et semblablement en voz propres affaires et de voz pays et seigneuries, combien<hi rendition="#sup">d</hi>) que à cest effect, en cas que trouvissiez debvoir et pouvoir aller à ceste emprinse, ait aussi esté pratiqué en mon conseil de faire ung edict imperial, bien clausulé et bien fondé selon la substance de l’escript que verrez ci-encloz. Il semble à d’aulcuns que ce seroit bien fait le depescher en Latin et Alleman et les vous envoyer pour faire publier et executer, comme mieulx vous sambleroit, et que de ce pourroit ensuir beaucop de fruict et demeurroient aulcunement appaiséz les tumultes d’Allemaigne ensemble ceulx qui ont soubstenie et favorisé les <index resp="Abel_Laura">
                   <term xml:id="index_d79e657a1051" key="Reformation">erreurs</term>
                </index> de <persName xml:id="person_d29e220a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Luther">Luthere</persName>, lesquelz jusques à oires pour craincte des peines encorues sont demeuréz obstinéz et rebelles, et par clemence et pardon desd. peines se pourroient asseurer et plus facillement eulx retirer desd. erreurs, mesmes, en leur donnant chemin, avec lequel se puist determiner la verité de la doctrine evangelique par ung bon concilie, qu’est la chose que le <persName xml:id="person_d53e635a1050"
+                         key="Luther">Luthere</persName>, lesquelz jusques à oires pour craincte des peines encorues sont demeuréz obstinéz et rebelles, et par clemence et pardon desd. peines se pourroient asseurer et plus facillement eulx retirer desd. erreurs, mesmes, en leur donnant chemin, avec lequel se puist determiner la verité de la doctrine evangelique par ung bon concille, qu’est la chose que le <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName> crainct tant que sçavez, et moyennant ceste reduction semble à aulcuns que l’on pourroit tirer ung bon secours de gens à cheval et à pied pour se joindre avec vous en quelconque chose que les vouldriez employer, ou soit pour secourir <index resp="Abel_Laura">
@@ -214,7 +214,7 @@
                </index>, mais en <index resp="Abel_Laura">
                   <term xml:id="index_d24e293a1051" key="Neapel">Naples</term>
                </index>, <index resp="Abel_Laura">
-                  <term xml:id="index_d66e271a1051" key="Sizilien">Secille</term>
+                  <term xml:id="index_d66e272a1051" key="Sizilien">Secille</term>
                </index> et partout, où je dois estre obei, comme mon propre filz et seul frere, et que puissez donner vendre et engaiger et faire toutes choses, ainsi que moi propre feroie et faire pourroie, si en personne je y estoie; car je ai telle amour et fiance à vous que mon intencion est que ayez austant de pouoir et d’auctorité que moi-mesmes, comme dit est, sans aulcuns diminution ni reservation et tant avant que je la puis et dois bailler. Et<hi rendition="#sup">g</hi>) combien que j’eusse faict mon lieutenant general en <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Italye</term>
                </index> le <persName xml:id="person_d51e97a1050"
@@ -225,7 +225,7 @@
                   <term xml:id="index_d70e171a1051" key="Lombardei">Lombardie</term>
                </index>, vous donneront advertissement qu’il y aura necessité de vostred. allée, vous pourrez haster chauldement ou delayer et entretenir doulcement l’apprest et assamblée de vosd. gens de cheval et de pied, afin que ne prenez plus de travail que sera besoing, car je ne vous vouldroie presser de passer ni aussi vous en excuser sinon, comme le temps et les affaires le requerront; et serez advertie aussi de tout ce qui passera en <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
-               </index>. Cas que mes ambassadeurs puissent appoincter avec <persName xml:id="person_d53e635a1050"
+               </index>. Cas que mes ambassadeurs puissent appoincter avec <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName>, <index resp="Abel_Laura">
@@ -263,7 +263,7 @@
                           key="Siena">terre de Senes</placeName>, pour avec lesd. Senois et <persName xml:id="person_d220e401a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Colonna, Familie und Anhänger">Colonnois</persName> qui sont de ma parcialité et avec le <persName xml:id="person_d168e244a1050"
+                         key="Colonna, Familie und Anhänger">Colonnois</persName> qui sont de ma parcialité et avec le <persName xml:id="person_d168e243a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Alfonso I. d’Este">duc de Ferrare</persName>, en cas que mesd. ambassadeurs aient traicté avec lui et aussi avec les <persName xml:id="person_d220e407a1050"
@@ -316,7 +316,7 @@
                   <term xml:id="index_d24e297a1051" key="Flandern">Flandres</term>
                </index>.<hi rendition="#sup">r</hi>) Je vous advertiz voluntiers au vrai de toutes ces choses, afin que sachez mes necessitéz, comme mon bon frere, et que voyez, quelle assistance je vous pourra faire, encoires que au besoing je m’esvertuerai sans y espargner chose qui soit en ce monde en ma puissance et vela tout ce que je vous sçauroie dire de mon intention et de ce que devrez faire pour le present.</p>
             <p>Je<hi rendition="#sup">s</hi>) vous prie aussi que vous m’escripvez par le premier courrier, quant pourrez estre prest, et quoi vous entendez faire en ce que dessus et quel pouoir et moyen d’argent vous avez pour y furnir et en venir à chief, afin que vostre intencion et la mienne se puissent conformer et que l’affaire que dessus se puist mieulx et plus asseuherement conduire et gouverner.</p>
-            <p>Quant à ce que me demandez advis, si donnerez congé aux ambassadeurs de <persName xml:id="person_d53e635a1050"
+            <p>Quant à ce que me demandez advis, si donnerez congé aux ambassadeurs de <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName> et <index resp="Abel_Laura">
@@ -334,7 +334,7 @@
                          key="Bayern, Herzöge von">maison de Baviere</persName> et qu’il ne desiroit que d’estre tousjours mon bon vassal et serviteur, et au demeurant les causes, pourquoi il s’estoit deporté du <index resp="Abel_Laura">
                   <term xml:id="index_d21e259a1051" key="HRR, Regiment">regiment</term>
                </index>, je lui ai à tout fait responce, mesmes que de chastier la maison de Bavière, n’en avoie james tenu tel propos, combien<hi rendition="#sup">t</hi>) que en general pourroie avoir dict que, si aulcungs de mes subiectz faisoient chose qu’ilz ne deussent faire, il seroit en mon pouvoir de les chastier, et lui ai communiqué aulcunes des affaires qui m’occurrent maintenant pour lui monstrer confidence, le requerant vous assister et servir comme à moi propre. Et en conclusion il est ici demeuré peu de jours et desia est parti, me samble bien contant de moi, et ferez bien de l’entretenir tousjours en bon vouloir, car il vous pourra et sçaura bien faire du service.<hi rendition="#sup">u</hi>)</p>
-            <p>J’ai<hi rendition="#sup">v</hi>) chascun jour plainctes de <persName xml:id="person_d10e128a1050"
+            <p>J’ai<hi rendition="#sup">v</hi>) chascun jour plainctes de <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre tante</persName>, et de mon conseil en mes <index resp="Abel_Laura">
@@ -342,19 +342,19 @@
                </index> que ceulx du <index resp="Abel_Laura">
                   <term xml:id="index_d21e259a1051" key="HRR, Regiment">regiment</term>
                </index> y entreprenent jurisdiction, voire menassent de mectre au <index resp="Abel_Laura">
-                  <term xml:id="index_d75e199a1051" key="HRR, Reichsbann">ban de l’empire</term>
-               </index> ceulx de ma ville de <placeName xml:id="place_d168e138a1050"
+                  <term xml:id="index_d75e205a1051" key="HRR, Reichsbann">ban de l’empire</term>
+               </index> ceulx de ma ville de <placeName xml:id="place_d168e137a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Maastricht">Maestricht</placeName> en <index resp="Abel_Laura">
-                  <term xml:id="index_d195e130a1051" key="Brabant, Herzogtum">Brabant</term>
-               </index>; ce que je trouve bien estrange, veu que d’ancienneté lesd. pays sont exemptz de lad. jurisdiction d’empire et ne me seroit gaires d’honneur que je fusse empereur et que je souffrisse perdre les privilleges et libertéz que mes predecesseurs ont eu obtenu, joi et usé en mes pays patrimoniaulx;<hi rendition="#sup">w</hi>) parquoi, mon frere, ensuivant ce que desia ci-devant vous ai escript de ceste matiere et aussi <persName xml:id="person_d10e128a1050"
+                  <term xml:id="index_d195e144a1051" key="Brabant, Herzogtum">Brabant</term>
+               </index>; ce que je trouve bien estrange, veu que d’ancienneté lesd. pays sont exemptz de lad. jurisdiction d’empire et ne me seroit gaires d’honneur que je fusse empereur et que je souffrisse perdre les privilleges et libertéz que mes predecesseurs ont eu obtenu, joi et usé en mes pays patrimoniaulx;<hi rendition="#sup">w</hi>) parquoi, mon frere, ensuivant ce que desia ci-devant vous ai escript de ceste matiere et aussi <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">mad. dame, nostre tante</persName>, vous me ferez plaisir de vous bien informer, comme lesd. du regiment en ont fait, et sans actendre que la chose voise plus avant en dispute, leur commander expressement de ma part sur grosses peines qu’ilz ne facent aulcune nouvelleté ni entreprenent jurisdiction sur mesd. Pays d’Embaz et s’ilz ont aulcune raison ou cause au contraire, pourquoi faire le puissent ou doient qu’ilz tiennent tout en surceance et mon advertissement et je leur manderai après mon bon plesir sans faire prejudice aux drois de l’empire ni aux miens patrimoniaulx. Je suis adverti que le <persName xml:id="person_d76e144a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Philipp von Baden">marquis de Baden</persName> que avez commis en vostre lieu est cellui qui est cause de ceste nouvelleté non<hi rendition="#sup">x</hi>) point pour faire le debvoir de son estat, mais pour son propre interrestz particulliers à cause d’ung proces qu’il a en <placeName xml:id="place_d99e114a1050"
+                         key="Philipp von Baden">marquis de Baden</persName> que avez commis en vostre lieu est cellui qui est cause de ceste nouvelleté non<hi rendition="#sup">x</hi>) point pour faire le debvoir de son estat, mais pour son propre interrestz particulliers à cause d’ung proces qu’il a en <placeName xml:id="place_d99e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Luxemburg">Luxembourg</placeName>, vous ferez bien de lui en parler de bonne sorte, afin qu’il se chastie de soi mesmes, ou aultrement je ne lui pourroie souffrir, car la chose empourte par trop grandement à moi, à mon auctorité et à mes subgectz.</p>
@@ -374,13 +374,13 @@
                   <term xml:id="index_d26e104a1051" key="England">Angleterre</term>
                </index> et generallement par toute <index resp="Abel_Laura">
                   <term xml:id="index_d35e111a1051" key="Christenheit">chrestienté</term>
-               </index> sont de telle qualité et disposition que ne puis succorir et assister nostred. beaufrere d’Hongrie, comme je vouldroie et desireroie, et que je sçai bien que suis tenu et le dois faire, et ne fust ce que pour l’amour de vous à qui la chose touche de si près; j’espere que dedans peu de temps par les moyens que dessus pourrai avoir lumiere de l’issue et chemin que prendront mesd. affaires. Si pouons avoir paix, soyez seheur que au besoing j’emploierai le tout pour le tout aud. affaire de Hongrie, mais s'il ne fault avoir continuation de guerre en mon propre bien, comme j’en vois le certain fondement, je vous laisse panser, si le ne fauldra point que j’entende à ma propre deffence et que je y emploie tout mon pouoir. Vous me ferez plaisir m’escripre, si l’offence dud. Turc ira avant, pour ce que maintenant l’on n’en parle plus, et comme dit est, j’adviserai tout ce que je pourrai faire en façon que chascun pourra congnoistre que à moi ni à ma faulte ou propre culpe aura tenu que je ne face ce que je dois pour le service de dieu et bien de chrestienté. Ce<hi rendition="#sup">y</hi>) que j’eusse mieulx peu effectuer, si <persName xml:id="person_d53e635a1050"
+               </index> sont de telle qualité et disposition que ne puis succorir et assister nostred. beaufrere d’Hongrie, comme je vouldroie et desireroie, et que je sçai bien que suis tenu et le dois faire, et ne fust ce que pour l’amour de vous à qui la chose touche de si près; j’espere que dedans peu de temps par les moyens que dessus pourrai avoir lumiere de l’issue et chemin que prendront mesd. affaires. Si pouons avoir paix, soyez seheur que au besoing j’emploierai le tout pour le tout aud. affaire de Hongrie, mais s'il ne fault avoir continuation de guerre en mon propre bien, comme j’en vois le certain fondement, je vous laisse panser, si le ne fauldra point que j’entende à ma propre deffence et que je y emploie tout mon pouoir. Vous me ferez plaisir m’escripre, si l’offence dud. Turc ira avant, pour ce que maintenant l’on n’en parle plus, et comme dit est, j’adviserai tout ce que je pourrai faire en façon que chascun pourra congnoistre que à moi ni à ma faulte ou propre culpe aura tenu que je ne face ce que je dois pour le service de dieu et bien de chrestienté. Ce<hi rendition="#sup">y</hi>) que j’eusse mieulx peu effectuer, si <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Klemens VII.">le pape</persName> comme bon pasteur m eust à cest effect ouctroié la croisade, comme l’ai souvent solicité et comme le besoing le requeroit pour fere les provisions en temps, mais à ce que j’entendz, il s’est doubté que ce ne fust cause d’avancer mon allée en Italie, laquelle lui et les potentatz sans nulle juste raison craignent fort, et pour ce ha tousjours dislayer de m’accorde lad. croisade, en laquelle ses predecesseurs ne fisrent jamais difficulté, et par ce moyen m’a osté le pouvoir d’entendre si promptement à la <index resp="Abel_Laura">
+                         key="Klemens VII.">le pape</persName> comme bon pasteur m’eust à cest effect ouctroié la croisade, comme l’ai souvent solicité et comme le besoing le requeroit pour fere les provisions en temps, mais à ce que j’entendz, il s’est doubté que ce ne fust cause d’avancer mon allée en Italie, laquelle lui et les potentatz sans nulle juste raison craignent fort, et pour ce ha tousjours dislayer de m’accorde lad. croisade, en laquelle ses predecesseurs ne fisrent jamais difficulté, et par ce moyen m’a osté le pouvoir d’entendre si promptement à la <index resp="Abel_Laura">
                   <term xml:id="index_d38e130a1051" key="Türkenabwehr">repulsion desd. Turcz </term>
                </index>que je le desireroie et quil seroit bien mestier.<hi rendition="#sup">z</hi>)</p>
-            <p>Quant à <placeName xml:id="place_d196e103a1050"
+            <p>Quant à <placeName xml:id="place_d196e110a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Masowien">la duché</placeName> que m’escripvez vaqué en <index resp="Abel_Laura">
@@ -393,8 +393,8 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Lang, Matthäus">cardinal de Saltzpurg</persName> le prengne pour coadjuteur en son <index resp="Abel_Laura">
-                  <term xml:id="index_d107e115a1051" key="Salzburg, Erzbistum">archevesché dud. Saltzpurg</term>
-               </index>, j’escriptz de rechief touchant ceste aifaire aud. cardinal. Je vous prie vous employer que la chose sortisse effect, car oultre le bien que en pourra succeder aud. don George, il ne vous sera malduisant d’avoir ung archevesque aud. Saltzburg qui soit de vostre main, comme bien entendez. Et atant, mon bon frere, etc.</p>
+                  <term xml:id="index_d107e122a1051" key="Salzburg, Erzbistum">archevesché dud. Saltzpurg</term>
+               </index>, j’escriptz de rechief touchant ceste affaire aud. cardinal. Je vous prie vous employer que la chose sortisse effect, car oultre le bien que en pourra succeder aud. don George, il ne vous sera malduisant d’avoir ung archevesque aud. Saltzburg qui soit de vostre main, comme bien entendez. Et atant, mon bon frere, etc.</p>
             <p>Escript en <placeName xml:id="place_d220e650a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -412,12 +412,12 @@
                </index>
                <hi rendition="#i"> et </hi>
                <index resp="Abel_Laura">
-                  <term xml:id="index_d66e271a1051" key="Sizilien"/>
+                  <term xml:id="index_d66e272a1051" key="Sizilien"/>
                </index>
-               <hi rendition="#i"> que depuis seroient mal aiséz à recouvrer. Et pour ces raisons mad. allée est tres necessaire et ne la vouldroie excuser, puisque par le moyen d’icelle cesseroient tous lesd. inconvenians et, me trouvant puissant en Ytalie avec mon tiltre d’empereur, je pourroie commander à tous et estre seigneur de tous sans aulcune resistance, qu’est la chose que pape et potentaz craignent plus, pource qu ilz usurpent de l’empire, et croi bien que cela est cause de leurs presentes colligations contre moi.</hi>
+               <hi rendition="#i"> que depuis seroient mal aiséz à recouvrer. Et pour ces raisons mad. allée est tres necessaire et ne la vouldroie excuser, puisque par le moyen d’icelle cesseroient tous lesd. inconvenians et, me trouvant puissant en Ytalie avec mon tiltre d’empereur, je pourroie commander à tous et estre seigneur de tous sans aulcune resistance, qu’est la chose que pape et potentaz craignent plus, pource qu’ilz usurpent de l’empire, et croi bien que cela est cause de leurs presentes colligations contre moi.</hi>
             </p>
             <p>b) folgt in W durchstrichen: <hi rendition="#i">jusques avoir tiré lesd. </hi>
-               <persName xml:id="person_d53e635a1050"
+               <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">
@@ -429,11 +429,11 @@
                </index>
                <hi rendition="#i"> et potentaz à quelque raisonnable contrevention.</hi>
             </p>
-            <p>K bezieht sich auf den Madrider Frieden. Du Mont, Corps dipl. 4, 1, S. 404 f. Betreffs der durch Kg. Franz hingehaltenen Abreise Lannoys. Fraikin, S. 48, 55 usw. Die Anerbietungen des Franzosenkgs an K gegenüber Lannoy und <persName xml:id="person_d59e423a1050"
+            <p>K bezieht sich auf den Madrider Frieden. Du Mont, Corps dipl. 4, 1, S. 404 f. Betreffs der durch Kg. Franz hingehaltenen Abreise Lannoys. Fraikin, S. 48, 55 usw. Die Anerbietungen des Franzosenkgs an K gegenüber Lannoy und <persName xml:id="person_d59e421a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Praet">Louis de Praet</persName> bei Mignet, Rivalité 2, S. 207 f.</p>
-            <p>6 cc) Mitte Oktober.</p>
+            <p>c) Mitte Oktober.</p>
             <p>d) <hi rendition="#i">combien — emprinse ait</hi> Zusatz von der Hand <persName xml:id="person_d32e93a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -461,14 +461,14 @@
                <hi rendition="#i">citéz fortes</hi>. - n) in W ursprünglich <hi rendition="#i">aud. pape et Florantins.</hi>
             </p>
             <p>Der Abschluß des Vertrages zur Gewinnung des Hgs von Ferrara erfolgte erst im November 1526. Baumgarten 2, S. 527. — Die Bentivogli waren ein Geschlecht aus Bologna, das 1506 von Julius II. vertrieben wurde. Die Wiedereinsetzung erfolgte 1527. Vgl. Gayangos 3,1, S. 760; 3, 2, S. 382; Pastor 3, S. 571. </p>
-            <p>o) <hi rendition="#i">comme dict est</hi> in W von Gattinara verbessernd hinzugefügt. - p) von Gattinaras Hand. - q) Juni 24. - r) in W folgt durchstrichen: <hi rendition="#i">Et ai desia mis la main si avant à l’argent de mon mariage qu’il ne m’en demeurra point, quant j’aurai payé seullement les sommes que dessus qu’il fault fourni promptement, et ne sçai, où pourrai prandre ce qu’il fault trouver pour l’advenir pour l’entretenement desd. armées, si les choses vont avant à. la guerre, car pour la presente année et pour celle advenir toutes mes rantes sont ja mangées.</hi>
+            <p>o) <hi rendition="#i">comme dict est</hi> in W von Gattinara verbessernd hinzugefügt. - p) von Gattinaras Hand. - q) Juni 24. - r) in W folgt durchstrichen: <hi rendition="#i">Et ai desia mis la main si avant à l’argent de mon mariage qu’il ne m’en demeurra point, quant j’aurai payé seullement les sommes que dessus qu’il fault fourni promptement, et ne sçai, où pourrai prandre ce qu’il fault trouver pour l’advenir pour l’entretenement desd. armées, si les choses vont avant à la guerre, car pour la presente année et pour celle advenir toutes mes rantes sont ja mangées.</hi>
             </p>
             <p>Bourbon langte am 28. Juni mit sechs Galeeren im Hafen von Genua an. Gayangos 3, 1, S. 770; Sanuto 42, 452.</p>
             <p>s) <hi rendition="#i">Je — conduire et gouverner</hi> am Rande in W nachgetragen.</p>
             <p>Die Ankunft des Briefes hat sich aber bis nach Schluß des <index resp="Abel_Laura">
                   <term xml:id="index_d213e189a1051" key="Reichstag, Speyer">RT’s von Speier</term>
                </index> verzögert. Friedensburg, passim.</p>
-            <p>Nach der Meldung des venezianischen Orators scheint mit der Erteilung des Urlaubs an den päpstlichen Legaten, den Kardinal <persName xml:id="person_d168e403a1050"
+            <p>Nach der Meldung des venezianischen Orators scheint mit der Erteilung des Urlaubs an den päpstlichen Legaten, den Kardinal <persName xml:id="person_d168e402a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salviati, Giovanni, Kardinal">Giovanni Salviati</persName>, — vielleicht nur zum Schein —, anfangs gezögert worden zu sein. Sanuto 42, 452.</p>
@@ -499,14 +499,14 @@
                          key="Isabella von Portugal">
                   <hi rendition="#i">Emperatriz </hi>
                </persName>
-               <hi rendition="#i">y les dar la enhorabuena de su casamiento : á lo cual S. M. le rendió las gracias : y así se determina de tornarse luego. S. M. le envió dos copas de las de </hi>
+               <hi rendition="#i">y les dar la enhorabuena de su casamiento: á lo cual S. M. le rendió las gracias: y así se determina de tornarse luego. S. M. le envió dos copas de las de </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e102a1051" key="Deutschland"/>
+                  <term xml:id="index_d10e110a1051" key="Deutschland"/>
                </index>
                <hi rendition="#i">y en ellas dos mill ducados á la partida: no sé el contento que llevará.</hi> Villa, S. 327. — Über den angeblichen Auftrag, den der Pfalzgf. über Reichsangelegenheiten bekommen habe, vgl. Friedensburg, S. 458.</p>
             <p>v) Das Folgende bis Absatz 18 exkl. auf einem eigenen Bogen nachgetragen mit dem Vermerk: <hi rendition="#i">Hic l’aultre fuillet qu’est cy-dedans, et après seront mis ces deux articles</hi> [18 und 19] - w) getilgt in W: <hi rendition="#i">parquoi m’en que pour chose du monde ne souffriront aussi telle subgection.</hi> - x) non point — <hi rendition="#i">Luxembourg</hi> am Rande nachgetragen in W.</p>
             <p>Vgl. Nr. A191, A211, A217.</p>
-            <p>y) <hi rendition="#i">Ce que bis seroit bien mestier</hi> in W von der Hand <persName xml:id="person_d32e93a1050"
+            <p>y) <hi rendition="#i">Ce que </hi>bis <hi rendition="#i">seroit bien mestier</hi> in W von der Hand <persName xml:id="person_d32e93a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Gattinara">Gattinaras</persName>.</p>

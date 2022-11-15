@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:14:02Z</date>
+               <date>2022-11-12T10:15:35Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -114,10 +114,16 @@
          <div n="4"><!-- archive_desc -->
             <p>Wien, St.-A. Ungarn 2. Original. Siegel. Rückwärts Adresse: <hi rendition="#i">Ser</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">principi, domino Ferdinando, principi Hispaniarum, archiduci Austriae, S. R. imperii vicario generali etc., domino et fratri nostro char</hi>
+               <hi rendition="#i"> principi, domino Ferdinando, principi Hispaniarum, archiduci Austriae, S. R. imperii vicario generali etc., domino et fratri nostro char</hi>
                <hi rendition="#i #sup">mo</hi>. Die eigenhändige Unterfertigung lautet: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi>
             </p>
             <p>Druck: Monumenta ecclesiastica tempora innovatae in Hungaria religionis illustrantia dig. Bunyitay, Rapaics, Karácsonyi. Budapest 1902 1, S. 288f. Familienkorrespondenz Bd. 1, Nr. 245, S. 480.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d21e487a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Bratislava">Bratislava</placeName>/Preßburg.</p>
          </div>
       </body>
    </text>

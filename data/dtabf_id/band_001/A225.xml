@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:12:17Z</date>
+               <date>2022-11-12T10:13:36Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,8 +102,11 @@
             <p>Asks for a mandate to renew the treaty with the Duke of Lorraine.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) Wien, St.-A. Belgica PA. 7. Original.</p>
-            <p>(W<hi rendition="#sup">l</hi>) Ebenda Hs. B. 597, 1, S. 64—65. Kopie.</p>
+            <p>(W) Wien, St.-A. Belgica PA. 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
+            <p>(W<hi rendition="#sup">1</hi>) Ebenda Hs. B. 597, 1, S. 64—65. Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 221, S. 435-436.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -124,10 +127,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i">— grace</hi> fehlt in W<hi rendition="#sup">1</hi>. - b) <hi rendition="#i">avec cestes</hi> fehlt in W<hi rendition="#sup">1</hi>. - c) in W<hi rendition="#sup">1</hi> folgt <hi rendition="#i">etc</hi>. - d) <hi rendition="#i">le — longue</hi> fehlt in W<hi rendition="#sup">1</hi>. - e) <hi rendition="#i">Vostre — Ferdinandus</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>

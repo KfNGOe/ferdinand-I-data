@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:11Z</date>
+               <date>2022-11-12T10:00:52Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>Margrave Philipp of Baden only accepted the position of stadtholder under the condition that he would be able to continue governing in Luxembourg, which is now becoming difficult. He asks K to write to Mg on Philipp's behalf.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Original. Papiersiegel.</p>
+            <p>Wien, St.-A. Belgica PA. 7. Original. Papiersiegel. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 96, S. 225.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -114,10 +117,10 @@
                </index> commis mon cousin, le marquis <persName xml:id="person_d76e144a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Philipp von Baden">Philippe de Bade</persName>, ou lieu dud. conte Palatin. Lequel pour l’honneur de vous accepta tres voulentiers icelle charge, moyennant toutesfois qu’il seroit tousiours continué en son gouvernement de <placeName xml:id="place_d99e114a1050"
+                         key="Philipp von Baden">Philippe de Bade</persName>, ou lieu dud. conte Palatin. Lequel pour l’honneur de vous accepta tres voulentiers icelle charge, moyennant toutesfois qu’il seroit tousiours continué en son gouvernement de <placeName xml:id="place_d99e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Luxemburg">Luxembourg</placeName>. Et pour ce, mons<hi rendition="#sup">r</hi>, que suis averti par led. marquis que l’on lui veult en ce faire aucune difficulté, vous prie treshumblement en vouloir incontinant escripre à <persName xml:id="person_d10e128a1050"
+                          key="Luxemburg">Luxembourg</placeName>. Et pour ce, mons<hi rendition="#sup">r</hi>, que suis averti par led. marquis que l’on lui veult en ce faire aucune difficulté, vous prie treshumblement en vouloir incontinant escripre à <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre bonne tante</persName>, à ce qu’il ne soit mis aucun trouble ou empeschement aud. marquis en son gouvernement dud. Luxembourg et qu’elle l’en laisse joir et user en la mesme sorte qu’il a fait jusques à present, consideré mesmes qu’il est occuppé en vostre service et que en son lieu commectra bon et notable personnaige pour regir et gouverner led. pays. Mons<hi rendition="#sup">r</hi>, je supplie atant le createur qui vous doint bonne vie et longue.</p>
@@ -125,14 +128,7 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Wien">Vienne</placeName>, ce 8<hi rendition="#sup">e</hi> d’octobre a<hi rendition="#sup">o</hi> 24.</p>
-            <p>Vostre treshumble et tresobeisant frere</p>
-            <p>Ferdinandus.</p>
-         </div>
-         <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
+            <p>Vostre treshumble et tresobeisant frere Ferdinandus.</p>
          </div>
       </body>
    </text>

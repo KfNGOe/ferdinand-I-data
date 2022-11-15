@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:04:15Z</date>
+               <date>2022-11-12T10:04:24Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,16 +102,18 @@
             <p>1. F's envoy to K in the matter of the battle of Pavia. Reasons for not having personally traveled to Italy. Found writings from the imperial princes. Duke Ulrich of Württemberg's invasion. French machinations in Bohemia. 2. Having captured an Italian, he has learned of negotiations between France and Count Christoph Frangipani regarding an invasion of the hereditary lands. 3. The opportunity presented by King Francis' capture must be seized. 4. F is planning to possibly invade Burgundy. 5. Advocates for his affairs. 6. [Postscript]. Spread of Lutheranism. Expansion of the peasant revolt supported by the Dukes of Württemberg.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA 7. Original. Papiersiegel. Vermerk <hi rendition="#i">Dupl[icata].</hi>
+            <p>Wien, St.-A. Belgica PA 7. Original. Papiersiegel. Vermerk <hi rendition="#i">Dupl[icata]. </hi>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">.</hi>
             </p>
             <p>Druck: Lanz 1, S. 154—156. Familienkorrespondenz Bd. 1, Nr. 131, S. 273-276.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons<hi rendition="#sup">r</hi>, tres humblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, je ne fais doubte que tant par le <persName xml:id="person_d131e102a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, tres humblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, je ne fais doubte que tant par le <persName xml:id="person_d131e100a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Roeulx, (Baudouin?), Bastard du">bastard du Roeux</persName>, mon gentilhomme, qu’ai depesché devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pour à toute diligence vous avertir des nouvelles de <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d135e117a1051" key="Pavia, Schlacht von">la victoire </term>
+                  <term xml:id="index_d135e124a1051" key="Pavia, Schlacht von">la victoire </term>
                </index>qu’il a pleu à dieu vous envoyer, comme par cellui que le <persName xml:id="person_d24e663a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -151,15 +153,15 @@
                          resp="Abel_Laura"
                          key="Frangepan, Christoph von">Christofle de Frangebanibus</persName> que tant avec quelque nombre de ses gens comme à l’aide de <index resp="Abel_Laura">
                   <term xml:id="index_d21e226a1051" key="Türken">Turcz</term>
-               </index>, de <placeName xml:id="place_d135e186a1050"
+               </index>, de <placeName xml:id="place_d135e193a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Bosnien">Bozna</placeName>, qu’est près de <index resp="Abel_Laura">
                   <term xml:id="index_d21e230a1051" key="Kroatien">Croacie</term>
                </index>, il deust entrer en mes pays de <index resp="Abel_Laura">
-                  <term xml:id="index_d60e192a1051" key="Krain">Carniole</term>
+                  <term xml:id="index_d60e188a1051" key="Krain">Carniole</term>
                </index> et <index resp="Abel_Laura">
-                  <term xml:id="index_d60e196a1051" key="Steiermark">Stiria</term>
+                  <term xml:id="index_d60e192a1051" key="Steiermark">Stiria</term>
                </index> et me faire la guerre dont en est suivi que lesd. Turcz ont entréz en mond. pays et faiz quelque petit dommaige et eussent bien fait plus grant, n’eust esté la provision que au paravant j’avoie faicte; laquelle chose vint à ma congnoissance par ung gentilhomme <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalian</term>
                </index> qui menoit la praticque avec led. conte Christofle, lequel par le capitaine de ma ville de <placeName xml:id="place_d76e294a1050"
@@ -172,7 +174,7 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Innsbruck">Ysproug</placeName>, où encoires le tiens en prison, dont pouez, mons<hi rendition="#sup">r</hi>, entendre, si a eu et ai encoires bien affaire et si ma presence a esté bien necessaire en <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemangne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemangne</term>
                </index>.</p>
             <p>Au surplus, mons<hi rendition="#sup">r</hi>, veu que led. <persName xml:id="person_d21e327a1050"
                          ref="nognd"
@@ -215,42 +217,38 @@
                          key="Ulrich von Württemberg">duc de Wirtemberg</persName> leur doit donner, qu’est cause que mes propres subgectz, mesmes en ce <index resp="Abel_Laura">
                   <term xml:id="index_d24e142a1051" key="Tirol">conté de Tirol</term>
                </index>, font en partie ce qu’ilz veullent. Et à grant peine en puis je estre maistre, dont pouez, mons<hi rendition="#sup">r</hi>, aussi considerer, si j’ai eu cause de demeure en <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemangne </term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemangne </term>
                </index>et si ai eu et ai des affaires assez.</p>
             <p>Donné comme dessus.</p>
             <p>Vostre tres humble et tres obeisant frere</p>
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>Über F’s Stellung zu den Reichsfürsten und die Gründe für seine Neugier betreffs der Briefschaften, die sich im französischen Lager gefunden haben sollen, vgl. W. Friedensburg, Der <index resp="Abel_Laura">
-                  <term xml:id="index_d135e327a1051" key="HRR, Reichstag, Speyer">Reichstag zu Speier</term>
+                  <term xml:id="index_d135e326a1051" key="HRR, Reichstag, Speyer">Reichstag zu Speier</term>
                </index> 1526, S. 30. F scheint hier besonders auf die von <persName xml:id="person_d36e101a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Frundsberg, Georg von">Frundsberg</persName> erbeuteten Koffer <persName xml:id="person_d135e333a1050"
+                         key="Frundsberg, Georg von">Frundsberg</persName> erbeuteten Koffer <persName xml:id="person_d135e332a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Schönberg, Dietrich von">Dietrichs von Schönberg</persName> hinzuweisen, die Papiere enthielten, welche die Beziehungen des <persName xml:id="person_d24e505a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Joachim I. von Brandenburg">Markgfen von Brandenburg </persName>zu der französischen Partei betrafen. Lanz, Staatspapiere zur Gesch. des Kaisers Karl V. (Bibl. des Liter. Vereins 11), S. 31. — Die Verwicklungen in Italien und den beginnenden Bauernaufstand benützte damals Ulrich von Württemberg zu einem Versuch, auf gewaltsame Weise wieder in den Besitz seiner Lande zu kommen. Zu diesem Zwecke hatte er zu Anfang des Jahres trotz der Gegenvorstellungen F’s bei der Eidgenossenschaft ein ansehnliches Heer, zumeist aus Schweizern bestehend, zusammengebracht. Bei seinem Einfall in Württemberg fiel ihm am 1. März <placeName xml:id="place_d135e339a1050"
+                         key="Joachim I. von Brandenburg">Markgfen von Brandenburg </persName>zu der französischen Partei betrafen. Lanz, Staatspapiere zur Gesch. des Kaisers Karl V. (Bibl. des Liter. Vereins 11), S. 31. — Die Verwicklungen in Italien und den beginnenden Bauernaufstand benützte damals Ulrich von Württemberg zu einem Versuch, auf gewaltsame Weise wieder in den Besitz seiner Lande zu kommen. Zu diesem Zwecke hatte er zu Anfang des Jahres trotz der Gegenvorstellungen F’s bei der Eidgenossenschaft ein ansehnliches Heer, zumeist aus Schweizern bestehend, zusammengebracht. Bei seinem Einfall in Württemberg fiel ihm am 1. März <placeName xml:id="place_d135e338a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Balingen">Balingen </placeName>in die Hände. <persName xml:id="person_d79e2735a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Waldburg-Zeil, Georg III. Truchseß von">Truchseß Georg</persName>, der die Truppen des Ehgs befehligte, fühlte sich anfangs für größeren Widerstand zu schwach. Erst als er sich mit den Truppen des Schwäbischen Bundes vereinigte und die schweizerischen <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d39e131a1051" key="Landsknechte">Landsknechte</term>
+                  <term xml:id="index_d36e121a1051" key="Landsknechte">Landsknechte</term>
                </index> wegen Soldmangels Ulrich in Stich ließen, kam es am 13. März zur Flucht des Hgs. Stälin, Wirtembergische Geschichte 4, S. 260 ff.</p>
             <p>Wie aus Sanuto 37, 278 f. hervorgeht, scheint Gf Christoph Frangipani auch mit dem damals keineswegs kaiserfreundlichen <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Venedig</term>
                </index> in näheren Beziehungen gestanden zu haben. Nichtsdestoweniger zählt er doch auch zu jenen sechs kroatischen Gfen, denen F am 9. Dezember 1524 im ganzen 1200 Gulden als Unterstützung <index resp="Abel_Laura">
                   <term xml:id="index_d38e130a1051" key="Türkenabwehr">gegen die Türken</term>
-               </index> anweist. M. H. H. (Dipl.) 31, S. 447. Vgl. Nr. 129 [1]. Ende 1525 ging <persName xml:id="person_d135e360a1050"
+               </index> anweist. M. H. H. (Dipl.) 31, S. 447. Vgl. Nr. 129 [1]. Ende 1525 ging <persName xml:id="person_d135e359a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Frangepan, Johann von">Johann Frangipani</persName> im Aufträge des Kgs von Frankreich zum Sultan mit der Absicht, <persName xml:id="person_d26e215a1050"
@@ -264,7 +262,7 @@
                   <term xml:id="index_d21e230a1051" key="Kroatien">kroatischen </term>
                </index>Grenze s. M. H. H. 31, S. 456.</p>
             <p>und 4] Zur Beurteilung der Lage des Kaisers nach der Schlacht von <index resp="Abel_Laura">
-                  <term xml:id="index_d135e117a1051" key="Pavia, Schlacht von">Pavia </term>
+                  <term xml:id="index_d135e124a1051" key="Pavia, Schlacht von">Pavia </term>
                </index>sind die bei Bucholtz 2, S. 256 ff., angezogenen Berichte heranzuziehen. Sie zeigen, daß K für so große Unternehmungen, wie F sie plante, das nötige Geld fehlte.</p>
          </div>
       </body>

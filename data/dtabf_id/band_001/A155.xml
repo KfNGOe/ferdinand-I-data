@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:21Z</date>
+               <date>2022-11-12T10:06:49Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -149,7 +149,7 @@
                </persName>
                <hi rendition="#i">regi Hungariẹ, Bohemiẹ etc. marchioni Moraviẹ etc., domino et sororio nostro coll</hi>
                <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">.</hi> Als Datum: Datum <placeName xml:id="place_d151e258a1050"
+               <hi rendition="#i">.</hi> Als Datum: Datum <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Tübingen">Tubingenn</placeName>, die prima mensis octobris 1525.</p>
@@ -161,21 +161,19 @@
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Sopron">
-                  <hi rendition="#i">O</hi>
-                  <hi rendition="#i #sup">e</hi>
-                  <hi rendition="#i">demburg </hi>
+                  <hi rendition="#i">Ödemburg </hi>
                </placeName>
                <hi rendition="#i">schiket“.</hi> Sollte diese Zeit aber nicht eingehalten werden können, so sollen sie eine andere Frist oder Malstatt vorschlagen (Wien, St.-A. Österr. Akten. Niederösterr. 2. Original. Vermerk: <hi rendition="#i">praesentata am 27. tag octobris anno etc. im 25.).</hi> In einem Schreiben des Vizestatthalters und Hofrates an den Kg von Ungarn vom 28. Oktober werden deren Bedenken gegen die allzukurze Frist vorbracht, da F <hi rendition="#i">„aus verhinnderung der treffennlichen geschefften, die der F. D</hi>
                <hi rendition="#i #sup">t</hi>
                <hi rendition="#i">yetz vor augen sein an denselben hof“</hi> werde man den nächsten Martinitag nicht einhalten können, zumal die Untertanen der fünf niederösterreichischen Länder nicht benachrichtigt seien und von den ungarischen Untertanen bis zum Lukastag noch keine Beschwerde eingelangt sei. Bitten um Ansetzung eines anderen Tages (ebenda, Konzept). Nichtsdestoweniger drängte Ludwig in seinem Briefe vom 8. November an die Regenten zur Einhaltung des Martinitages (ebenda, Original). Aus späteren Briefentwürfen geht hervor, daß Ludwig die Frist auf den Andreastag (30. November) erstreckt hat, der aber der niederösterreichischen Regierung ebenfalls zu nahe schien. — Eine undatierte Denkschrift (ebenda, mit Bleistiftvermerk 1523, vel 1524) trägt die Überschrift: <hi rendition="#i">Sequuntur gravamina et querele pro parte ser</hi>
                <hi rendition="#i #sup">mi</hi>
-               <hi rendition="#i">principis archiducis Austrie etc. coram consiliariis et commissariis pretextu pacis ad hoc ad Sopronium deputatis.</hi> Unter den Beschwerden wird angeführt, daß die Untertanen des zu Österreich gehörenden Klosters Marienburg von den ungarischen Beamten <hi rendition="#i">cum exactione tricesime et dicationis contra tractatus pacis et concordie</hi> bedrängt würden. Ferner wird die Bestrafung eines Ungarn namens <persName xml:id="person_d159e226a1050"
+               <hi rendition="#i">principis archiducis Austrie etc. coram consiliariis et commissariis pretextu pacis ad hoc ad Sopronium deputatis.</hi> Unter den Beschwerden wird angeführt, daß die Untertanen des zu Österreich gehörenden Klosters Marienburg von den ungarischen Beamten <hi rendition="#i">cum exactione tricesime et dicationis contra tractatus pacis et concordie</hi> bedrängt würden. Ferner wird die Bestrafung eines Ungarn namens <persName xml:id="person_d159e222a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat">Ciriac</persName> verlangt, der obgenanntem Kloster den Frieden gebrochen hat. Die Ausschreitungen und Raubzüge der Leute des <persName xml:id="person_d159e229a1050"
+                         key="Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat">Ciriac</persName> verlangt, der obgenanntem Kloster den Frieden gebrochen hat. Die Ausschreitungen und Raubzüge der Leute des <persName xml:id="person_d159e225a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bösing, Graf Franz von St. Georgen und (?)">Gfen von Pösing</persName> in das österreichische Gebiet des <persName xml:id="person_d159e233a1050"
+                         key="Bösing, Graf Franz von St. Georgen und (?)">Gfen von Pösing</persName> in das österreichische Gebiet des <persName xml:id="person_d159e229a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Lamberg, Graf Johann von">Gfen Johann von Lamberg</persName> blieben trotz der Abmachungen von <placeName xml:id="place_d21e487a1050"
@@ -183,34 +181,34 @@
                           resp="Abel_Laura"
                           key="Bratislava">Preßburg </placeName>ungesühnt. Desgleichen blieb das erpresserische Vorgehen Pösings gegen einen nach <index resp="Abel_Laura">
                   <term xml:id="index_d19e125a1051" key="Österreich">Österreich</term>
-               </index> ziehenden bayrischen Kaufmann, ferner die Gefangennahme der <persName xml:id="person_d159e243a1050"
+               </index> ziehenden bayrischen Kaufmann, ferner die Gefangennahme der <persName xml:id="person_d159e239a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Weißpriach, Herrin von">domina de Weispriach</persName> samt ihren Kindern durch <persName xml:id="person_d159e246a1050"
+                         key="Weißpriach, Herrin von">domina de Weispriach</persName> samt ihren Kindern durch <persName xml:id="person_d159e242a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Terniko, Georg">Georg Terniko</persName>, die Schädigungen des österreichischen Grenzgebietes durch <persName xml:id="person_d159e249a1050"
+                         key="Terniko, Georg">Georg Terniko</persName>, die Schädigungen des österreichischen Grenzgebietes durch <persName xml:id="person_d159e245a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Széchy, Thomas">Thomas de Zetschi </persName>de <placeName xml:id="place_d159e253a1050"
+                         key="Széchy, Thomas">Thomas de Zetschi </persName>de <placeName xml:id="place_d159e249a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Grad (Goričko)">superiori Limbach </placeName>und <persName xml:id="person_d159e256a1050"
+                          key="Grad (Goričko)">superiori Limbach </placeName>und <persName xml:id="person_d159e252a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Bánffy, ?">Bamphi</persName> de <placeName xml:id="place_d159e259a1050"
+                         key="Bánffy, ?">Bamphi</persName> de <placeName xml:id="place_d159e255a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
-                          key="Lendava">inferiori Limbach</placeName>, schließlich der Einfall des capitaneus castri Crapin in das Land des Ehgs ohne Sühne. Bestrafung und Schadenersatz fordert F. Überdies finden entgegen den Vertragsbestimmungen einige flüchtige Rebellen in Ungarn Zuflucht, so Georg Dulther aus Wien in Ovar (Altenburg), der bekannte Räuber <persName xml:id="person_d159e262a1050"
+                          key="Lendava">inferiori Limbach</placeName>, schließlich der Einfall des capitaneus castri Crapin in das Land des Ehgs ohne Sühne. Bestrafung und Schadenersatz fordert F. Überdies finden entgegen den Vertragsbestimmungen einige flüchtige Rebellen in Ungarn Zuflucht, so Georg Dulther aus Wien in Ovar (Altenburg), der bekannte Räuber <persName xml:id="person_d159e258a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Sorator, Räuber">Sorator</persName> bei dem <persName xml:id="person_d159e265a1050"
+                         key="Sorator, Räuber">Sorator</persName> bei dem <persName xml:id="person_d159e261a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Vlaklo, Hg Laurenz de">Hg Laurenz de Vlaklo</persName>, <persName xml:id="person_d159e268a1050"
+                         key="Vlaklo, Hg Laurenz de">Hg Laurenz de Vlaklo</persName>, <persName xml:id="person_d159e264a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Walitzko, Paul, nach Ungarn entflohener Rebell">Paul Walitzko</persName> u. a. F verlangt deren Auslieferung. Es verstößt auch gegen den Frieden, wenn an österreichischen Untertanen Repressalien geübt werden. Es sollen gegenseitig die ungarischen Untertanen bei F und umgekehrt Gerechtigkeit finden</p>
+                         key="Walitzko, Paul, nach Ungarn entflohener Rebell">Paul Walitzko</persName> u. a. F verlangt deren Auslieferung. Es verstößt auch gegen den Frieden, wenn an österreichischen Untertanen Repressalien geübt werden. Es sollen gegenseitig die ungarischen Untertanen bei F und umgekehrt Gerechtigkeit finden.</p>
          </div>
       </body>
    </text>
