@@ -71,8 +71,8 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:11:46Z</date>
-               <name ref="nognd">Pitzer Doris</name>
+               <date>2022-11-12T10:13:00Z</date>
+               <name ref="nognd">Christopher F. Laferl</name>
             </change>
          </listChange>
       </revisionDesc>
@@ -93,12 +93,10 @@
                   </cell>
                </row>
             </table>
-            <p>
-               <hi rendition="#i">Vgl. Nr. A221; vielleicht identisch mit Nr. A217.</hi>
-            </p>
-            <p>
-               <hi rendition="#i">See no. A221. Possibly identical with no. A217.</hi>
-            </p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Vgl. Nr. A221; vielleicht identisch mit Nr. A217.</p>
+            <p>See no. A221. Possibly identical with no. A217.</p>
          </div>
       </body>
    </text>

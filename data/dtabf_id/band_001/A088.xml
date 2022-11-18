@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:00:31Z</date>
+               <date>2022-11-12T10:00:04Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,8 @@
             <p>1. Has received K's letter dated July 11. Complains about Hannart. 2. Queen Isabella of Denmark. Military intervention necessary. 3. Dealing with the Persian envoy. 4. Funding for the Imperial Government. 5. Promissory note for Lope de Soria. 6. Preventing the Diet in Speyer. 7. Bourbon's successes. 8. Would have preferred to marry off Infanta Catherine in Germany. 9. Requests a positive reply.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) aus Wien, St.-A. Belgica PA. 7. Original.</p>
+            <p>(W) aus Wien, St.-A. Belgica PA. 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>.</p>
             <p>(W<hi rendition="#sup">1</hi>) Ebenda. Hs. B 597 I, S. 30-32.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 88, S. 213-216.</p>
          </div>
@@ -114,7 +115,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Salinas</persName> vous en a dit de ma part, vous avise, mons<hi rendition="#sup">r</hi>, que je ne vous en ai fait dire à beacop près ce qu’il en est et de dire que ne devoie souffrir telles choses de lui ; certes, mons<hi rendition="#sup">r</hi>, ayant veu l’instruction qu’il avoit de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> et ce qu’il me dict, s’il eust voulu encoires beacop plus faire qu’il n’a fait, je ne lui eusse voulu contredire, car non à lui seullement, mais au moindre serviteur que ayez, venant de par Vostred. M<hi rendition="#sup">te</hi>, vouldroie pour l’honneur de vous obeir et mectre au dessus de ma teste.</p>
-            <p>Quant à la <persName xml:id="person_d53e362a1050"
+            <p>Quant à la <persName xml:id="person_d53e368a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Isabella von Österreich">roine de Dannemarcke</persName>, nostre seur, je tiens, mons<hi rendition="#sup">r</hi>, qu’estes desia averti de son allée et aussi du <persName xml:id="person_d40e108a1050"
@@ -122,7 +123,7 @@
                          resp="Abel_Laura"
                          key="Christian II.">roi, son mari</persName>, en voz <index resp="Abel_Laura">
                   <term xml:id="index_d11e164a1051" key="Niederlande">Pays d’embas</term>
-               </index> devers <persName xml:id="person_d10e128a1050"
+               </index> devers <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre tante</persName>. La reponce que le <persName xml:id="person_d68e710a1050"
@@ -140,7 +141,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannart</persName> doit avoir receu la <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d91e187a1051" key="Stadtsteuer (Frankfurt)">rente</term>
+                  <term xml:id="index_d91e193a1051" key="Stadtsteuer (Frankfurt)">rente</term>
                </index> de <placeName xml:id="place_d39e221a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
@@ -150,7 +151,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Friedrich II.">conte Palatin</persName>, vous supplie, mons<hi rendition="#sup">r</hi>, m’en faire dresser, car selon les neccessitéz qu’ai et journellement me surviengnent, il m’en est bien besoing.</p>
-            <p>J’ai, mons<hi rendition="#sup">r</hi>, receu la lettre de change que m’avez envoyé que doit estre payée à <persName xml:id="person_d91e218a1050"
+            <p>J’ai, mons<hi rendition="#sup">r</hi>, receu la lettre de change que m’avez envoyé que doit estre payée à <persName xml:id="person_d91e224a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Soria, Lope de">Lope de Soria</persName>. Laquelle ai incontinant envoyé à <placeName xml:id="place_d14e119a1050"
@@ -185,7 +186,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Johann III. von Portugal">roi de Portugal </persName>j’eusse, mons<hi rendition="#sup">r</hi>, plustost desiré qu’elle fust estée alliée <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">pardeça</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">pardeça</term>
                </index> avec quelque prince pour beacop de raisons, comme vous ai fait declairer par le s<hi rendition="#sup">r</hi> de <persName xml:id="person_d29e696a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -199,18 +200,15 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>a) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i"> - recommande</hi> fehlt in W<hi rendition="#sup">1</hi>
-            </p>
+               <hi rendition="#i">– recommande</hi> fehlt in W<hi rendition="#sup">1</hi>. </p>
             <p>Der ganze Brief ist im wesentlichen eine Antwort auf Nr. A81.</p>
-            <p>b) <hi rendition="#i">copie de la</hi> fehlt, in W<hi rendition="#sup">1</hi>.</p>
+            <p>b) <hi rendition="#i">copie de la</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
             <p>Die Frage der Frankfurter Stadtsteuer beschäftigte noch im nächsten Jahre den kaiserlichen Hof. Am 6. März 1525 schreibt <persName xml:id="person_d24e101a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salinas">Salinas</persName> an <persName xml:id="person_d28e170a1050"
+                         key="Salinas">Salinas</persName> an <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">Salamanca</persName>: <hi rendition="#i">Es necesario que S. A. se informe cómo pasó esto y el interese que el dicho </hi>
@@ -235,13 +233,13 @@
             <p>Am 28. August kam die Post aus <index resp="Abel_Laura">
                   <term xml:id="index_d8e144a1051" key="Spanien">Spanien</term>
                </index> und mit ihr der Brief K’s an F Nr. A80 und an die Reichsstände. Vgl. Nr. A85.</p>
-            <p>Bourbon belagerte damals noch immer <placeName xml:id="place_d91e379a1050"
+            <p>Bourbon belagerte damals noch immer <placeName xml:id="place_d91e380a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Marseille">Marseille</placeName>, doch war sein Unternehmen zu einem gewissen Stillstand gelangt. Baumgarten 2, S. 361.</p>
             <p>F hatte seine Abneigung gegen eine Verheiratung Katharinas mit einem nichtdeutschen Fürsten nicht verhehlt, wie aus Nr. A76 [28] und Lanz 1, S. 114, hervorgeht.</p>
-            <p>c) <hi rendition="#i">qui — longue</hi> fehlt inW<hi rendition="#sup">1 </hi>- d) <hi rendition="#i">Vostre — Ferdinandus</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
-            <p>F nimmt auf Nr. A82 Bezug.</p>
+            <p>c) <hi rendition="#i">qui – longue</hi> fehlt in W<hi rendition="#sup">1</hi>.<hi rendition="#sup"> </hi>- d) <hi rendition="#i">Vostre – Ferdinandus</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
+            <p>F nimmt auf Nr. A82 Bezug. </p>
          </div>
       </body>
    </text>

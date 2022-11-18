@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">A10.</title>
-            <title type="sub">Prinzessin Anna (von Ungarn) und Erzherzogin Maria an Ferdinand, 1519 Februar 22, InnsbruckO: Innsbruck.</title>
+            <title type="sub">Prinzessin Anna (von Ungarn) und Erzherzogin Maria an Ferdinand, 1519 Februar 22, Innsbruck.</title>
             <author>
                <persName ref="nognd">Prinzessin Anna (von Ungarn) und Erzherzogin Maria</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Prinzessin Anna (von Ungarn) und Erzherzogin Maria</persName>
-               <placeName ref="nognd">InnsbruckO: Innsbruck</placeName>
+               <placeName ref="nognd">Innsbruck</placeName>
                <date>1519 Februar 22</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:53:48Z</date>
+               <date>2022-11-12T09:52:08Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>

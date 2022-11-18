@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:02:52Z</date>
+               <date>2022-11-12T10:02:49Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>1. Has received K's letter dated October 4. Hannart's instructions. Suggests establishing an investigative committee in the matter. 2. Assures him of his brotherly love. 3. [Postscript.] Is sorry for K's fever.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) Wien, St.-A. Belgica PA 7: Original, durchwegs von Ferdinand eigenhändig geschrieben.</p>
+            <p>(W) Wien, St.-A. Belgica PA 7: Original, durchwegs von Ferdinand eigenhändig geschrieben. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>(W<hi rendition="#sup">1</hi>) Ebenda, Hs. B. 597 I, S. 36—37. Kopie, in der der Nachtrag [3] fehlt.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 116, S. 244-245.</p>
          </div>
@@ -131,19 +134,14 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i"> — recomende</hi> fehlt in W<hi rendition="#sup">1</hi>. - 	b) <hi rendition="#i">e</hi> W. - c) <hi rendition="#i">neffiance</hi> W. - d) in W<hi rendition="#sup">1</hi> folgt <hi rendition="#i">de vostre propre motion.</hi> - e) <hi rendition="#i">aimen</hi> W. - f) <hi rendition="#i">non suspets et</hi> fehlt in W<hi rendition="#sup">1</hi>
-            </p>
+               <hi rendition="#i"> — recomende</hi> fehlt in W<hi rendition="#sup">1</hi>. - b) <hi rendition="#i">e</hi> W. - c) <hi rendition="#i">neffiance</hi> W. - d) in W<hi rendition="#sup">1</hi> folgt <hi rendition="#i">de vostre propre motion.</hi> - e) <hi rendition="#i">aimen</hi> W. - f) <hi rendition="#i">non suspets et</hi> fehlt in W<hi rendition="#sup">1</hi>. </p>
             <p>Gemeint ist Nr. A94. — Betreffs der Verfolgung in Sachen <persName xml:id="person_d49e241a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannarts</persName> vgl. Nr. A117 [6].</p>
-            <p>g) mode W.</p>
+            <p>g) <hi rendition="#i">mode</hi> W.</p>
             <p>Die schwankende Gesundheit K’s bildet mehrfach Gegenstand brieflicher Mitteilungen. Vgl. Nr. A89, A105, A112.</p>
          </div>
       </body>

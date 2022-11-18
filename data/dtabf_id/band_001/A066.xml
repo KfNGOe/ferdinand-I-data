@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:35Z</date>
+               <date>2022-11-12T09:57:52Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -108,7 +108,7 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi>, par autres mes plus briefves<hi rendition="#sup">a</hi>) lettres entre autres choses vous ai narré la cause de la prolongacion de ceste <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
                </index> à <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -118,7 +118,7 @@
                          key="Hannart">Hannart</persName>; lequel, combien qu’il soit retourné d’<index resp="Abel_Laura">
                   <term xml:id="index_d8e144a1051" key="Spanien">Espaigne</term>
                </index> assez à temps aux confins d’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaigne</term>
                </index> pour pouoir venir au commencement de la diete ou peu après, toutesfois il a merveilleusement retardé hors de toute mon opinion, non pas pour nul grant affaire, où il soit esté occupé, comme diligement me suis faict au vrai informer. Mais est au primes entré en ceste ville avec l’<persName xml:id="person_d21e389a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -126,7 +126,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Ludwig V.">le conte Palatin electeur</persName> a requis la vicairie dud. empire; en effect estoit le desir de tous atendre de casser et adnichiller led. regiment, laquelle adnichilation ung chacun avec de grosses et merveilleuses practicques pourchassoient. Ausquelles choses, combien que led. Hannart sçaiche bien dissimuler, l’ai appertement congneu, et ne fust la faveur de dieu, lequel en cela comme en autres voz affaires a tousjours besoingné, et la diligence de mon conseil,<hi rendition="#sup">e</hi>) lequel n’a dormi pour garder et procurer vostre auctorité en l’empire. Icelle fust quasi esté adnichillée et mise à neant, et si la voulenté des princes eust eu lieu, à quoi tous les estatz dud. empire tendoient les mains et les piedz, il y est une terrible rebellion et inobedience en icellui empire tellement que la plus grant part des <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemans</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemans</term>
                </index> fussent alléz au service des <index resp="Abel_Laura">
                   <term xml:id="index_d4e168a1051" key="Frankreich">François</term>
                </index>.<hi rendition="#sup">f</hi>) A cause de quoi, quant incommodité et desaventaige fust advenu aux choses et affaires de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, lesquelles sont, la dieu mercis,<hi rendition="#sup">g</hi>) pour le present en grant fleur, et à la commune de nostre maison d’<index resp="Abel_Laura">
@@ -141,7 +141,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">vostred. ambassadeur</persName> ne leur porrions bailler nul consentement pour ce faire, mais que serions contrains à faire aucune publicque protestation et autres choses que voulentiers n’eussions faict. Lesquelles choses je l’avoie dit à aulcuns feablement à part, toutesfois que lesd. princes ont toutes ces choses proposéz en publicque conseil, ce que je n’eusse jamais pensé, et à la fin ont changé leur opinion, protestans publicquement que, si par ce advenoit aulcun dommaige et inconvenient non seullement aux choses publicques de l’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaingne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaingne</term>
                </index>, mais de toute la <index resp="Abel_Laura">
                   <term xml:id="index_d35e111a1051" key="Christenheit">chrestienté</term>
                </index>, ilz en vouloient estre excuséz devant dieu et le monde, et deslors en bailloient leur foi à dieu pour en estre excuséz. Et disans aussi que jamais de nulz empereurs ni roi des Rommains n’eurent telle responce ni parolle que serions contrains faire aulcunes choses, lesquelles ne ferions voulentiers. Et pour ce que des electeurs et aultres princes et estatz de l’empire n’estoient illec en propre personne, et que la pluspart estoient desia partiz, que sur ce ne pouoient bailler autre responce, ausquelles choses je respondoie, que quant à ce que touche à la legation, si aulcun prince chrestien doit procurer la paix, que suis je cellui, car tous mes pays sont aux confins <index resp="Abel_Laura">
@@ -156,12 +156,12 @@
             <p>Es wurde im folgenden die französische Fassung zur Grundlage des Druckes gemacht, da aller Wahrscheinlichkeit nach auch bei diesem Briefe von dem herkömmlichen Gebrauche kaum abgewichen worden sein wird und Karl das Schreiben wohl in französischer Sprache erhalten haben dürfte.</p>
             <p>a) <hi rendition="#i">prolixiores literas</hi> W<hi rendition="#sup">1</hi>. - b) <hi rendition="#i">exceptoque eo, qua decebat ob M</hi>
                <hi rendition="#i #sup">tis</hi>
-               <hi rendition="#i">V</hi>
+               <hi rendition="#i"> V</hi>
                <hi rendition="#i #sup">re</hi>
                <hi rendition="#i"> (cui omnis debetur honor) reverentiam</hi> W<hi rendition="#sup">1</hi>. - c) <hi rendition="#i">in tam numeroso principum utriusque ordinis cetu </hi>W<hi rendition="#sup">1</hi>
                <hi rendition="#i">. - d) fortasse non a vero aberraverim Treverensi archiepiscopo revelasse, quae in mandatis acceperat </hi>W<hi rendition="#sup">1</hi>. - e) <hi rendition="#i">qui... continue adesse dignetur, ac ratione consiliorum meorum res ipsa in dexteriorem modum deducta esset</hi> W<hi rendition="#sup">1</hi>. - f) <hi rendition="#i">et inde </hi>
                <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e102a1051" key="Deutschland"/>
+                  <term xml:id="index_d10e110a1051" key="Deutschland"/>
                </index>
                <hi rendition="#i">catervatim ad </hi>
                <index resp="Hofer-Bindeus_Johannes">
@@ -171,7 +171,7 @@
             <p>Hannart kann ebenso wie der Kf. von Trier am 25. Januar nach Nürnberg zum RT. Die Klagen über Hannart s. Nr. A76 [60].</p>
             <p>m) <hi rendition="#i">non acquievi, donec impediverim, non sine calumnia quam susque deque fero</hi> W<hi rendition="#sup">1</hi>. - n) <hi rendition="#i">meminisse velint, cum in illo loco possint esse res suae, ut vix aliud quam pacis huiusmodi tractatio aeque ingratum M</hi>
                <hi rendition="#i #sup">ti</hi>
-               <hi rendition="#i">Suae fieri possit</hi> W<hi rendition="#sup">1</hi>. - o) <hi rendition="#i">Datum in civitate imperiali </hi>
+               <hi rendition="#i"> Suae fieri possit</hi> W<hi rendition="#sup">1</hi>. - o) <hi rendition="#i">Datum in civitate imperiali </hi>
                <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"

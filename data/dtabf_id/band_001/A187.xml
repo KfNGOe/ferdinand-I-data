@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:09:02Z</date>
+               <date>2022-11-12T10:09:53Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>1. Has received K's letter dated February 9 along with the peace treaty. 2. Pleased that peace has been reached. 3. Offers his services regarding Italy. 4. Negotiations with Venice. 5. F's election to King of the Romans, Council, and postponement of the Imperial Diet in Speyer. 6. Willing to travel to Milan. 7. Milanese salt monopoly. 8. Salamanca. 9. Austrian General State Diet.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) Wien, St.-A. Belgica PA 7. Original.</p>
+            <p>(W) Wien, St.-A. Belgica PA 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>(W<hi rendition="#sup">1</hi>) Ebenda, Hs. B. 597 I, S. 59—61 mit dem Datum vom 19. März. Vermutlich nach einem Konzepte, das bei der Reinschrift einige, freilich meist nicht wesentliche Änderungen erfahren hat.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 187, S. 372-375.</p>
          </div>
@@ -111,7 +114,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Córdoba, Pedro de">Pedro de Cordova</persName> receu vostre lettre du 9<hi rendition="#sup">e</hi> de fevrier ensemble le double du <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">traicté de paix</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">traicté de paix</term>
                </index> d’entre V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> et le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -135,7 +138,7 @@
                </index> que lors avec l’aide de dieu et de Vostred. M<hi rendition="#sup">te</hi> j’espere se mectra à bonne execution. Et quant au <index resp="Abel_Laura">
                   <term xml:id="index_d68e449a1051" key="Konzil">consille</term>
                </index>, suivant ce qui m’en escripvez l’on n’en parlera plus jusques à ce que les choses soient en train pour le pouoir mectre à effect. Et pour ce, mons<hi rendition="#sup">r</hi>, que à la prochainne <index resp="Abel_Laura">
-                  <term xml:id="index_d191e210a1051" key="HRR, Reichstag, Speyer (1526)">diete</term>
+                  <term xml:id="index_d191e217a1051" key="HRR, Reichstag, Speyer (1526)">diete</term>
                </index> qui se doit tenir à <placeName xml:id="place_d68e257a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -159,21 +162,21 @@
             <p>Semblablement, mons<hi rendition="#sup">r</hi>, ai par led. don <persName xml:id="person_d41e249a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Córdoba, Pedro de">Pedro de Cordova</persName> entendu la responce et intention de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, touchant les affaires du <persName xml:id="person_d28e170a1050"
+                         key="Córdoba, Pedro de">Pedro de Cordova</persName> entendu la responce et intention de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, touchant les affaires du <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">conte de Ortemburg</persName>, mon tresorier, vous suppliant avoir lui et iceulx tousjours pour recommandé comme mon bon et tres leal serviteur. Enquoi, avec<hi rendition="#sup">h</hi>) que extimerai le bien qu’il vous plaira lui faire comme pour moi mesmes, me ferez tres grant honneur.</p>
-            <p>Mons<hi rendition="#sup">r</hi>, V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> aura entendu ce que led. <persName xml:id="person_d28e170a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> aura entendu ce que led. <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">conte de Ortemburg</persName> vous a dict de <index resp="Abel_Laura">
-                  <term xml:id="index_d191e320a1051"
+                  <term xml:id="index_d191e327a1051"
                         key="Generallandtag der Erblande, Augsburg, 1525/26">l’assemblée generale</term>
                </index> des deputéz d’aucuns mes pays; et suivant la lettre de credence que Vostred. M<hi rendition="#sup">te</hi> a baillé aud. <persName xml:id="person_d41e249a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Córdoba, Pedro de">don Pedro</persName> pour, selon ce que lui diroie, declairer ausd. deputéz de vostre part, je lui ai dit lad. credance au plus grant aventaige et honneur de Vostred. M<hi rendition="#sup">te</hi> et de moi qu’ai peu, ce qu’il a mis à execution envers eulx, toutesfois, mons<hi rendition="#sup">r</hi>, affin de tant plus induire lesd. pays à eulx regler et conduire envers moi, ainsi qu’il appartient et<hi rendition="#sup">i</hi>) que de tant mieulx ils congnoissent le desir que en ce avez. Vous supplie tres humblement de encoires leur rescripre les lettres telles que vous envoie les copies, affin que tant mieulx ilz se demonstrent bons subgectz et facent leur devoir envers moi. Mons<hi rendition="#sup">r</hi>,<hi rendition="#sup">j</hi>) je<hi rendition="#sup">k</hi>) supplie atant le createur qui vous doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d151e258a1050"
+            <p>De <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tubinghen</placeName>, ce 20<hi rendition="#sup">e l</hi>) de mars a<hi rendition="#sup">o</hi> 26.</p>
@@ -181,10 +184,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">augmentacion</hi> fehlt in W<hi rendition="#sup">1</hi>.</p>
             <p>Hingewiesen ist auf Nr. A182. Über die Dauer, bis der Inhalt des Friedensvertrages von Madrid bekannt wurde, vgl. ebendort.</p>
             <p>b) W<hi rendition="#sup">1</hi>
@@ -193,10 +192,10 @@
             <p>c) W<hi rendition="#sup">1</hi>
                <hi rendition="#i">qu’ai illecq.</hi> - d) W<hi rendition="#sup">1</hi> fehlt <hi rendition="#i">avec les vostres.</hi>
             </p>
-            <p>F bevollmächtigte ddo. 1526 März 15, Ehingen, seine beiden Oratoren, <persName xml:id="person_d151e363a1050"
+            <p>F bevollmächtigte ddo. 1526 März 15, Ehingen, seine beiden Oratoren, <persName xml:id="person_d151e366a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Angrer, Dr. Gregor, F’s Gesandter in Venedig">Doktor Gregor Angrer </persName>und <persName xml:id="person_d151e366a1050"
+                         key="Angrer, Dr. Gregor, F’s Gesandter in Venedig">Doktor Gregor Angrer </persName>und <persName xml:id="person_d151e369a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Dornberg, Erasmus von">Erasmus von Dornberg</persName>, sich den Friedensverhandlungen der kaiserlichen Oratoren, <persName xml:id="person_d44e215a1050"

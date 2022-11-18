@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:40Z</date>
+               <date>2022-11-12T09:59:05Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>As Count Palatine Frederick demanded a yearly salary of 10,000 guilders to carry on as stadtholder, he has appointed Margrave Philipp of Baden. Filling the other positions.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA 7. Original. Siegelspur.</p>
+            <p>Wien, St.-A. Belgica PA 7. Original. Siegelspur. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 78, S. 195-196.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -117,16 +120,16 @@
                          key="Philipp von Baden">Philippe de Bada</persName>, lequel a accepté lad. lieutenandise tant seullement avec le salaire de 4000 florins d’or et sera au lieu de Heslingen, où le regiment est presentement endedans six sepmaines; et ce pendant, afin que à 1’administracion de la justice n’y eust faulte et que mon absence ne fust cause d’aucune rompture dud. regiment, ai constitué pour lieutenant <persName xml:id="person_d79e2735a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Waldburg-Zeil, Georg III. Truchseß von">George Truxes, baron de Walburg</persName>, et tant de la part de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> comme de la mienne ordonné quatre conseilliers, assavoir le conte <persName xml:id="person_d53e119a1050"
+                         key="Waldburg-Zeil, Georg III. Truchseß von">George Truxes, baron de Walburg</persName>, et tant de la part de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> comme de la mienne ordonné quatre conseilliers, assavoir le conte <persName xml:id="person_d53e125a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Montfort, Wolf">Holf de Monfort</persName>, <persName xml:id="person_d81e129a1050"
+                         key="Montfort, Wolf">Holf de Monfort</persName>, <persName xml:id="person_d81e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Fuchs, Thomas, Rat des Reichsregiments">Thomas Fux</persName>, <persName xml:id="person_d81e133a1050"
+                         key="Fuchs, Thomas, Rat des Reichsregiments">Thomas Fux</persName>, <persName xml:id="person_d81e140a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Schellenberg, Ulrich von, Rat des Reichsregiments">Walrick de Chalenborger</persName> et le <persName xml:id="person_d81e136a1050"
+                         key="Schellenberg, Ulrich von, Rat des Reichsregiments">Walrick de Chalenborger</persName> et le <persName xml:id="person_d81e143a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Zasius, Dr. Johann, Rat des Reichsregiments">docteur Sasius</persName>; maistre Jehan <persName xml:id="person_d49e241a1050"
@@ -150,11 +153,7 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
-            <p>F schrieb über seine Verhandlung mit dem Pfalzgfen betreffs der Statthalterschaft in Nr. A73. <hi rendition="#i">— Als „in E. F. Dt. abwesen kay. stathalter“</hi> unterzeichnet sich Georg (III.), Truchseß von Waldburg, in einem Schreiben an F. (Notizenblatt 2, S. 114, 244.) Über seine Persönlichkeit vgl. ADB 40, S. 660ff. — Auch Wolf Montfort unterzeichnet sich 1524 Dezember 16 als <hi rendition="#i">„verweser des kay. stathalterampts“</hi>. Notizenblatt 2, S. 254. Über die Persönlichkeiten, die neben diesen und Thomas Fuchs, Ulrich von Schellenberg und Doktor Johann Zasius nach <placeName xml:id="place_d68e245a1050"
+            <p>F schrieb über seine Verhandlung mit dem Pfalzgfen betreffs der Statthalterschaft in Nr. A73. <hi rendition="#i">— Als „in E. F. Dt. abwesen kay. stathalter“</hi> unterzeichnet sich Georg (III.), Truchseß von Waldburg, in einem Schreiben an F. (Notizenblatt 2, S. 114, 244.) Über seine Persönlichkeit vgl. ADB 40, S. 660 ff. — Auch Wolf Montfort unterzeichnet sich 1524 Dezember 16 als <hi rendition="#i">„verweser des kay. stathalterampts“</hi>. Notizenblatt 2, S. 254. Über die Persönlichkeiten, die neben diesen und Thomas Fuchs, Ulrich von Schellenberg und Doktor Johann Zasius nach <placeName xml:id="place_d68e245a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Esslingen">Eßlingen</placeName> beordert worden sind, vgl. Planitz, S. 636. — Daß Balthasar Wolf von Wolfsthal dem Ehg nicht genehm war, mag vielleicht in den engen Beziehungen des Kammermeisters zu dem <persName xml:id="person_d39e368a1050"

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:29Z</date>
+               <date>2022-11-12T09:57:44Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -108,9 +108,9 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>Sacra ces<hi rendition="#sup">ea</hi> et catholica M<hi rendition="#sup">tas</hi>, domine et frater mi colendissime, humillimam commendationem et fẹlicium prosperorumque successuum perpetuitatem.</p>
             <p>Etsi<hi rendition="#sup">a</hi>) non ignoro sacram M<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> esse multis variisque et iisdem maximis et gravissimis negociis impeditam et adeo iam bellicis intentam rebus, ut vix sibi respirandi locus detur, tamen, quia plẹraque etiam et varia et perplexa negotia in <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Germaniis </term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Germaniis </term>
                </index>et prẹcipue<hi rendition="#sup">b</hi>) sub hoc <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">conventu</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">conventu</term>
                </index>
                <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
@@ -188,8 +188,8 @@
                           key="Worms">Wormaciẹ </placeName>promulgatum a statibus pro virili exequetur, libelli famosi et picturẹ scandalosẹ, quẹ<hi rendition="#sup">b2</hi>) mirum in modum, ut malorum seges est fertilis, creverunt, e<hi rendition="#sup">c2</hi>) medio penitus tollantur et supprimantur, quod M<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi> una cum Beat<hi rendition="#sup">ne</hi> pontificis <index resp="Abel_Laura">
                   <term xml:id="index_d68e449a1051" key="Konzil">generale concilium</term>
                </index> ad certum locum in hac <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Germanica </term>
-               </index>natione indicant, quo citius unquam fieri possit.<hi rendition="#sup">d2</hi>) Et hunc effectum reverendissimus dominus legatus sanctẹ sedis apostolicẹ a latere, <persName xml:id="person_d28e166a1050"
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Germanica </term>
+               </index>natione indicant, quo citius unquam fieri possit.<hi rendition="#sup">d2</hi>) Et hunc effectum reverendissimus dominus legatus sanctẹ sedis apostolicẹ a latere, <persName xml:id="person_d28e156a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Campeggi">cardinalis Campegius</persName>, ab omnibus statibus requisitus et rogatus apud sanctum dominum nostrum promovere debet.</p>
@@ -202,7 +202,7 @@
             <p>De expeditione et<hi rendition="#sup">n2</hi>) subsidio prẹstando in <index resp="Abel_Laura">
                   <term xml:id="index_d21e226a1051" key="Türken">Turcas</term>
                </index>, quam ser<hi rendition="#sup">mus</hi> sororius noster, dominus rex Hungariẹ et Bohemiẹ per excellentes oratores suos sollicite requisivit, in hoc <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">conventu</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">conventu</term>
                </index> nihil conclusum est, sed tota eius rei, potissimum generalis expeditionis et continuẹ coniecta est<hi rendition="#sup">o2</hi>) decisio ad prẹfatam futuram congregationem. Pro defensivo sive celeri et repentino,<hi rendition="#sup">p2</hi>) ut ipsi<hi rendition="#sup">q2</hi>) aiunt, subsidio inter<hi rendition="#sup">r2</hi>) status convenit, ut illud, dum necessitas postulaverit, feratur in<hi rendition="#sup">s2</hi>) militibus et non in pecuniis. Et pro conducendis illis consenserunt, ut duẹ quartẹ pecuniarum, quẹ pro imperiali corona in Urbe assequenda deputatẹ sunt, erogentur. Et eiusmodi militibus parandis et colligendis prẹfecti sunt dux Guilielmus Bavariẹ et <persName xml:id="person_d68e531a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -225,7 +225,7 @@
                          key="Beichlingen, Adam von">comiti de Beuchlingen</persName> 1000 et <persName xml:id="person_d39e368a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Friedrich III. der Weise, Herzog von Sachsen, Kurfürst">electori Saxoniae duci</persName>, <persName xml:id="person_d56e167a1050"
+                         key="Friedrich III. der Weise, Herzog von Sachsen, Kurfürst">electori Saxoniae duci</persName>, <persName xml:id="person_d56e179a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Thüngen, Konrad II. von, Bischof von Würzburg">episcopo Herbipolensi</persName> ac quibusdam aliis<hi rendition="#sup">w2</hi>) credita sua, quẹ eis<hi rendition="#sup">x2</hi>) ob imperii necessitates per<hi rendition="#sup">y2</hi>) illos adiutas debentur.</p>
@@ -295,7 +295,7 @@
                          resp="Hofer-Bindeus_Johannes"
                          key="Phrysius, Dr.">doctoris Phrysii</persName>, assessoris camerẹ imperialis, ob certum debitum sibi assignatum super contributionem, quam tamen idem dux minime agnoscere intendit.</p>
             <p>
-               <persName xml:id="person_d56e167a1050"
+               <persName xml:id="person_d56e179a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Thüngen, Konrad II. von, Bischof von Würzburg">Episcopus<hi rendition="#sup">l4</hi>) Herbipolensis </persName>contra <index resp="Abel_Laura">
@@ -310,7 +310,7 @@
                          resp="Hofer-Bindeus_Johannes"
                          key="Remminger, Georg">Georgium Remminger </persName>est conquestus.</p>
             <p>Civitates<hi rendition="#sup">o4</hi>) imperiales petunt tertiam vocem et sessionem in imperialibus conventibus, quod itidem in proxima hic ante <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">hanc dieta </term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">hanc dieta </term>
                </index>petitum est per eos, licet tunc eis fuerit denegatum. Unde iam gravissime conquerentes proposuerant et narraverant, quomodo semper onera portaverint<hi rendition="#sup">p4</hi>) et velut status ad dietas semper vocati fuerint et per expressa verba, ut veniant et compareant, quod cum aliis statibus adsistant, tractent et concludant et quod in recessibus semper ut status positi sint atque sigillaverint et quando factus est selectus, quod eorundem deputati cum illis et apud illos locum pariter et vocem habuerint, item in <placeName xml:id="place_d17e130a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
@@ -361,16 +361,16 @@
                </index>cum foedus transtulerunt.</p>
             <p>Judex<hi rendition="#sup">g6</hi>) et assessores camerẹ dederunt certos articulos, in quibus aliquot defectus continebantur, super quibus facta est inquisitio<hi rendition="#sup">h6</hi>) omnium et singularum personarum, quẹ ad iudicium illud spectant. Et quẹ hic propter temporis brevitatem expediri nequiverunt, reservata sunt<hi rendition="#sup">i6</hi>) ad Esselingam, ut illic convenientes insimul, quẹ supersunt, in ordinem debitum redigenda adimpleantur.</p>
             <p>Supervenit<hi rendition="#sup">j6</hi>) rev<hi rendition="#sup">mus</hi>
-               <persName xml:id="person_d28e166a1050"
+               <persName xml:id="person_d28e156a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Campeggi">legatus</persName>, cuius adventum <persName xml:id="person_d53e635a1050"
+                         key="Campeggi">legatus</persName>, cuius adventum <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Klemens VII.">pontifex maximus</persName> antea per breve significarat. Is secum attulit ad status breve adhortatorium et habita<hi rendition="#sup">k6</hi>) quoque oratione ipse cardinalis graviter et prudenter disseruit de incomoditatibus et necessitatibus, quẹ huic immineant nationi ob<hi rendition="#sup">l6</hi>) dissensionem, quẹ inter eam in orthodoxa fide, cuius tamen<hi rendition="#sup">m6</hi>) maiores fuerant observantissimi, exorta est. Indicans sibi non aliud esse demandatum a beatissimo pontifice, quam ut ea,<hi rendition="#sup">n6</hi>) quẹ ad unitatem et tranquillitatem cum statibus hic congregatis tractaret, qua consecuta tandem illa perquam necessaria generalis in Turcas expeditio felicius suscipi et prosequi posset.</p>
             <p>Circa<hi rendition="#sup">o6</hi>) finem recessus factẹ sunt aliquẹ protestationes<hi rendition="#sup">p6</hi>) per status in particularibus et privatis, in quas ego velut locumtenens non consensi, quia dignum putavi, ut semper<hi rendition="#sup">q6</hi>) publicẹ rei et M<hi rendition="#sup">tis</hi> V<hi rendition="#sup">rẹ</hi> ac sacri imperii utilitas et negotia privatis proponantur, ut illis primo absolutis id deinde sequatur in particularibus, quod bonum quoque fuerit et ẹquum.</p>
             <p>Sed mirabitur fortasse M<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi>, quod non admodum bene et<hi rendition="#sup">r6</hi>) mature, ut res<hi rendition="#sup">s6</hi>) ipsẹ exigere<hi rendition="#sup">t6</hi>) videbantur, consultum et provisum fuerit, cum tamen tanto tempore <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">dieta</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">dieta</term>
                </index> duraverit. Fateor quidem principium eius ad diem Sancti Martini<hi rendition="#sup">2</hi>) prẹteriti positum fuisse meque ex <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d19e125a1051" key="Österreich">Austria </term>
                </index>rebus meis illic utrumque ordinatis et relictis continuato itinere ad<hi rendition="#sup">u6</hi>) ipsum conventum recepisse<hi rendition="#sup">v6</hi>) hanc ingrediens urbem penultima novembris, sperans iam<hi rendition="#sup">w6</hi>) saltem illo<hi rendition="#sup">x6</hi>) finitimos et propinquos huic regioni principes et status advenisse. Ex quibus prẹter <persName xml:id="person_d39e368a1050"
@@ -399,8 +399,8 @@
             <p>S. ebenda, S. 602.</p>
             <p>a2) <hi rendition="#i">conventum est</hi> gestrichen. – b2) <hi rendition="#i">quae </hi>bis <hi rendition="#i">fertilis creverunt</hi> am Rande nachgetragen. – c2) für <hi rendition="#i">e medio penitus</hi>, das über der Zeile steht, ursprünglich <hi rendition="#i">quibus nihil est</hi>. – d2) <hi rendition="#i">quo </hi>gestrichen. </p>
             <p>e2) <hi rendition="#i">factio</hi> gestrichen. – f2) <hi rendition="#i">nova totius</hi> am Rande nachgetragen mit blässerer Tinte für die ursprüngliche Nachtragung <hi rendition="#i">una quoque.</hi> – g2) <hi rendition="#i">ad</hi> gestrichen. – h2) <hi rendition="#i">sunt</hi> gestrichen – i2) für <hi rendition="#i">ut</hi> ursprünglich <hi rendition="#i">quoad.</hi> – j2) <hi rendition="#i">iis</hi> über der Zeile nachgetragen. – k2) <hi rendition="#i">tenent </hi>gestrichen. – l2) für <hi rendition="#i">in scripturas</hi>, das am Rande nachgetragen ist, ursprünglich <hi rendition="#i">in ordinem</hi>, darüber <hi rendition="#i">in litteras</hi>. – m2) <hi rendition="#i">sancto</hi> gestrichen.</p>
-            <p>November 11.</p>
-            <p>S. ebenda, S. 603 ff. Die im Abschied erwähnte <hi rendition="">„beschwerung teutscher nacion“</hi> übergeht F. — Vgl. Nr. A76 [61].</p>
+            <p>November 11. </p>
+            <p>S. DRA 4, S. 603 ff. Die im Abschied erwähnte <hi rendition="#i">„beschwerung teutscher nacion“</hi> übergeht F. — Vgl. Nr. A76 [61].</p>
             <p>n2) <hi rendition="#i">et subsidio prẹstando</hi> am Rande nachgetragen. – o2) <hi rendition="#i">ratio</hi> gestrichen. – p2) <hi rendition="#i">sub </hi>gestrichen. – q2) für <hi rendition="#i">ipsi</hi>, das am Rande nachgetragen ist, ursprünglich <hi rendition="#i">illi.</hi> – r2) <hi rendition="#i">ipsos</hi> gestrichen. – s2) <hi rendition="#i">personis </hi>gestrichen. – t2) <hi rendition="#i">fiscali</hi> am Rande nachgetragen und gestrichen. – u2) für <hi rendition="#i">Procuratori</hi> bis <hi rendition="#i">respectum suum habere debeant,</hi> das am Rande nachgetragen ist, stand ursprünglich <hi rendition="#i">et loca ad quẹ.</hi>
             </p>
             <p>S. ebenda, S- 606 ff.</p>

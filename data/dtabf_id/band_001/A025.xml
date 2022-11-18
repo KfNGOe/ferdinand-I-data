@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:55:03Z</date>
+               <date>2022-11-12T09:53:38Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -108,62 +108,40 @@
                           key="Prag">Praga</placeName>, decima decembris, anno domini 1522.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 25, S. 34.</p>
          </div>
-         <div n="6"><!-- commentary -->
-            <p>Wie er früher eingetreten war bei F<hi rendition="#i"> pro </hi>
-               <index resp="Christopher_F._Laferl">
+         <div type="letter" n="5"><!-- transcription -->
+            <p>
+               <hi rendition="#i">Wie er früher eingetreten war bei F </hi>pro <index resp="Christopher_F._Laferl">
                   <term xml:id="index_d21e196a1051"
-                        key="Österreich, Stände, Prozess, Wiener Neustädter Blutgericht (1522)"/>
+                        key="Österreich, Stände, Prozess, Wiener Neustädter Blutgericht (1522)">pena capitali </term>
                </index>
-               <persName xml:id="person_d28e108a1050"
+               <persName xml:id="person_d28e109a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Siebenbürger, Dr. Martin">
-                  <hi rendition="#i">doctori Martino Sybennbwrger</hi>
-               </persName>
-               <hi rendition="#i">, civi </hi>
-               <placeName xml:id="place_d19e121a1050"
+                         key="Siebenbürger, Dr. Martin">doctori Martino Sybennbwrger</persName>, civi <placeName xml:id="place_d19e121a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
-                          key="Wien">
-                  <hi rendition="#i">Viennensi</hi>
-               </placeName>
-               <hi rendition="#i">, condonando, ita nunc quoque honeste domine </hi>
-               <persName xml:id="person_d28e118a1050"
+                          key="Wien">Viennensi</placeName>, condonando, ita nunc quoque honeste domine <persName xml:id="person_d28e115a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Siebenbürger, Helene">
-                  <hi rendition="#i">Helene</hi>
-               </persName>
-               <hi rendition="#i">, dicti doctoris Martini relicte, ac liberorum ipsius supplicatione sollicitamur, ut apud Ser</hi>
-               <hi rendition="#i #sup">tem</hi>
-               <hi rendition="#i"> V</hi>
-               <hi rendition="#i #sup">ram</hi>
-               <hi rendition="#i"> pro ipsis intercedamus, </hi>damit ihnen die eingezogenen Güter gnadenweise zurückerstattet würden. Hofft, daß F keine Schwierigkeiten machen werde<hi rendition="#i"> in causa presertim pariter et honesta et pia, ut que viduam, que pupillos eosdemque et multos et impuberes respiciat, quorum tutela principibus peculiariter est a deo ipso commissa. Rogamus itaque singulari quodam studio Ser</hi>
-               <hi rendition="#i #sup">tem</hi>
-               <hi rendition="#i"> V</hi>
-               <hi rendition="#i #sup">ram</hi>
-               <hi rendition="#i">, dignetur cum ipsius vidue tum tot pupillorum orbitatem perpendere et calamitosis omnibus illis communem hanc gratiam facere, ut salvis et integris de mortui rebus et bonis omnibus secure frui et gaudere deinceps possint et valeant . . . Commisimus etiam oratoribus istic nostris, ut negocium hoc apud Ser</hi>
-               <hi rendition="#i #sup">tem</hi>
-               <hi rendition="#i"> V</hi>
-               <hi rendition="#i #sup">ram</hi>
-               <hi rendition="#i"> nostro nomine diligenter promoveant et commendent.</hi>
-            </p>
-            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d28e154a1050"
+                         key="Siebenbürger, Helene">Helene</persName>, dicti doctoris Martini relicte, ac liberorum ipsius supplicatione sollicitamur, ut apud Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> pro ipsis intercedamus, <hi rendition="#i">damit ihnen die eingezogenen Güter gnadenweise zurückerstattet würden. Hofft, daß F keine Schwierigkeiten machen werde </hi>in causa presertim pariter et honesta et pia, ut que viduam, que pupillos eosdemque et multos et impuberes respiciat, quorum tutela principibus peculiariter est a deo ipso commissa. Rogamus itaque singulari quodam studio Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi>, dignetur cum ipsius vidue tum tot pupillorum orbitatem perpendere et calamitosis omnibus illis communem hanc gratiam facere, ut salvis et integris de mortui rebus et bonis omnibus secure frui et gaudere deinceps possint et valeant . . . Commisimus etiam oratoribus istic nostris, ut negocium hoc apud Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> nostro nomine diligenter promoveant et commendent.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d28e144a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d28e157a1050"
+                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d28e147a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d28e160a1050"
+                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d28e150a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d28e163a1050"
+                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d28e153a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d28e166a1050"
+                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d28e156a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d28e170a1050"
+                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Salamanca">Gabriel Salamanca </persName>vom 16. November, dass der ursprünglich gefasste Beschluss <hi rendition="#i">pro vidua doctoris Martini Silimberg</hi> von den Beamten nicht eingehalten worden sei und sie von ihr noch 600 fl. forderten. Wien St.-A. Rom. Hofkorr. 1. Or.</p>

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:41Z</date>
+               <date>2022-11-12T10:01:27Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,7 @@
             <p>1. Has received K's letter dated August 15. Would have preferred to marry off his sister Catherine to a German prince instead of the King of Portugal. 2. Hannart's deployment to the King of Poland. Polish machinations in France. The Russian delegates.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Hs. B 597 I, S. 33—34. Kopie.</p>
+            <p>Wien, St.-A. Hs. B 597 I, S. 33-34. Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 102, S. 230-232.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -116,7 +116,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Johann III. von Portugal">roi de Portugal</persName>, comme desia par aultres mes lettres vous ai escript, eusse plus tost desiré qu’elle fust estée alliée <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">pardeça</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">pardeça</term>
                </index> que ailleurs pour les raisons que vous ai, mons<hi rendition="#sup">r</hi>, escriptes et mandées, mesmes consideré la disposition du temps present, car, comme pouez entendre, ce seroit au plus grant bien et avancement de voz affaires et de toute nostre <index resp="Abel_Laura">
                   <term xml:id="index_d63e113a1051" key="Österreich, Haus">maison d’Austrice</term>
                </index> que ce ne sera, actendu le peu de princes que presentement sont en ceste Allemaigne que à vous ne à icelle veullent du bien. Parquoi vous supplie tres humblement de bien penser et considerer cest affaire et, s’il est possible, le vouloir encoires ainsi faire ce que ne double point, quant entendrez le grant bien que à cause de ce pourra succeder.</p>
@@ -134,10 +134,10 @@
                          key="Maximilian I.">empereur</persName>, mon feu s<hi rendition="#sup">r</hi> et grant-pere cui dieu absoille, quant il voulsist empescher le mariaige de <persName xml:id="person_d13e149a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="A">ma femme</persName> avec l’ung de nous deux et ce par le moyen du <persName xml:id="person_d100e148a1050"
+                         key="A">ma femme</persName> avec l’ung de nous deux et ce par le moyen du <persName xml:id="person_d100e155a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Wassili III. Iwanowitsch, Großfürst von Moskau">s<hi rendition="#sup">r</hi> de Moscovie</persName>. Les ambassadeurs duquel, comme desia vous ai escript, sont presentement allez par devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, lesquelz, si desia ne sont arrivéz, tiens le seront bien tost. Et pour ma part, mons<hi rendition="#sup">r</hi>, s’il vous plaist m’y employer, en riens me pourrez sur le tout mander vostre bon plaisir, auquel accomplir rendrai paine. Atant etc.</p>
+                         key="Wassili III. Iwanowitsch, Großfürst von Moskau">s<hi rendition="#sup">r</hi> de Moscovie</persName>. Les ambassadeurs duquel, comme desia vous ai escript, sont presentement alléz par devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi>, lesquelz, si desia ne sont arrivéz, tiens le seront bien tost. Et pour ma part, mons<hi rendition="#sup">r</hi>, s’il vous plaist m’y employer, en riens me pourrez sur le tout mander vostre bon plaisir, auquel accomplir rendrai paine. Atant etc.</p>
             <p>De <placeName xml:id="place_d19e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -145,7 +145,7 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>Der hier erwähnte Brief K’s vom 15. August wurde nicht vor gefunden. — Die Einwendungen gegen die Verheiratung Katharinas mit dem Kg von Portugal finden sich bereits in Nr. A76 [28],</p>
-            <p>Hannart ging nicht nach Polen. Vgl. Nr. A114, A117. Er schrieb darüber aus <placeName xml:id="place_d53e288a1050"
+            <p>Hannart ging nicht nach Polen. Vgl. Nr. A114, A117. Er schrieb darüber aus <placeName xml:id="place_d53e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Mechelen/Malines">Mecheln </placeName>am 22. Oktober an K: <hi rendition="#i">Sire, quant à ce que me mandez, ayant achevé les plus necessaires affaires de ma cherge, que je voise vers le roi de Polem pour les causes, contenues en mes instructions, et davantaige pour le dissuader et oster du </hi>

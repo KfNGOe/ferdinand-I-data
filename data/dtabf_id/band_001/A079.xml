@@ -71,7 +71,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:59:45Z</date>
+               <date>2022-11-12T09:59:11Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -106,7 +106,7 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi>, j’ai receu vostre lettre du 23<hi rendition="#sup">e</hi> de mai passé; et quant à la derniere <index resp="Abel_Laura">
-                  <term xml:id="index_d56e147a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
+                  <term xml:id="index_d56e159a1051" key="HRR, Reichstag, Nürnberg (1524)">diette</term>
                </index>, tenue à <placeName xml:id="place_d21e270a1050"
                           ref="nognd"
                           resp="Abel_Laura"
@@ -115,7 +115,7 @@
                          resp="Abel_Laura"
                          key="Bredam">Bredam</persName> serez, mons<hi rendition="#sup">r</hi>, au long averti et informé de tout ce qui a esté fait et conclud à icelle, parquoi ne vous en ferai repetition. Si vous veulx je bien dire, mons<hi rendition="#sup">r</hi>, que ce n’a esté sans grosse paine et traveil pour les causes que par led. s<hi rendition="#sup">r</hi> de Bredam aurez peu entendre, combien que, la dieu mercis, ont estéz les affaires menéz de sorte que riens n’a esté traictié au diminuement de vostre honneur, auctorité et reputation. </p>
             <p>Touchant la legacion que les <index resp="Abel_Laura">
-                  <term xml:id="index_d73e104a1051" key="HRR, Reichsstände">estatz de l’empire</term>
+                  <term xml:id="index_d73e110a1051" key="HRR, Reichsstände">estatz de l’empire</term>
                </index> estoient deliberéz envoyer devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> et le roi <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -126,7 +126,7 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Nürnberg">Neuremberg</placeName> ensemble leurs alliéz n’en sont estéz contens, comme pouez desia avoir entendu par la responce qu’ilz me firent. Parquoi, mons<hi rendition="#sup">r</hi>, supplie, si d’aventure ilz vous en escripvoient ou faisoient dire chose à moi contraire n’y veullez adjouster foi, sans premierement m’en avertir et oir, car il en est tout ainsi que le vous ai escript et fait dire par led. s<hi rendition="#sup">r</hi> de Bredam et non aultrement.</p>
-            <p>De ce que <persName xml:id="person_d10e128a1050"
+            <p>De ce que <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre bonne tante</persName>, vous avoit, mons<hi rendition="#sup">r</hi>, escript touchant la pansion, deue aux <index resp="Abel_Laura">
@@ -176,7 +176,7 @@
                </index> de leur faire demander une diete à <placeName xml:id="place_d63e154a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Zürich">Zurich</placeName> et que à icelle viendront tant les ambassadeurs du <persName xml:id="person_d53e635a1050"
+                          key="Zürich">Zurich</placeName> et que à icelle viendront tant les ambassadeurs du <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName>, les vostres, ceulx du <persName xml:id="person_d35e129a1050"
@@ -207,7 +207,7 @@
                          resp="Abel_Laura"
                          key="Fernández de Córdoba, Luis, Herzog von Sessa">Sessas</persName> Bericht aus Rom vom 4. Juni berührt worden zu sein. Bergenroth 2, S. 646, Nr. 656.</p>
             <p>Die hier wiedergegebene Nachricht enthält Wahres und Falsches ineinander vermengt. Es handelt sich um Ahmed Pascha, der, nach Ägypten als Statthalter gesandt, sich für den Verlust des Großwesirpostens rächen und Sultan von Ägypten werden wollte. Tatsächlich erhoben sich die dem Sultan getreuen Soldaten gerade in dem Augenblicke, als sich der verräterische Wesir ins Bad begab. Doch wurde er bei dieser Gelegenheit nicht geköpft, sondern entkam und wurde erst später gefangen genommen und getötet. Hammer-Purgstall, Geschichte des Osman. Reiches 3, S. 35 ff.</p>
-            <p>Vgl. Nr. A69.</p>
+            <p>Vgl. Nr. A69. </p>
          </div>
       </body>
    </text>

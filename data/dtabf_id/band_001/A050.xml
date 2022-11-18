@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:57:11Z</date>
+               <date>2022-11-12T09:56:12Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,8 @@
             <p>1. Apologizes for his long silence. Has received K's letters dated August 15 and September 8. 2. Only agreed to the treaty with Venice for K's benefit. 3. Provisions for the 3,000 troops deployed to Spain. Loquingen's message to F regarding the deployment of 10,000 troops. F intervening in the matter of the Augsburg merchants' being difficult regarding disbursement of 50,000 guilder. The arrival of the money has been delayed. 5. Troop leadership. The men assigned to these positions. 6. Demands made by the Duke of Milan and others regarding 6,000 more troops. F has made all provisions necessary to supply these troops. 7. As requested by the Viceroy of Naples, F has levied 6,000 more men. 8. Complains that K has not given him an appropriate position in this war. 9. Attempts to convince Count Palatine Frederick to keep the position of stadtholder have failed. F is expecting K's delegate Hannart. Miserable conditions in the empire. Impending dissolution of the Imperial Government. 10. Collection of the Common Penny. 11. Although he would like to, he is unable to provide for George of Austria. 12. The expelled King of Denmark's failed military operation. His miserable condition. 13. Had expected to receive the 200,000 ducats not as a dowry but as compensation for losses incurred in the treaty with Venice. 14. Difficulties satisfying George of Saxony. The terms of payment to which he has agreed. 15. As the Imperial Diet on St. Margaret's Day was poorly attended, he has announced another one on St. Martin's Day in Nuremberg. He only encountered Prince-Elector Frederick of Saxony there. He and the few other princes in attendance are planning to depart. 16. He thanks K for his willingness to have young Duke Christoph of Württemberg at his court, but this will require the consent of the Dukes of Bavaria. 17. Clearance Emperor Maximilian I's debt. 18. Actions taken by the Swabian League against the Frankish knights. 19. Is looking for an armorer for K. 20. Commends Bishop Bernhard of Trent. 21. Attempts at a meeting between Bourbon and F have been abandoned. 22. Refers to the orator who will soon be deployed to K. 23. Election of the new Pope. 24. Hemricourt has not yet returned. 25. His meeting with the Hungarian royal couple in Wiener Neustadt. The decisions made there regarding armament against the Turks. 26. Advancement of Luther's teachings. Is sending K sermons being held in Constance. Lutheranism in the imperial cities. 27. Awaits Hannart's and Hemricourt's arrival.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. PA 7. Original. Rückwärts Adresse.</p>
+            <p>Wien, St.-A. PA 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>.</p>
             <p>Druck: Lanz, Jahrbücher der Literatur 112, S. 29-37. Abschnitt 25 bei Fiedler, Quellen und Forschungen, S. 104. Familienkorrespondenz Bd. 1, Nr. 50, S. 80-91.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -111,7 +112,7 @@
                   <term xml:id="index_d21e283a1051" key="Venedig">Venize</term>
                </index>, desia savez et qu’en ai fait à quoi, si n’eust esté pour vous faire service, ne me feusse jamais accordé que plustost n’eusse assayé la fortune pour les raisons que par pluiseurs lettres vous ai escriptes.</p>
             <p>
-               <persName xml:id="person_d53e119a1050"
+               <persName xml:id="person_d53e125a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Montfort, Wolf">Montfort</persName>, vostre escuier de chambre, m’apporta une lettre de credence depar vous pour l’assister et donner ordre qu’il puist avoir 4000 pietons pour mener en <index resp="Abel_Laura">
@@ -148,7 +149,7 @@
                           key="Ensisheim">Enghsse</placeName> leur avoient fait avoir et presté. Et ce pendant vint l’argent dud. s<hi rendition="#sup">r</hi> roi d’Angleterre, pour lequel solliciter dez <placeName xml:id="place_d21e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Linz">Lincz</placeName> envoyai ung gentilhomme de ma maison vers <persName xml:id="person_d10e128a1050"
+                          key="Linz">Lincz</placeName> envoyai ung gentilhomme de ma maison vers <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, ma tante</persName>, et led. s<hi rendition="#sup">r</hi> roi d’Angleterre.</p>
@@ -167,10 +168,10 @@
                          key="Werdenberg, Graf Felix von">conte Felix</persName> et à <persName xml:id="person_d36e110a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Ems (Hohenems), Marx Sittich I. von, Landsknechtsführer">Marck Sitigh</persName> d’eulx trouver vers moi. Si l’on veult dire que j’aie entremis led. de Furstemberch, comme <persName xml:id="person_d10e128a1050"
+                         key="Ems (Hohenems), Marx Sittich I. von, Landsknechtsführer">Marck Sitigh</persName> d’eulx trouver vers moi. Si l’on veult dire que j’aie entremis led. de Furstemberch, comme <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Mg">mad. dame et tante</persName> le m’a escript, je vous avise mons<hi rendition="#sup">r</hi> que non et que ne feiz si non ce que Lonquinghen me dit depar vous, qu’estoit qu’il avoit commission depar V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> que les contes Felix, de Furstemberch, <persName xml:id="person_d53e222a1050"
+                         key="Mg">mad. dame et tante</persName> le m’a escript, je vous avise mons<hi rendition="#sup">r</hi> que non et que ne feiz si non ce que Lonquinghen me dit depar vous, qu’estoit qu’il avoit commission depar V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> que les contes Felix, de Furstemberch, <persName xml:id="person_d53e228a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Herberstein, Siegmund von">Hebrestain</persName> et <persName xml:id="person_d29e173a1050"
@@ -183,10 +184,10 @@
                          key="Francesco II.">le duc de Milan</persName> et <persName xml:id="person_d49e124a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Marín, Fernando, Abt von Nájera, Schatzmeister K’s in Italien">l’abbé de Matarra</persName>, vostre commissaire, en nom de vous, le <persName xml:id="person_d53e240a1050"
+                         key="Marín, Fernando, Abt von Nájera, Schatzmeister K’s in Italien">l’abbé de Matarra</persName>, vostre commissaire, en nom de vous, le <persName xml:id="person_d53e246a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Arco, Graf von, Gesandter des Hgs von Mailand">conte d’Arc</persName> et cellui <persName xml:id="person_d53e243a1050"
+                         key="Arco, Graf von, Gesandter des Hgs von Mailand">conte d’Arc</persName> et cellui <persName xml:id="person_d53e249a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Avena, conte d‘, Gesandter des Hgs von Mailand">d’Avena</persName>, me requerant et priant leur faire avoir autres 6000 pietons pour mener aud. Milan à quoi incontinant donnai ordre et d’avantaige leur feiz donner preques, culurines, pouldre, grant nombre de chariotz et chevaulx et en effect tout ce que leur estoit necessaire et qu’ilz sceurent demander, lesquelx au passer ne fut sans faire dommaige grant au pays mangeant le bon homme.</p>
@@ -201,20 +202,20 @@
                           resp="Abel_Laura"
                           key="Ensisheim">Enghsse</placeName> qu’ils eussent en diligence à pourveoir qu’ils fussent levéz en nombre tel qu’il demandoit. Lequel a fait lever lesd. 6000.</p>
             <p>Pour ma part mons<hi rendition="#sup">r</hi> j’eusse bien désiré que m’eussiez donné aucune charge où eusse fait mon devoir tellement que apertement peussiez avoir congneu le vouloir que j’ai de vous servir sans que nulz autres mes affaires m’en eussent peu empescher. Et certes mons<hi rendition="#sup">r</hi> ne me tiens pas heureux que en temps qu’avez tant à faire de bons et loyaulx serviteurs m’avez mis en oubli, me delaissant garder les palles d’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Alemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Alemaigne</term>
                </index> dont beaucop de gens ne scevent comme l’entendre et leur avez donné et donnez journellement cause d’en dire chacun ce qu’il lui plaist n’est riens à mon honneur ni avantaige.</p>
             <p>Mons<hi rendition="#sup">r</hi>, quant au <persName xml:id="person_d21e255a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Friedrich II.">conte Palatin</persName>, je vous avise que nulle priere ni requeste depar vous, depar <persName xml:id="person_d10e128a1050"
+                         key="Friedrich II.">conte Palatin</persName>, je vous avise que nulle priere ni requeste depar vous, depar <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">mad. dame et tante</persName> ni depar moi n’a peu aider à le tenir à la <index resp="Abel_Laura">
                   <term xml:id="index_d21e263a1051" key="HRR, Statthalterschaft">lieutenandise</term>
-               </index> de l’empire, plusavant que jusques à la saint Michiel passé où quel temps aussi le regiment fusse dissolt par faulte de payement ne fust que j’en escripviz et m’obligeai les vouloir payer pour les trois premiers mois, ordonnant le Palatin nommé <persName xml:id="person_d53e284a1050"
+               </index> de l’empire, plusavant que jusques à la saint Michiel passé où quel temps aussi le regiment fusse dissolt par faulte de payement ne fust que j’en escripviz et m’obligeai les vouloir payer pour les trois premiers mois, ordonnant le Palatin nommé <persName xml:id="person_d53e290a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Hundsrück, Hans von">Hanns von Hunsrucken</persName> pour lieutenant jusques à ma venue à la diette, ordonnée à la saint Martin, où j’esperoie aussi l’arrivée de vostre audiencier. Lequel j’entens desia estre à <placeName xml:id="place_d53e288a1050"
+                         key="Hundsrück, Hans von">Hanns von Hunsrucken</persName> pour lieutenant jusques à ma venue à la diette, ordonnée à la saint Martin, où j’esperoie aussi l’arrivée de vostre audiencier. Lequel j’entens desia estre à <placeName xml:id="place_d53e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Mechelen/Malines">Malines</placeName>. Lui venu ici, vous pourra mons<hi rendition="#sup">r</hi> au long avertir de l’estat et disposicion des affaires de l’empire qu’est si mauvais que jamais pire, car il n’y a point d’execucion de justice ne aucune obeissance ne aura si longuement que led. regiment demourera comme il est à present. Et que pis est, je ne voi sinon qu’il se dissoldra, après ce Noël, saulf si vostred. audiencier rapporte quelque moyen pour l’entretenir, delaquelle dissoulucion pouez mons<hi rendition="#sup">r</hi> penser quel honneur en aurez; d’autrepart led. regiment et la <index resp="Abel_Laura">
@@ -224,7 +225,7 @@
                          resp="Abel_Laura"
                          key="Maximilian I.">l’empereur Maximilien, mons<hi rendition="#sup">r</hi> et grant-pere</persName>, cui dieu absoille. Pour ma part j’en ferai tout ce qu’il me sera possible et aiderai adresser les affaires, afin que vostre honneur qu’est bien le mien et reputacion soit gardé.</p>
             <p>Quant au <index resp="Abel_Laura">
-                  <term xml:id="index_d53e310a1051" key="HRR, Gemeiner Pfennig">ghemaine phennung</term>
+                  <term xml:id="index_d53e316a1051" key="HRR, Gemeiner Pfennig">ghemaine phennung</term>
                </index> que l’on pourroit lever pour l’aide contre <persName xml:id="person_d26e215a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -236,24 +237,24 @@
             <p>Mons<hi rendition="#sup">r</hi>, j’ai entendu vostre advis et concept en l’affaire du <persName xml:id="person_d40e108a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Christian II.">roi de Dennemarche</persName>, lequel estoit le vrai, s’il eust voulu croire conseil, ce que non, et lui en est allé tout ainsi comme je le pensoie et en escripviz à <persName xml:id="person_d10e128a1050"
+                         key="Christian II.">roi de Dennemarche</persName>, lequel estoit le vrai, s’il eust voulu croire conseil, ce que non, et lui en est allé tout ainsi comme je le pensoie et en escripviz à <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Mg">mad. dame et tante</persName>. Et en effect, ce qu’il fist est qu’il traicta avec le <persName xml:id="person_d53e345a1050"
+                         key="Mg">mad. dame et tante</persName>. Et en effect, ce qu’il fist est qu’il traicta avec le <persName xml:id="person_d53e351a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Albrecht von Preußen">maistre de Prusse</persName>, les <persName xml:id="person_d53e348a1050"
+                         key="Albrecht von Preußen">maistre de Prusse</persName>, les <persName xml:id="person_d53e354a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Heinrich II., der Jüngere, von Braunschweig-Wolfenbüttel, Herzog">ducz de Brunswyk</persName>, <persName xml:id="person_d53e352a1050"
+                         key="Heinrich II., der Jüngere, von Braunschweig-Wolfenbüttel, Herzog">ducz de Brunswyk</persName>, <persName xml:id="person_d53e358a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Albrecht VII., Herzog von Mecklenburg">de Melckelbourg</persName> et autres bons personnaiges et fit tant par ses promesses qu’il assembla 18000 pietons et de six à sept mil chevaulx et les mena jusques aux pais du <persName xml:id="person_d24e505a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Joachim I. von Brandenburg">marquis Joachin, electeur</persName>. Et la venuz, il n’eust point argent assez pour faire le premier payement tellement que tout son ost se deffit à sa grant honte, perte et dommaige et de ceulx qui s’en estoient entremis, et est pressé de ceulx qui lui ont conduict les susd. gens de guerre, ausquelx il est obligié en grosses sommes d’argent. Il est presentement en <index resp="Abel_Laura">
-                  <term xml:id="index_d53e359a1051" key="Sachsen">Zaxe</term>
-               </index> et <persName xml:id="person_d53e362a1050"
+                  <term xml:id="index_d53e365a1051" key="Sachsen">Zaxe</term>
+               </index> et <persName xml:id="person_d53e368a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Isabella von Österreich">m<hi rendition="#sup">me</hi>, ma bonne seur</persName>, la roine est emprès le susd. marquis Joachin, electeur, tous deux vivans non comme roix, mais miserablement. Il y a eu aucuns princes qui se sont voulu entremectre pour trouver quelque bon moyen et appoinctement avec ses aversaires, mais l’on ne scet avenir à autre sinon qu’ilz lui bailleront une pension de 30000 florins d’or et à la roine ce qu’il lui appertient et prendront pour leur roi son filz aisné qui est jeusne de cincq ans, en lui baillant conseilliers et gens de bien pour gouverner le royaulme. Car tant que de lui ilz ne le admectront jamais, quant leur devroit couster si comme ilz dient leur vie avec leur vaillant. Depuis peu de jours il a envoyé vers moi pour avoir mon advis et opinion, laquelle lui ai declairé par ung propre ambassadeur qu’ai envoyé vers lui qu’est le meisme que m’avez mons<hi rendition="#sup">r</hi> escript. Si la veult accepter, je vous en aviserai incontinent et le semblable à m<hi rendition="#sup">me</hi>, ma tante, afin que pourvoyez d’ambassadeurs tant depar vous que depar <persName xml:id="person_d8e117a1050"
@@ -264,7 +265,7 @@
                          resp="Abel_Laura"
                          key="Heinrich VIII.">roi d’Angleterre</persName>. </p>
             <p>Mons<hi rendition="#sup">r</hi>, vous me commandez que j’aie à prendre et accepter ou lieu des deux cens mil ducatz que à cause <index resp="Abel_Laura">
-                  <term xml:id="index_d18e110a1051" key="F, Heirat mit A">de mon mariage</term>
+                  <term xml:id="index_d18e122a1051" key="F, Heirat mit A">de mon mariage</term>
                </index> me sont deuz, les deux cens mil que les <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Veniciens</term>
                </index> doivent payer endedens ce meisme terme avec les condicions contenues en vosd. lettres. Mons<hi rendition="#sup">r</hi>, j’eusse bien penssé que lesd. 200000 ducatz ou pour le moins une bonne et grosse somme d’iceulx me deussent estre donnéz pour une partie de la recompense des dommaige et interest qu’ai euz de l’acceptacion de la paix faicte avec lesd. Veniciens, saulf si ce n’est que vous mons<hi rendition="#sup">r</hi> par autre moyen me veulliez recompenser, comme m’avez donné l’espoir et espere encoires que ferez ce que vous supplie treshumblement. Et pour à ce vous donner plusgrant cause et en tout me conformer avec vostre vouloir et opinion suis content accepter led. payement en la forme que le m’escripvez. Parquoi vous supplie donner ordre que j’en soie payé et à la reste entendre à lad. recompense.</p>
@@ -282,14 +283,14 @@
                           key="Nürnberg">Neuremberghe</placeName> à la saint Martin derreniere, en ordonnant par les mandemens que ung chacun y eust à comparoir en propre personne. Et, combien que les affaires qu’ai en mes pays sont grans et mon absence me porte grant dommaige, car depuis trois ans que ai prins la possession d’iceulx, n’ai peu avoir aucun repoz ou temps pour mectre l’ordre et police que bien vouldroie, si ai je le tout postposé et ensuivant vostre commandement suis venu en cested. ville où n’ai trouvé autre prince que le <persName xml:id="person_d39e368a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Friedrich III. der Weise, Herzog von Sachsen, Kurfürst">duc Frederick de Saxe, electeur</persName>, ne n’est encoires venu sinon le <persName xml:id="person_d53e345a1050"
+                         key="Friedrich III. der Weise, Herzog von Sachsen, Kurfürst">duc Frederick de Saxe, electeur</persName>, ne n’est encoires venu sinon le <persName xml:id="person_d53e351a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Albrecht von Preußen">maistre de Prusse</persName> et <persName xml:id="person_d53e441a1050"
+                         key="Albrecht von Preußen">maistre de Prusse</persName> et <persName xml:id="person_d53e447a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Kasimir von Brandenburg-Kulmbach, Markgraf">marquis Casimirus</persName>, lesquelx s’en veullent retourner en leurs maisons, voiant qu’il y a desia cincq sepmaines que l’on devroit avoir commencé lad. diette et n’est encoires venu aucun prince ni procureurs que de deux ou de trois dont suis certes mons<hi rendition="#sup">r</hi> bien perplex, car je pers temps, fai grans despens et, que plus extime, ne voi moyen pour vous pouoir faire le service que desire. Et quant je vouldroie attenter ou faire quelque chose, l’on me diroit, comme l’on dit, que je suis seul et n’ai point tant de puissance de vous que pour disposer ne faire plus que ung autre du susd. regiment. Parquoi mons<hi rendition="#sup">r</hi>, si vostre audiencier n’apporte autres pouoirs ou maniere de faire, je ne voi sinon que le tout ira en ruine et ne sera en moi y pouoir remedier.</p>
-            <p>Je vous mercie mons<hi rendition="#sup">r</hi> treshumblement qu’il vous plaist accepter le jeusne <persName xml:id="person_d53e455a1050"
+            <p>Je vous mercie mons<hi rendition="#sup">r</hi> treshumblement qu’il vous plaist accepter le jeusne <persName xml:id="person_d53e461a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Christoph von Württemberg">duc de Wirtemberch</persName>, lequel vous envoyerai, aiant parlé à ses oncles, les ducz de <index resp="Abel_Laura">
@@ -329,13 +330,13 @@
                           resp="Abel_Laura"
                           key="Innsbruck">Isbrouch</placeName> qu’il s’en alloit pour passer en <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Italie</term>
-               </index>. Et aiant receu mes lettres par led. maistre des postes et depuis encoires par <persName xml:id="person_d53e533a1050"
+               </index>. Et aiant receu mes lettres par led. maistre des postes et depuis encoires par <persName xml:id="person_d53e539a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bloix, Kurier">Bloix</persName> et puis après par ung autre courrier que lui envoyai, me respondit à tout que nullement lui estoit possible convenir avec moi, car vous mons<hi rendition="#sup">r</hi> l’aviez desia par trois fois mandé venir vers vous et qu’il savoit avec sa presence vous pouoir faire grant service. Parquoi il me prioit voulsisse avoir la patience et le prendre de bonne part et en ceste sorte s’en est passé en Italie et espere sera plustost devers vous que cestes.</p>
             <p>Quant est du pouoir que mons<hi rendition="#sup">r</hi> demandez en tel personnaige de vostre conseil que vouldrai joinctement avec l’article escript en siffre, je ne serai par ceste responce et remectrai le tout à cellui que vous escriptz suis deliberé envoyer vers vous pour iceulx affaires et autres.</p>
             <p>De <index resp="Abel_Laura">
-                  <term xml:id="index_d53e548a1051" key="Konklave">l’election du pape</term>
+                  <term xml:id="index_d53e554a1051" key="Konklave">l’election du pape</term>
                </index> et subces des affaires d’<index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Italie</term>
                </index> et <index resp="Abel_Laura">
@@ -359,13 +360,13 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Sopron">Eydembourg</placeName>, où je allai joinctement avec ma compaigne, accompaigné d’environ 800 chevaulx arméz et me vint lui joinctement avec <index resp="Abel_Laura">
-                  <term xml:id="index_d53e594a1051"
+                  <term xml:id="index_d53e600a1051"
                         key="M, Treffen mit F in Wiener Neustadt (1523)">m, ma bonne seur, la roine de Hungrie</term>
                </index>, audevant avec le nombre de 600 à 700 chevaulx. Et aiant esté en sad. ville par deux jours et deux nuitz, vinmes à <placeName xml:id="place_d24e457a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Wiener Neustadt">Nieuwstadt</placeName>, où je les feiz recevoir le mieulx qu’il me fust possible et deffroier avec leur train qu’estoit d’environ 1800 chevaulx l’espace de huit jours qu’ilz feurent avec moi, où il y eust joustes, tournois et autres passe-temps. Puis en eulx retirant en leur pays, feurent en une maison de plaisance où ilz eurent une <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d6e101a1051" key="Jagd">bonne chasse par deux jours</term>
+                  <term xml:id="index_d6e109a1051" key="Jagd">bonne chasse par deux jours</term>
                </index>; nous traictasmes de pluiseurs choses, comme aurez mons<hi rendition="#sup">r</hi> peu entendre amplement par les lettres de messire <persName xml:id="person_d21e180a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -380,8 +381,8 @@
             <p>Mons<hi rendition="#sup">r</hi>, <index resp="Abel_Laura">
                   <term xml:id="index_d29e217a1051" key="Lutheraner">le secte Luterien</term>
                </index> regne partout ce pays d’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Almaigne</term>
-               </index> si trestant que desia les bons chrestiens craingnent d’eulx declarer et nommer. Et si dieu vous et <persName xml:id="person_d53e635a1050"
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Almaigne</term>
+               </index> si trestant que desia les bons chrestiens craingnent d’eulx declarer et nommer. Et si dieu vous et <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">nostre saint pere</persName> n’y pourvoient et brief, il est à craindre que la chose viendra à plus mauvais termes. Ilz mectent avant tant de heresies que ne vous sçauroie escripre le nombre, mais entre autres vous envoye ici mons<hi rendition="#sup">r </hi>ce que ung prescheur a presché en chaiere publique en la ville de <placeName xml:id="place_d39e114a1050"
@@ -402,17 +403,15 @@
             <p>Vostre<hi rendition="#sup">a</hi>) treshumble et tres obeisant frere Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>Der Brief K’s vom 15. August wurde nicht aufgefunden. Das Itinerar F’s (Forsch. zur deutschen Gesch. 1, S. 385) weist tatsächlich seit August 1523 wenig Ruhepausen in dem Wanderleben des Ehgs auf, das ihn von Linz über Ödenburg nach Wiener-Neustadt, von dort über Wien usw., Linz usw., Passau nach Regensburg und von da nach Nürnberg führte.</p>
             <p>Über die Persönlichkeit des Gfen Felix von Werdenberg vgl. J. N. v. Vanotti, Geschichte der Gfen von Montfort und von Werdenberg, Belle-Vue 1845, S. 453 ff. Unter dem Gfen von Fürstenberg ist wohl Wilhelm gemeint. A. D. B. 8, S. 228 ff.</p>
             <p>Vermutlich ist unter Matarra der Abt Najera gemeint.</p>
             <p>Die Niederlegung des Statthalteramtes durch den Pfalzgfen und die beabsichtigte Substituierung durch Hg Hans von Hundsrück behandeln die DRA 4, S. 8 und 34. Über das Verhältnis des Reichsregiments zum Schwäbischen Bund s. ebenda S. 7.</p>
             <p>Vgl. Nr. 39.</p>
-            <p>Die Verbündeten Christians II. waren damals der Hochmeister, Hg Heinrich von Braunschweig und Hg Albrecht von Mecklenburg. Die Auflösung des Heeres erfolgte zwischen dem 6. und 12. Oktober 1523 an der Elbe bei <placeName xml:id="place_d53e691a1050"
+            <p>Die Verbündeten Christians II. waren damals der Hochmeister, Hg Heinrich von Braunschweig und Hg Albrecht von Mecklenburg. Die Auflösung des Heeres erfolgte zwischen dem 6. und 12. Oktober 1523 an der Elbe bei <placeName xml:id="place_d53e690a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Dömitz">Dömitz</placeName> und <placeName xml:id="place_d53e694a1050"
+                          key="Dömitz">Dömitz</placeName> und <placeName xml:id="place_d53e693a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Lenzen">Lenzen</placeName>. Christian und der Hochmeister waren zum Kf Friedrich von Sachsen, dem Onkel Christians, geeilt, der auch mit den Gläubigern des vertriebenen Dänenkönigs unterhandelte. D. Schäfer, Geschichte von Dänemark, Gotha 1893, 4, S. 34 ff. Über die Verhandlungen betreffs Zahlung einer Pension an Christian II. vgl. Bucholtz 7, S. 556 f.</p>
@@ -424,35 +423,35 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Absberg, Hans Thomas von, fränkischer Ritter">Hans Thomas von Absberg</persName>, der wegen Landfriedensbruches verfolgt wurde. Die kriegerische Handlung des Bundes dauerte von Mitte Juni bis Mitte Juli 1523 und bedeutete einen schweren Schlag gegen die <index resp="Abel_Laura">
-                  <term xml:id="index_d53e708a1051" key="Fränkische Ritterschaft">fränkische Ritterschaft</term>
-               </index>, die sich im selben Jahre zu <placeName xml:id="place_d53e711a1050"
+                  <term xml:id="index_d53e707a1051" key="Fränkische Ritterschaft">fränkische Ritterschaft</term>
+               </index>, die sich im selben Jahre zu <placeName xml:id="place_d53e710a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Schweinfurt">Schweinfurt</placeName> in einem eigenen Bündnis vereinigt hatte. R. Fellner, Die fränkische Ritterschaft. Berlin 1905, S. 247, 285 f. usw.</p>
             <p>Über B Bernhard Cles von Trient vgl. A. D. Biogr. 4, S. 324 f. und Bauer, S. 173 ff.</p>
-            <p>Bourbon kam im Laufe des Monats November nach <placeName xml:id="place_d53e717a1050"
+            <p>Bourbon kam im Laufe des Monats November nach <placeName xml:id="place_d53e716a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Piacenza">Piacenza</placeName> (Sanuto 35, 205) und reiste dann nach Tirol. Am 29. November war er in Innsbruck. Brach aber am folgenden Tage bereits auf, um in aller Eile nach Italien zurückzukehren, mit der Absicht, nach <index resp="Abel_Laura">
                   <term xml:id="index_d8e144a1051" key="Spanien">Spanien</term>
-               </index> zu gehen und die Schwester des Kaisers zu heiraten (ebenda 268). Eine Nacht verweilte Bourbon bei Andrea da Burgo auf dessen <placeName xml:id="place_d53e724a1050"
+               </index> zu gehen und die Schwester des Kaisers zu heiraten (ebenda 268). Eine Nacht verweilte Bourbon bei Andrea da Burgo auf dessen <placeName xml:id="place_d53e723a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Enna, Schloss in Südtirol">Schloß Enn in Tirol</placeName>. Stoegmann, S. 226. F war in dieser Zeit auf der Fahrt durch Bayern nach Nürnberg begriffen.</p>
-            <p>Der neue <persName xml:id="person_d53e635a1050"
+            <p>Der neue <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">Papst Klemens VII.</persName> war am 19. November endgültig aus dem <index resp="Abel_Laura">
-                  <term xml:id="index_d53e548a1051" key="Konklave">Konklave</term>
+                  <term xml:id="index_d53e554a1051" key="Konklave">Konklave</term>
                </index> als Erwählter hervorgegangen. Pastor 4<hi rendition="#sup">2</hi>, S. 169.</p>
             <p>F brach in der zweiten Hälfte August von Innsbruck auf. — Die Turniere bei Wiener-Neustadt scheinen in der Tat etwas reicher gewesen zu sein als es die Geldlage F’s eigentlich zugelassen hatte. Die Kosten für Seide und Gewänder überstiegen ganz beträchtlich die Summe von 500 fl. (Wien, HK-A Gedenkb. 21, Bl. 21 ff.). — Burgo gibt in seinem Bericht die Zahl der von F zu stellenden Fußsoldaten mit 8000 an. Stoegmann, S. 168.</p>
-            <p>In Konstanz predigten damals in evangelischem Sinne <persName xml:id="person_d53e742a1050"
+            <p>In Konstanz predigten damals in evangelischem Sinne <persName xml:id="person_d53e741a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Wanner, Johannes">Johannes Wanner</persName>, <persName xml:id="person_d53e745a1050"
+                         key="Wanner, Johannes">Johannes Wanner</persName>, <persName xml:id="person_d53e744a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Windner, Jakob">Jakob Windner </persName>und <persName xml:id="person_d53e748a1050"
+                         key="Windner, Jakob">Jakob Windner </persName>und <persName xml:id="person_d53e747a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Metzler, Bartholomäus">Bartholomäus Metzler</persName>. E. Issel, Die Reformation in Konstanz. Freiburg i. B. 1898, S. 17 ff. Vgl. ferner Notizenblatt 2, S. 258 f.</p>

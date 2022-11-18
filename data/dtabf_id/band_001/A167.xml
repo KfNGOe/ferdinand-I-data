@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:07:22Z</date>
+               <date>2022-11-12T10:07:58Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,30 +102,35 @@
             <p>1. Has received Mg's letter dated November 27, along with K's articles of peace. 2. Status of affairs in Italy is uncertain. Pescara's death. 3. The papal delegation. The league between the Pope, France, England, Venice and Milan. 4. K's marriage.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(B) Brüssel, Arch. gén. Papiers d’État et de lʼAud., vol. 93, Bl. 5. Original. Das Stück enthält zahlreiche Lücken.</p>
+            <p>(B) Brüssel, Arch. gén. Papiers d’État et de lʼAud., vol. 93, Bl. 5. Original. Das Stück enthält zahlreiche Lücken. Rückwärts Adresse: <hi rendition="#i">A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>
+            </p>
             <p>(B<hi rendition="#sup">1</hi>) Ebenda, Bl. 7—8. Kopie, ungefähr gleichzeitig.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 167, S. 352-354.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>M<hi rendition="#sup">me</hi>, ma bonne tante, humblement et de bon cueur me recommande à vostre bonne grace. M<hi rendition="#sup">me</hi>, j’ai receu vostre lettre du 27<hi rendition="#sup">e</hi> de novembre ensemble la copie des articles que <index resp="Abel_Laura">
                   <term xml:id="index_d32e140a1051" key="Frankreich B">l’empereur mons</term>
-               </index> a fait donner à <persName xml:id="person_d149e109a1050"
+               </index> a fait donner à <persName xml:id="person_d149e111a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Margarete, Königin von Navarra, Herzogin von Alençon, Schwester Franz’ I.">madame d’Alanço</persName>
                <hi rendition="#sup">a</hi>) pour moyen de <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">paix</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">paix</term>
                </index> et des responces du <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Franz I.">roi de France</persName> dont, mm<hi rendition="#sup">e</hi>, combien que desia l’eusse entendu, vous mercie bien humblement, et me semble qu’on est encoires bien loings d’y parvenir, veu que lad. responce n’approiche à beacop près la demande.</p>
+                         key="Franz I.">roi de France</persName> dont, m<hi rendition="#sup">me</hi>, combien que desia l’eusse entendu, vous mercie bien humblement, et me semble qu’on est encoires bien loings d’y parvenir, veu que lad. responce n’approiche à beacop près la demande.</p>
             <p>Quant à la prinse de <persName xml:id="person_d161e114a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Morone, Girolamo">Iheronime Morron</persName>, par mes lettres du 22<hi rendition="#sup">e</hi> d’octobre vous en ai desia escript et averti ensemble de toutes autres nouvelles qu’avoie eu des affaires <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">d’Ytalie</term>
                </index>, lesquelz sont tousiours suspens et en ung mesme estat, n’est que ier me vindrent nouvelles de <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d171e144a1051"
+                  <term xml:id="index_d171e155a1051"
                         key="Tod, Fernando Francesco d’Avalos, Marchese di Pescara">la mort </term>
                </index>du <persName xml:id="person_d106e272a1050"
                          ref="nognd"
@@ -133,10 +138,10 @@
                          key="Pescara">marquis de Piscare</persName> qui estoit lieutenant general de sa m<hi rendition="#sup">te</hi> aud. Ytalie. Et veult l’on dire qu’il a esté empoisonné par les <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Veniciens</term>
                </index> dont, m<hi rendition="#sup">me</hi>, consideré que l’empereur mons<hi rendition="#sup">r</hi> y a perdu ung bon serviteur, suis desplaisant, car par ce est fort à craindre que lesd. affaires ne succedent de pis.</p>
-            <p>Quant au legat que <persName xml:id="person_d53e635a1050"
+            <p>Quant au legat que <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Klemens VII.">le pape </persName>a envoyé devers sad. m<hi rendition="#sup">te</hi>, je suis, m<hi rendition="#sup">me</hi>, esté averti que, après qu’il a declairé sa charge, sad. m<hi rendition="#sup">te</hi> a depesché ung sien gentilhomme, nommé <persName xml:id="person_d171e178a1050"
+                         key="Klemens VII.">le pape </persName>a envoyé devers sad. m<hi rendition="#sup">te</hi>, je suis, m<hi rendition="#sup">me</hi>, esté averti que, après qu’il a declairé sa charge, sad. m<hi rendition="#sup">te</hi> a depesché ung sien gentilhomme, nommé <persName xml:id="person_d171e189a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Herrera, Miguel de">Herrera</persName>, que bien congnoissez devers sa s<hi rendition="#sup">te</hi> avec aucuns articles, ausquelz est fort à craindre ne vouldra entendre, car je suis averti, comme sad. s<hi rendition="#sup">te</hi>, les <persName xml:id="person_d21e327a1050"
@@ -164,16 +169,10 @@
             <p>Vostre<hi rendition="#sup">e</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>a) B<hi rendition="#sup">1</hi>
                <hi rendition="#i">d’Alançon</hi>. </p>
             <p>Bezieht sich auf Nr. A164, der das Datum November 26 trägt.</p>
-            <p>Der Brief F’s vom 22. Oktober hat sich nicht vorgefunden. Pescara starb vermutlich nachts vom 2. auf den 3. Dezember. Baumgarten 2, S. 468. — <persName xml:id="person_d171e178a1050"
+            <p>Der Brief F’s vom 22. Oktober hat sich nicht vorgefunden. Pescara starb vermutlich nachts vom 2. auf den 3. Dezember. Baumgarten 2, S. 468. — <persName xml:id="person_d171e189a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Herrera, Miguel de">Miguel de Herrera </persName>kam am 6. Dezember in Rom an. Die größten Schwierigkeiten bereitete die mailändische Frage. Gayangos 3, 1. S. 524 ff. Über den Inhalt seiner Artikel Baumgarten 2, S. 495.</p>

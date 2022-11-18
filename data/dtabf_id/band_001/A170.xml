@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:07:37Z</date>
+               <date>2022-11-12T10:08:16Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,7 @@
             <p>1. Pleased with George of Austria's election to Bishop of Brixen. 2. Delay in dispatching Pedro de Cordova as a result of negotiations with France and the Pope.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Es. B. 595 I. Bl. 15. Kopie.</p>
+            <p>Wien, St.-A. Hs. B. 595 I. Bl. 15. Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 170, S. 356.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -120,15 +120,15 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Córdoba, Pedro de">Don Pedro de Cordova</persName>, comme vous ai escript que feroie, mais à cause que maintenant se communicque sur le fait de la <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">paix</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">paix</term>
                </index> d’entre moi et le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Franz I.">roi de France</persName> et aussi d’entre <persName xml:id="person_d53e635a1050"
+                         key="Franz I.">roi de France</persName> et aussi d’entre <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">le pape</persName> et moi avec autres grans affaires, concernans le bien commung de nous deux, de quoi bien amplement j’entendz vous advertir par led. Don Pedro, à ceste cause je l’ai encoires retenu et espere le faire partir endedens 12 ou 15 jours. A ceste cause ne vous ferai pour ceste fois plus longue lettre. Priant dieu etc.</p>
-            <p>A <placeName xml:id="place_d140e752a1050"
+            <p>A <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le 9<hi rendition="#sup">e</hi> de janvier 1526.</p>

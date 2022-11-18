@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:46Z</date>
+               <date>2022-11-12T10:01:33Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -158,14 +158,14 @@
                           key="Rom">Romme</placeName>. L’on m’a escript, comme ung courrier qui venoit de devers V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> a esté prins par les François. Datum ut supra.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Der Einzug der Franzosen in Mailand erfolgte am 26. Oktober. — Die Nachricht, daß der Kg von Frankreich nach Italien ziehe, kam, wie es scheint, vom Vizekg von Neapel, Lannoy. Sofort begab sich <persName xml:id="person_d28e170a1050"
+            <p>Der Einzug der Franzosen in Mailand erfolgte am 26. Oktober. — Die Nachricht, daß der Kg von Frankreich nach Italien ziehe, kam, wie es scheint, vom Vizekg von Neapel, Lannoy. Sofort begab sich <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">Salamanca</persName> im Namen des Ehgs zu <persName xml:id="person_d106e207a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Contarini, Carlo">Carlo Contarini</persName>, der als venezianischer Orator am Hofe F’s weilte, und teilte ihm mit, <hi rendition="#i">però dovesse subito mandarli da 8 in 10 mila fanti in aiuto di l’impresa, et cussi era stà ordinato de farli. Pertanto, la serenità del principe pregava osso orator scrivesse a la signoria non dovesse mancar di far quanto è ubligata per li capitoli ad defension di quel stado, perchè cussì il vicerè li havia scritto al prefato principe rechiedesse la signoria . . .</hi> Sanuto 37, 168. (Bericht C. Contarinis vom 24. und 31. Oktober.)</p>
-            <p>Schon in seinem Berichte vom 15. Oktober kündigt <persName xml:id="person_d28e166a1050"
+            <p>Schon in seinem Berichte vom 15. Oktober kündigt <persName xml:id="person_d28e156a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Campeggi">Campeggi</persName> die Wahrscheinlichkeit einer bevorstehenden Abreise F’s von <placeName xml:id="place_d19e121a1050"
@@ -211,7 +211,7 @@
                          key="Pescara">Pescara </persName>und den anderen nach <placeName xml:id="place_d106e275a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Lodi">Lodi </placeName>zurück (ebenda 99). Die Angaben über seine Heeresmacht schwanken zwischen 300 und 400 Lanzen, beziehungsweise 3000, 4000 und 14.000 (!) Mann Fußvolk.</p>
+                          key="Lodi">Lodi </placeName>zurück (ebenda 99). Die Angaben über seine Heeresmacht schwanken zwischen 300 und 400 Lanzen, beziehungsweise 3000, 4000 und 14.000 (!) Mann Fußvolk. </p>
          </div>
       </body>
    </text>

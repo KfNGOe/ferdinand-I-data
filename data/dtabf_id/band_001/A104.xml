@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:52Z</date>
+               <date>2022-11-12T10:01:39Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,16 +102,19 @@
             <p>Replying to K's letter dated June 28. Securing the bishop coadjutor position in Salzburg for Maximilian I's bastard son, George, is proving difficult.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>(W) Wien, St.-A. Belgica PA 7. Original.</p>
-            <p>(W<hi rendition="#sup">l</hi>) Ebenda. Hs. 597 I, S. 32—33.</p>
+            <p>(W) Wien, St.-A. Belgica PA 7. Original. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
+            <p>(W<hi rendition="#sup">1</hi>) Ebenda. Hs. 597 I, S. 32—33.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 104, S. 234-235.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
-            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai receu vostre lettre par maistre <persName xml:id="person_d107e108a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, treshumblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai receu vostre lettre par maistre <persName xml:id="person_d107e115a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Transsilvano, Maximilian, K’s Sekretär">Maximilian Transsilvano</persName>, vostre secretaire, du 28<hi rendition="#sup">e</hi> de jung dernierement passé et par lui au long entendu ce que lui avez chargé me dire de vostre part, touchant le fait de la coadiutorie de <index resp="Abel_Laura">
-                  <term xml:id="index_d107e115a1051" key="Salzburg, Erzbistum">l’archeveschié de Salzbourg</term>
+                  <term xml:id="index_d107e122a1051" key="Salzburg, Erzbistum">l’archeveschié de Salzbourg</term>
                </index> pour <persName xml:id="person_d45e106a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -121,7 +124,7 @@
                          key="Lang, Matthäus">archevesque</persName> dud. Salsbourg consuivit premierement lad. archeveschié, promist et jura à son chappitre et provinciaulx que jamais de son vivant n’accepteroit ni procureroit aucun coadiuteur en icelle, si ce n’estoit à la requeste et priere d’eulx. D’aultrepart, mons<hi rendition="#sup">r</hi>, les archevesques<hi rendition="#sup">c</hi>) de Salzbourg tant passéz comme cellui à present ont eu occupez en mes pays d’<index resp="Abel_Laura">
                   <term xml:id="index_d19e125a1051" key="Österreich">Austrice</term>
                </index> et <index resp="Abel_Laura">
-                  <term xml:id="index_d60e200a1051" key="Kärnten">Carinte</term>
+                  <term xml:id="index_d60e196a1051" key="Kärnten">Carinte</term>
                </index> pluiseurs jurisdicions au grant dommaige de moi et de mesd. pays. Et si pouoie, voulentiers les retireroie comme de raison dont ilz n’est trop content. A laquelle cause il a voulu entrer<hi rendition="#sup">d</hi>) en la <index resp="Abel_Laura">
                   <term xml:id="index_d21e249a1051" key="Schwäbischer Bund">ligue de Zwave</term>
                </index>, à quoi ne m’ai voulu accorder, qu’est, comme croi, cause de quelque petit<hi rendition="#sup">e</hi>) mescontentement. Combien que à ce facillement pourra l’on bien pourveoir, si ce n’estoit ung plus grant empeschement, qu’est que led. don George est bastard et es pays de pardeça, vous savez, mons<hi rendition="#sup">r</hi>, l’extime qu’on en tient et croi seurement que ceste seulle cause est celle que plus retarderoit cest affaire. Et pouez,<hi rendition="#sup">e</hi>) mons<hi rendition="#sup">r</hi>, bien considerer<hi rendition="#sup">f</hi>) l’honneur que à vous et à moi s’en ensuivroit de commancer une telle chose et qu’elle ne vinsist a bon fruit. Parquoi conseilleroie que V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pourveust led. don George pardela, puis qu’il y a moyen pour ce faire. Toutesfois, mons<hi rendition="#sup">r</hi>, après que<hi rendition="#sup">g</hi>) aurez bien sur le tout penssé et<hi rendition="#sup">h</hi>) consideré les inconveniens dessusd., me pourrez mander vostre bon plaisir sur<hi rendition="#sup">i</hi>) le tout et je rendrai tout devoir d’accomplir vostre commandement, car certes non en cella seullement vouldroie je aider et avancer led. don George, mais en bien plus grant chose de mon pouoir, consideré que plus hault sera il eslevé tant plus sera ce à vous et à moi d’honneur et reputation.<hi rendition="#sup">j</hi>) Mons<hi rendition="#sup">r</hi>,<hi rendition="#sup">k</hi>) je supplie atant le createur qui vous doint bonne vie et longue.</p>
@@ -133,11 +136,7 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
-            <p>a) fehlt in W<hi rendition="#sup">1</hi>. - b) <hi rendition="#i">chercher</hi> W. - c) <hi rendition="#i">evesques</hi> W<hi rendition="#sup">1</hi>. - d) <hi rendition="#i">entré </hi>W. - e) W<hi rendition="#sup">1</hi> s<hi rendition="#i">çavez</hi>. - f) fehlt in W<hi rendition="#sup">1</hi>. - g) in W<hi rendition="#sup">1</hi> folgt<hi rendition="#i">: sur cest affaire</hi>. - h) et —<hi rendition="#i">dessusd.</hi> fehlt in W. - i) statt <hi rendition="#i">sur le tout</hi> in W<hi rendition="#sup">1</hi>: <hi rendition="#i">de ce qu’il vous plaira que j’en face plus avant. </hi>- j) in W<hi rendition="#sup">1</hi>
+            <p>a) fehlt in W<hi rendition="#sup">1</hi>. - b) <hi rendition="#i">chercher</hi> W. - c) <hi rendition="#i">evesques</hi> W<hi rendition="#sup">1</hi>. - d) <hi rendition="#i">entré </hi>W. - e) W<hi rendition="#sup">1</hi> s<hi rendition="#i">çavez</hi>. - f) fehlt in W<hi rendition="#sup">1</hi>. - g) in W<hi rendition="#sup">1</hi> folgt<hi rendition="#i">: sur cest affaire</hi>. - h) <hi rendition="#i">et</hi> – <hi rendition="#i">dessusd.</hi> fehlt in W. - i) statt <hi rendition="#i">sur le tout</hi> in W<hi rendition="#sup">1</hi>: <hi rendition="#i">de ce qu’il vous plaira que j’en face plus avant. </hi>- j) in W<hi rendition="#sup">1</hi>
                <hi rendition="#i">exaltation.</hi> - k) <hi rendition="#i">Mons</hi>
                <hi rendition="#i #sup">r</hi>
                <hi rendition="#i">—longue</hi> fehlt in W, statt dessen: <hi rendition="#i">atant etc.</hi> - l) von <hi rendition="#i">vostre</hi> an eigenhändig, fehlt in W<hi rendition="#sup">1</hi>.</p>
@@ -145,8 +144,8 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bayern, Herzöge von">bayrischen Fürsten</persName> haben nach der Säkularisation Salzburgs getrachtet. Im Verlaufe des <index resp="Abel_Laura">
-                  <term xml:id="index_d107e296a1051" key="Bauernkrieg, Salzburg">Bauernkrieges</term>
-               </index> richtete der Eb im Jahre 1525 nochmals ein Gesuch an den Schwäbischen Bund um Aufnahme darin. Diese erfolgte tatsächlich am Martinibundestage jenes Jahres (November 11) zu <placeName xml:id="place_d88e186a1050"
+                  <term xml:id="index_d107e298a1051" key="Bauernkrieg, Salzburg">Bauernkrieges</term>
+               </index> richtete der Eb im Jahre 1525 nochmals ein Gesuch an den Schwäbischen Bund um Aufnahme darin. Diese erfolgte tatsächlich am Martinibundestage jenes Jahres (November 11) zu <placeName xml:id="place_d88e193a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Nördlingen">Nördlingen</placeName>. Klüpfel, Urk. zur Gesch. des Schwäbischen Bundes 2 (Bibl. des Lit. Vereines 31), S. 295.</p>

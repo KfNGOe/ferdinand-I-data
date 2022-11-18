@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">A11.</title>
-            <title type="sub">Maria an Ferdinand, 1519 Februar 28, InnsbruckO: Innsbruck1.</title>
+            <title type="sub">Maria an Ferdinand, 1519 Februar 28, Innsbruck.</title>
             <author>
                <persName ref="nognd">Maria</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Maria</persName>
-               <placeName ref="nognd">InnsbruckO: Innsbruck1</placeName>
+               <placeName ref="nognd">Innsbruck</placeName>
                <date>1519 Februar 28</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:53:53Z</date>
+               <date>2022-11-12T09:52:14Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -90,7 +90,7 @@
                      <hi rendition="#i">Maria an Ferdinand.</hi>
                   </cell>
                   <cell>
-                     <hi rendition="#i">1519 Februar 28. (Innsbruck)1).</hi>
+                     <hi rendition="#i">1519 Februar 28. (Innsbruck).</hi>
                   </cell>
                </row>
             </table>
@@ -125,7 +125,10 @@
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Wels">Wels</placeName> gestorben.</p>
-            <p>In der Vorlage heißt es zwar <hi rendition="#i">Ausbourg</hi>, doch liegt ganz offenbar ein Lesefehler des Kopisten für Innsbruck vor.</p>
+            <p>In der Vorlage heißt es zwar <hi rendition="#i">Ausbourg</hi>, doch liegt ganz offenbar ein Lesefehler des Kopisten für <placeName xml:id="place_d5e138a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Innsbruck">Innsbruck</placeName> vor.</p>
          </div>
       </body>
    </text>

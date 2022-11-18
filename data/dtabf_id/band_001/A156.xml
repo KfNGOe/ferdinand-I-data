@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:26Z</date>
+               <date>2022-11-12T10:06:55Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -141,14 +141,14 @@
             <p>Il en a si longuement que n’ai heu lettres de V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> que me fait penser m’avoir mis en oubli. Je supplie icelle m’advertir aulcune fois de sa <index resp="Abel_Laura">
                   <term xml:id="index_d92e182a1051" key="Gesundheit/Krankheit, K">bonne santé</term>
                </index>, disposition et bonnes nouvelles.</p>
-            <p>Mons<hi rendition="#sup">r</hi>, naguaires vous ai escript en faveur du <persName xml:id="person_d28e170a1050"
+            <p>Mons<hi rendition="#sup">r</hi>, naguaires vous ai escript en faveur du <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salamanca">conte de Ortemburg</persName>, mon tresorier, et ordonné à <persName xml:id="person_d155e117a1050"
+                         key="Salamanca">conte de Ortemburg</persName>, mon tresorier, et ordonné à <persName xml:id="person_d155e124a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Montfort, Nicolas de">Nicolas de Montfort</persName>, gentilhomme de ma maison, solliciter V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pour les affaires dud. tresorier. Je vous supplie tres humblement et autant que je puis les vouloir depescher, en quoi faisant oultre que ferez ce que ung empereur doibt faire à ceulx que bien servent, a moi ferez grant honneur. Atant etc.</p>
-            <p>Escript à <placeName xml:id="place_d151e258a1050"
+                         key="Montfort, Nicolas de">Nicolas de Montfort</persName>, gentilhomme de ma maison, solliciter V<hi rendition="#sup">re</hi> M<hi rendition="#sup">te</hi> pour les affaires dud. tresorier. Je vous supplie tres humblement et autant que je puis les vouloir depescher, en quoi faisant oultre que ferez ce que ung empereur doibt faire à ceulx que bien servent, à moi ferez grant honneur. Atant etc.</p>
+            <p>Escript à <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tubinghen</placeName>, le 16<hi rendition="#sup">e</hi> d’octobre a<hi rendition="#sup">o</hi> 25.</p>

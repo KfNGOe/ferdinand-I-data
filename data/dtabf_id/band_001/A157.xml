@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:31Z</date>
+               <date>2022-11-12T10:07:00Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -117,7 +117,7 @@
                          key="Morone, Girolamo">Iheronimo Morron</persName>, grant-chancellier du <persName xml:id="person_d24e555a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Francesco II.">duc de Milan</persName>, qui, selon il a esté informé, conduisoit enthierement lesd. practicques et ensuivant l’advis et conseil que lui avoie escript, il en advertit incontinant et à diligence le <persName xml:id="person_d53e635a1050"
+                         key="Francesco II.">duc de Milan</persName>, qui, selon il a esté informé, conduisoit enthierement lesd. practicques et ensuivant l’advis et conseil que lui avoie escript, il en advertit incontinant et à diligence le <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">pape</persName> et <index resp="Abel_Laura">
@@ -125,7 +125,7 @@
                </index>, affin de les asseurer; depuis, mons<hi rendition="#sup">r</hi>, ai receu lettres du 16<hi rendition="#sup">e</hi> dud. mois de <persName xml:id="person_d161e134a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Castro, Juan de">Jehan de Castro</persName>, gentilhomme de ma maison, que j’ai auprès dud. marquis pour continuellement estre averti de toutes choses. Par lesquelles m’en escript, comme ced. jour de nuict led. marquis envoya led. Morron au chasteau de <placeName xml:id="place_d140e258a1050"
+                         key="Castro, Juan de">Jehan de Castro</persName>, gentilhomme de ma maison, que j’ai auprès dud. marquis pour continuellement estre averti de toutes choses. Par lesquelles m’en escript, comme ced. jour de nuict led. marquis envoya led. Morron au chasteau de <placeName xml:id="place_d140e261a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Pavia">Pavie</placeName> par <persName xml:id="person_d161e140a1050"
@@ -189,7 +189,7 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Enns">Hems</placeName>, veu qu’il ne lui pourroit porter à sa part par an oultre 5 ou 600 florins d’or. Atant etc.</p>
-            <p>De <placeName xml:id="place_d151e258a1050"
+            <p>De <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tubinghen</placeName>, ce dernier jour d’octobre a<hi rendition="#sup">o</hi> 25.</p>
@@ -198,7 +198,7 @@
             <p>Die Gefangennahme Girolamo Morones erfolgte tatsächlich am 15. Oktober zu <placeName xml:id="place_d70e174a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Novara">Novara</placeName>, wo Pescara damals weilte. Baumgarten 2, S. 466. Ein ähnlicher, noch ausführlicherer Bericht ging von <persName xml:id="person_d149e326a1050"
+                          key="Novara">Novara</placeName>, wo Pescara damals weilte. Baumgarten 2, S. 466. Ein ähnlicher, noch ausführlicherer Bericht ging von <persName xml:id="person_d149e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hurtado (de Mendoza), Lope, Gesandter K’s">Lope Hurtado</persName> an K. Gayangos 3, 1, S. 363 ff. — F schrieb noch am 15. Oktober einen Brief an Pescara. Wien, St.-A. Belgica PA 92. Kopie.</p>
@@ -218,7 +218,7 @@
                   <term xml:id="index_d161e302a1051" key="Latein">lateinischen</term>
                </index> und <index resp="Christopher_F._Laferl">
                   <term xml:id="index_d161e307a1051" key="Italienisch (Sprache)">italienischen („“) Sprache </term>
-               </index>nach Padua gesandt hatte, durch das Mandat von 1524 September 10, Wien, jährlich 330 Dukaten aus. Wien, HK-A. Gedb. 24, Bl. 33. Im Jahre 1527 wurde ihm eine Pension von 400 Gulden jährlich angewiesen. Turba, Thronfolgerecht, S. 153, Anm.</p>
+               </index>nach Padua gesandt hatte, durch das Mandat von 1524 September 10, Wien, jährlich 330 Dukaten aus. Wien, HK-A. Gedb. 24, Bl. 33. Im Jahre 1527 wurde ihm eine Pension von 400 Gulden jährlich angewiesen. Turba, Thronfolgerecht, S. 153, Anm. </p>
          </div>
       </body>
    </text>

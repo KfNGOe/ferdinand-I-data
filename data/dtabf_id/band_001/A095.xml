@@ -4,9 +4,9 @@
       <fileDesc>
          <titleStmt>
             <title type="main">*A95</title>
-            <title type="sub">Ferdinand an Karl, 1524 Oktober 14.</title>
+            <title type="sub">Margareta an Ferdinand, .</title>
             <author>
-               <persName ref="nognd">Ferdinand</persName>
+               <persName ref="nognd">Margareta</persName>
             </author>
          </titleStmt>
          <editionStmt>
@@ -53,11 +53,11 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="nognd">Ferdinand</persName>
-               <date>1524 Oktober 14</date>
+               <persName ref="nognd">Margareta</persName>
+               <date/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="nognd">Karl</persName>
+               <persName ref="nognd">Ferdinand</persName>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -71,7 +71,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:01:06Z</date>
+               <date>2022-11-12T10:00:47Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -86,10 +86,10 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rendition="#i">Ferdinand an Karl</hi>
+                     <hi rendition="#i">Margareta an Ferdinand.</hi>
                   </cell>
                   <cell>
-                     <hi rendition="#i">1524 Oktober 14. Wien</hi>
+                     <hi rendition="#i">1524 Oktober 14.</hi>
                   </cell>
                </row>
             </table>

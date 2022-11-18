@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:36Z</date>
+               <date>2022-11-12T10:07:07Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -110,7 +110,7 @@
             <p>Mon bon frere, j’ai receu voz lectres tant par don <persName xml:id="person_d41e249a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Córdoba, Pedro de">Pedro de Cordua</persName> que depuis par <persName xml:id="person_d155e117a1050"
+                         key="Córdoba, Pedro de">Pedro de Cordua</persName> que depuis par <persName xml:id="person_d155e124a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Montfort, Nicolas de">Montfort</persName>, et par icelles et ce qu’il m’ont dit de vostre part entendu pluseurs bonnes choses pour le bien et adresse de voz affaires et miens. Et pour vous faire responce premiers des practiques dont mes capitaines en <index resp="Abel_Laura">
@@ -119,7 +119,7 @@
             <p>Je ne fais doubte que les <index resp="Abel_Laura">
                   <term xml:id="index_d108e230a1051" key="Bauernkrieg (Deutscher), 1524-1526">motions </term>
                </index>ont esté universelles en <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Allemaigne</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Allemaigne</term>
                </index> et ai eu plaisir que ceulx de <index resp="Abel_Laura">
                   <term xml:id="index_d21e378a1051" key="Schwaben">Zubbave</term>
                </index> et de <index resp="Abel_Laura">
@@ -177,7 +177,7 @@
                   <term xml:id="index_d4e168a1051" key="Frankreich">France</term>
                </index> pour raison de mond. mariage, car james n’y ai voulu entendre sans le consentement desd. Anglois, et jusques ilz ont eu fait led. appoinctement et longuement après ai riens conclud.</p>
             <p>J’ai aussi trouvé tres bon vostre advis sur les moyens de paix, et à moi n’a tenu ni tiendra qu’elle ne se face bonne et universelle. Et afin que soyez mieulx acertené de toutes choses et du progrez que en ce s’est fait jusques à ores, je vous envoie la copie de ce qu’est passé, quant à lad. <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">paix</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">paix</term>
                </index>, par où verrez que me suis mis en tout devoir et que les <index resp="Abel_Laura">
                   <term xml:id="index_d4e168a1051" key="Frankreich">François</term>
                </index> n’ont james voulu entendre à raison.</p>
@@ -198,7 +198,7 @@
                </index>, comme vous m’escripvez et desia vous ai adverti.</p>
             <p>Quant à vostre affaire de <index resp="Abel_Laura">
                   <term xml:id="index_d65e407a1051" key="Burgund">Bourgogne</term>
-               </index>, <persName xml:id="person_d149e282a1050"
+               </index>, <persName xml:id="person_d149e284a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Longepierre, Christophe de Longwy, Herr von">le s<hi rendition="#sup">r</hi> de Longepierre</persName> est ici avec ung homme de longue robe, actendant et sollicetant son despeche, et incontinent que voz commis sont arrivéz, y entendrons le mieulx et plustost, que possible sera.</p>
@@ -221,11 +221,11 @@
                          key="Córdoba, Pedro de">Pedro do Cordova</persName> est allé en poste à <placeName xml:id="place_d162e304a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Baena">Baenna</placeName> de mon sceu et licence pour entendre à ses affaires. Il sera ici retour dedans 10 jours, et lors le depecherai pour retourner devers vous, et par lui vous escriprai plus au longe. Et semblablement vous depescherai bientost led. <persName xml:id="person_d155e117a1050"
+                          key="Baena">Baenna</placeName> de mon sceu et licence pour entendre à ses affaires. Il sera ici retour dedans 10 jours, et lors le depecherai pour retourner devers vous, et par lui vous escriprai plus au longe. Et semblablement vous depescherai bientost led. <persName xml:id="person_d155e124a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Montfort, Nicolas de">Nicolas de Montfort</persName>, lequel a fait tres bien son devoir en sa charge. Mon bon frere, nostre seigneur vous ait en sa saincte garde.</p>
-            <p>Escript en ma cité de <placeName xml:id="place_d140e752a1050"
+            <p>Escript en ma cité de <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, le derriere jour d’octobre 25.</p>
@@ -235,7 +235,7 @@
             <p>a) <hi rendition="#i">Car — possible</hi> in W Zusatz von der Hand <persName xml:id="person_d32e93a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Gattinara">Gattinaras</persName>. b) donner W.</p>
+                         key="Gattinara">Gattinaras</persName>. b) <hi rendition="#i">donner</hi> W.</p>
             <p>c) <hi rendition="#i">Et — dilater l’affere</hi> in W von der Hand Gattinaras.</p>
             <p>Die Forderungen, die F den kaiserlichen Gesandten in der venezianischen Sache auftrug, scheinen in folgenden vier Hauptpunkten zu gipfeln: Auszahlung des noch ausstehenden Geldes, Feststellung der strittigen Grenzen und Gerichtsbarkeiten und Restitution der den Rebellen konfiszierten Güter. Sanuto 39, 468f. Doch hatte man keine große Hoffnung, damit durchzudringen, <persName xml:id="person_d21e421a1050"
                          ref="nognd"
@@ -243,7 +243,7 @@
                          key="Cles">Cles</persName> wenigstens schreibt am 26. September aus <placeName xml:id="place_d32e255a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Trient">Trient</placeName> an <persName xml:id="person_d28e170a1050"
+                          key="Trient">Trient</placeName> an <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">Salamanca</persName>: <hi rendition="#i">at quod scribit Dom</hi>
@@ -262,11 +262,11 @@
             <p>Über den damaligen Stand der Konzilsfrage vgl. Concilium Tridentinum (Soc. Goerresiana) 4, S. 23.</p>
             <p>Vgl. Nr. A145 [13].</p>
             <p>d) November 11.</p>
-            <p>Der nach Augsburg berufene RT, von dem hier die Rede ist, kam mangels genügender Beteiligung durch die Stände nicht zustande. Friedensburg, Der Reichstag zu Speier, S. 40.	</p>
+            <p>Der nach Augsburg berufene RT, von dem hier die Rede ist, kam mangels genügender Beteiligung durch die Stände nicht zustande. Friedensburg, Der Reichstag zu Speier, S. 40.</p>
             <p>Die Ratifikation des Ehevertrages durch K erfolgte am 24. Oktober, die durch König <persName xml:id="person_d29e404a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Johann III. von Portugal">Johann von Portugal</persName> am 8. November. Die Dispens von seiten des <persName xml:id="person_d53e635a1050"
+                         key="Johann III. von Portugal">Johann von Portugal</persName> am 8. November. Die Dispens von seiten des <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">Papstes</persName> datiert vom 13. November. Die betreffenden Urkunden darüber in Wien, St.-A. Fam.-Arch. Kopp. Vgl. Gayangos 3, 1, S. 461 f. — Tatsächlich zog K erst am 10. März 1526 in Sevilla ein. An diesem Tage fand auch die Vermählung statt. Baumgarten 2, S. 478.</p>

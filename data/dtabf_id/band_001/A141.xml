@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:07Z</date>
+               <date>2022-11-12T10:05:26Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -103,7 +103,7 @@
          </div>
          <div n="4"><!-- archive_desc -->
             <p>(W) Wien, St.-A. Belgica PA. 5. Konzept mit zahlreichen Verbesserungen. — Grundlage für den folgenden Abdruck.</p>
-            <p>(W<hi rendition="#sup">l</hi>) Ebenda Hs. B. 595 I, Bl. 7. Kopie.</p>
+            <p>(W<hi rendition="#sup">1</hi>) Ebenda Hs. B. 595 I, Bl. 7. Kopie.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 141, S. 301-302.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -115,13 +115,13 @@
                          key="Salinas">Salinas</persName> m’a dit de vostre part en vertu de vostre instruction qui contient beaucop de bonnes choses. Et pour ce que à la plus part d’icelles je ne vous puis resolutement respondre que premiers <persName xml:id="person_d49e141a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Croÿ, Adrien de">Beaurain</persName> ne soit de retour vers moi, à ceste cause je differé encoires, esperant que led. Beaurain ne tiendera gueres dont vous advertiz voluntiers par ce courrier que depesche en <index resp="Abel_Laura">
+                         key="Croÿ, Adrien de">Beaurain</persName> ne soit de retour vers moi, à ceste cause je differe encoires, esperant que led. Beaurain ne tiendera gueres dont vous advertiz voluntiers par ce courrier que depesche en <index resp="Abel_Laura">
                   <term xml:id="index_d32e144a1051" key="Italien">Ytalie</term>
                </index>.</p>
             <p>A cest effect et pour leur dire que neantmoins faiz diligences en mes apprestes dont vous ai escript et ferez bien de faire le semblable de vostre part, car vous aurez de mes nouvelles au plus tost que sera possible.</p>
             <p>Et quant au surplus de ce qu’est affaire pour maintenant au fait des <index resp="Abel_Laura">
                   <term xml:id="index_d21e283a1051" key="Venedig">Venissiens</term>
-               </index>, vous entendrez; par led. <persName xml:id="person_d24e101a1050"
+               </index>, vous entendrez par led. <persName xml:id="person_d24e101a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salinas">Salinas</persName>, ce que j’ai ordonné par-ci-devant et encoires presentement d’en escripre et non seullement en cela, mais en tous aultres affaires ferai pour vous comme pour moi propre, vous merciant de rechief la grande assistance que m’avez fait que a esté cause de la belle victoire que dieu nous a donné dont j’aurai à james bonne souvenance.</p>
@@ -129,7 +129,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salm, Niklas, Graf">conte de Salme</persName>, je le traicterai comme le me requerez, et sur ce ferai fin à ma lettre, priant dieu qu’il vous doint, mon bon frere, ce que plus desirez.</p>
-            <p>De <placeName xml:id="place_d140e752a1050"
+            <p>De <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo</placeName>, ce 6<hi rendition="#sup">e</hi> de mai a<hi rendition="#sup">o</hi> 1525.</p>

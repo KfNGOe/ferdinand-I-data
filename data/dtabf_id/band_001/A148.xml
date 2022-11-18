@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:44Z</date>
+               <date>2022-11-12T10:06:08Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,11 @@
             <p>Asks F to send commissioners to Ödenburg in order to resolve the disputes between the Hungarian and Austrian subjects.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Österr. Akten (Niederösterreich). 2. Original.</p>
+            <p>Wien, St.-A. Österr. Akten (Niederösterreich). 2. Original. Rückwärts Adresse<hi rendition="#i">: Ser</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i"> principi Ferdinando, principi Hispaniarum, archiduci Austriae, duci Burgundiae ac sacri Romani imperii vicario etc., fratri et sororio nostro car</hi>
+               <hi rendition="#i #sup">mo</hi>
+               <hi rendition="#i">.</hi> F beantwortete diesen Brief in Nr. A155.</p>
             <p>Druck: J. Lampel, Hundert Jahre aus der Geschichte von Scharfeneck usw. Blätter des Vereines für Landeskunde von Niederösterreich. N. F. 34. (1900), S. 117—118.  Familienkorrespondenz Bd. 1, Nr. 148, S. 320-322.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -119,7 +123,7 @@
                </index>, infanti <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d8e144a1051" key="Spanien">Hispaniarum</term>
                </index>, duci <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d34e264a1051" key="Burgund, Herzogtum">Burgundiae </term>
+                  <term xml:id="index_d34e259a1051" key="Burgund, Herzogtum">Burgundiae </term>
                </index>ac <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d15e122a1051" key="HRR">sacri Romani imperii</term>
                </index> vicario etc., salutem ac fraterni amoris perpetuum incrementum. Cum temporibus superioribus per subditos nostros continuis supplicationibus solicitaremur, ut differentias illas et controversias, quae inter eosdem nostros et Ser<hi rendition="#sup">tis</hi> V<hi rendition="#sup">rae</hi> subditos, quae partim ob acceptas et illatas iniurias et damna, partim finium et metarum provintiarum utriusque nostrum ortae essent, componeremus Ser<hi rendition="#sup">ti</hi> V<hi rendition="#sup">rae</hi>, ut memor esse poterit, in Nova sua Civitate Australi de his rebus locuti fuimus et ita inter nos convenerat, ut ad diem certum Ser<hi rendition="#sup">tas</hi> V<hi rendition="#sup">ra</hi> suos, nos vero nostros commissarios speciales cum plena facultate <placeName xml:id="place_d43e89a1050"
@@ -133,13 +137,6 @@
             <p>Ludovicus<hi rendition="#sup">a</hi>) rex manu propria.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">Ser</hi>
-               <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i"> principi Ferdinando, principi Hispaniarum, archiduci Austriae, duci Burgundiae ac sacri Romani imperii vicario etc., fratri et sororio nostro car</hi>
-               <hi rendition="#i #sup">mo</hi>
-               <hi rendition="#i">.</hi>
-            </p>
-            <p>F beantwortete diesen Brief in Nr. A155.</p>
             <p>November 11.</p>
             <p>Oktober 18.</p>
             <p>a) von <hi rendition="#i">Ludovicus</hi> an eigenhändig.</p>

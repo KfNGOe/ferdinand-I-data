@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">A160.</title>
-            <title type="sub">Ferdinand an Maria, 1525 November 6, TübingenO: Tübingen.</title>
+            <title type="sub">Ferdinand an Maria, 1525 November 6, Tübingen.</title>
             <author>
                <persName ref="nognd">Ferdinand</persName>
             </author>
@@ -54,7 +54,7 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="nognd">Ferdinand</persName>
-               <placeName ref="nognd">TübingenO: Tübingen</placeName>
+               <placeName ref="nognd">Tübingen</placeName>
                <date>1525 November 6</date>
             </correspAction>
             <correspAction type="received">
@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:06:47Z</date>
+               <date>2022-11-12T10:07:18Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -123,6 +123,12 @@
                <hi rendition="#i"> principi domine Marie, Hungarie et Bohemio etc. regine, marchionisse Moravie etc. sorori nostre char</hi>
                <hi rendition="#i #sup">me</hi>. Siegel abgefallen.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 160, S. 343.</p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d151e265a1050"
+                          ref="nognd"
+                          resp="Christopher_F._Laferl"
+                          key="Tübingen">Tübingen</placeName>. </p>
          </div>
       </body>
    </text>

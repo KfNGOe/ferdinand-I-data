@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:04:46Z</date>
+               <date>2022-11-12T10:05:01Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -96,7 +96,7 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>1. Beförderung von Briefen de Bredams an F. 2. Bündnis des Papstes mit K, F, England usw. 3. Verhandlungen mit England.</p>
+            <p>1. Beförderung von Briefen de Bredams an F. 2. Bündnis des Papstes mit K, F, England usw. 3. Verhandlungen mit England.</p>
          </div>
          <div n="3" xml:lang="en"><!-- regest_en -->
             <p>1. Transmission of Bredam's letters to F. 2. The Pope's alliance with K, F, England etc. 3. Negotiations with England.</p>
@@ -104,7 +104,7 @@
          <div n="4"><!-- archive_desc -->
             <p>Brüssel, Archives Générales. Papiers de lʼÉtat et de lʼAudience 1293 (Diètes et Diétines 2), Bl. 81. Konzept. An der Seite vermerkt: <hi rendition="#i">A mons</hi>
                <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">archiduc, mon bon nepveu, infant de Castille.</hi>
+               <hi rendition="#i"> archiduc, mon bon nepveu, infant de Castille.</hi>
             </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 137, S. 293-294.</p>
          </div>
@@ -120,7 +120,7 @@
                </index>. Je tiens que led. s<hi rendition="#sup">r</hi> de Bredam vous escript de la <index resp="Christopher_F._Laferl">
                   <term xml:id="index_d92e182a1051" key="Gesundheit/Krankheit, K">bonne disposition </term>
                </index>de l’empereur dont je loe dieu<hi rendition="#sup">b</hi>) de qu’il vous avertira bref de la<hi rendition="#sup">c</hi>) resolution qu’il aura prins en ses affaires pour l’avenir.</p>
-            <p>J’entends que nostre <persName xml:id="person_d53e635a1050"
+            <p>J’entends que nostre <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">saint pere</persName> ait conclu quelque lighe deffensive et offensive par l’<index resp="Abel_Laura">
@@ -128,7 +128,7 @@
                </index> avec sa m<hi rendition="#sup">te</hi>, le <persName xml:id="person_d35e129a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Heinrich VIII.">roi d’Angleterre</persName>, vous et Ytalie et que messier <persName xml:id="person_d141e156a1050"
+                         key="Heinrich VIII.">roi d’Angleterre</persName>, vous et Ytalie et que messier <persName xml:id="person_d141e155a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Gattinara, Gian Bartolomeo">Jehan Barthelome</persName> aille vers l’empereur pour lui avertir.</p>
@@ -140,7 +140,7 @@
                <hi rendition="#sup">d</hi>) et mons<hi rendition="#sup">r</hi> le legat d’<index resp="Christopher_F._Laferl">
                   <term xml:id="index_d26e104a1051" key="England">Angleterre</term>
                </index> ont pressé mon ambassadeur de capituler sur la descente de roi et de son armée, affin que de ces pays l’on leur furnist 3000 hommes et chevaulx et autant de pie, ce que j’ai ordonné<hi rendition="#sup">e</hi>) aux nostres remettre a l’empereur et pour ceste affaire et autres a le roi envoyer vers lui. Je vous adviserai de ce que me surviendra, je vous prie du semblable et atant, mons<hi rendition="#sup">r</hi>, mon bon nepveu, prie à nostre seigneur vous donner sa sainte grace.</p>
-            <p>Escript à <placeName xml:id="place_d53e288a1050"
+            <p>Escript à <placeName xml:id="place_d53e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Mechelen/Malines">Malines</placeName>, le 21<hi rendition="#sup">e</hi> jour d’avril l’an 25 après pasques.</p>
@@ -149,7 +149,7 @@
             <p>a) gestrichen <hi rendition="#i">lequel de voie je fai.</hi> - b) gestrichen <hi rendition="#i">je tiens</hi>. - c) gestrichen <hi rendition="#i">sa.</hi>
             </p>
             <p>Über die Abreise von de Bredam s. Nr. A120 [8].</p>
-            <p>Gian Bartolomeo Gattinara, ein Neffe <persName xml:id="person_d141e206a1050"
+            <p>Gian Bartolomeo Gattinara, ein Neffe <persName xml:id="person_d141e205a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Gattinara ">Mercurinos</persName>, reiste aller Wahrscheinlichkeit nach am 2. April von Rom mit den Artikeln des Vertrages ab. Pastor 4, 2, S. 193, Anm. 4. Am 11. April langte er in <placeName xml:id="place_d21e556a1050"
@@ -160,11 +160,11 @@
                </index> über <index resp="Abel_Laura">
                   <term xml:id="index_d4e168a1051" key="Frankreich">Frankreich</term>
                </index>. Gayangos 1, S. 137.</p>
-            <p>d) Lesung unsicher. - e) gestrichen <hi rendition="#i">tait oidonner</hi>.</p>
-            <p>Die Gesandten Mg’s in England waren <persName xml:id="person_d141e227a1050"
+            <p>d) Lesung unsicher. - e) gestrichen <hi rendition="#i">fait ordonner</hi>.</p>
+            <p>Die Gesandten Mg’s in England waren <persName xml:id="person_d141e226a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Bourgogne, Adolf de, Gesandter Mg’s in England">Adolf de Bourgogne</persName> und <persName xml:id="person_d141e230a1050"
+                         key="Bourgogne, Adolf de, Gesandter Mg’s in England">Adolf de Bourgogne</persName> und <persName xml:id="person_d141e229a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Laurens, J., Gesandter Mg’s in England">J. Laurens</persName>. Vgl. über diese Verhandlungen ihre Berichte. Gayangos 1, S. 127 ff.</p>

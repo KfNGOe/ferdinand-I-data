@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:08:02Z</date>
+               <date>2022-11-12T10:08:44Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,18 +102,21 @@
             <p>1. Asks C to come to Germany soon. 2. Commends the Bishop of Trent and Count Salm.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA 7. Original, durchwegs von F’s eigener Hand.</p>
+            <p>Wien, St.-A. Belgica PA 7. Original, durchwegs von F’s eigener Hand. Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 175, S. 359-364.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi>, sy humblement que fair puis à vostre bonne grace me recomende. Mons<hi rendition="#sup">r</hi>, je n’en dupte point que ne soies bien adverti de l’estat d’<index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland">Alemaine</term>
+                  <term xml:id="index_d10e110a1051" key="Deutschland">Alemaine</term>
                </index> et aussy de ceste mauldite secte <index resp="Abel_Laura">
                   <term xml:id="index_d29e217a1051" key="Lutheraner">Luteriene</term>
-               </index> qu’est sy mulveis que je ne le vous saroye escripre. Parquoy j’ay comendé le <persName xml:id="person_d28e170a1050"
+               </index> qu’est sy mulveis que je ne le vous saroye escripre. Parquoy j’ay comendé le <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Salamanca">conte de Ortemburg </persName>qu’il vous veulle informer, vous supliant, mons<hi rendition="#sup">r</hi>, y vouloir pourveoir avecques vostre brieve venue de pardesa, car je ne voy point d’aultre remede et sans cela je crains que tout yra en ruyne et perdision. Parquoy vous suplie vouloir pourveoir et mestre remede à un si maulves ereur<hi rendition="#sup">a</hi>) et eresie. En quoy faisant, faires grant<hi rendition="#sup">b</hi>) et tres agreable service à dieu, y gar- deres vostre consiance, honeur et reputation, vous supliant, mons<hi rendition="#sup">r</hi>, come desus vouloir pourveoir et aussy perdoner mon audace, car ce que je fais je le fais pour le service de dieu et pour vostre honeur et réputation et ma descharge.</p>
+                         key="Salamanca">conte de Ortemburg </persName>qu’il vous veulle informer, vous supliant, mons<hi rendition="#sup">r</hi>, y vouloir pourveoir avecques vostre brieve venue de pardesa, car je ne voy point d’aultre remede et sans cela je crains que tout yra en ruyne et perdision. Parquoy vous suplie vouloir pourveoir et mestre remede à un si maulves ereur<hi rendition="#sup">a</hi>) et eresie. En quoy faisant, faires grant<hi rendition="#sup">b</hi>) et tres agreable service à dieu, y gar- deres vostre consiance, honeur et reputation, vous supliant, mons<hi rendition="#sup">r</hi>, come desus vouloir pourveoir et aussy perdoner mon audace, car ce que je fais je le fais pour le service de dieu et pour vostre honeur et reputation et ma descharge.</p>
             <p>Mons<hi rendition="#sup">r</hi>, je vous ay escript aultres fois en faveur de <persName xml:id="person_d21e421a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -125,28 +128,24 @@
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Augsburg">Auspurg</placeName>, ce 13<hi rendition="#sup">e</hi> de janvier l’an 1526.</p>
-            <p>Vostre tres humble et tres obeisant frere</p>
-            <p>Ferdinandus.</p>
+            <p>Vostre tres humble et tres obeisant frere Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>Der wichtigste Zweck, den die Absendung Gabriel Salamancas verfolgte, der aber in den offiziellen Beglaubigungsschreiben nirgends genannt wird, war die Gewinnung des Kaisers für die Absichten F’s auf <index resp="Abel_Laura">
                   <term xml:id="index_d24e550a1051" key="Mailand">Mailand</term>
-               </index>. Diese Absichten reichen ziemlich weit zurück, sie gehen vielleicht bis 1517, da man F zum Herrscher eines „Königreiches <index resp="Abel_Laura">
-                  <term xml:id="index_d32e144a1051" key="Italien">Italien</term>
+               </index>. Diese Absichten reichen ziemlich weit zurück, sie gehen vielleicht bis 1517, da man F zum Herrscher eines „<hi rendition="#i">Königreiches </hi>
+               <index resp="Abel_Laura">
+                  <term xml:id="index_d32e144a1051" key="Italien"/>
                </index>“ machen wollte, wovon „<index resp="Abel_Laura">
-                  <term xml:id="index_d70e171a1051" key="Lombardei">Lombardien</term>
+                  <term xml:id="index_d70e171a1051" key="Lombardei"/>
                </index>“ freilich zugunsten <index resp="Abel_Laura">
                   <term xml:id="index_d4e168a1051" key="Frankreich">Frankreichs </term>
-               </index>ausgeschieden war. Immerhin mochte die Erinnerung daran für die künftige Politik F’s in gewissem Sinne richtunggebend gewesen sein. Im Jahre 1524 taucht der Plan betreffs Mailands zum ersten Mal in bestimmter Form auf. In der Instruktion F’s für Karl de Bredam Nr. A76 [35 ff] wird dessen ausführlich Erwähnung getan. Dort wünscht er, der Kaiser möge den Hg. <persName xml:id="person_d24e555a1050"
+               </index>ausgeschieden war. Immerhin mochte die Erinnerung daran für die künftige Politik F’s in gewissem Sinne richtunggebend gewesen sein. Im Jahre 1524 taucht der Plan betreffs Mailands zum ersten Mal in bestimmter Form auf. In der Instruktion F’s für Karl de Bredam Nr. A76 [35 ff.] wird dessen ausführlich Erwähnung getan. Dort wünscht er, der Kaiser möge den Hg. <persName xml:id="person_d24e555a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Francesco II.">Franz Sforza</persName> von seiner Herrschaft entfernen und ihm dafür eine Entschädigung zahlen. Diese Instruktion erörtert auch im Folgenden viel mehr die politischen Umstände und Folgen als die Form der Verleihung. Nur ganz nebenbei wird davon gesprochen, daß K den EHg. mit dem Herzogtume Mailand belehnen solle.</p>
             <p>Erst jetzt aber rückt F mit seinen Wünschen deutlicher hervor. Er will das Herzogtum von K für sich, seine Erben und Nachfolger als Lehen übertragen haben, und zwar so, daß es sich in der männlichen Linie forterbe. Stürbe diese aus, sollte es an die Erben und Nachfolger des Kaisers fallen. Die nachfolgende Vollmacht F’s für Gabriel de Salamanca, Gfen von Ortenburg (Wien, St.-A. Reichsreg. Ferdinands I., Bd. 1, Bl. 45’—46’), mit der Überschrift: <hi rendition="#i">Mandatum plenissimum pro </hi>
-               <persName xml:id="person_d28e170a1050"
+               <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Salamanca">
@@ -182,7 +181,7 @@
                <hi rendition="#i">ẹ</hi>
                <hi rendition="#i"> maiestatis heredibus et successoribus pro tempore existentibus concederet, elargiretur et conferret in feudum </hi>
                <hi rendition="#i">cum omnibus suis dominiis, terris, locis et iurisdictionibus ab eo dependentibus et illi annexis, sicut illum olim </hi>
-               <persName xml:id="person_d179e258a1050"
+               <persName xml:id="person_d179e256a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludovico Sforza, Herzog von Mailand">
@@ -227,9 +226,7 @@
                <index resp="Hofer-Bindeus_Johannes">
                   <term xml:id="index_d24e293a1051" key="Neapel"/>
                </index>
-               <hi rendition="#i">, atque nos, ut ducem Mediolani, pro inaiestatis suẹ et nostris heredibus et successoribus in perpetuum pro mutua defensione, manutentione et securitate in iamdictis regno et ducatu una certa, firma et solida intelligentia et confẹderado constitueretur et fieret, qua stante in necessitatibus ingruentibus alter alteri opem, auxilium et vires suas pro defendendis regnis, principatibus, dominiis, locis et rebus in Italia, qualitercunque invasi vel invadendi a quocunque etiam hoste afferre et prẹstare posset; duximus opere prẹtium praefato comiti Gabrieli in huiusmodi accessoria tractatione sicut in principali pro nostra in eum singulari fiducia et eius legalitate et rerum agendarum prudentia omni dexteritati et integritati coniuncta, sicut compertum habemus ex multis eximie bonis operibus, quẹ in rebus nostris tractandis fidelissime praestitit et in futurum praestare poterit et debebit, omnimodam pariter nostram et amplam facultatem, potestatem, mandatum atque auctoritatem tradendam et concedendam esse, sicut motu proprio, animo deliberato et ex certa scientia iamdicto comiti Gabrieli huiusmodi facultatem, potestatem, mandatum et auctoritatem tradimus et concedimus. Ita quod petito, impetrato et obtento pro nobis iuxta tenorem prioris mandati nostri pr</hi>
-               <hi rendition="#i">e</hi>
-               <hi rendition="#i">dicto ducatu et statu Mediolani cum pertinenciis et iurisdictionibus suis apud ipsam cesaream m</hi>
+               <hi rendition="#i">, atque nos, ut ducem Mediolani, pro inaiestatis suẹ et nostris heredibus et successoribus in perpetuum pro mutua defensione, manutentione et securitate in iamdictis regno et ducatu una certa, firma et solida intelligentia et confẹderatio constitueretur et fieret, qua stante in necessitatibus ingruentibus alter alteri opem, auxilium et vires suas pro defendendis regnis, principatibus, dominiis, locis et rebus in Italia, qualitercunque invasi vel invadendi a quocunque etiam hoste afferre et prẹstare posset; duximus opere prẹtium praefato comiti Gabrieli in huiusmodi accessoria tractatione sicut in principali pro nostra in eum singulari fiducia et eius legalitate et rerum agendarum prudentia omni dexteritati et integritati coniuncta, sicut compertum habemus ex multis eximie bonis operibus, quẹ in rebus nostris tractandis fidelissime praestitit et in futurum praestare poterit et debebit, omnimodam pariter nostram et amplam facultatem, potestatem, mandatum atque auctoritatem tradendam et concedendam esse, sicut motu proprio, animo deliberato et ex certa scientia iamdicto comiti Gabrieli huiusmodi facultatem, potestatem, mandatum et auctoritatem tradimus et concedimus. Ita quod petito, impetrato et obtento pro nobis iuxta tenorem prioris mandati nostri prẹdicto ducatu et statu Mediolani cum pertinenciis et iurisdictionibus suis apud ipsam cesaream m</hi>
                <hi rendition="#i #sup">tem</hi>
                <hi rendition="#i"> et cum ea nostro nomine, loco et vice proponere, interloqui tractare, pacisci, percutere, concludere et facere dictam mutuam inter eam, ut regem Neapolis, et nos, ut ducem Mediolani, pro nobis ac heredibus et successoribus, ut premissum est, tam m</hi>
                <hi rendition="#i #sup">tis</hi>
@@ -246,7 +243,7 @@
                </index> nahezu unmöglich gemacht hätten. Ohne also den Ständen formell nachzugeben, hatte man einen passenden Vorwand gefunden, den Schatzmeistergeneral durch einen ehrenvollen Auftrag zu entfernen. — Am 13. Jänner 1526 schrieb Salamanca in Augsburg seine Abschiedsbriefe. Beim <persName xml:id="person_d76e144a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Philipp von Baden">Mkgfen Philipp von Baden</persName> bedankte er sich, daß dieser ihm seine Dienste anläßlich des Zerwürfnisses mit den Erblanden angeboten hatte. Seinem Schwager, dem Gfen Salm, dem Älteren, zeigte er seine Abreise nach Spanien im Dienste F s an und die Bereitwilligkeit, ihm gewisse Dienste dort zu tun (HK-A, Hoffinanz. Niederösterreich, Fasz. 16666). Am gleichen Tage gab F übrigens der niederösterreichischen und oberösterreichischen Raitkammer die Enthebung Salamancas vom Schatzmeisteramte kund und daß er ihn zum Superintendenten des Kammergutes ernannt habe. Während Salamancas Abwesenheit in Spanien sei B. Bernhard von Trient beauftragt, die das Kammergut betreffenden Schreiben zu unterzeichnen (ebenda).</p>
+                         key="Philipp von Baden">Mkgfen Philipp von Baden</persName> bedankte er sich, daß dieser ihm seine Dienste anläßlich des Zerwürfnisses mit den Erblanden angeboten hatte. Seinem Schwager, dem Gfen Salm, dem Älteren, zeigte er seine Abreise nach Spanien im Dienste F’s an und die Bereitwilligkeit, ihm gewisse Dienste dort zu tun (HK-A, Hoffinanz. Niederösterreich, Fasz. 16666). Am gleichen Tage gab F übrigens der niederösterreichischen und oberösterreichischen Ratskammer die Enthebung Salamancas vom Schatzmeisteramte kund und daß er ihn zum Superintendenten des Kammergutes ernannt habe. Während Salamancas Abwesenheit in Spanien sei B. Bernhard von Trient beauftragt, die das Kammergut betreffenden Schreiben zu unterzeichnen (ebenda).</p>
             <p>Die Sendung Salamancas nach <index resp="Abel_Laura">
                   <term xml:id="index_d8e144a1051" key="Spanien">Spanien</term>
                </index> machte ziemlich starkes Aufsehen. Schon die Nachricht, der EHg lasse eine Post von Mailand nach <placeName xml:id="place_d32e255a1050"
@@ -260,10 +257,10 @@
                </index>, die Hauptmacht und die Artillerie aber über <placeName xml:id="place_d32e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Friaul">Friau</placeName>l ins Mailändische rücken müßte (ebenda 726). Am 4. Februar kommt dann aus <placeName xml:id="place_d140e752a1050"
+                          key="Friaul">Friau</placeName>l ins Mailändische rücken müßte (ebenda 726). Am 4. Februar kommt dann aus <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Toledo">Toledo</placeName> die Nachricht: <hi rendition="#i">il Salamanca vien a la corte di qui mandato da 1’archiduca in posta per rechieder a questa maestà Milan, zoè il stado dil ducha, over che lo tegnirà lui a nome di cesare; ma lo voleno dar a Barbon</hi> (ebenda 858). — Am 11. Februar erfolgte die feierliche Belehnung des Hgs <persName xml:id="person_d51e97a1050"
+                          key="Toledo">Toledo</placeName> die Nachricht: <hi rendition="#i">il Salamanca vien a la corte di qui mandato da l’archiduca in posta per rechieder a questa maestà Milan, zoè il stado dil ducha, over che lo tegnirà lui a nome di cesare; ma lo voleno dar a Barbon</hi> (ebenda 858). — Am 11. Februar erfolgte die feierliche Belehnung des Hgs <persName xml:id="person_d51e97a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bourbon">Karl von Bourbon</persName> mit Mailand.</p>

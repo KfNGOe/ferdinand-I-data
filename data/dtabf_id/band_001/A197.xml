@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">* A197.</title>
+            <title type="main">*A197.</title>
             <title type="sub">Karl an Ferdinand, .</title>
             <author>
                <persName ref="nognd">Karl</persName>
@@ -71,8 +71,8 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:09:53Z</date>
-               <name ref="nognd">Pitzer Doris</name>
+               <date>2022-11-12T10:10:51Z</date>
+               <name ref="nognd">Christopher F. Laferl</name>
             </change>
          </listChange>
       </revisionDesc>
@@ -81,7 +81,7 @@
       <body>
          <div n="1"><!-- letter_header -->
             <p>
-               <hi rendition="#b">* A197.</hi>
+               <hi rendition="#b">*A197.</hi>
             </p>
             <table rend="rules">
                <row>
@@ -93,12 +93,10 @@
                   </cell>
                </row>
             </table>
-            <p>
-               <hi rendition="#i">Vgl. Nr. A199.</hi>
-            </p>
-            <p>
-               <hi rendition="#i">See no. A199.</hi>
-            </p>
+         </div>
+         <div n="6"><!-- commentary -->
+            <p>Vgl. Nr. A199.</p>
+            <p>See no. A199.</p>
          </div>
       </body>
    </text>

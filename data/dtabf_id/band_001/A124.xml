@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:03:39Z</date>
+               <date>2022-11-12T10:03:43Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,15 +102,15 @@
             <p>1. Has received K's letter dated December 16, along with the report on the Archbishop of Capua. The Pope has sided with the enemy. 2. Good news from Italy. Praises the Viceroy of Naples. 3. Unable to personally come to Italy or Burgundy. 4. Asks for Bredam to be dispatched soon with a favorable decision. 5. Meneses. 6. Recommends offering the Muscovite delegates a warm welcome, particularly so as to prevent the French-Polish marriage alliance. 7. Margrave Philipp of Baden has accepted the stadtholder position in the empire. 8. Information regarding Hannart. Also refers to Michael Gilles in the matter. 9. K shall send one of the persons listed to the Prince Elector of Saxony.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Original. Unter der Unterschrift vermerkt: <hi rendition="#i">Dupl[icata].</hi>
-            </p>
+            <p>Wien, St.-A. Belgica PA. 7. Original. Unter der Unterschrift vermerkt: <hi rendition="#i">Dupl[icata]. </hi>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>. </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 124, S. 265-268.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>Mons<hi rendition="#sup">r</hi>, tres humblement à vostre bonne grace me recommande. Mons<hi rendition="#sup">r</hi>, j’ai receu vostre lettre du 16<hi rendition="#sup">e</hi> de decembre ensemble la copie du besongne de <persName xml:id="person_d72e157a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Schönberg, Nikolaus von">l’archevesque de Capua</persName> dont, mons<hi rendition="#sup">r</hi>, et de ce qu’il vous plaist me ainsi communicquer voz affaires vous mercie tres humblement. A l’arrivée dud. archevesque nostre <persName xml:id="person_d53e635a1050"
+                         key="Schönberg, Nikolaus von">l’archevesque de Capua</persName> dont, mons<hi rendition="#sup">r</hi>, et de ce qu’il vous plaist me ainsi communicquer voz affaires vous mercie tres humblement. A l’arrivée dud. archevesque nostre <persName xml:id="person_d53e641a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Klemens VII.">saint pere</persName> se accorda avec <index resp="Abel_Laura">
@@ -151,10 +151,10 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Meneses">Meneses</persName>, sur lesquelz vous supplie tres humblement vouloir pourveoir.</p>
-            <p>De l’ambassadeur de <placeName xml:id="place_d100e145a1050"
+            <p>De l’ambassadeur de <placeName xml:id="place_d100e152a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Moskau">Moscovye</placeName> dont dictes, mons<hi rendition="#sup">r</hi>, lui ferez faire tout honnorable traictement pardela que pourrez; je vous prie, mons<hi rendition="#sup">r</hi>, ainsi le vouloir faire, car le <persName xml:id="person_d100e148a1050"
+                          key="Moskau">Moscovye</placeName> dont dictes, mons<hi rendition="#sup">r</hi>, lui ferez faire tout honnorable traictement pardela que pourrez; je vous prie, mons<hi rendition="#sup">r</hi>, ainsi le vouloir faire, car le <persName xml:id="person_d100e155a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Wassili III. Iwanowitsch, Großfürst von Moskau">grant-maistre de Moscovye</persName>, son maistre, vous pourra bien servir, mesmes au destourbement du <index resp="Christopher_F._Laferl">
@@ -185,7 +185,7 @@
                          resp="Abel_Laura"
                          key="Gilles, Michael, Sekretär K‘s">Michiel Gilles</persName>, vostre secretaire, lequel, comme entens, dit avoir veu les instructions. Parquoi vous supplie l’en faire interroguer.</p>
             <p>Et quant au propos, où estes d’envoyer quelcun en <index resp="Abel_Laura">
-                  <term xml:id="index_d53e359a1051" key="Sachsen">Saxen</term>
+                  <term xml:id="index_d53e365a1051" key="Sachsen">Saxen</term>
                </index> et dont demandez, mons<hi rendition="#sup">r</hi>, mon advis qui vous y devries envoyer et aussi de ce que leur devez escripre et faire dire, il me semble, mons<hi rendition="#sup">r</hi>, que y devriez envoyer le <persName xml:id="person_d79e2270a1050"
                          ref="nognd"
                          resp="Abel_Laura"
@@ -207,8 +207,6 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l’empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>.</p>
             <p>Gemeint ist Nr. A117. Der Bericht über den EB. von Capua wurde nicht vorgefunden.</p>
             <p>K kündigte am 19. Dezember 1524 die Absendung von 200.000 Dukaten für das Heer in Italien an. Bergenroth 2, S. 684, Nr. 703.</p>
             <p>F hatte sich bekanntlich inzwischen entschieden, statt im Elsaß die Sache K's zu führen und die französischen Streitkräfte festzuhalten, nach <index resp="Abel_Laura">
@@ -218,10 +216,10 @@
             <p>Alonso González de Meneses kam am 20. März in Madrid am Kaiserhofe an.</p>
             <p>Die Trennung des Kgs von Polen von seinen franzosenfreundlichen Plänen scheint K auch dadurch versucht zu haben, daß er dem Kg. nun endlich die längst versprochenen Insignien des <index resp="Abel_Laura">
                   <term xml:id="index_d86e235a1051" key="Goldenes Vließ, Orden">Goldenen Vlieses</term>
-               </index> übersenden ließ. Eine amtliche Zuschrift K’s an Mg und den Rat vom 28. Februar (Madrid) setzt diese davon in Kenntnis, daß er Herrn de Bredam und <persName xml:id="person_d128e356a1050"
+               </index> übersenden ließ. Eine amtliche Zuschrift K’s an Mg und den Rat vom 28. Februar (Madrid) setzt diese davon in Kenntnis, daß er Herrn de Bredam und <persName xml:id="person_d128e355a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Fusil, Gesandter K’s bei dem Kg von Polen">Fusil</persName>, <hi rendition="#i">porteur de ceste</hi>, an den Kg. von Polen schicke, „<hi rendition="#i">pour porter ... le collier de nostre ordre de la toison d’or</hi>“. Man möge beide mit Geld versehen, damit keine Verzögerung eintrete, denn die Übergabe hätte schon vor vier Jahren geschehen sollen. <hi rendition="#i">Ausurplus pour ce qu’il est bien convenable que led. Fuzil ait une bonne cotte de noz armes, nous escripvons à nostre bien amé toison d’or qu’il lui vueille delivrer la sienne meilleur et que vous la lui ferez payer selon qu’à vous estre de raison. </hi>Wien, St.-A. Belgica PA 17. Original. Die moskowitischen Gesandten kamen Mitte April nach Madrid, als K bereits in <placeName xml:id="place_d128e369a1050"
+                         key="Fusil, Gesandter K’s bei dem Kg von Polen">Fusil</persName>, <hi rendition="#i">porteur de ceste</hi>, an den Kg. von Polen schicke, „<hi rendition="#i">pour porter ... le collier de nostre ordre de la toison d’or</hi>“. Man möge beide mit Geld versehen, damit keine Verzögerung eintrete, denn die Übergabe hätte schon vor vier Jahren geschehen sollen. <hi rendition="#i">Ausurplus pour ce qu’il est bien convenable que led. Fuzil ait une bonne cotte de noz armes, nous escripvons à nostre bien amé toison d’or qu’il lui vueille delivrer la sienne meilleur et que vous la lui ferez payer selon qu’à vous estre de raison. </hi>Wien, St.-A. Belgica PA 17. Original. Die moskowitischen Gesandten kamen Mitte April nach Madrid, als K bereits in <placeName xml:id="place_d128e368a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Guadalupe">Guadalupe </placeName>war. Villa, S. 273.</p>

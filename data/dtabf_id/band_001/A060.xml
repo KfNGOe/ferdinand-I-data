@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T14:58:03Z</date>
+               <date>2022-11-12T09:57:14Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -115,7 +115,7 @@
                   <term xml:id="index_d63e109a1051" key="Burgund, Haus">maison de Bourgoinge</term>
                </index> et d’<index resp="Abel_Laura">
                   <term xml:id="index_d63e113a1051" key="Österreich, Haus">Austrice</term>
-               </index> deans le premier jour de mai prochainement venant, que sans faulte ilz romprent icelle et les traicter pour ce faiz. Dequoi vous ai, <persName xml:id="person_d10e128a1050"
+               </index> deans le premier jour de mai prochainement venant, que sans faulte ilz romprent icelle et les traicter pour ce faiz. Dequoi vous ai, <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>
@@ -140,7 +140,7 @@
                </index>, verpflichtet zu sein, zu dem Erbeinigungsgelde etwas beizusteuern. Auch <persName xml:id="person_d49e241a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Hannart">Hannart</persName> vertrat vor F und dessen Räten diesen Standpunkt. Mg beklagt sich deshalb in ihrem Briefe an K vom 4. April (aus <placeName xml:id="place_d53e288a1050"
+                         key="Hannart">Hannart</persName> vertrat vor F und dessen Räten diesen Standpunkt. Mg beklagt sich deshalb in ihrem Briefe an K vom 4. April (aus <placeName xml:id="place_d53e294a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Mechelen/Malines">Mecheln</placeName>) darüber und sagt von den Niederländern : <hi rendition="#i">ne feroient ilz à la pencion des Suisses et aussi, comme j’entens, n’y sont ilz tenus ne feust le </hi>
@@ -148,7 +148,7 @@
                   <term xml:id="index_d24e332a1051" key="Burgund, Freigrafschaft"/>
                </index>
                <hi rendition="#i"> à rate avec les pays d’Austrice. Ce que monsr, vostre frere, ne </hi>
-               <persName xml:id="person_d28e170a1050"
+               <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">

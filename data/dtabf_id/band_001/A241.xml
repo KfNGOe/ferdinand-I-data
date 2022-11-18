@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:13:40Z</date>
+               <date>2022-11-12T10:15:10Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,11 @@
             <p>1. Has received Mg's letter dated September 8. Turkish danger. Mg would support him and all of Christendom with the financial transaction discussed. 2. Thanks her for her news. 3. A treaty with France is most desirable at this time. 4. Jehan von Kasselt.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 61—62. Original. Rückwärts vermerkt: <hi rendition="#i">Presenté à Hoochfort le 9e d’octobre a° 26</hi>, weiter unten: <hi rendition="#i">en responce le 14 dud. mois</hi>.</p>
+            <p>Brüssel, Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 61—62. Original. Rückwärts <hi rendition="#i">Adresse: A m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i">, ma bonne tante, m</hi>
+               <hi rendition="#i #sup">me</hi>
+               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc. </hi>Rückwärts vermerkt: <hi rendition="#i">Presenté à Hoochfort le 9e d’octobre a° 26</hi>, weiter unten: <hi rendition="#i">en responce le 14 dud. mois</hi>. </p>
             <p>Druck: Abschnitt 1] und Datum. Hatvani, MHH. Dipl. 1, S. 44 f. Familienkorrespondenz Bd. 1, Nr. 241, S. 469-471.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -129,7 +133,7 @@
                          key="Franz I.">roi de France</persName> face plus que mauvais devoir à entretenir ce qu’il a promis et juré, si me semble il, puisque la querelle de <index resp="Abel_Laura">
                   <term xml:id="index_d65e407a1051" key="Burgund">Bourgoingne</term>
                </index> demeure en estre et au mesme estat comme devant, et comme j’entens qu’il est content satisfere à toute la reste du <index resp="Abel_Laura">
-                  <term xml:id="index_d125e645a1051" key="Madrid, Friede von (1526)">traictié de Madril</term>
+                  <term xml:id="index_d125e657a1051" key="Madrid, Friede von (1526)">traictié de Madril</term>
                </index>, et actendu aussi que non seullement noz pays patrimoniaulx, mais la reste de toute la <index resp="Abel_Laura">
                   <term xml:id="index_d35e111a1051" key="Christenheit">christienté</term>
                </index> sont en plus grant dangier de tumber à totalle ruine et desolacion que oncques ne furent, comme ne fais doubte, sans que l’on y pourvoie autrement, feront, l’on ne devroit ainsi laisser perdre le tout, y adjoinct l’honneur et reputacion, pour si petite chose au regard de ce que dessus, ains combien que l’on ne pourra du tout avoir appoinctement à son desir et ainsi que justice et raison requierent, avant que de mectre lad. chrestienté à tel scandale et dommaige irrecuparable trouver quelque bon moyen d’appoinctement, affin que les princes d’ung commung accord et vouloir puissent <index resp="Abel_Laura">
@@ -139,10 +143,10 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Süleyman I.">led. Turc</persName> et employer leurs forces à l’augmentacion de la chrestienté. Parquoi, m<hi rendition="#sup">me</hi>, vous supplie de vostre part tenir la main envers sad. m<hi rendition="#sup">te</hi> que paix à son plus grant honneur, prouffit et seurté que possible sera se puisse faire, car autrement sans aucune faulte ni voi autre moyen ni espoir que toute lad. chrestienté ne se parde entierement.</p>
-            <p>Quant à l’affaire de <persName xml:id="person_d195e120a1050"
+            <p>Quant à l’affaire de <persName xml:id="person_d195e134a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Kasselt, Jehan">Jehan van Kesselt</persName> de <placeName xml:id="place_d168e138a1050"
+                         key="Kasselt, Jehan">Jehan van Kesselt</persName> de <placeName xml:id="place_d168e137a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Maastricht">Maiestrich</placeName>, j’ai, m<hi rendition="#sup">me</hi>, en passant par <placeName xml:id="place_d68e245a1050"
@@ -160,12 +164,6 @@
             <p>Vostre<hi rendition="#sup">a</hi>) bon et humble nepveu Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts <hi rendition="#i">Adresse: A m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i">, ma bonne tante, m</hi>
-               <hi rendition="#i #sup">me</hi>
-               <hi rendition="#i"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi>
-            </p>
             <p>Gemeint ist Nr. A231. Auf diesen Brief beziehen sich auch die hier behandelten Fragen.</p>
             <p>a) von <hi rendition="#i">vostre</hi> an eigenhändig.</p>
          </div>

@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:05:55Z</date>
+               <date>2022-11-12T10:06:20Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -102,7 +102,10 @@
             <p>Accreditation for Don Pedro de Cordova. K's marriage.</p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Belgica PA. 7. Original, durchwegs eigenhändig von F geschrieben.</p>
+            <p>Wien, St.-A. Belgica PA. 7. Original, durchwegs eigenhändig von F geschrieben. Rückwärts Adresse: <hi rendition="#i">A l'empereur mons</hi>
+               <hi rendition="#i #sup">r</hi>
+               <hi rendition="#i">. </hi>
+            </p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 150, S. 326-327.</p>
          </div>
          <div type="letter" n="5"><!-- transcription -->
@@ -113,7 +116,7 @@
                   <term xml:id="index_d147e201a1051" key="Heirat, K mit Isabella von Portugal">mariaige</term>
                </index>, laquelle vous puis, mons<hi rendition="#sup">r</hi>, dire pour vray, qu’est tres bonne et me suis tres bien trouvé et espere que faires le semblable et poures à l’aide de dieu avoir bien tost des enfans, que seroit plus que besoing pour le bien de nous deux.</p>
             <p>Mons<hi rendition="#sup">r</hi>, je prie le createur vous donner bonne vie et longue et l’entier acomplicement de vos desirs.</p>
-            <p>De <placeName xml:id="place_d151e258a1050"
+            <p>De <placeName xml:id="place_d151e265a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Tübingen">Tibingen</placeName>, ce primier de septembre.</p>
@@ -121,12 +124,8 @@
             <p>Ferdinandus.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Rückwärts Adresse: <hi rendition="#i">A l'empereur mons</hi>
-               <hi rendition="#i #sup">r</hi>
-               <hi rendition="#i">.</hi>
-            </p>
             <p>a) <hi rendition="#i">sulement</hi> Original. - b) <hi rendition="#i">orde</hi> Original.</p>
-            <p>Don Pedro de Cordoba langte am 24. September am kaiserlichen Hofe zu <placeName xml:id="place_d140e752a1050"
+            <p>Don Pedro de Cordoba langte am 24. September am kaiserlichen Hofe zu <placeName xml:id="place_d140e756a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Toledo">Toledo </placeName>an. In seiner Audienz bei K kam nicht allein die Heiratssache zur Sprache, sondern auch der <index resp="Abel_Laura">

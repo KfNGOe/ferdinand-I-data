@@ -72,7 +72,7 @@
       <revisionDesc>
          <listChange>
             <change>
-               <date>2022-08-06T15:02:57Z</date>
+               <date>2022-11-12T10:02:55Z</date>
                <name ref="nognd">Pitzer Doris</name>
             </change>
          </listChange>
@@ -103,7 +103,7 @@
          </div>
          <div n="4"><!-- archive_desc -->
             <p>(W) Wien, St.-A. Belgica PA 5. Konzept. Daran schließen sich zwei Entwürfe zu Briefen an andere Persönlichkeiten. — Grundlage für den folgenden Abdruck.</p>
-            <p>(W<hi rendition="#sup">l</hi>) Ebenda. Hs. B. 595 I, Bl. 2-3. Kopie.</p>
+            <p>(W<hi rendition="#sup">1</hi>) Ebenda. Hs. B. 595 I, Bl. 2-3. Kopie.</p>
             <p>(B) Brüssel, Arch. gén. Pap. de l’État et de lʼAudience vol. 42, Bl. 34—36. Kopie s. XVIII.</p>
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 117, S. 245-248.</p>
          </div>
@@ -120,7 +120,7 @@
                </index>, comme je vous tiens tout averti. Et aussi <persName xml:id="person_d72e157a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Schönberg, Nikolaus von">l’archevesque de Capua</persName> est venu vers moi qui m’a empesché pour quelques jours. Vous sçavez, mon frere, que je ne veulx vous estre riens celé, et à ceste cause vous en voy e copie du besoingne avec led. archevesque de Capua. Et, si autre chose me survient, vous en advertirai tousjours, vous priant bien affectueusement que, puisque le <persName xml:id="person_d21e327a1050"
+                         key="Schönberg, Nikolaus von">l’archevesque de Capua</persName> est venu vers moi qui m’a empesché pour quelques jours. Vous sçavez, mon frere, que je ne veulx vous estre riens celé, et à ceste cause vous envoye copie du besoingne avec led. archevesque de Capua. Et, si autre chose me survient, vous en advertirai tousjours, vous priant bien affectueusement que, puisque le <persName xml:id="person_d21e327a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Franz I.">roi de France</persName>, nostre<hi rendition="#sup">a</hi>) ennemi, est en personne en Italie, que veullez faire quelque gros appareil<hi rendition="#sup">b</hi>) et monstre de guerre et vous mectre en la frontiere de <index resp="Abel_Laura">
@@ -134,23 +134,23 @@
                </index> de divertir leurs forces. Car vous sçavez que ceste matiere touche à mes royaulmes de <index resp="Abel_Laura">
                   <term xml:id="index_d24e293a1051" key="Neapel">Naples</term>
                </index> et <index resp="Abel_Laura">
-                  <term xml:id="index_d66e271a1051" key="Sizilien">Secille</term>
+                  <term xml:id="index_d66e272a1051" key="Sizilien">Secille</term>
                </index> et que ma prosperité ou adversité est austant à vous comme à moi-mesmes.</p>
             <p>J’orray entierement la charge dud. <persName xml:id="person_d29e696a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bredam">s<hi rendition="#sup">r</hi> de Bredan</persName> et lui ferai bon et brief depesche au plus près de vostre desir et cependant actendrai la poste que m’escripvez vouloir depescher vers moi pour affaires d’importance, afin que conjoinctement je puisse pourveoir à tout par vostre bon advis et mesmes à ce qui concerne le gouvernement et bien general de tout l’empire.</p>
-            <p>Quant je serai adverti de la venue de l’ambassadeur de <placeName xml:id="place_d100e145a1050"
+            <p>Quant je serai adverti de la venue de l’ambassadeur de <placeName xml:id="place_d100e152a1050"
                           ref="nognd"
                           resp="Abel_Laura"
                           key="Moskau">Moscovye</placeName> en mes royaulmes pardeça, je lui ferai faire tout honourable traictement, comme le m’escripvez.</p>
             <p>Quant à mon cousin, le marquis <persName xml:id="person_d76e144a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Philipp von Baden">Philippe de Baden</persName>, je crois qu’il sera bien content se depourter du gouvernement de <placeName xml:id="place_d99e114a1050"
+                         key="Philipp von Baden">Philippe de Baden</persName>, je crois qu’il sera bien content se depourter du gouvernement de <placeName xml:id="place_d99e121a1050"
                           ref="nognd"
                           resp="Abel_Laura"
-                          key="Luxemburg">Luxembourg</placeName>, puisqu’il a plus grant estat et mesmes en lui faisant asseurance du payement de ce qu’il pretend lui en estre deu. Sur quoi j’ai escript à <persName xml:id="person_d10e128a1050"
+                          key="Luxemburg">Luxembourg</placeName>, puisqu’il a plus grant estat et mesmes en lui faisant asseurance du payement de ce qu’il pretend lui en estre deu. Sur quoi j’ai escript à <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">m<hi rendition="#sup">me</hi>, nostre bonne tante</persName>, pour en faire dresser quelque appoinctement avec lui, à quoi vous prie tenir la main et en faire responce à mad. dame, nostre tante.</p>
@@ -158,7 +158,7 @@
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Hannart">Hannart</persName>, vous sçavez ce que vous ai escript et fait dire de lui. Et pour ce qu’il a maigrement besoingné en <index resp="Abel_Laura">
-                  <term xml:id="index_d53e359a1051" key="Sachsen">Saxen</term>
+                  <term xml:id="index_d53e365a1051" key="Sachsen">Saxen</term>
                </index>, je suis en propoz y renvoyer ung autre pour satisfaire aux ducz dud. Saxen. Sur quoi vous prie m’escripre vostre advis et du personnaige et ce que leur dois faire dire ou escripre. Et pour ce, mon frere, que je veulx que led. Hannart responde de l’instruction que m’avez envoyé copie et des autres choses que m’avez escript de lui, je lui mande presentement qu’il se treuve vers moi en avril prouchain. Dedens lequel temps me ferez plaisir m’envoyer toutes informations et escriptures pour justiffier tout ce que m’avez escript contre led. Hannart et faire la pugnicion, s’il est trouvé coulpable, de sorte que chascun congnoisse la bonne amour qu’est entre vous et moi, vous priant de reschief n’y faire faulte.</p>
             <p>Quant aux aultres affaires de pardela, je vous en faiz responce par ma lettre en latin, parquoi ne sera besoing que vous face redictes. Et sur ce, mon bon frere, prie dieu vous avoir en sa saincte garde.</p>
             <p>Escript à <placeName xml:id="place_d120e207a1050"
@@ -181,12 +181,12 @@
                   <hi rendition="#i">Mr. de Bredan </hi>
                </persName>
                <hi rendition="#i">está con mucha congoxa de lo que le es acaescido, porque le parece que es caso donde se le puede imputar alguna falta; de lo cual creo yo puede estar bien seguro; que no es hombre en que pudiese caber tan gran hierro. Y asi por esto como por el trabajo de en breve dar fin á sus negocios, querria mucho haber breve respuesta de V. A. de lo que es servido que haga.</hi> Villa, S. 247.</p>
-            <p>In der gleichen Sache schrieb K an Mg am 11., beziehungsweise 20. Dezember: <hi rendition="#i">Quant au marquis de Baden qui est, allé en </hi>
+            <p>In der gleichen Sache schrieb K an Mg am 11., beziehungsweise 20. Dezember: <hi rendition="#i">Quant au marquis de Baden qui est allé en </hi>
                <index resp="Abel_Laura">
-                  <term xml:id="index_d10e102a1051" key="Deutschland"/>
+                  <term xml:id="index_d10e110a1051" key="Deutschland"/>
                </index>
-               <hi rendition="#i"> pour tenir le lieu de mon frere au regiment de l’empire, mond. frere m’a nagueres escript bien affectuesement vouloir laisser aud. marquis le gouvernement de Luxembourg. Je ne lui ai voulsu faire responce ni du si, ni du non. Il me semble que ferez bien de pourchasser qu’il se face compte avec le marquis de ce qu’il pretend lui estre deu et adviser tant et quant des moyens, comme 1’on le pourra payer par années, et si la somme n’est fort excessive. Il y a bon personnage idoine pour estre aud. gouvernement, lequel donneroit ordre pour l’asseurance dud. payement, en l’assignant sur le revenu dud. Luxembourg, lequel encoires il se travalleroit d’augmenter à mon prouffit ci-après. Vous m’escriprez vostre advis sur le tout.</hi> Soll Vorsorge treffen, daß die Abwesenheit des Mkgfen den Angelegenheiten und Untertanen in Luxemburg nicht zum Schaden gereiche. Wien, St.-A. Belgica PA 16. Original.</p>
-            <p>Über den Stand der Hannart-Angelegenheit am Kaiserhofe unterrichtet am besten der Bericht Salinas’ an <persName xml:id="person_d28e170a1050"
+               <hi rendition="#i"> pour tenir le lieu de mon frere au regiment de l’empire, mond. frere m’a nagueres escript bien affectuesement vouloir laisser aud. marquis le gouvernement de Luxembourg. Je ne lui ai voulsu faire responce ni du si, ni du non. Il me semble que ferez bien de pourchasser qu’il se face compte avec le marquis de ce qu’il pretend lui estre deu et adviser tant et quant des moyens, comme l’on le pourra payer par années, et si la somme n’est fort excessive. Il y a bon personnage idoine pour estre aud. gouvernement, lequel donneroit ordre pour l’asseurance dud. payement, en l’assignant sur le revenu dud. Luxembourg, lequel encoires il se travalleroit d’augmenter à mon prouffit ci-après. Vous m’escriprez vostre advis sur le tout.</hi> Soll Vorsorge treffen, daß die Abwesenheit des Mkgfen den Angelegenheiten und Untertanen in Luxemburg nicht zum Schaden gereiche. Wien, St.-A. Belgica PA 16. Original.</p>
+            <p>Über den Stand der Hannart-Angelegenheit am Kaiserhofe unterrichtet am besten der Bericht Salinas’ an <persName xml:id="person_d28e160a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Salamanca">Salamanca</persName> vom 18. Dezember: <hi rendition="#i">Tocante á lo de micer </hi>
@@ -217,7 +217,7 @@
                          key="L’Allemand, Jean">
                   <hi rendition="#i">Juan Alemán</hi>
                </persName>
-               <hi rendition="#i">. Yo le haré que lo diga al sr. de Bredan, para que él gelo haga decir á estos señores del consejo y será causa para que más breve se haga lo que en este negocio demandamos. Y en cuanto esto no hay más que hablar sino que la persona que viniere á visitar, asimismo suplicará por el fin deste negocio para que sea castigo y no tenga ninguno atrevimiento de lo tal.</hi> Villa, S. 241 f. Die Stimmung scheint damals in der Umgebung des Kaisers wohl nur vorübergehend eine solche gewesen zu sein, daß sie Salinas zu der Siegeszuversicht verleitete, die er hier kundgibt. — Ähnlich wie an F schrieb K auch an <persName xml:id="person_d10e128a1050"
+               <hi rendition="#i">. Yo le haré que lo diga al sr. de Bredan, para que él gelo haga decir á estos señores del consejo y será causa para que más breve se haga lo que en este negocio demandamos. Y en cuanto esto no hay más que hablar sino que la persona que viniere á visitar, asimismo suplicará por el fin deste negocio para que sea castigo y no tenga ninguno atrevimiento de lo tal.</hi> Villa, S. 241 f. Die Stimmung scheint damals in der Umgebung des Kaisers wohl nur vorübergehend eine solche gewesen zu sein, daß sie Salinas zu der Siegeszuversicht verleitete, die er hier kundgibt. — Ähnlich wie an F schrieb K auch an <persName xml:id="person_d10e136a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Mg">Mg</persName> am 11. (20.) Dezember aus Madrid: <hi rendition="#i">J’escriptz á maistre Jehan Hannart, comme j’ai receu ses lettres, touchant son besoingne avec les ducz de Saxen et en Allemaigne, que j’eusse bien voulsu estre de meilleur sorte, car mon frere m’en a escript et de ce et d’autres matieres beaucop de choses à la charge dud. maistre Jehan. Et pour ce qu’il est raison qu’il soit oui, je lui escriptz presentement qu’il s’en vienne pardeça sur ce mois d’avril et ce pendant adviserai d’envoyer quelcung de la nation Allemande vers lesd. ducz de Saxen, car je desire bien les contenter et satisfaire.</hi> Wien, St.-A. Belgica PA 16.</p>
