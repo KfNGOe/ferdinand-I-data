@@ -98,7 +98,7 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Is </hi>
-               <persName xml:id="person_d263e88a1050"
+               <persName xml:id="person_d262e88a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Johannes Baptista (?)">
@@ -116,7 +116,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten: <persName xml:id="person_d250e134a1050"
+            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten: <persName xml:id="person_d249e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">
@@ -131,7 +131,7 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 259, S. 500-501</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d21e487a1050"
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d20e487a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Bratislava">Bratislava</placeName>/Preßburg.</p>

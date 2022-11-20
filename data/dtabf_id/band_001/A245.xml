@@ -102,7 +102,7 @@
                <hi rendition="#i"> Ser</hi>
                <hi rendition="#i #sup">ti</hi>
                <hi rendition="#i"> per hunc fidelem nostrum, venerabilem magistrum </hi>
-               <persName xml:id="person_d249e96a1050"
+               <persName xml:id="person_d248e96a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Bernardus, cantor Agriensis, Sekretär M‘s">
@@ -120,7 +120,7 @@
             <p>Druck: Monumenta ecclesiastica tempora innovatae in Hungaria religionis illustrantia dig. Bunyitay, Rapaics, Karácsonyi. Budapest 1902 1, S. 288f. Familienkorrespondenz Bd. 1, Nr. 245, S. 480.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d21e487a1050"
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d20e487a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Bratislava">Bratislava</placeName>/Preßburg.</p>
