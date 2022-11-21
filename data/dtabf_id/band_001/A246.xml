@@ -98,14 +98,14 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Commisimus huic fideli nostro, nobis syncere dilecto, reverendissimo in Christo patri, domino </hi>
-               <persName xml:id="person_d191e115a1050"
+               <persName xml:id="person_d195e115a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Erdödy von Monyorókerék, Simon, Bischof von Zagreb">
                   <hi rendition="#i">Simoni</hi>
                </persName>
                <hi rendition="#i">, episcopo </hi>
-               <placeName xml:id="place_d249e93a1050"
+               <placeName xml:id="place_d253e93a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Zagreb">
@@ -127,7 +127,7 @@
             </p>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten vermerkt: <persName xml:id="person_d249e134a1050"
+            <p>Wien, St.-A. Ungarn 2. Original. Siegel abgefallen. Eigenhändige Unterschrift: <hi rendition="#i">E. S. V. obediens soror Maria etc.</hi> Rechts unten vermerkt: <persName xml:id="person_d253e134a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Olah, Nikolaus">

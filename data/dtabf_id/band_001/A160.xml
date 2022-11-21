@@ -96,16 +96,16 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Beglaubigt <persName xml:id="person_d163e87a1050"
+            <p>Beglaubigt <persName xml:id="person_d167e87a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Rauber, Christophorus, Bischof von Ljubljana">B. Christoph von Laibach</persName> und <persName xml:id="person_d163e90a1050"
+                         key="Rauber, Christophorus, Bischof von Ljubljana">B. Christoph von Laibach</persName> und <persName xml:id="person_d167e90a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Roggendorff, Baron Georg von">Baron Georg von Roggendorff</persName>, die er zum <persName xml:id="person_d85e145a1050"
+                         key="Roggendorff, Baron Georg von">Baron Georg von Roggendorff</persName>, die er zum <persName xml:id="person_d89e147a1050"
                          ref="nognd"
                          resp="Abel_Laura"
-                         key="Sigismund I.">Kg. von Polen</persName> sendet, die vorher aber an M und ihren Gemahl, <persName xml:id="person_d16e158a1050"
+                         key="Sigismund I.">Kg. von Polen</persName> sendet, die vorher aber an M und ihren Gemahl, <persName xml:id="person_d20e158a1050"
                          ref="nognd"
                          resp="Abel_Laura"
                          key="Ludwig II.">Kg. Ludwig</persName>, verschiedenes von ihm auszurichten haben.</p>
@@ -125,7 +125,7 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 160, S. 343.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d150e265a1050"
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d154e265a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Tübingen">Tübingen</placeName>. </p>

@@ -96,13 +96,13 @@
             </table>
          </div>
          <div n="4"><!-- archive_desc -->
-            <p>Wien, Hofbibliothek, Hs. 8136 Bl. 73. Gleichzeitige Kopie. Gleichzeitiger Vermerk: Helene Siebenburgerin kopey. Litteræ <persName xml:id="person_d16e158a1050"
+            <p>Wien, Hofbibliothek, Hs. 8136 Bl. 73. Gleichzeitige Kopie. Gleichzeitiger Vermerk: Helene Siebenburgerin kopey. Litteræ <persName xml:id="person_d20e158a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">Ludovici</persName>, regis <index resp="Hofer-Bindeus_Johannes">
-                  <term xml:id="index_d16e162a1051" key="Ungarn">Ungariæ</term>
+                  <term xml:id="index_d20e162a1051" key="Ungarn">Ungariæ</term>
                </index>, pro Helena, Martini Sibenburgeri vidua, intercedentes apud Ferdinandum regem.</p>
-            <p>Das Datum lautet: <placeName xml:id="place_d20e510a1050"
+            <p>Das Datum lautet: <placeName xml:id="place_d4e168a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Prag">Praga</placeName>, decima decembris, anno domini 1522.</p>
@@ -111,37 +111,37 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Wie er früher eingetreten war bei F </hi>pro <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d20e196a1051"
+                  <term xml:id="index_d24e196a1051"
                         key="Österreich, Stände, Prozess, Wiener Neustädter Blutgericht (1522)">pena capitali </term>
                </index>
-               <persName xml:id="person_d27e109a1050"
+               <persName xml:id="person_d31e109a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
-                         key="Siebenbürger, Dr. Martin">doctori Martino Sybennbwrger</persName>, civi <placeName xml:id="place_d18e121a1050"
+                         key="Siebenbürger, Dr. Martin">doctori Martino Sybennbwrger</persName>, civi <placeName xml:id="place_d22e121a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
-                          key="Wien">Viennensi</placeName>, condonando, ita nunc quoque honeste domine <persName xml:id="person_d27e115a1050"
+                          key="Wien">Viennensi</placeName>, condonando, ita nunc quoque honeste domine <persName xml:id="person_d31e115a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Siebenbürger, Helene">Helene</persName>, dicti doctoris Martini relicte, ac liberorum ipsius supplicatione sollicitamur, ut apud Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> pro ipsis intercedamus, <hi rendition="#i">damit ihnen die eingezogenen Güter gnadenweise zurückerstattet würden. Hofft, daß F keine Schwierigkeiten machen werde </hi>in causa presertim pariter et honesta et pia, ut que viduam, que pupillos eosdemque et multos et impuberes respiciat, quorum tutela principibus peculiariter est a deo ipso commissa. Rogamus itaque singulari quodam studio Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi>, dignetur cum ipsius vidue tum tot pupillorum orbitatem perpendere et calamitosis omnibus illis communem hanc gratiam facere, ut salvis et integris de mortui rebus et bonis omnibus secure frui et gaudere deinceps possint et valeant . . . Commisimus etiam oratoribus istic nostris, ut negocium hoc apud Ser<hi rendition="#sup">tem</hi> V<hi rendition="#sup">ram</hi> nostro nomine diligenter promoveant et commendent.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d27e144a1050"
+            <p>Dr. Martin Siebenbürger, der Führer der Ständepartei, wurde am 11. August 1522 hingerichtet. Er hinterließ vier unmündige Kinder: <persName xml:id="person_d31e144a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d27e147a1050"
+                         key="Siebenbürger, Thomas">Thomas</persName>, <persName xml:id="person_d31e147a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d27e150a1050"
+                         key="Siebenbürger, Andreas">Andreas</persName>, <persName xml:id="person_d31e150a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d27e153a1050"
+                         key="Siebenbürger, Ulrich">Ulrich</persName> und <persName xml:id="person_d31e153a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d27e156a1050"
+                         key="Siebenbürger, Anna">Anna</persName>. F hatte das Vermittlungsgesuch jedenfalls in günstigem Sinne erledigt. Vgl. Geschichte der Stadt Wien, herausgegeben vom Altertumsvereine zu Wien, Wien 1905, 2, S. 590. Anderseits klagt noch 1524 der päpstliche Legat <persName xml:id="person_d31e156a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d27e160a1050"
+                         key="Campeggi">Campeggi</persName> in einem Schreiben an <persName xml:id="person_d31e160a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Salamanca">Gabriel Salamanca </persName>vom 16. November, dass der ursprünglich gefasste Beschluss <hi rendition="#i">pro vidua doctoris Martini Silimberg</hi> von den Beamten nicht eingehalten worden sei und sie von ihr noch 600 fl. forderten. Wien St.-A. Rom. Hofkorr. 1. Or.</p>
