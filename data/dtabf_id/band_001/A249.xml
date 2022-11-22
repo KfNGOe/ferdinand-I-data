@@ -102,14 +102,14 @@
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">ram</hi>
                <hi rendition="#i"> fidelem nostrum, venerabilem et egregium </hi>
-               <persName xml:id="person_d252e97a1050"
+               <persName xml:id="person_d256e97a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Gerendi, Miklós, Custos der Kirche von Székesfehérvár, Sekretär M's">
                   <hi rendition="#i">Nicolaum de Gherend</hi>
                </persName>
                <hi rendition="#i">, custodem ecclesie </hi>
-               <placeName xml:id="place_d252e102a1050"
+               <placeName xml:id="place_d256e102a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Székesfehérvár">

@@ -112,16 +112,16 @@
          </div>
          <div type="letter" n="5"><!-- transcription -->
             <p>
-               <persName xml:id="person_d9e136a1050"
+               <persName xml:id="person_d13e136a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mg">M<hi rendition="#sup">me</hi>
                </persName>, j’ai receu vostre lettre à laquelle ne fais responce de ma main, tant pour ce que, comme sçavez, suis malvais secretaire, comme aussi que mon partement a esté si tres soudain que n’ai eu le temps.</p>
             <p>M<hi rendition="#sup">me</hi>, je vous mercie humblement du desir que avez de mon bien et honneur, lequel je n’ai point moins de vous complaire et faire service, vous certiffiant m<hi rendition="#sup">me</hi> que ce n’est point à faulte de souciz, que vous n’estes en lui où je me eusse peu deffendre de voz oguyneries. Mais le mien espoir de mon retour par delà me conforte et à doncques vous pourrai dire plus amples nouvelles, comme l’on s’i treuve en <index resp="Christopher_F._Laferl">
-                  <term xml:id="index_d17e122a1051" key="F, Heirat mit A">mariage</term>
+                  <term xml:id="index_d21e122a1051" key="F, Heirat mit A">mariage</term>
                </index>. Pour lequel parfaire m’en pars ce jourd’ui.</p>
             <p>Priant sur ce le createur que à vous m<hi rendition="#sup">me</hi> doint bonne vie et longue.</p>
-            <p>De <placeName xml:id="place_d16e130a1050"
+            <p>De <placeName xml:id="place_d20e130a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Worms">Wormbs</placeName>, ce dernier jour d’avril a<hi rendition="#sup">o</hi> 21.</p>
@@ -129,10 +129,10 @@
          </div>
          <div n="6"><!-- commentary -->
             <p>a) <hi rendition="#i">Vostre — Fernando</hi> eigenhändig.</p>
-            <p>Der hier erwähnte Brief wurde nicht vorgefunden. — Der Erzherzog ist tatsächlich am 30. April in Gesellschaft des <persName xml:id="person_d17e152a1050"
+            <p>Der hier erwähnte Brief wurde nicht vorgefunden. — Der Erzherzog ist tatsächlich am 30. April in Gesellschaft des <persName xml:id="person_d21e152a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
-                         key="Lang, Matthäus">Kardinals von Salzburg </persName>von Worms ausgeritten, um sich zunächst nach <placeName xml:id="place_d17e155a1050"
+                         key="Lang, Matthäus">Kardinals von Salzburg </persName>von Worms ausgeritten, um sich zunächst nach <placeName xml:id="place_d21e155a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Heidelberg">Heidelberg</placeName> zu begeben. DRA 2, S. 883.</p>

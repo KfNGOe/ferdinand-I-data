@@ -96,7 +96,7 @@
             </table>
          </div>
          <div n="2" xml:lang="de"><!-- regest_de -->
-            <p>Empfehlung für den Priester <persName xml:id="person_d203e127a1050"
+            <p>Empfehlung für den Priester <persName xml:id="person_d207e127a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Mertlykh, Leonhard">Leonhard Mertlykh</persName>.</p>
@@ -114,7 +114,7 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 201, S. 390.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort des Briefes ist <placeName xml:id="place_d42e220a1050"
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort des Briefes ist <placeName xml:id="place_d46e220a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Budapest">Budapest</placeName>.</p>

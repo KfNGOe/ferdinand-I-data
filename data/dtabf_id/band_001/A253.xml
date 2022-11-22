@@ -98,7 +98,7 @@
          <div type="letter" n="5"><!-- transcription -->
             <p>
                <hi rendition="#i">Nobilis </hi>
-               <persName xml:id="person_d256e88a1050"
+               <persName xml:id="person_d260e88a1050"
                          ref="nognd"
                          resp="Christopher_F._Laferl"
                          key="Posonio, Martinus de">
@@ -107,7 +107,7 @@
                <hi rendition="#i">a puero semper in aula ser</hi>
                <hi rendition="#i #sup">mi</hi>
                <hi rendition="#i">quondam principis domini </hi>
-               <persName xml:id="person_d16e158a1050"
+               <persName xml:id="person_d20e158a1050"
                          ref="nognd"
                          resp="Hofer-Bindeus_Johannes"
                          key="Ludwig II.">
@@ -121,7 +121,7 @@
                <hi rendition="#i #sup">tis</hi>
                <hi rendition="#i">V</hi>
                <hi rendition="#i #sup">re</hi>
-               <placeName xml:id="place_d18e121a1050"
+               <placeName xml:id="place_d22e121a1050"
                           ref="nognd"
                           resp="Hofer-Bindeus_Johannes"
                           key="Wien">
@@ -152,7 +152,7 @@
             <p>Druck: Familienkorrespondenz Bd. 1, Nr. 253, S. 492-493.</p>
          </div>
          <div n="6"><!-- commentary -->
-            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d20e487a1050"
+            <p>Anmerkung der Herausgeber der digitalen Edition: Der Ausstellungsort ist <placeName xml:id="place_d24e487a1050"
                           ref="nognd"
                           resp="Christopher_F._Laferl"
                           key="Bratislava">Bratislava</placeName>/Preßburg. </p>
