@@ -18,7 +18,7 @@
          <list>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e490a1054">Adria</placeName>
+                  <placeName xml:id="place_d143e490a1054">Adria</placeName>
                </note>
                <note type="writings">
                   <p>Adriatico</p>
@@ -34,7 +34,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d67e217a1054">Alcalá</placeName>
+                  <placeName xml:id="place_d68e217a1054">Alcalá</placeName>
                </note>
                <note type="writings">
                   <p>Alcala</p>
@@ -50,7 +50,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d72e165a1054">Aldersbach</placeName>
+                  <placeName xml:id="place_d73e165a1054">Aldersbach</placeName>
                </note>
                <note type="writings">
                   <p>Alprespach</p>
@@ -66,7 +66,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d163e181a1054">Alessandria</placeName>
+                  <placeName xml:id="place_d164e181a1054">Alessandria</placeName>
                </note>
                <note type="writings">
                   <p>Alexandria</p>
@@ -82,7 +82,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d84e248a1054">Alexandria</placeName>
+                  <placeName xml:id="place_d85e248a1054">Alexandria</placeName>
                </note>
                <note type="writings">
                   <p>Alexandrie</p>
@@ -98,7 +98,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d237e203a1054">Amboise</placeName>
+                  <placeName xml:id="place_d238e203a1054">Amboise</placeName>
                </note>
                <note type="writings">
                   <p>Amboise</p>
@@ -114,7 +114,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d114e135a1054">Amstetten</placeName>
+                  <placeName xml:id="place_d115e135a1054">Amstetten</placeName>
                </note>
                <note type="writings">
                   <p>Ambstete</p>
@@ -130,7 +130,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d230e152a1054">Antwerpen</placeName>
+                  <placeName xml:id="place_d231e152a1054">Antwerpen</placeName>
                </note>
                <note type="writings">
                   <p>Amberes</p>
@@ -177,7 +177,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d59e120a1054">Aragón</placeName>
+                  <placeName xml:id="place_d60e120a1054">Aragón</placeName>
                </note>
                <note type="writings">
                   <p>Arragon</p>
@@ -206,7 +206,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d151e375a1054">Aranjuez</placeName>
+                  <placeName xml:id="place_d152e375a1054">Aranjuez</placeName>
                </note>
                <note type="writings">
                   <p>Aranjuez</p>
@@ -222,7 +222,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e272a1054">Arles</placeName>
+                  <placeName xml:id="place_d62e272a1054">Arles</placeName>
                </note>
                <note type="writings">
                   <p>Arles</p>
@@ -238,7 +238,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d237e382a1054">Arques-la-Bataille</placeName>
+                  <placeName xml:id="place_d238e382a1054">Arques-la-Bataille</placeName>
                </note>
                <note type="writings">
                   <p>Argues</p>
@@ -254,7 +254,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d13e139a1054">Astorga</placeName>
+                  <placeName xml:id="place_d14e139a1054">Astorga</placeName>
                </note>
                <note type="writings">
                   <p>obispado</p>
@@ -270,7 +270,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d16e133a1054">Augsburg</placeName>
+                  <placeName xml:id="place_d4e203a1054">Augsburg</placeName>
                </note>
                <note type="writings">
                   <p>Aubsbourg</p>
@@ -287,6 +287,12 @@
                   <p>Auspurg</p>
                </note>
                <note type="occurence">
+                  <p source="380413FM_Vortrag_2022_11.xml">
+                     <val>380413FM</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para"/>
+                  </p>
                   <p source="A011.xml">
                      <val>A11</val>
                      <note type="volNr">1</note>
@@ -435,7 +441,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e137a1054">Auvergne</placeName>
+                  <placeName xml:id="place_d126e137a1054">Auvergne</placeName>
                </note>
                <note type="writings">
                   <p>Auvergne</p>
@@ -451,7 +457,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e360a1054">Auxonne</placeName>
+                  <placeName xml:id="place_d27e360a1054">Auxonne</placeName>
                </note>
                <note type="writings">
                   <p>Auxonne</p>
@@ -467,7 +473,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d145e461a1054">Baden</placeName>
+                  <placeName xml:id="place_d146e461a1054">Baden</placeName>
                </note>
                <note type="writings">
                   <p>Baden</p>
@@ -483,7 +489,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d164e319a1054">Baena</placeName>
+                  <placeName xml:id="place_d165e319a1054">Baena</placeName>
                </note>
                <note type="writings">
                   <p>Baenna</p>
@@ -499,7 +505,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d243e295a1054">Balaton</placeName>
+                  <placeName xml:id="place_d244e295a1054">Balaton</placeName>
                </note>
                <note type="writings">
                   <p>Plattensee</p>
@@ -515,7 +521,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d137e351a1054">Balingen</placeName>
+                  <placeName xml:id="place_d138e351a1054">Balingen</placeName>
                </note>
                <note type="writings">
                   <p>Balingen</p>
@@ -531,7 +537,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d151e239a1054">Bar, Herzogtum</placeName>
+                  <placeName xml:id="place_d152e239a1054">Bar, Herzogtum</placeName>
                </note>
                <note type="writings">
                   <p>duché de Bar</p>
@@ -547,7 +553,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d17e146a1054">Barcelona</placeName>
+                  <placeName xml:id="place_d18e146a1054">Barcelona</placeName>
                </note>
                <note type="writings">
                   <p>Barcellone</p>
@@ -602,7 +608,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d131e120a1054">Basel</placeName>
+                  <placeName xml:id="place_d132e120a1054">Basel</placeName>
                </note>
                <note type="writings">
                   <p>Basel</p>
@@ -625,7 +631,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e135a1054">Bayonne</placeName>
+                  <placeName xml:id="place_d62e135a1054">Bayonne</placeName>
                </note>
                <note type="writings">
                   <p>Bayonne</p>
@@ -647,7 +653,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d244e449a1054">Béarn</placeName>
+                  <placeName xml:id="place_d245e449a1054">Béarn</placeName>
                </note>
                <note type="writings">
                   <p>Bearne</p>
@@ -663,7 +669,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d208e150a1054">Belgrad</placeName>
+                  <placeName xml:id="place_d209e150a1054">Belgrad</placeName>
                </note>
                <note type="writings">
                   <p>Nandor Alba</p>
@@ -679,7 +685,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d96e115a1054">Bern</placeName>
+                  <placeName xml:id="place_d97e115a1054">Bern</placeName>
                </note>
                <note type="writings">
                   <p>Bernes</p>
@@ -695,7 +701,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d139e201a1054">Besançon</placeName>
+                  <placeName xml:id="place_d140e201a1054">Besançon</placeName>
                </note>
                <note type="writings">
                   <p>Besançon</p>
@@ -723,7 +729,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e124a1054">Bidache</placeName>
+                  <placeName xml:id="place_d62e124a1054">Bidache</placeName>
                </note>
                <note type="writings">
                   <p>Vidachen</p>
@@ -739,7 +745,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d74e304a1054">Blois</placeName>
+                  <placeName xml:id="place_d75e304a1054">Blois</placeName>
                </note>
                <note type="writings">
                   <p>Blois</p>
@@ -755,7 +761,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e432a1054">Bologna</placeName>
+                  <placeName xml:id="place_d223e432a1054">Bologna</placeName>
                </note>
                <note type="writings">
                   <p>Bolongne</p>
@@ -771,7 +777,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d137e206a1054">Bosnien</placeName>
+                  <placeName xml:id="place_d138e206a1054">Bosnien</placeName>
                </note>
                <note type="writings">
                   <p>Bozna</p>
@@ -787,7 +793,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e281a1054">Bourguignon</placeName>
+                  <placeName xml:id="place_d129e281a1054">Bourguignon</placeName>
                </note>
                <note type="writings">
                   <p>Bourguignon</p>
@@ -803,7 +809,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e2448a1054">Brandenburg</placeName>
+                  <placeName xml:id="place_d82e2448a1054">Brandenburg</placeName>
                </note>
                <note type="writings">
                   <p>Brandenburgensis</p>
@@ -819,7 +825,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e511a1054">Bratislava</placeName>
+                  <placeName xml:id="place_d24e511a1054">Bratislava</placeName>
                </note>
                <note type="writings">
                   <p>Bratislava</p>
@@ -886,7 +892,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d184e214a1054">Breda</placeName>
+                  <placeName xml:id="place_d185e214a1054">Breda</placeName>
                </note>
                <note type="writings">
                   <p>Breda</p>
@@ -902,7 +908,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d211e166a1054">Brescia</placeName>
+                  <placeName xml:id="place_d212e166a1054">Brescia</placeName>
                </note>
                <note type="writings">
                   <p>Brescia</p>
@@ -925,7 +931,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e212a1054">Brixen</placeName>
+                  <placeName xml:id="place_d27e212a1054">Brixen</placeName>
                </note>
                <note type="writings">
                   <p>Briscan</p>
@@ -962,7 +968,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d45e111a1054">Bruck an der Leitha</placeName>
+                  <placeName xml:id="place_d46e111a1054">Bruck an der Leitha</placeName>
                </note>
                <note type="writings">
                   <p>Pruk</p>
@@ -978,7 +984,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d163e303a1054">Bruneck</placeName>
+                  <placeName xml:id="place_d164e303a1054">Bruneck</placeName>
                </note>
                <note type="writings">
                   <p>Bruneck</p>
@@ -994,7 +1000,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d10e142a1054">Brüssel</placeName>
+                  <placeName xml:id="place_d11e142a1054">Brüssel</placeName>
                </note>
                <note type="writings">
                   <p>Bruselle</p>
@@ -1087,7 +1093,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d45e232a1054">Budapest</placeName>
+                  <placeName xml:id="place_d46e232a1054">Budapest</placeName>
                </note>
                <note type="writings">
                   <p>Budae</p>
@@ -1186,7 +1192,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d51e236a1054">Burgos</placeName>
+                  <placeName xml:id="place_d52e236a1054">Burgos</placeName>
                </note>
                <note type="writings">
                   <p>Bourges</p>
@@ -1266,7 +1272,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d134e129a1054">Cambrai</placeName>
+                  <placeName xml:id="place_d135e129a1054">Cambrai</placeName>
                </note>
                <note type="writings">
                   <p>Cambray</p>
@@ -1282,7 +1288,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d249e198a1054">Cartagena</placeName>
+                  <placeName xml:id="place_d250e198a1054">Cartagena</placeName>
                </note>
                <note type="writings">
                   <p>Carthagene</p>
@@ -1298,7 +1304,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d8e135a1054">Cazalegas</placeName>
+                  <placeName xml:id="place_d9e135a1054">Cazalegas</placeName>
                </note>
                <note type="writings">
                   <p>Caçalegas</p>
@@ -1314,7 +1320,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d62e212a1054">Celje</placeName>
+                  <placeName xml:id="place_d63e212a1054">Celje</placeName>
                </note>
                <note type="writings">
                   <p>Cilli</p>
@@ -1330,7 +1336,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e860a1054">Cervia</placeName>
+                  <placeName xml:id="place_d143e860a1054">Cervia</placeName>
                </note>
                <note type="writings">
                   <p>Cervia</p>
@@ -1346,7 +1352,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d237e341a1054">Charolais</placeName>
+                  <placeName xml:id="place_d238e341a1054">Charolais</placeName>
                </note>
                <note type="writings">
                   <p>Charolays</p>
@@ -1362,7 +1368,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e271a1054">Châtelot</placeName>
+                  <placeName xml:id="place_d129e271a1054">Châtelot</placeName>
                </note>
                <note type="writings">
                   <p>Châtelot</p>
@@ -1378,7 +1384,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e476a1054">Cheb</placeName>
+                  <placeName xml:id="place_d24e476a1054">Cheb</placeName>
                </note>
                <note type="writings">
                   <p>Eger</p>
@@ -1394,7 +1400,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e699a1054">Chiavenna</placeName>
+                  <placeName xml:id="place_d143e699a1054">Chiavenna</placeName>
                </note>
                <note type="writings">
                   <p>Chiavenna</p>
@@ -1417,7 +1423,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e275a1054">Clémont, Burg in der Franche-Comté</placeName>
+                  <placeName xml:id="place_d129e275a1054">Clémont, Burg in der Franche-Comté</placeName>
                </note>
                <note type="writings">
                   <p>Clémont</p>
@@ -1433,7 +1439,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d237e259a1054">Como</placeName>
+                  <placeName xml:id="place_d238e259a1054">Como</placeName>
                </note>
                <note type="writings">
                   <p>Come</p>
@@ -1449,7 +1455,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d172e167a1054">Cremona</placeName>
+                  <placeName xml:id="place_d173e167a1054">Cremona</placeName>
                </note>
                <note type="writings">
                   <p>Cremona</p>
@@ -1490,7 +1496,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e276a1054">Dauphiné</placeName>
+                  <placeName xml:id="place_d62e276a1054">Dauphiné</placeName>
                </note>
                <note type="writings">
                   <p>Dauphiné</p>
@@ -1506,7 +1512,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d244e446a1054">Dijon</placeName>
+                  <placeName xml:id="place_d245e446a1054">Dijon</placeName>
                </note>
                <note type="writings">
                   <p>Dyon</p>
@@ -1522,7 +1528,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e285a1054">Diois</placeName>
+                  <placeName xml:id="place_d62e285a1054">Diois</placeName>
                </note>
                <note type="writings">
                   <p>d’Yois</p>
@@ -1538,7 +1544,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e181a1054">Dôle</placeName>
+                  <placeName xml:id="place_d129e181a1054">Dôle</placeName>
                </note>
                <note type="writings">
                   <p>Dole</p>
@@ -1560,7 +1566,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e711a1054">Dömitz</placeName>
+                  <placeName xml:id="place_d56e711a1054">Dömitz</placeName>
                </note>
                <note type="writings">
                   <p>Dömitz</p>
@@ -1576,7 +1582,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e846a1054">Eberbach</placeName>
+                  <placeName xml:id="place_d71e846a1054">Eberbach</placeName>
                </note>
                <note type="writings">
                   <p>Ebberach</p>
@@ -1592,7 +1598,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d41e255a1054">Ebernburg</placeName>
+                  <placeName xml:id="place_d42e255a1054">Ebernburg</placeName>
                </note>
                <note type="writings">
                   <p>Ebernburg</p>
@@ -1608,7 +1614,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d227e206a1054">Engelsburg in Rom</placeName>
+                  <placeName xml:id="place_d228e206a1054">Engelsburg in Rom</placeName>
                </note>
                <note type="writings">
                   <p>chasteau de saint Angel</p>
@@ -1624,7 +1630,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e749a1054">Enna, Schloss in Südtirol</placeName>
+                  <placeName xml:id="place_d56e749a1054">Enna, Schloss in Südtirol</placeName>
                </note>
                <note type="writings">
                   <p>Schloß Enn</p>
@@ -1647,7 +1653,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d47e147a1054">Enns</placeName>
+                  <placeName xml:id="place_d48e147a1054">Enns</placeName>
                </note>
                <note type="writings">
                   <p>chasteau de Ems</p>
@@ -1684,7 +1690,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e161a1054">Ensisheim</placeName>
+                  <placeName xml:id="place_d24e161a1054">Ensisheim</placeName>
                </note>
                <note type="writings">
                   <p>Anghessen</p>
@@ -1739,7 +1745,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e262a1054">Esslingen</placeName>
+                  <placeName xml:id="place_d71e262a1054">Esslingen</placeName>
                </note>
                <note type="writings">
                   <p>Eslingen</p>
@@ -1813,7 +1819,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e290a1054">Estebon (?)</placeName>
+                  <placeName xml:id="place_d129e290a1054">Estebon (?)</placeName>
                </note>
                <note type="writings">
                   <p>Estebon</p>
@@ -1829,7 +1835,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d98e201a1054">Esztergom</placeName>
+                  <placeName xml:id="place_d99e201a1054">Esztergom</placeName>
                </note>
                <note type="writings">
                   <p>Strigoniense</p>
@@ -1845,7 +1851,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d108e263a1054">Etsch</placeName>
+                  <placeName xml:id="place_d109e263a1054">Etsch</placeName>
                </note>
                <note type="writings">
                   <p>Etsch</p>
@@ -1861,7 +1867,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e160a1054">Florenz</placeName>
+                  <placeName xml:id="place_d126e160a1054">Florenz</placeName>
                </note>
                <note type="writings">
                   <p>Florance</p>
@@ -1896,7 +1902,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d41e235a1054">Frankfurt am Main</placeName>
+                  <placeName xml:id="place_d42e235a1054">Frankfurt am Main</placeName>
                </note>
                <note type="writings">
                   <p>Francafort</p>
@@ -1946,7 +1952,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e928a1054">Freiburg im Breisgau</placeName>
+                  <placeName xml:id="place_d71e928a1054">Freiburg im Breisgau</placeName>
                </note>
                <note type="writings">
                   <p>Freybourg</p>
@@ -1969,7 +1975,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e524a1054">Freistadt</placeName>
+                  <placeName xml:id="place_d24e524a1054">Freistadt</placeName>
                </note>
                <note type="writings">
                   <p>Freystat</p>
@@ -1985,7 +1991,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d34e282a1054">Friaul</placeName>
+                  <placeName xml:id="place_d35e282a1054">Friaul</placeName>
                </note>
                <note type="writings">
                   <p>Friau</p>
@@ -2048,7 +2054,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d201e133a1054">Friesland</placeName>
+                  <placeName xml:id="place_d202e133a1054">Friesland</placeName>
                </note>
                <note type="writings">
                   <p>Frize</p>
@@ -2064,7 +2070,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e456a1054">Gaeta</placeName>
+                  <placeName xml:id="place_d223e456a1054">Gaeta</placeName>
                </note>
                <note type="writings">
                   <p>Gayete</p>
@@ -2080,7 +2086,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d9e123a1054">Galisteo</placeName>
+                  <placeName xml:id="place_d10e123a1054">Galisteo</placeName>
                </note>
                <note type="writings">
                   <p>Galisteo</p>
@@ -2096,7 +2102,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d212e155a1054">Geldern</placeName>
+                  <placeName xml:id="place_d213e155a1054">Geldern</placeName>
                </note>
                <note type="writings">
                   <p>Gheldres</p>
@@ -2112,7 +2118,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e334a1054">Gent</placeName>
+                  <placeName xml:id="place_d27e334a1054">Gent</placeName>
                </note>
                <note type="writings">
                   <p>Gand</p>
@@ -2128,7 +2134,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e585a1054">Genua</placeName>
+                  <placeName xml:id="place_d24e585a1054">Genua</placeName>
                </note>
                <note type="writings">
                   <p>Genesve</p>
@@ -2215,7 +2221,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d6e163a1054">Gmunden</placeName>
+                  <placeName xml:id="place_d7e163a1054">Gmunden</placeName>
                </note>
                <note type="writings">
                   <p>Gmunden</p>
@@ -2231,7 +2237,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d161e260a1054">Grad (Goričko)</placeName>
+                  <placeName xml:id="place_d162e260a1054">Grad (Goričko)</placeName>
                </note>
                <note type="writings">
                   <p>superiori Limbach</p>
@@ -2247,7 +2253,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e665a1054">Granada</placeName>
+                  <placeName xml:id="place_d223e665a1054">Granada</placeName>
                </note>
                <note type="writings">
                   <p>Granada</p>
@@ -2337,7 +2343,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e287a1054">Granges</placeName>
+                  <placeName xml:id="place_d129e287a1054">Granges</placeName>
                </note>
                <note type="writings">
                   <p>Granges</p>
@@ -2353,7 +2359,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d179e192a1054">Graz</placeName>
+                  <placeName xml:id="place_d180e192a1054">Graz</placeName>
                </note>
                <note type="writings">
                   <p>Graz</p>
@@ -2369,7 +2375,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d172e528a1054">Grießen</placeName>
+                  <placeName xml:id="place_d173e528a1054">Grießen</placeName>
                </note>
                <note type="writings">
                   <p>Grießen</p>
@@ -2385,7 +2391,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d130e385a1054">Guadalupe</placeName>
+                  <placeName xml:id="place_d131e385a1054">Guadalupe</placeName>
                </note>
                <note type="writings">
                   <p>Guadalupe</p>
@@ -2401,7 +2407,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d21e196a1054">Gurk</placeName>
+                  <placeName xml:id="place_d22e196a1054">Gurk</placeName>
                </note>
                <note type="writings">
                   <p>Curg</p>
@@ -2417,7 +2423,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e327a1054">Haguenau</placeName>
+                  <placeName xml:id="place_d27e327a1054">Haguenau</placeName>
                </note>
                <note type="writings">
                   <p>Hagenoia</p>
@@ -2452,7 +2458,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d45e116a1054">Hainburg</placeName>
+                  <placeName xml:id="place_d46e116a1054">Hainburg</placeName>
                </note>
                <note type="writings">
                   <p>Hainburgh</p>
@@ -2468,7 +2474,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d78e209a1054">Hamburg</placeName>
+                  <placeName xml:id="place_d79e209a1054">Hamburg</placeName>
                </note>
                <note type="writings">
                   <p>Embourg</p>
@@ -2498,7 +2504,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d20e168a1054">Heidelberg</placeName>
+                  <placeName xml:id="place_d21e168a1054">Heidelberg</placeName>
                </note>
                <note type="writings">
                   <p>Haidelberg</p>
@@ -2528,7 +2534,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e265a1054">Héricourt</placeName>
+                  <placeName xml:id="place_d129e265a1054">Héricourt</placeName>
                </note>
                <note type="writings">
                   <p>Héricourt</p>
@@ -2544,7 +2550,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d110e266a1054">Heusden</placeName>
+                  <placeName xml:id="place_d111e266a1054">Heusden</placeName>
                </note>
                <note type="writings">
                   <p>Heusden</p>
@@ -2560,7 +2566,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e787a1054">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
+                  <placeName xml:id="place_d71e787a1054">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
                </note>
                <note type="writings">
                   <p>Hirsperg</p>
@@ -2576,7 +2582,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d31e224a1054">Hohentwiel, Schloss</placeName>
+                  <placeName xml:id="place_d32e224a1054">Hohentwiel, Schloss</placeName>
                </note>
                <note type="writings">
                   <p>chasteau Oghetueil</p>
@@ -2592,7 +2598,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d226e324a1054">Holland</placeName>
+                  <placeName xml:id="place_d227e324a1054">Holland</placeName>
                </note>
                <note type="writings">
                   <p>Hollande</p>
@@ -2614,7 +2620,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e336a1054">Hondarribia</placeName>
+                  <placeName xml:id="place_d24e336a1054">Hondarribia</placeName>
                </note>
                <note type="writings">
                   <p>Fontarabie</p>
@@ -2650,7 +2656,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d248e438a1054">Hoogstraten</placeName>
+                  <placeName xml:id="place_d249e438a1054">Hoogstraten</placeName>
                </note>
                <note type="writings">
                   <p>Hochstraten</p>
@@ -2673,7 +2679,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d7e154a1054">Innsbruck</placeName>
+                  <placeName xml:id="place_d8e154a1054">Innsbruck</placeName>
                </note>
                <note type="writings">
                   <p>ceste ville</p>
@@ -3086,7 +3092,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d110e138a1054">Innsbruck </placeName>
+                  <placeName xml:id="place_d111e138a1054">Innsbruck </placeName>
                </note>
                <note type="writings">
                   <p>Ynsbrouck</p>
@@ -3102,7 +3108,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d208e147a1054">Istanbul</placeName>
+                  <placeName xml:id="place_d209e147a1054">Istanbul</placeName>
                </note>
                <note type="writings">
                   <p>Constantinopoli</p>
@@ -3118,7 +3124,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d34e285a1054">Istrien</placeName>
+                  <placeName xml:id="place_d35e285a1054">Istrien</placeName>
                </note>
                <note type="writings">
                   <p>Istrien</p>
@@ -3160,7 +3166,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e383a1054">Jajce</placeName>
+                  <placeName xml:id="place_d143e383a1054">Jajce</placeName>
                </note>
                <note type="writings">
                   <p>Jajce</p>
@@ -3183,7 +3189,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d194e126a1054">Karpaten </placeName>
+                  <placeName xml:id="place_d195e126a1054">Karpaten </placeName>
                </note>
                <note type="writings">
                   <p>Krabathischen</p>
@@ -3199,7 +3205,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d40e217a1054">Kassel</placeName>
+                  <placeName xml:id="place_d41e217a1054">Kassel</placeName>
                </note>
                <note type="writings">
                   <p>Cassel</p>
@@ -3215,7 +3221,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d28e347a1054">Kastilien</placeName>
+                  <placeName xml:id="place_d29e347a1054">Kastilien</placeName>
                </note>
                <note type="writings">
                   <p>Kastilien</p>
@@ -3237,7 +3243,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d59e127a1054">Katalonien</placeName>
+                  <placeName xml:id="place_d60e127a1054">Katalonien</placeName>
                </note>
                <note type="writings">
                   <p>Cathelongue</p>
@@ -3253,7 +3259,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d256e357a1054">Kempten</placeName>
+                  <placeName xml:id="place_d257e357a1054">Kempten</placeName>
                </note>
                <note type="writings">
                   <p>Kempten</p>
@@ -3269,7 +3275,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e563a1054">Klis</placeName>
+                  <placeName xml:id="place_d24e563a1054">Klis</placeName>
                </note>
                <note type="writings">
                   <p>Clissa</p>
@@ -3291,7 +3297,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d19e128a1054">Köln</placeName>
+                  <placeName xml:id="place_d20e128a1054">Köln</placeName>
                </note>
                <note type="writings">
                   <p>Coloniẹ</p>
@@ -3328,7 +3334,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d260e288a1054">Komárno/Komárom</placeName>
+                  <placeName xml:id="place_d261e288a1054">Komárno/Komárom</placeName>
                </note>
                <note type="writings">
                   <p>Komorn</p>
@@ -3344,7 +3350,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d41e128a1054">Konstanz</placeName>
+                  <placeName xml:id="place_d42e128a1054">Konstanz</placeName>
                </note>
                <note type="writings">
                   <p>Constance</p>
@@ -3378,7 +3384,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d37e237a1054">Kreuznach, Burg</placeName>
+                  <placeName xml:id="place_d38e237a1054">Kreuznach, Burg</placeName>
                </note>
                <note type="writings">
                   <p>Kreuznach</p>
@@ -3394,7 +3400,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d240e201a1054">Kufstein</placeName>
+                  <placeName xml:id="place_d241e201a1054">Kufstein</placeName>
                </note>
                <note type="writings">
                   <p>Cofstan</p>
@@ -3410,7 +3416,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d244e475a1054">Laeken</placeName>
+                  <placeName xml:id="place_d245e475a1054">Laeken</placeName>
                </note>
                <note type="writings">
                   <p>Laeken</p>
@@ -3426,7 +3432,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d37e240a1054">Landstuhl</placeName>
+                  <placeName xml:id="place_d38e240a1054">Landstuhl</placeName>
                </note>
                <note type="writings">
                   <p>Landstuhl</p>
@@ -3469,7 +3475,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d51e228a1054">Languedoc</placeName>
+                  <placeName xml:id="place_d52e228a1054">Languedoc</placeName>
                </note>
                <note type="writings">
                   <p>Languedoc</p>
@@ -3485,7 +3491,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d161e266a1054">Lendava</placeName>
+                  <placeName xml:id="place_d162e266a1054">Lendava</placeName>
                </note>
                <note type="writings">
                   <p>inferiori Limbach</p>
@@ -3501,7 +3507,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e714a1054">Lenzen</placeName>
+                  <placeName xml:id="place_d56e714a1054">Lenzen</placeName>
                </note>
                <note type="writings">
                   <p>Lenzen</p>
@@ -3517,7 +3523,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d10e134a1054">Leuven/Louvain</placeName>
+                  <placeName xml:id="place_d11e134a1054">Leuven/Louvain</placeName>
                </note>
                <note type="writings">
                   <p>Lobayna</p>
@@ -3540,7 +3546,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d212e148a1054">Liège</placeName>
+                  <placeName xml:id="place_d213e148a1054">Liège</placeName>
                </note>
                <note type="writings">
                   <p>Liege</p>
@@ -3556,7 +3562,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d5e216a1054">Linz</placeName>
+                  <placeName xml:id="place_d6e216a1054">Linz</placeName>
                </note>
                <note type="writings">
                   <p>Lincz</p>
@@ -3690,7 +3696,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d206e148a1054">Ljubljana</placeName>
+                  <placeName xml:id="place_d207e148a1054">Ljubljana</placeName>
                </note>
                <note type="writings">
                   <p>Labacensis</p>
@@ -3706,7 +3712,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d108e291a1054">Lodi</placeName>
+                  <placeName xml:id="place_d109e291a1054">Lodi</placeName>
                </note>
                <note type="writings">
                   <p>Laude</p>
@@ -3742,7 +3748,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d51e217a1054">Logroño</placeName>
+                  <placeName xml:id="place_d52e217a1054">Logroño</placeName>
                </note>
                <note type="writings">
                   <p>Logroño</p>
@@ -3758,7 +3764,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d74e307a1054">London</placeName>
+                  <placeName xml:id="place_d75e307a1054">London</placeName>
                </note>
                <note type="writings">
                   <p>London</p>
@@ -3786,7 +3792,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d39e115a1054">Lothringen</placeName>
+                  <placeName xml:id="place_d40e115a1054">Lothringen</placeName>
                </note>
                <note type="writings">
                   <p>Lorraine</p>
@@ -3823,7 +3829,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e1025a1054">Lübeck</placeName>
+                  <placeName xml:id="place_d71e1025a1054">Lübeck</placeName>
                </note>
                <note type="writings">
                   <p>Lubecenses</p>
@@ -3853,7 +3859,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e172a1054">Lucca</placeName>
+                  <placeName xml:id="place_d126e172a1054">Lucca</placeName>
                </note>
                <note type="writings">
                   <p>Luçois</p>
@@ -3869,7 +3875,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d101e134a1054">Luxemburg</placeName>
+                  <placeName xml:id="place_d102e134a1054">Luxemburg</placeName>
                </note>
                <note type="writings">
                   <p>Luxembourg</p>
@@ -3917,7 +3923,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d65e166a1054">Luzern</placeName>
+                  <placeName xml:id="place_d66e166a1054">Luzern</placeName>
                </note>
                <note type="writings">
                   <p>Luzern</p>
@@ -3933,7 +3939,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d117e234a1054">Lyon</placeName>
+                  <placeName xml:id="place_d118e234a1054">Lyon</placeName>
                </note>
                <note type="writings">
                   <p>Lyon</p>
@@ -3967,7 +3973,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e279a1054">Lyonnais</placeName>
+                  <placeName xml:id="place_d62e279a1054">Lyonnais</placeName>
                </note>
                <note type="writings">
                   <p>Lyonnois</p>
@@ -3983,7 +3989,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d124e126a1054">L’Isle sur le Doubs, Herrschaft</placeName>
+                  <placeName xml:id="place_d125e126a1054">L’Isle sur le Doubs, Herrschaft</placeName>
                </note>
                <note type="writings">
                   <p>L'Isle sur le Doubs</p>
@@ -4013,7 +4019,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d170e150a1054">Maastricht</placeName>
+                  <placeName xml:id="place_d171e150a1054">Maastricht</placeName>
                </note>
                <note type="writings">
                   <p>Maastricht</p>
@@ -4088,7 +4094,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d122e223a1054">Madrid</placeName>
+                  <placeName xml:id="place_d123e223a1054">Madrid</placeName>
                </note>
                <note type="writings">
                   <p>Madrid</p>
@@ -4166,7 +4172,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d41e231a1054">Mainz</placeName>
+                  <placeName xml:id="place_d42e231a1054">Mainz</placeName>
                </note>
                <note type="writings">
                   <p>Maience</p>
@@ -4189,7 +4195,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d78e308a1054">Marano Lagunare</placeName>
+                  <placeName xml:id="place_d79e308a1054">Marano Lagunare</placeName>
                </note>
                <note type="writings">
                   <p>Maran</p>
@@ -4212,7 +4218,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d93e395a1054">Marseille</placeName>
+                  <placeName xml:id="place_d94e395a1054">Marseille</placeName>
                </note>
                <note type="writings">
                   <p>Marseille</p>
@@ -4228,7 +4234,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d198e123a1054">Masowien</placeName>
+                  <placeName xml:id="place_d199e123a1054">Masowien</placeName>
                </note>
                <note type="writings">
                   <p>duché de Maß</p>
@@ -4264,7 +4270,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e330a1054">Maya del Baztán, Burg (Navarra)</placeName>
+                  <placeName xml:id="place_d24e330a1054">Maya del Baztán, Burg (Navarra)</placeName>
                </note>
                <note type="writings">
                   <p>Maya</p>
@@ -4280,7 +4286,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e307a1054">Mechelen/Malines</placeName>
+                  <placeName xml:id="place_d56e307a1054">Mechelen/Malines</placeName>
                </note>
                <note type="writings">
                   <p>Malines</p>
@@ -4339,7 +4345,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e1743a1054">Medina del Campo</placeName>
+                  <placeName xml:id="place_d82e1743a1054">Medina del Campo</placeName>
                </note>
                <note type="writings">
                   <p>Medina del Campo</p>
@@ -4355,7 +4361,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e1559a1054">Metlika</placeName>
+                  <placeName xml:id="place_d82e1559a1054">Metlika</placeName>
                </note>
                <note type="writings">
                   <p>Metlingensem</p>
@@ -4371,7 +4377,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d38e131a1054">Mézières</placeName>
+                  <placeName xml:id="place_d39e131a1054">Mézières</placeName>
                </note>
                <note type="writings">
                   <p>Masieres</p>
@@ -4393,7 +4399,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d12e135a1054">Middelburg</placeName>
+                  <placeName xml:id="place_d13e135a1054">Middelburg</placeName>
                </note>
                <note type="writings">
                   <p>Middelbourg</p>
@@ -4409,7 +4415,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d38e121a1054">Mindelheim</placeName>
+                  <placeName xml:id="place_d39e121a1054">Mindelheim</placeName>
                </note>
                <note type="writings">
                   <p>Mindelheim</p>
@@ -4432,7 +4438,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e654a1054">Moldau</placeName>
+                  <placeName xml:id="place_d71e654a1054">Moldau</placeName>
                </note>
                <note type="writings">
                   <p>Moldaviam</p>
@@ -4448,7 +4454,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d31e762a1054">Molukken</placeName>
+                  <placeName xml:id="place_d32e762a1054">Molukken</placeName>
                </note>
                <note type="writings">
                   <p>Molukken</p>
@@ -4464,7 +4470,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d237e644a1054">Mons</placeName>
+                  <placeName xml:id="place_d238e644a1054">Mons</placeName>
                </note>
                <note type="writings">
                   <p>Berghes</p>
@@ -4480,7 +4486,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e374a1054">Montbéliard</placeName>
+                  <placeName xml:id="place_d24e374a1054">Montbéliard</placeName>
                </note>
                <note type="writings">
                   <p>Mömpelgard</p>
@@ -4509,7 +4515,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e295a1054">Montélimar</placeName>
+                  <placeName xml:id="place_d62e295a1054">Montélimar</placeName>
                </note>
                <note type="writings">
                   <p>Monteslimar</p>
@@ -4525,7 +4531,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e278a1054">Montrond-le-Château</placeName>
+                  <placeName xml:id="place_d129e278a1054">Montrond-le-Château</placeName>
                </note>
                <note type="writings">
                   <p>Montron</p>
@@ -4541,7 +4547,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d102e165a1054">Moskau</placeName>
+                  <placeName xml:id="place_d103e165a1054">Moskau</placeName>
                </note>
                <note type="writings">
                   <p>Moscovie</p>
@@ -4576,7 +4582,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e298a1054">Mousson (?)</placeName>
+                  <placeName xml:id="place_d62e298a1054">Mousson (?)</placeName>
                </note>
                <note type="writings">
                   <p>Moson</p>
@@ -4592,7 +4598,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e696a1054">Musso</placeName>
+                  <placeName xml:id="place_d143e696a1054">Musso</placeName>
                </note>
                <note type="writings">
                   <p>Musso</p>
@@ -4608,7 +4614,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e326a1054">Navarra</placeName>
+                  <placeName xml:id="place_d24e326a1054">Navarra</placeName>
                </note>
                <note type="writings">
                   <p>Navarra</p>
@@ -4624,7 +4630,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e262a1054">Neuchâtel</placeName>
+                  <placeName xml:id="place_d129e262a1054">Neuchâtel</placeName>
                </note>
                <note type="writings">
                   <p>Neuchâtel</p>
@@ -4654,7 +4660,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d4e143a1054">Nizza</placeName>
+                  <placeName xml:id="place_d5e143a1054">Nizza</placeName>
                </note>
                <note type="writings">
                   <p>Nice</p>
@@ -4684,7 +4690,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d90e206a1054">Nördlingen</placeName>
+                  <placeName xml:id="place_d91e206a1054">Nördlingen</placeName>
                </note>
                <note type="writings">
                   <p>Nerlingen</p>
@@ -4713,7 +4719,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d72e191a1054">Novara</placeName>
+                  <placeName xml:id="place_d73e191a1054">Novara</placeName>
                </note>
                <note type="writings">
                   <p>Novara</p>
@@ -4742,7 +4748,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e284a1054">Nürnberg</placeName>
+                  <placeName xml:id="place_d24e284a1054">Nürnberg</placeName>
                </note>
                <note type="writings">
                   <p>Neuremberg</p>
@@ -5073,7 +5079,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d54e144a1054">Nürnberg </placeName>
+                  <placeName xml:id="place_d55e144a1054">Nürnberg </placeName>
                </note>
                <note type="writings">
                   <p>Nueremberge</p>
@@ -5095,7 +5101,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e291a1054">Orange, Fürstentum</placeName>
+                  <placeName xml:id="place_d62e291a1054">Orange, Fürstentum</placeName>
                </note>
                <note type="writings">
                   <p>principaulté d’Oranges</p>
@@ -5111,7 +5117,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d226e168a1054">Outremeuse (Liège)</placeName>
+                  <placeName xml:id="place_d227e168a1054">Outremeuse (Liège)</placeName>
                </note>
                <note type="writings">
                   <p>d’Oultremeuze</p>
@@ -5127,7 +5133,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d163e264a1054">Padua</placeName>
+                  <placeName xml:id="place_d164e264a1054">Padua</placeName>
                </note>
                <note type="writings">
                   <p>Padova</p>
@@ -5150,7 +5156,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d211e170a1054">Palma</placeName>
+                  <placeName xml:id="place_d212e170a1054">Palma</placeName>
                </note>
                <note type="writings">
                   <p>Palme</p>
@@ -5166,7 +5172,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d53e167a1054">Pamplona</placeName>
+                  <placeName xml:id="place_d54e167a1054">Pamplona</placeName>
                </note>
                <note type="writings">
                   <p>Pampelona</p>
@@ -5195,7 +5201,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e289a1054">Parma</placeName>
+                  <placeName xml:id="place_d126e289a1054">Parma</placeName>
                </note>
                <note type="writings">
                   <p>Parma</p>
@@ -5217,7 +5223,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e564a1054">Passau</placeName>
+                  <placeName xml:id="place_d71e564a1054">Passau</placeName>
                </note>
                <note type="writings">
                   <p>Patavia</p>
@@ -5233,7 +5239,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e275a1054">Pavia</placeName>
+                  <placeName xml:id="place_d143e275a1054">Pavia</placeName>
                </note>
                <note type="writings">
                   <p>Pabia</p>
@@ -5269,7 +5275,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d149e325a1054">Perpignan</placeName>
+                  <placeName xml:id="place_d150e325a1054">Perpignan</placeName>
                </note>
                <note type="writings">
                   <p>Perpignan</p>
@@ -5285,7 +5291,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e435a1054">Perugia</placeName>
+                  <placeName xml:id="place_d223e435a1054">Perugia</placeName>
                </note>
                <note type="writings">
                   <p>Perouse</p>
@@ -5301,7 +5307,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d216e149a1054">Petrovaradin</placeName>
+                  <placeName xml:id="place_d217e149a1054">Petrovaradin</placeName>
                </note>
                <note type="writings">
                   <p>Peterverdin</p>
@@ -5330,7 +5336,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e742a1054">Piacenza</placeName>
+                  <placeName xml:id="place_d56e742a1054">Piacenza</placeName>
                </note>
                <note type="writings">
                   <p>Piacenza</p>
@@ -5352,7 +5358,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e441a1054">Pisa</placeName>
+                  <placeName xml:id="place_d223e441a1054">Pisa</placeName>
                </note>
                <note type="writings">
                   <p>Pise</p>
@@ -5368,7 +5374,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e728a1054">Pliva</placeName>
+                  <placeName xml:id="place_d143e728a1054">Pliva</placeName>
                </note>
                <note type="writings">
                   <p>Pliva</p>
@@ -5384,7 +5390,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d258e442a1054">Po</placeName>
+                  <placeName xml:id="place_d259e442a1054">Po</placeName>
                </note>
                <note type="writings">
                   <p>Po</p>
@@ -5407,7 +5413,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d31e537a1054">Pommern</placeName>
+                  <placeName xml:id="place_d32e537a1054">Pommern</placeName>
                </note>
                <note type="writings">
                   <p>Pomeren</p>
@@ -5423,7 +5429,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d128e284a1054">Pomson (?)</placeName>
+                  <placeName xml:id="place_d129e284a1054">Pomson (?)</placeName>
                </note>
                <note type="writings">
                   <p>Pomson</p>
@@ -5439,7 +5445,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e409a1054">Port Hercule</placeName>
+                  <placeName xml:id="place_d223e409a1054">Port Hercule</placeName>
                </note>
                <note type="writings">
                   <p>Port-Hercules</p>
@@ -5455,7 +5461,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d31e759a1054">Portugal</placeName>
+                  <placeName xml:id="place_d32e759a1054">Portugal</placeName>
                </note>
                <note type="writings">
                   <p>Portugal</p>
@@ -5471,7 +5477,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e536a1054">Prag</placeName>
+                  <placeName xml:id="place_d4e179a1054">Prag</placeName>
                </note>
                <note type="writings">
                   <p>Bragensi</p>
@@ -5479,6 +5485,12 @@
                   <p>Praga</p>
                </note>
                <note type="occurence">
+                  <p source="380413FM_Vortrag_2022_11.xml">
+                     <val>380413FM</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">3</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -5501,7 +5513,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e567a1054">Preußen</placeName>
+                  <placeName xml:id="place_d71e567a1054">Preußen</placeName>
                </note>
                <note type="writings">
                   <p>Prussiẹ</p>
@@ -5517,7 +5529,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d51e204a1054">Provence</placeName>
+                  <placeName xml:id="place_d52e204a1054">Provence</placeName>
                </note>
                <note type="writings">
                   <p>Provance</p>
@@ -5552,7 +5564,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d243e292a1054">Raab</placeName>
+                  <placeName xml:id="place_d244e292a1054">Raab</placeName>
                </note>
                <note type="writings">
                   <p>Raab</p>
@@ -5568,7 +5580,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d205e291a1054">Radstadt</placeName>
+                  <placeName xml:id="place_d206e291a1054">Radstadt</placeName>
                </note>
                <note type="writings">
                   <p>Radstadt</p>
@@ -5584,7 +5596,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e2397a1054">Ravensburg</placeName>
+                  <placeName xml:id="place_d82e2397a1054">Ravensburg</placeName>
                </note>
                <note type="writings">
                   <p>Ravenspurg</p>
@@ -5606,7 +5618,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e561a1054">Regensburg</placeName>
+                  <placeName xml:id="place_d71e561a1054">Regensburg</placeName>
                </note>
                <note type="writings">
                   <p>Ratispona</p>
@@ -5649,7 +5661,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d28e226a1054">Rhodos</placeName>
+                  <placeName xml:id="place_d29e226a1054">Rhodos</placeName>
                </note>
                <note type="writings">
                   <p>Rodes</p>
@@ -5665,7 +5677,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d110e165a1054">Rhône</placeName>
+                  <placeName xml:id="place_d111e165a1054">Rhône</placeName>
                </note>
                <note type="writings">
                   <p>Rosne</p>
@@ -5687,7 +5699,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e388a1054">Rom</placeName>
+                  <placeName xml:id="place_d27e388a1054">Rom</placeName>
                </note>
                <note type="writings">
                   <p>Rom</p>
@@ -5827,7 +5839,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d249e213a1054">Romagna</placeName>
+                  <placeName xml:id="place_d250e213a1054">Romagna</placeName>
                </note>
                <note type="writings">
                   <p>Romagne</p>
@@ -5850,7 +5862,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d205e213a1054">Rothenburg ob der Tauber</placeName>
+                  <placeName xml:id="place_d206e213a1054">Rothenburg ob der Tauber</placeName>
                </note>
                <note type="writings">
                   <p>Rotemburg am Taber</p>
@@ -5866,7 +5878,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d155e532a1054">Rovereto</placeName>
+                  <placeName xml:id="place_d156e532a1054">Rovereto</placeName>
                </note>
                <note type="writings">
                   <p>Rovereto</p>
@@ -5882,7 +5894,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e138a1054">Saint-Jean-de-Luz</placeName>
+                  <placeName xml:id="place_d62e138a1054">Saint-Jean-de-Luz</placeName>
                </note>
                <note type="writings">
                   <p>Saint Jehan de Lux</p>
@@ -5898,7 +5910,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d51e224a1054">Saint Jean-Pied-de Port</placeName>
+                  <placeName xml:id="place_d52e224a1054">Saint Jean-Pied-de Port</placeName>
                </note>
                <note type="writings">
                   <p>Saint Jehan Pied</p>
@@ -5914,7 +5926,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e121a1054">Salvatierra</placeName>
+                  <placeName xml:id="place_d62e121a1054">Salvatierra</placeName>
                </note>
                <note type="writings">
                   <p>Salvatierra</p>
@@ -5930,7 +5942,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d5e120a1054">San Gregorio, Kolleg, Valladolid</placeName>
+                  <placeName xml:id="place_d6e120a1054">San Gregorio, Kolleg, Valladolid</placeName>
                </note>
                <note type="writings">
                   <p>Colegio de Santoa) Gregorio</p>
@@ -5946,7 +5958,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d5e134a1054">San Pablo, Dominikanerkloster, Valladolid</placeName>
+                  <placeName xml:id="place_d6e134a1054">San Pablo, Dominikanerkloster, Valladolid</placeName>
                </note>
                <note type="writings">
                   <p>monasterio de Sant Pablo</p>
@@ -5962,7 +5974,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d23e114a1054">Santander</placeName>
+                  <placeName xml:id="place_d24e114a1054">Santander</placeName>
                </note>
                <note type="writings">
                   <p>Saintander</p>
@@ -5978,7 +5990,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d222e400a1054">Savona</placeName>
+                  <placeName xml:id="place_d223e400a1054">Savona</placeName>
                </note>
                <note type="writings">
                   <p>Savonne</p>
@@ -5994,7 +6006,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d28e204a1054">Savoyen</placeName>
+                  <placeName xml:id="place_d29e204a1054">Savoyen</placeName>
                </note>
                <note type="writings">
                   <p>Sabaudiensibus</p>
@@ -6029,7 +6041,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d153e373a1054">Schladming</placeName>
+                  <placeName xml:id="place_d154e373a1054">Schladming</placeName>
                </note>
                <note type="writings">
                   <p>Schladming</p>
@@ -6045,7 +6057,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e264a1054">Schottland</placeName>
+                  <placeName xml:id="place_d126e264a1054">Schottland</placeName>
                </note>
                <note type="writings">
                   <p>affaire d’Ecosse</p>
@@ -6061,7 +6073,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e1927a1054">Schwarzwald</placeName>
+                  <placeName xml:id="place_d82e1927a1054">Schwarzwald</placeName>
                </note>
                <note type="writings">
                   <p>Nigre Sylv</p>
@@ -6077,7 +6089,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d55e735a1054">Schweinfurt</placeName>
+                  <placeName xml:id="place_d56e735a1054">Schweinfurt</placeName>
                </note>
                <note type="writings">
                   <p>Schweinfurt</p>
@@ -6093,7 +6105,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d151e164a1054">Segovia</placeName>
+                  <placeName xml:id="place_d152e164a1054">Segovia</placeName>
                </note>
                <note type="writings">
                   <p>Segovia</p>
@@ -6109,7 +6121,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d36e110a1054">Senj</placeName>
+                  <placeName xml:id="place_d37e110a1054">Senj</placeName>
                </note>
                <note type="writings">
                   <p>Zengg</p>
@@ -6125,7 +6137,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d164e227a1054">Sevilla</placeName>
+                  <placeName xml:id="place_d165e227a1054">Sevilla</placeName>
                </note>
                <note type="writings">
                   <p>Ceville</p>
@@ -6161,7 +6173,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d254e213a1054">Siebenbürgen</placeName>
+                  <placeName xml:id="place_d255e213a1054">Siebenbürgen</placeName>
                </note>
                <note type="writings">
                   <p>Siebenbürgens</p>
@@ -6177,7 +6189,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d125e175a1054">Siena</placeName>
+                  <placeName xml:id="place_d126e175a1054">Siena</placeName>
                </note>
                <note type="writings">
                   <p>Senes</p>
@@ -6214,7 +6226,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d5e272a1054">Simancas</placeName>
+                  <placeName xml:id="place_d6e272a1054">Simancas</placeName>
                </note>
                <note type="writings">
                   <p>Simancas</p>
@@ -6230,7 +6242,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d36e300a1054">Šintava</placeName>
+                  <placeName xml:id="place_d37e300a1054">Šintava</placeName>
                </note>
                <note type="writings">
                   <p>Sempthe</p>
@@ -6246,7 +6258,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d117e217a1054">Soncino</placeName>
+                  <placeName xml:id="place_d118e217a1054">Soncino</placeName>
                </note>
                <note type="writings">
                   <p>Soncino</p>
@@ -6262,7 +6274,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d45e99a1054">Sopron</placeName>
+                  <placeName xml:id="place_d46e99a1054">Sopron</placeName>
                </note>
                <note type="writings">
                   <p>Eydembourg</p>
@@ -6327,7 +6339,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e274a1054">Speyer</placeName>
+                  <placeName xml:id="place_d71e274a1054">Speyer</placeName>
                </note>
                <note type="writings">
                   <p>Espira</p>
@@ -6525,7 +6537,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d257e119a1054">Sremska Mitrovica</placeName>
+                  <placeName xml:id="place_d258e119a1054">Sremska Mitrovica</placeName>
                </note>
                <note type="writings">
                   <p>Sirmiensem</p>
@@ -6541,7 +6553,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d81e2445a1054">Stendal</placeName>
+                  <placeName xml:id="place_d82e2445a1054">Stendal</placeName>
                </note>
                <note type="writings">
                   <p>Stendel</p>
@@ -6557,7 +6569,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d245e1008a1054">Straßburg</placeName>
+                  <placeName xml:id="place_d246e1008a1054">Straßburg</placeName>
                </note>
                <note type="writings">
                   <p>Straßburg</p>
@@ -6579,7 +6591,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d76e184a1054">Stuttgart</placeName>
+                  <placeName xml:id="place_d77e184a1054">Stuttgart</placeName>
                </note>
                <note type="writings">
                   <p>Estocarte</p>
@@ -6647,7 +6659,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d256e382a1054">Südtirol</placeName>
+                  <placeName xml:id="place_d257e382a1054">Südtirol</placeName>
                </note>
                <note type="writings">
                   <p>Südtirol</p>
@@ -6663,7 +6675,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d255e112a1054">Székesfehérvár</placeName>
+                  <placeName xml:id="place_d256e112a1054">Székesfehérvár</placeName>
                </note>
                <note type="writings">
                   <p>Albensis</p>
@@ -6686,7 +6698,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d205e301a1054">Tauern</placeName>
+                  <placeName xml:id="place_d206e301a1054">Tauern</placeName>
                </note>
                <note type="writings">
                   <p>Tauern</p>
@@ -6702,7 +6714,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e785a1054">Toledo</placeName>
+                  <placeName xml:id="place_d143e785a1054">Toledo</placeName>
                </note>
                <note type="writings">
                   <p>Toledo</p>
@@ -6863,7 +6875,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d13e189a1054">Tolosa</placeName>
+                  <placeName xml:id="place_d14e189a1054">Tolosa</placeName>
                </note>
                <note type="writings">
                   <p>Tolosa</p>
@@ -6879,7 +6891,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d99e152a1054">Tordesillas</placeName>
+                  <placeName xml:id="place_d100e152a1054">Tordesillas</placeName>
                </note>
                <note type="writings">
                   <p>Tordecille</p>
@@ -6915,7 +6927,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d13e164a1054">Tortosa</placeName>
+                  <placeName xml:id="place_d14e164a1054">Tortosa</placeName>
                </note>
                <note type="writings">
                   <p>Tolosa</p>
@@ -6931,7 +6943,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d249e228a1054">Toscana</placeName>
+                  <placeName xml:id="place_d250e228a1054">Toscana</placeName>
                </note>
                <note type="writings">
                   <p>Toscane</p>
@@ -6947,7 +6959,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d34e270a1054">Trient</placeName>
+                  <placeName xml:id="place_d35e270a1054">Trient</placeName>
                </note>
                <note type="writings">
                   <p>Trente</p>
@@ -7056,7 +7068,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d28e274a1054">Trier</placeName>
+                  <placeName xml:id="place_d29e274a1054">Trier</placeName>
                </note>
                <note type="writings">
                   <p>cité</p>
@@ -7112,7 +7124,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d153e286a1054">Tübingen</placeName>
+                  <placeName xml:id="place_d154e286a1054">Tübingen</placeName>
                </note>
                <note type="writings">
                   <p>Tibingen</p>
@@ -7237,7 +7249,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e259a1054">Ulm</placeName>
+                  <placeName xml:id="place_d71e259a1054">Ulm</placeName>
                </note>
                <note type="writings">
                   <p>Ulm</p>
@@ -7266,7 +7278,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d168e197a1054">Urach</placeName>
+                  <placeName xml:id="place_d169e197a1054">Urach</placeName>
                </note>
                <note type="writings">
                   <p>Urach</p>
@@ -7282,7 +7294,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e127a1054">Ustaritz</placeName>
+                  <placeName xml:id="place_d62e127a1054">Ustaritz</placeName>
                </note>
                <note type="writings">
                   <p>Ostarez</p>
@@ -7298,7 +7310,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d226e298a1054">Utrecht</placeName>
+                  <placeName xml:id="place_d227e298a1054">Utrecht</placeName>
                </note>
                <note type="writings">
                   <p>ceulx d’Utrecht</p>
@@ -7320,7 +7332,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e282a1054">Valence</placeName>
+                  <placeName xml:id="place_d62e282a1054">Valence</placeName>
                </note>
                <note type="writings">
                   <p>contéz de Valance</p>
@@ -7336,7 +7348,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d59e130a1054">Valencia</placeName>
+                  <placeName xml:id="place_d60e130a1054">Valencia</placeName>
                </note>
                <note type="writings">
                   <p>Valence</p>
@@ -7352,7 +7364,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d134e123a1054">Valenciennes</placeName>
+                  <placeName xml:id="place_d135e123a1054">Valenciennes</placeName>
                </note>
                <note type="writings">
                   <p>Valenchiennes</p>
@@ -7368,7 +7380,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d5e128a1054">Valladolid</placeName>
+                  <placeName xml:id="place_d6e128a1054">Valladolid</placeName>
                </note>
                <note type="writings">
                   <p>Vailladolid</p>
@@ -7448,7 +7460,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d95e143a1054">Verona</placeName>
+                  <placeName xml:id="place_d96e143a1054">Verona</placeName>
                </note>
                <note type="writings">
                   <p>Verona</p>
@@ -7476,7 +7488,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d95e147a1054">Vicenza</placeName>
+                  <placeName xml:id="place_d96e147a1054">Vicenza</placeName>
                </note>
                <note type="writings">
                   <p>Vincence</p>
@@ -7492,7 +7504,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d163e191a1054">Vigevano</placeName>
+                  <placeName xml:id="place_d164e191a1054">Vigevano</placeName>
                </note>
                <note type="writings">
                   <p>Vegevene</p>
@@ -7515,7 +7527,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d90e382a1054">Villefranche-sur-Mer</placeName>
+                  <placeName xml:id="place_d91e382a1054">Villefranche-sur-Mer</placeName>
                </note>
                <note type="writings">
                   <p>Villafranca</p>
@@ -7538,7 +7550,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d61e314a1054">Vitoria-Gasteiz</placeName>
+                  <placeName xml:id="place_d62e314a1054">Vitoria-Gasteiz</placeName>
                </note>
                <note type="writings">
                   <p>Victoria</p>
@@ -7567,7 +7579,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d116e158a1054">Vöcklabruck</placeName>
+                  <placeName xml:id="place_d117e158a1054">Vöcklabruck</placeName>
                </note>
                <note type="writings">
                   <p>Wecklapurg</p>
@@ -7583,7 +7595,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d142e731a1054">Vrbas</placeName>
+                  <placeName xml:id="place_d143e731a1054">Vrbas</placeName>
                </note>
                <note type="writings">
                   <p>Vrbas</p>
@@ -7599,7 +7611,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d70e650a1054">Walachei</placeName>
+                  <placeName xml:id="place_d71e650a1054">Walachei</placeName>
                </note>
                <note type="writings">
                   <p>Valachiam transalpinam</p>
@@ -7615,7 +7627,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d102e139a1054">Waldshut im Breisgau</placeName>
+                  <placeName xml:id="place_d103e139a1054">Waldshut im Breisgau</placeName>
                </note>
                <note type="writings">
                   <p>Waldshut</p>
@@ -7645,7 +7657,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d16e141a1054">Wels</placeName>
+                  <placeName xml:id="place_d17e141a1054">Wels</placeName>
                </note>
                <note type="writings">
                   <p>Wels</p>
@@ -7661,7 +7673,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d21e134a1054">Wien</placeName>
+                  <placeName xml:id="place_d22e134a1054">Wien</placeName>
                </note>
                <note type="writings">
                   <p>Viena</p>
@@ -7841,7 +7853,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d26e471a1054">Wiener Neustadt</placeName>
+                  <placeName xml:id="place_d27e471a1054">Wiener Neustadt</placeName>
                </note>
                <note type="writings">
                   <p>Neufve cité</p>
@@ -7899,7 +7911,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d213e390a1054">Wijnendale (Torhout)</placeName>
+                  <placeName xml:id="place_d214e390a1054">Wijnendale (Torhout)</placeName>
                </note>
                <note type="writings">
                   <p>Wynendalle</p>
@@ -7915,7 +7927,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d19e144a1054">Worms</placeName>
+                  <placeName xml:id="place_d20e144a1054">Worms</placeName>
                </note>
                <note type="writings">
                   <p>Vormes</p>
@@ -8037,7 +8049,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d149e204a1054">Xàtiva</placeName>
+                  <placeName xml:id="place_d150e204a1054">Xàtiva</placeName>
                </note>
                <note type="writings">
                   <p>Chativa</p>
@@ -8053,7 +8065,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d242e124a1054">Ybbs</placeName>
+                  <placeName xml:id="place_d243e124a1054">Ybbs</placeName>
                </note>
                <note type="writings">
                   <p>Ybbs</p>
@@ -8069,7 +8081,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d252e103a1054">Zagreb</placeName>
+                  <placeName xml:id="place_d253e103a1054">Zagreb</placeName>
                </note>
                <note type="writings">
                   <p>Zagrabiensi</p>
@@ -8085,7 +8097,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d12e138a1054">Zeeland</placeName>
+                  <placeName xml:id="place_d13e138a1054">Zeeland</placeName>
                </note>
                <note type="writings">
                   <p>Zelland</p>
@@ -8115,7 +8127,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName xml:id="place_d65e169a1054">Zürich</placeName>
+                  <placeName xml:id="place_d66e169a1054">Zürich</placeName>
                </note>
                <note type="writings">
                   <p>Zurich</p>
