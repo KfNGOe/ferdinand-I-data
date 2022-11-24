@@ -2,20 +2,18 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs"
-    version="2.0">
+    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs" version="2.0">
     
     <xsl:output method="xml" indent="no"/>
     
-    <xsl:template match="/">
-        <xsl:apply-templates/>
+    <xsl:template match="/" mode="RHguessRegestPN">
+        <xsl:apply-templates mode="RHguessRegestPN"/>
     </xsl:template>
     
-    <xsl:template match="@*|*|text()">
+    <xsl:template match="@*|*|text()" mode="RHguessRegestPN">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="@*" mode="RHguessRegestPN"/>
+            <xsl:apply-templates mode="RHguessRegestPN"/>
         </xsl:copy>
     </xsl:template>
     
@@ -76,7 +74,7 @@
         </xsl:analyze-string>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type='regesta']">
+    <xsl:template match="tei:div[@type='regesta']" mode="RHguessRegestPN">
         <!-- Count para numbers -->
         <xsl:choose>
             <xsl:when test="//tei:div[@type='transcript']//tei:p[@n]">
@@ -92,8 +90,8 @@
             </xsl:when>
             <xsl:otherwise>
                 <xsl:copy>
-                    <xsl:apply-templates select="@*"/>
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates select="@*" mode="RHguessRegestPN"/>
+                    <xsl:apply-templates mode="RHguessRegestPN"/>
                 </xsl:copy>
             </xsl:otherwise>
         </xsl:choose>

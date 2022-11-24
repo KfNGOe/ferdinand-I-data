@@ -34,7 +34,11 @@ for changed_file in $changes; do
     if test -f "$changed_file"; then
       echo "Docx was changed/added. Starting transform"
       echo "Starting docx to tei transformation"
+      
+      echo "common part"
       ant -f src/docx2tei/docx/build-from.xml -DinputFile=../../../$changed_file -DoutputFile="${cwd}/${teiOutputDir}temp/$name.xml"
+      
+      echo "custom part"
       java -cp src/docx2tei/saxon-he-10.jar net.sf.saxon.Transform -s:"${cwd}/${teiOutputDir}temp/$name.xml" -xsl:"${cwd}/src/docx2tei/docx2tei.xsl" -o:"${cwd}/${teiOutputDir}$name.xml"
   
       echo "Starting tei to dtabf transformation"
@@ -82,45 +86,28 @@ for file in $dtabfIdOutputDir*; do
   fi
 done
 
-echo zipping dtabf_id data
+echo zipping data
 
 cwd=$(pwd)
 
-if  test -f "${cwd}/data/dtabf_id-band_001.zip"; 
+if  test -f "${cwd}/data/data.zip"; 
 then
-    echo "removing zip letters"
-    rm "${cwd}/data/dtabf_id-band_001.zip"
+    echo "removing zip data"
+    rm "${cwd}/data/data.zip"
 else 
-    echo "no zip file of letters"    
+    echo "no zip file of data"    
 fi
 
-if  test -f "${cwd}/data/register.zip"; 
+if [ "$(ls -A ${cwd}/data/)" ]; 
 then
-    echo "removing zip register"
-    rm "${cwd}/data/register.zip"
+    echo "zip data"
+    cd ${cwd}/data/
+    zip -r ${cwd}/data/data.zip *
 else
-    echo "no zip file of register"    
-fi
-
-if [ "$(ls -A ${cwd}/data/dtabf_id/band_001/)" ]; 
-then
-    echo "zip letters"
-    cd ${cwd}/data/dtabf_id/band_001/
-    zip -r ${cwd}/data/dtabf_id-band_001.zip *.xml
-else
-    echo "no letters to zip"
-    exit
-fi
-
-if [ "$(ls -A ${cwd}/data/register/)" ]; then
-    echo "zip register"
-    cd ${cwd}/data/register/
-    zip -r ${cwd}/data/register.zip *.xml
-else
-    echo "no register to zip"
+    echo "no data to zip"
     exit
 fi
 
 cd ${cwd}
 
-echo zipping dtabf_id data was successfull
+echo zipping data was successfull

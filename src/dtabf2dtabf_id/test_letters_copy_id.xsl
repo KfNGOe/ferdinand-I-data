@@ -6,7 +6,7 @@
     xmlns:functx="http://www.functx.com"
     version="2.0" exclude-result-prefixes="xsl tei xs functx">
 
-    <xsl:output encoding="UTF-8" media-type="text" method="xml" version="1.0" indent="yes" omit-xml-declaration="no"/>
+    <xsl:output encoding="UTF-8" media-type="text" method="xml" version="1.0" indent="no" omit-xml-declaration="no"/>
         
     <xsl:function name="functx:add-id-person" as="node()*"
         xmlns:functx="http://www.functx.com"
@@ -110,6 +110,10 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:element>
     </xsl:template>
-    
+    <!-- 
+    <xsl:template match="text()">
+        <xsl:copy>normalize-space(.)</xsl:copy>
+    </xsl:template>
+    -->
     
 </xsl:stylesheet>

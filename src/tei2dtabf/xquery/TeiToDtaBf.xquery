@@ -14,8 +14,7 @@ declare function local:insert-element($nodes as node()*)
                 element { name($node) } {
                     $node/@*, 
                     (:local:insert-element($node/element()), :)
-                    element persName { attribute ref { "nognd" }, $node/text() }
-                     
+                    element persName { attribute ref { "nognd" }, $node/text() }                     
                 }
         case element(title)
             return 
@@ -71,25 +70,30 @@ declare function local:insert-element($nodes as node()*)
             </publicationStmt>
             
         case element(sourceDesc)
-            return 
+            return
                 <sourceDesc>
-                    <bibl type="MS">Die Korrespondenz Ferdinands I. Familienkorrespondenz bis 1526</bibl>
+                    <bibl type="MS">Ferdinand I., Kaiser: Die Korrespondenz Ferdinands I. Familienkorrespondenz bis 1526. Bd. 1. Wien, 1912.</bibl>
                     <biblFull>
-                        <titleStmt>
-                            <title type="main">Die Korrespondenz Ferdinands I. Familienkorrespondenz bis 1526</title>
-                        </titleStmt>
-                        <publicationStmt>
-                           <publisher>
-                              <name>Holzhausen</name>
-                           </publisher>
-                           <publisher>
-                              <name>Kommission für Neuere Geschichte Österreichs</name>
-                           </publisher>
-                           <pubPlace>Wien</pubPlace>
-                           <date type="publication">1912</date>
-                        </publicationStmt>               
+                       <titleStmt>
+                          <title level="m" type="main">Die Korrespondenz Ferdinands I.</title>
+                          <title level="m" type="volume" n="1">1</title>
+                          <title type="part" n="11">Familienkorrespondenz bis 1526 / bearb. von Wilhelm Bauer</title>
+                          <author>
+                             <persName>Ferdinand I., Heiliges Römisches Reich, Kaiser, 1503-1564</persName>
+                          </author>
+                       </titleStmt>               
+                       <publicationStmt>
+                          <publisher>
+                             <name>Holzhausen</name>
+                          </publisher>
+                          <publisher>
+                             <name>Kommission für Neuere Geschichte Österreichs</name>
+                          </publisher>
+                          <pubPlace>Wien</pubPlace>
+                          <date type="publication">1912</date>
+                       </publicationStmt>               
                     </biblFull>
-                </sourceDesc>              
+                 </sourceDesc>
                               
         case element(placeName)
             return 
@@ -115,8 +119,7 @@ declare function local:insert-element($nodes as node()*)
         case element(hi)
             return
             if (
-                $node/@rend = "normalweight" or 
-                $node/@rend = "spaced" or
+                $node/@rend = "normalweight" or
                 $node/@rend = "color(FF0000)" or
                 $node/@rend = "background(red)" or
                 $node/@rend = "background(green)" or
@@ -138,20 +141,12 @@ declare function local:insert-element($nodes as node()*)
                         if ($node/@rend ="italic color(FF0000)") then ("#i") else (),                        
                         if ($node/@rend ="superscript color(FF0000)") then ("#sup") else (),
                         if ($node/@rend ="italic color(7030A0)") then ("#i") else (),
-                        if ($node/@rend ="capsall") then ("#k") else ()                        
+                        if ($node/@rend ="capsall") then ("#k") else (),
+                        if ($node/@rend ="spaced") then ("#g") else ()                        
                     },                                        
                     local:insert-element($node/node())
                 }
-            )
-        case element(cell)
-            return 
-                element { name($node) } {
-                    $node/@*,
-                    element { "hi" } {
-                        attribute rendition { "#i" },
-                         local:insert-element($node/node()//text())
-                    }                   
-                }            
+            )                      
         case element(div)
             return
                 element { name($node) } {
@@ -205,11 +200,18 @@ declare function local:insert-element($nodes as node()*)
         case element(p)
             return
                 element { name($node) } {
+                    $node/@*,
                     local:insert-element($node/node())
                 }
         case element(index)
             return
-                <index resp="{$node/@resp}"><term key="{$node/@key}">{$node/text()}</term></index>
+                <index resp="{$node/@resp}">
+                    <term key="{$node/@key}">
+                    {                        
+                        local:insert-element($node/node())
+                    }
+                    </term>
+                </index>
         case element(seg)
             return
             $node/text()

@@ -3,30 +3,33 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:uibk="http://igwee.uibk.ac.at/custom/ns"
-    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs" version="2.0">
-
+    xmlns="http://www.tei-c.org/ns/1.0"
+    exclude-result-prefixes="xs"
+    version="2.0">
+    
     <xsl:param name="persNamePattern">^P(:|\.)\s+(.*)$</xsl:param>
     <xsl:param name="placeNamePattern">^O(:|\.)\s+(.*)$</xsl:param>
     <xsl:param name="indexPattern">^S(:|\.)\s+(.*?)$</xsl:param>
-
+    
     <xsl:output indent="no" method="xml"/>
-
+    
     <xsl:template match="/" mode="RHrsToRef">
         <xsl:variable name="toRef">
             <xsl:apply-templates mode="rsToRef"/>
         </xsl:variable>
+        
         <xsl:apply-templates select="$toRef" mode="cleanNote"/>
-
+        
     </xsl:template>
-
-
+    
+    
     <xsl:template mode="cleanNote" match="@*|*|text()|comment()">
         <xsl:copy>
             <xsl:apply-templates select="@*" mode="cleanNote"/>
             <xsl:apply-templates mode="cleanNote"/>
         </xsl:copy>
     </xsl:template>
-
+    
     <xsl:template mode="cleanNote" match="tei:note[@place='comment']">
         <xsl:variable name="target">
             <xsl:text>#</xsl:text>
@@ -41,19 +44,19 @@
             </xsl:when>
         </xsl:choose>
     </xsl:template>
-
-
+    
+    
     <xsl:template match="@*|text()|comment()" mode="rsToRef">
         <xsl:copy-of select="."/>
     </xsl:template>
-
+    
     <xsl:template match="*" mode="rsToRef">
         <xsl:copy>
             <xsl:apply-templates select="@*" mode="rsToRef"/>
             <xsl:apply-templates mode="rsToRef"/>
         </xsl:copy>
     </xsl:template>
-
+        
     <xsl:template match="tei:rs" mode="rsToRef">
         <xsl:variable name="refedId" select="@ref"/>
         <xsl:variable name="refedNote">
@@ -82,7 +85,7 @@
             </xsl:when>
         </xsl:choose>
     </xsl:template>
-
+    
     <xsl:template name="createRefNote">
         <xsl:param name="rsNode"/>
         <xsl:param name="hintString"/>
@@ -112,7 +115,7 @@
             </xsl:choose>
             <xsl:apply-templates select="$rsNode/node()" mode="rsToRef"/>
         </xsl:element>
-        <!--        <xsl:choose>
+<!--        <xsl:choose>
             <xsl:when test="string($keyValue)=''">
                 <xsl:copy-of select="$noteNode"/>
             </xsl:when>
@@ -129,8 +132,8 @@
             </xsl:when>
         </xsl:choose>
 -->    </xsl:template>
-
-
+    
+    
     <xsl:template name="getElementNameAndKeyValue">
         <xsl:param name="hintString"/>
         <xsl:choose>
@@ -139,9 +142,7 @@
                     <xsl:matching-substring>
                         <uibk:nameAndKey>
                             <uibk:name>persName</uibk:name>
-                            <uibk:key>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </uibk:key>
+                            <uibk:key><xsl:value-of select="regex-group(2)"/></uibk:key>
                         </uibk:nameAndKey>
                     </xsl:matching-substring>
                 </xsl:analyze-string>
@@ -151,9 +152,7 @@
                     <xsl:matching-substring>
                         <uibk:nameAndKey>
                             <uibk:name>placeName</uibk:name>
-                            <uibk:key>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </uibk:key>
+                            <uibk:key><xsl:value-of select="regex-group(2)"/></uibk:key>
                         </uibk:nameAndKey>
                     </xsl:matching-substring>
                 </xsl:analyze-string>
@@ -163,9 +162,7 @@
                     <xsl:matching-substring>
                         <uibk:nameAndKey>
                             <uibk:name>index</uibk:name>
-                            <uibk:key>
-                                <xsl:value-of select="regex-group(2)"/>
-                            </uibk:key>
+                            <uibk:key><xsl:value-of select="regex-group(2)"/></uibk:key>
                         </uibk:nameAndKey>
                     </xsl:matching-substring>
                 </xsl:analyze-string>
@@ -177,8 +174,8 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-
-
+    
+    
     <xsl:template name="searchForNote">
         <xsl:param name="ref"/>
         <xsl:variable name="id">
@@ -193,8 +190,8 @@
         </xsl:variable>
         <xsl:copy-of select="//tei:note[@xml:id=$id]"></xsl:copy-of>
     </xsl:template>
-
-
-
-
+    
+    
+    
+    
 </xsl:stylesheet>

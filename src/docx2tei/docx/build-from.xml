@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project basedir="." default="dist" name="docxtei">
+  
   <!--
 	This library is free software; you can redistribute it and/or
 	modify it under the terms of the GNU Lesser General Public
@@ -25,6 +26,10 @@
 
   <target name="dist" depends="convert,mediadir.check,embeddingdir.check,chartdir.check,picturecopy,embeddingcopy,chartcopy,cleanup"/>
 
+  <!-- 
+    docxtotei.xsl replaces from.xsl in:
+    https://github.com/TEIC/Stylesheets/profiles/default/docx/from.xsl 
+  -->
   <property name="docxtoTEI" value="./from/docxtotei.xsl"/>
 
   <target name="convert">

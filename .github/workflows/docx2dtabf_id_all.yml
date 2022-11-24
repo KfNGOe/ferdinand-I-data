@@ -1,5 +1,5 @@
 name: Docx To dtabfID
-#converts docx to dtabf_id and generates an release with the generated dtabf_id files. The release is then pushed to the github repository.
+#converts docx to dtabf_id (incl. xlsx transformation) and generates an release with the generated dtabf_id files. The release is then pushed to the github repository.
 
 on:
   push:
@@ -18,7 +18,9 @@ jobs:
           distribution: "adopt"
       - id: files
         uses: jitterbit/get-changed-files@v1
-      - name: running transform
+      - name: running xlsx transform
+        run: . ghactions-xlsx2tei.sh        
+      - name: running docx transform
         run: . ghactions-docx2dtabf_id_all.sh
         env:
           changes: ${{ steps.files.outputs.all }}      
@@ -39,24 +41,15 @@ jobs:
           body: Generated Release
           draft: false
           prerelease: false
-      - name: upload artifact
+      - name: upload data
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./data/dtabf_id-band_001.zip
-          asset_name: dtabf_id-band_001.zip
-          asset_content_type: application/gzip
-      - name: upload register
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./data/register.zip
-          asset_name: register.zip
-          asset_content_type: application/gzip
+          asset_path: ./data/data.zip
+          asset_name: data.zip
+          asset_content_type: application/gzip      
       - name: Trigger workflow in app repository
         run: |
           curl -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ secrets.ACCESS_TOKEN }}" https://api.github.com/repos/kfngoe/ferdinand-I-app/dispatches -d '{"event_type":"data-repository-dispatch","client_payload":{"unit":false,"integration":true}}'
@@ -68,3 +61,4 @@ jobs:
           commit_message: docx2xml transform
           push_options: "--force"
       
+

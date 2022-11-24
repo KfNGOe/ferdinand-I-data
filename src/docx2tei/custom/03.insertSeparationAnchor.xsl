@@ -3,30 +3,32 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:uibk="http://igwee.uibk.ac.at/custom/ns"
-    xmlns="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="xs tei" version="2.0">
-
+    xmlns="http://www.tei-c.org/ns/1.0"
+    exclude-result-prefixes="xs tei"
+    version="2.0">
+    
     <xsl:output method="xml" indent="no"/>
-
+    
     <xsl:template match="@*|tei:*|text()" mode="RHinsertSeparationAnchor">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates />
         </xsl:copy>
     </xsl:template>
-
-    <!--    <xsl:template match="tei:p[@rend]">
+    
+<!--    <xsl:template match="tei:p[@rend]">
         <xsl:choose>
             <xsl:when test="@rend='regest_de'">
                 <xsl:variable name="firstRegestDe" select="//tei:p[@rend='regest_de' and not(preceding::tei:p[@rend='regest_de'])]"/>
-                <xsl:variable name="lastRegestDe" select="//tei:p[@rend='regest_de' and not(following::tei:p[@rend='regest_de'])]"/>
+                <xsl:variable name="lastRegestDe"  select="//tei:p[@rend='regest_de' and not(following::tei:p[@rend='regest_de'])]"/>
                 <xsl:if test="not(//tei:p[preceding::tei:p=$firstRegestDe and following::tei:p=$lastRegestDe and not(@rend='regest_de')])">
                     
                 </xsl:if>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
--->
-
+-->    
+    
     <xsl:template match="tei:p[@rend]">
         <xsl:choose>
             <xsl:when test="@rend='italic'">
@@ -68,6 +70,6 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-
-
+    
+    
 </xsl:stylesheet>

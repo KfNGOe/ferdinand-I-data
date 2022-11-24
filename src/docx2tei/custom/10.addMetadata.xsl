@@ -13,11 +13,19 @@
                 <xsl:when test="//tei:div[@type='letter_header']">
                     <xsl:copy-of select="//*[parent::tei:div[@type='letter_header']]"/>
                 </xsl:when>
-                <xsl:when test="//tei:table">
-                    <xsl:copy-of select="//tei:p[following-sibling::tei:table]"/>
-                    <xsl:copy-of select="//tei:table"></xsl:copy-of>
-                </xsl:when>
-                <xsl:otherwise></xsl:otherwise>
+                <xsl:otherwise>
+                    <xsl:choose>
+                        <!-- RH -->
+                        <xsl:when test="//tei:body/tei:table[1]">
+                            <xsl:copy-of select="//tei:p[1][following-sibling::tei:table[1]]"/>
+                            <xsl:copy-of select="//tei:body/tei:table[1]"/>
+                        </xsl:when>
+                        <!-- RH -->
+                        <xsl:otherwise>
+                            <xsl:message>var $letterHeader: empty</xsl:message>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
         <uibk:headerInfo>
@@ -27,7 +35,7 @@
                         <xsl:if test="starts-with($letterHeader/tei:p[1], '*')">
                             <xsl:attribute name="inferred">yes</xsl:attribute>
                         </xsl:if>
-                        <xsl:value-of select="normalize-space(string($letterHeader/tei:p[1]))"/>
+                        <xsl:value-of select="normalize-space(string($letterHeader/tei:p[1]))"/>                        
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:text>No Title Information found</xsl:text>
@@ -98,67 +106,51 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-
-            <xsl:variable name="metadataLine2WithoutBrackets" select="replace($metadataLine2, '[\[\]()?]', '')"/>
-
-            <!-- <xsl:variable name="dates" select="uibk:dateparser($metadataLine2WithoutBrackets,'de[full-ymd]')"/> -->
-            <!-- RH start -->
-            <xsl:variable name="dates" select="substring-before($metadataLine2WithoutBrackets,'. ')"/>
-            <xsl:variable name="places" select="substring-before(substring-after($metadataLine2WithoutBrackets,'. '), '.')"/>
-            <!-- RH end
-            substring-after($metadataLine2WithoutBrackets,". ") -->
-            <uibk:dating>
-                <!-- <xsl:choose>
-                    <xsl:when test="$dates/uibk:date">
-                        <xsl:variable name="firstDate" select="($dates/uibk:date)[1]"/>
-                        <xsl:if test="$firstDate/@notBefore">
-                            <xsl:attribute name="notBefore" select="$firstDate/@notBefore"/>
-                        </xsl:if>
-                        <xsl:if test="$firstDate/@notAfter">
-                            <xsl:attribute name="notAfter" select="$firstDate/@notAfter"/>
-                        </xsl:if>
-                        <xsl:if test="$firstDate/@parsed">
-                            <xsl:attribute name="parsed" select="$firstDate/@parsed"/>
-                        </xsl:if>
-                        <xsl:value-of select="$firstDate"/>
+            <xsl:variable name="metadataLine2WithoutBrackets" select="replace($metadataLine2, '[\[\]()?]', '')"/>            
+            <xsl:variable name="dates">
+                <xsl:choose>
+                    <xsl:when test="ends-with($metadataLine2WithoutBrackets, '.')">
+                        <xsl:choose>
+                            <xsl:when test="contains($metadataLine2WithoutBrackets,'. ')">
+                                <xsl:value-of select="substring-before($metadataLine2WithoutBrackets,'. ')"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="substring-before($metadataLine2WithoutBrackets,'.')"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </xsl:when>
-                    <xsl:otherwise></xsl:otherwise>
-                </xsl:choose> 
-                -->
+                    <xsl:otherwise>
+                        <xsl:message>Date input not valid, "." at the end missing: <xsl:value-of select="$metadataLine2WithoutBrackets"/></xsl:message>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:variable>            
+            <uibk:dating>
                 <xsl:value-of select="$dates"/>
             </uibk:dating>
-            <uibk:placeName>
-                <!-- 
+            
+            <xsl:variable name="places">
                 <xsl:choose>
-                    <xsl:when test="$dates/uibk:date">
-                        <xsl:variable name="lastPart" select="$dates/text()[not(following-sibling::text()) and not(following-sibling::uibk:date)]"/>
-                        <xsl:message>last part for <xsl:copy-of select="$letterHeader/tei:p"/>
-:                        <xsl:copy-of select="$lastPart"/>
-                    </xsl:message>
-                    <xsl:analyze-string select="normalize-space($lastPart)" regex="(\W*)([^-\[\]—().;+0-9,]+)\W*">
-                        <xsl:matching-substring>
-                            <xsl:variable name="placeNameFull" select="normalize-space(regex-group(2))"/>
-                            <xsl:choose>
-                                <xsl:when test="matches($placeNameFull, '^.*[A-Z]\.$')">
-                                    <xsl:value-of select="$placeNameFull"/>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:value-of select="replace($placeNameFull, '\.$', '')"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </xsl:matching-substring>
-                    </xsl:analyze-string>
-                </xsl:when>
-                <xsl:otherwise></xsl:otherwise>
-            </xsl:choose> 
-            -->
+                    <xsl:when test="ends-with($metadataLine2WithoutBrackets, '.')">
+                        <xsl:choose>
+                            <xsl:when test="contains($metadataLine2WithoutBrackets,'. ')">
+                                <xsl:value-of select="substring-before(substring-after($metadataLine2WithoutBrackets,'. '), '.')"/>
+                            </xsl:when>
+                            <xsl:otherwise><xsl:message></xsl:message></xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:message>Place input not valid, "." at the end missing: <xsl:value-of select="$metadataLine2WithoutBrackets"/></xsl:message>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:variable>            
+            <uibk:placeName>                
                 <xsl:value-of select="$places"/>
             </uibk:placeName>
 
         </uibk:headerInfo>
     </xsl:variable>
-
-    <xsl:template match="@*|tei:*|text()" mode="RHaddMetadata">
+	
+	<xsl:template match="@*|tei:*|text()" mode="RHaddMetadata">
         <xsl:copy>
             <xsl:apply-templates mode="RHaddMetadata" select="@*"/>
             <xsl:apply-templates mode="RHaddMetadata"/>
