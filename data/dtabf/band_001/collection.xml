@@ -1,1 +1,1 @@
-<collection stable="true"><doc href="../../dtabf/band_001/A001.xml"/></collection>
+<collection stable="true"><doc href="../../dtabf/band_001/*.xml"/></collection>
