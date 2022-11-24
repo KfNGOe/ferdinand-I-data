@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>rh</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a XSLX file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <head>Tabelle1</head>
+            <row n="1">
+               <cell>Personenregister 1. Band</cell>
+            </row>
+            <row n="2">
+               <cell>Abkürzung</cell>
+               <cell>Ganzer Namen bzw. andere Schreibungen</cell>
+            </row>
+            <row n="3">
+               <cell>A</cell>
+               <cell>Anna von Böhmen und Ungarn, Gattin Ferdinands I.</cell>
+            </row>
+            <row n="4">
+               <cell>Albrecht von Brandenburg</cell>
+               <cell>Albrecht von Brandenburg, Erzbischof von Mainz, Kardinal, Kurfürst</cell>
+            </row>
+            <row n="5">
+               <cell>Alfonso I. d’Este</cell>
+               <cell>Alfonso I. d’Este, Herzog von Ferrara</cell>
+            </row>
+            <row n="6">
+               <cell>Bourbon</cell>
+               <cell>Bourbon, Karl III., Herzog von, „Connétable de Bourbon“</cell>
+            </row>
+            <row n="7">
+               <cell>Bredam</cell>
+               <cell>Bredam, Charles de Bourgogne, Herr von</cell>
+            </row>
+            <row n="8">
+               <cell>Brodaric</cell>
+               <cell>Brodarić, Stefan (Stjepan/István), Bischof von Sirmium/Sremska Mitrovica</cell>
+            </row>
+            <row n="9">
+               <cell>Burgo</cell>
+               <cell>Burgo, Andrea del, kaiserlicher Gesandter</cell>
+            </row>
+            <row n="10">
+               <cell>Campeggi</cell>
+               <cell>Campeggi, Lorenzo, Kardinal, päpstlicher Legat </cell>
+            </row>
+            <row n="11">
+               <cell>Caracciolo, Marino</cell>
+               <cell>Caracciolo, Marino, Kardinal, Diplomat im Dienste K's, Gouverneur von Mailand </cell>
+            </row>
+            <row n="12">
+               <cell>Christian II.</cell>
+               <cell>Christian II., König von Dänemark, König von Schweden, Gemahl Isabellas von Österreich </cell>
+            </row>
+            <row n="13">
+               <cell>Christian III.</cell>
+               <cell>Christian III., König von Dänemark</cell>
+            </row>
+            <row n="14">
+               <cell>Christoph von Württemberg</cell>
+               <cell>Christoph von Württemberg, Herzog von</cell>
+            </row>
+            <row n="15">
+               <cell>Cifuentes</cell>
+               <cell>Cifuentes, Ferdnando de Silva, Graf</cell>
+            </row>
+            <row n="16">
+               <cell>Cisneros</cell>
+               <cell>Cisneros, Francisco (Gonzalo) Jiménez de, Kardinal, Erzbischof von Toledo</cell>
+            </row>
+            <row n="17">
+               <cell>Cles</cell>
+               <cell>Cles, Bernhard von, Bischof von Trient, Kardinal, Kanzler F's</cell>
+            </row>
+            <row n="18">
+               <cell>Córdoba, Pedro de</cell>
+               <cell>Córdoba, Pedro de, Graf von Cabra, F's Oberststallmeister, Gesandter und Rat</cell>
+            </row>
+            <row n="19">
+               <cell>Croÿ, Adrien de</cell>
+               <cell>Croÿ, Adrien de, Herr von Beauraing, Graf von Roeulx, Vertrauter und Gesandter K's, Gouverneur von Flandern</cell>
+            </row>
+            <row n="20">
+               <cell>Eleonore von Österreich</cell>
+               <cell>Eleonore von Österreich, Königin von Portugal, Königin von Frankreich </cell>
+            </row>
+            <row n="21">
+               <cell>Elisabeth von Österreich</cell>
+               <cell>Elisabeth von Österreich,Tochter F's,  Gemahlin von Sigismund II. August von Polen</cell>
+            </row>
+            <row n="22">
+               <cell>Ercole II. d'Este</cell>
+               <cell>Ercole II. d'Este, Herzog von Ferrara</cell>
+            </row>
+            <row n="23">
+               <cell>Ferdinand der Katholische</cell>
+               <cell>Ferdinand II., der Katholische, König von Aragón</cell>
+            </row>
+            <row n="24">
+               <cell>Francesco II.</cell>
+               <cell>Francesco II. Sforza, Herzog von Mailand</cell>
+            </row>
+            <row n="25">
+               <cell>Franz I.</cell>
+               <cell>Franz I., König von Frankreich</cell>
+            </row>
+            <row n="26">
+               <cell>Friedrich II.</cell>
+               <cell>Friedrich II., Pfalzgraf, Kurfürst</cell>
+            </row>
+            <row n="27">
+               <cell>Frundsberg, Georg von</cell>
+               <cell>Frundsberg, Georg von, kaiserlicher Landsknechtsführer</cell>
+            </row>
+            <row n="28">
+               <cell>Gattinara</cell>
+               <cell>Gattinara, Mercurino Arborio di, Marchese, Großkanzler Ks </cell>
+            </row>
+            <row n="29">
+               <cell>Georg von Österreich</cell>
+               <cell>Georg von Österreich, unehelicher Sohn Maximilians I.</cell>
+            </row>
+            <row n="30">
+               <cell>Georg von Sachsen</cell>
+               <cell>Georg der Bärtige, Herzog des albertinischen Sachsen und Sagans</cell>
+            </row>
+            <row n="31">
+               <cell>Germaine de Foix</cell>
+               <cell>Germaine de Foix, Königin von Aragón, zweite Frau Ferdinands des Katholischen </cell>
+            </row>
+            <row n="32">
+               <cell>Granvelle, Nicolas Perrenot</cell>
+               <cell>Granvelle, Nicolas Perrenot, Herr von</cell>
+            </row>
+            <row n="33">
+               <cell>Greiffenklau, Richard von</cell>
+               <cell>Greiffenklau, Richard von, Erzbischof von Trier</cell>
+            </row>
+            <row n="34">
+               <cell>Hadrian VI.</cell>
+               <cell>Hadrian VI., Papst, Adrian von Utrecht (Adriaan Floriszoon Boeyens), Dekan von Saint-Pierre in Leuven/Louvain</cell>
+            </row>
+            <row n="35">
+               <cell>Hannart</cell>
+               <cell>Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland</cell>
+            </row>
+            <row n="36">
+               <cell>Heinrich VIII.</cell>
+               <cell>Heinrich VIII., König von England</cell>
+            </row>
+            <row n="37">
+               <cell>Hemricourt</cell>
+               <cell>Hemricourt, Henri de, Hofmeister Fs </cell>
+            </row>
+            <row n="38">
+               <cell>Hoogstraten, Anton von Lalaing, Graf von</cell>
+               <cell>Hoogstraten, Anton von Lalaing, 1. Graf von, Statthalter von Holland und Seeland</cell>
+            </row>
+            <row n="39">
+               <cell>Isabella die Katholische</cell>
+               <cell>Isabella die Katholische, Königin von Kastilien</cell>
+            </row>
+            <row n="40">
+               <cell>Isabella von Österreich</cell>
+               <cell>Isabella von Österreich, Königin von Dänemark</cell>
+            </row>
+            <row n="41">
+               <cell>Isabella von Portugal</cell>
+               <cell>Isabella von Portugal, Kaiserin, Gemahlin K's</cell>
+            </row>
+            <row n="42">
+               <cell>Joachim I. von Brandenburg</cell>
+               <cell>Joachim I. von Brandenburg, "Nestor", Markgraf von Brandenburg, Kurfürst</cell>
+            </row>
+            <row n="43">
+               <cell>Joachim II. von Brandenburg</cell>
+               <cell>Joachim II. von Brandenburg, "Hector", Markgraf von Brandenburg, Kurfürst</cell>
+            </row>
+            <row n="44">
+               <cell>Johann III. von Portugal</cell>
+               <cell>Johann III., König von Portugal</cell>
+            </row>
+            <row n="45">
+               <cell>Johanna von Kastilien</cell>
+               <cell>Johanna von Kastilien, Gattin Philipps I. („des Schönen“), „Johanna die Wahnsinnige“, Königin von Kastilien (1504-1555)</cell>
+            </row>
+            <row n="46">
+               <cell>Katharina von Aragón</cell>
+               <cell>Katharina von Aragón, Königin von England, F's Tante</cell>
+            </row>
+            <row n="47">
+               <cell>Katharina von Österreich</cell>
+               <cell>Katharina von Österreich, Königin von Portugal</cell>
+            </row>
+            <row n="48">
+               <cell>Klemens VII.</cell>
+               <cell>Klemens VII., Papst, Giulio de' Medici</cell>
+            </row>
+            <row n="49">
+               <cell>Lang, Matthäus</cell>
+               <cell>Lang von Wellenburg, Matthäus, Bischof von Gurk und Cartagena, Erzbischof von Salzburg</cell>
+            </row>
+            <row n="50">
+               <cell>Lannoy</cell>
+               <cell>Lannoy, Charles de, Vizekönig von Neapel</cell>
+            </row>
+            <row n="51">
+               <cell>Leo X.</cell>
+               <cell>Leo X., Papst, Giovanni (di Lorenzo) de' Medici </cell>
+            </row>
+            <row n="52">
+               <cell>Leyva, Antonio de</cell>
+               <cell>Leyva, Antonio de, Prinz von Ascoli</cell>
+            </row>
+            <row n="53">
+               <cell>Loquinghen</cell>
+               <cell>Loquinghen, Agent Ks in der Schweiz</cell>
+            </row>
+            <row n="54">
+               <cell>Ludwig II.</cell>
+               <cell>Ludwig II., König von Böhmen und Ungarn</cell>
+            </row>
+            <row n="55">
+               <cell>Ludwig V.</cell>
+               <cell>Ludwig V. von der Pfalz, Kurfürst </cell>
+            </row>
+            <row n="56">
+               <cell>Ludwig X.</cell>
+               <cell>Ludwig X., Herzog von Bayern (Landshut) </cell>
+            </row>
+            <row n="57">
+               <cell>Maximilian I.</cell>
+               <cell>Maximilian I., Kaiser</cell>
+            </row>
+            <row n="58">
+               <cell>Meneses</cell>
+               <cell>Meneses, Alonso de (González), Gesandter F's</cell>
+            </row>
+            <row n="59">
+               <cell>Mg</cell>
+               <cell>Margarete von Österreich, Prinzessin von Asturien, Herzogin von Savoyen, Statthalterin der Niederlande</cell>
+            </row>
+            <row n="60">
+               <cell>Moncada, Ugo de</cell>
+               <cell>Moncada, Ugo de, Vizekönig von Sizilien, Heerführer in Italien</cell>
+            </row>
+            <row n="61">
+               <cell>Montfort, Wolf</cell>
+               <cell>Montfort, Wolf, Graf von, Kammerherr Ks</cell>
+            </row>
+            <row n="62">
+               <cell>Montmorency, Anne de</cell>
+               <cell>Montmorency, Anne de, Marschall und Connétable von Frankreich</cell>
+            </row>
+            <row n="63">
+               <cell>Morone, Girolamo</cell>
+               <cell>Morone, Girolamo, Großkanzler des Herzogs von Mailand</cell>
+            </row>
+            <row n="64">
+               <cell>Nogarola, Leonhard</cell>
+               <cell>Nogarola, Leonhard, Gesandter F's</cell>
+            </row>
+            <row n="65">
+               <cell>Olah, Nikolaus</cell>
+               <cell>Oláh, Nikolaus, Berater und Gesandter M's, Bischof von Zagreb, Erzbischof von Eger und Esztergom</cell>
+            </row>
+            <row n="66">
+               <cell>Osorio, Álvaro de</cell>
+               <cell>Osorio, Álvaro de, Bischof von Astorga, Erzieher F's</cell>
+            </row>
+            <row n="67">
+               <cell>Paul III.</cell>
+               <cell>Paul III., Papst, Alessandro Farnese</cell>
+            </row>
+            <row n="68">
+               <cell>Pescara</cell>
+               <cell>Pescara, Fernando Francesco d’Avalos, Marchese di, K’s General in Italien</cell>
+            </row>
+            <row n="69">
+               <cell>Philipp der Schöne</cell>
+               <cell>Philipp I. von Österreich (Philipp der Schöne), König von Kastilien</cell>
+            </row>
+            <row n="70">
+               <cell>Philipp von Baden</cell>
+               <cell>Baden, Markgraf Philipp von</cell>
+            </row>
+            <row n="71">
+               <cell>Philipp von Hessen</cell>
+               <cell>Philipp von Hessen, Landgraf (1518-1567) </cell>
+            </row>
+            <row n="72">
+               <cell>Praet</cell>
+               <cell>Praet, Louis, Seigneur de, Gesandter K's</cell>
+            </row>
+            <row n="73">
+               <cell>Prantner</cell>
+               <cell>Prantner, Dr. Wolfgang</cell>
+            </row>
+            <row n="74">
+               <cell>Quintana, Pedro de</cell>
+               <cell>Quintana, Pedro de, Sekretär Ferdinands des Katholischen</cell>
+            </row>
+            <row n="75">
+               <cell>Salamanca</cell>
+               <cell>Salamanca, Gabriel de, Graf von Ortenburg, Schatzmeister Fs </cell>
+            </row>
+            <row n="76">
+               <cell>Salinas</cell>
+               <cell>Salinas, Martín de, Botschafter Fs bei K </cell>
+            </row>
+            <row n="77">
+               <cell>Salm, Niklas, Graf</cell>
+               <cell>Salm, Graf Niklas von, habsburgischer Feldherr, Verteidiger Wiens 1529</cell>
+            </row>
+            <row n="78">
+               <cell>Sánchez, Alfonso</cell>
+               <cell>Sánchez, Alfonso, K's Botschafter in Venedig</cell>
+            </row>
+            <row n="79">
+               <cell>Schnaitpeck</cell>
+               <cell>Schnaitpeck, Johann, Baron in Schönkirchen, Gesandter Ks und Fs in Ungarn</cell>
+            </row>
+            <row n="80">
+               <cell>Schönberg, Nikolaus von</cell>
+               <cell>Schönberg, Nikolaus von, Erzbischof von Capua, Kardinal, päpstlicher Nuntius</cell>
+            </row>
+            <row n="81">
+               <cell>Sigismund I.</cell>
+               <cell>Sigismund I., König von Polen</cell>
+            </row>
+            <row n="82">
+               <cell>Soria, Lope de</cell>
+               <cell>Soria, Lope de, Botschafter K's in Venedig</cell>
+            </row>
+            <row n="83">
+               <cell>Tovar, Luis de </cell>
+               <cell>Tovar, Luis de, Mitglied des Hofstaats F's</cell>
+            </row>
+            <row n="84">
+               <cell>Ulrich von Württemberg</cell>
+               <cell>Ulrich von Württemberg, Herzog</cell>
+            </row>
+            <row n="85">
+               <cell>Wied, Hermann V. von</cell>
+               <cell>Wied, Hermann V. von, Erzbischof von Köln, Kurfürst</cell>
+            </row>
+            <row n="86">
+               <cell>Wilhelm IV.</cell>
+               <cell>Wilhelm IV., Herzog von Bayern (München)</cell>
+            </row>
+            <row n="87">
+               <cell>Z</cell>
+               <cell>Johann/János I. Szapolyai/Zápolya, Woiwode von Siebenbürgen, König von Ungarn</cell>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
