@@ -57,14 +57,15 @@
 
   <xsl:function name="tei-spreadsheet:rels">
     <xsl:param name="node"/>
-    <xsl:variable name="document-uri">
+    <xsl:variable name="document-uri"> <!-- file:////WSL$/Ubuntu/home/rh/github/dev-ferdinand-I-data/src/xlsx2tei/xlsxtotei.xsl/.././${outputTempDir}/xl/workbook.xml -->
       <xsl:value-of select="document-uri($node/ancestor::document-node())"/>
     </xsl:variable>
-    <xsl:variable name="rels-filename">
+    <xsl:variable name="rels-filename"> <!-- file:////WSL$/Ubuntu/home/rh/github/dev-ferdinand-I-data/src/xlsx2tei/xlsxtotei.xsl/.././${outputTempDir}/xl/_rels/workbook.xml.rels -->
       <xsl:value-of select="replace($document-uri, '^(.*)/([^/]*)$', '$1/_rels/$2.rels')"/>
     </xsl:variable>
     <tei-spreadsheet:rels>
-      <xsl:for-each select="document($rels-filename)/rels:Relationships/rels:Relationship">        
+      <xsl:for-each select="document($rels-filename)/rels:Relationships/rels:Relationship">
+        <!-- <tei-spreadsheet:rel id="rId3" type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" target="file:////WSL$/Ubuntu/home/rh/github/dev-ferdinand-I-data/src/xlsx2tei/xlsxtotei.xsl/.././${outputTempDir}/xl/styles.xml" />  -->
         <tei-spreadsheet:rel id="{@Id}" type="{@Type}"
           target="{concat(replace($document-uri, '^(.*)/[^/]*$', '$1/'), @Target)}"/>
       </xsl:for-each>

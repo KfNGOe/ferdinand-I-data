@@ -126,7 +126,20 @@
                                                         </xsl:choose>
                                                     </xsl:when>
                                                     <xsl:otherwise>
-                                                        <xsl:value-of select="./ancestor::tei:p[parent::tei:div]/@n"/>
+                                                        <!-- find ancestor p -->                                                        
+                                                        <xsl:variable name="ancestorP" select="./ancestor::tei:p[parent::tei:div]"/>
+                                                        <!-- find self p -->
+                                                        <xsl:variable name="selfP" select="$ancestorP/self::tei:p[@n]"/>
+                                                        <!-- find sibling p -->
+                                                        <xsl:variable name="siblingP" select="$ancestorP/preceding-sibling::tei:p[@n][1]"/>
+                                                        <xsl:choose>
+                                                            <xsl:when test="$selfP">
+                                                                <xsl:value-of select="$selfP/@n"/>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>
+                                                                <xsl:value-of select="$siblingP/@n"/>
+                                                            </xsl:otherwise>
+                                                        </xsl:choose>
                                                     </xsl:otherwise>
                                                 </xsl:choose>                                                
                                             </note>
