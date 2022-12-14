@@ -116,7 +116,7 @@
                      <val>A105</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A131.xml">
                      <val>A131</val>
@@ -221,7 +221,7 @@
                      <val>A129</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A140.xml">
                      <val>A140</val>
@@ -380,7 +380,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">49</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -392,7 +392,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">71</note>
                   </p>
                   <p source="A085.xml">
                      <val>A85</val>
@@ -422,7 +422,7 @@
                      <val>A129</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A131.xml">
                      <val>A131</val>
@@ -593,13 +593,13 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A097.xml">
                      <val>A97</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A153.xml">
                      <val>A153</val>
@@ -849,7 +849,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                   <p source="A060.xml">
                      <val>A60</val>
@@ -1004,7 +1004,7 @@
                      <val>A85</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A206.xml">
                      <val>A206</val>
@@ -1144,7 +1144,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A058.xml">
                      <val>A58</val>
@@ -1192,7 +1192,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">21</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -1534,7 +1534,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -1552,7 +1552,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">36</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -1707,7 +1707,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -1773,7 +1773,7 @@
                      <val>A65</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A065.xml">
                      <val>A65</val>
@@ -1875,7 +1875,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">49</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -1971,7 +1971,7 @@
                      <val>A139</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">9</note>
                   </p>
                   <p source="A140.xml">
                      <val>A140</val>
@@ -2037,7 +2037,7 @@
                      <val>A182</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A189.xml">
                      <val>A189</val>
@@ -2091,7 +2091,7 @@
                      <val>A216</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">15</note>
                   </p>
                   <p source="A221.xml">
                      <val>A221</val>
@@ -2163,7 +2163,7 @@
                      <val>A261</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">7</note>
                   </p>
                </note>
             </item>
@@ -2206,7 +2206,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A097.xml">
                      <val>A97</val>
@@ -2302,7 +2302,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A071.xml">
                      <val>A71</val>
@@ -2774,7 +2774,7 @@
                      <val>A234</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A244.xml">
                      <val>A244</val>
@@ -3046,7 +3046,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A089.xml">
                      <val>A89</val>
@@ -3169,7 +3169,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -3211,7 +3211,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">49</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -3229,7 +3229,7 @@
                      <val>A81</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A083.xml">
                      <val>A83</val>
@@ -3578,7 +3578,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">49</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -3590,7 +3590,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A079.xml">
                      <val>A79</val>
@@ -4058,7 +4058,7 @@
                      <val>A164</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                </note>
             </item>
@@ -4374,7 +4374,7 @@
                      <val>A134</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -4525,7 +4525,7 @@
                      <val>A215</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                </note>
             </item>
@@ -4687,7 +4687,7 @@
                      <val>A83</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A102.xml">
                      <val>A102</val>
@@ -4787,7 +4787,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -5257,7 +5257,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -5329,7 +5329,7 @@
                      <val>A85</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A101.xml">
                      <val>A101</val>
@@ -5391,7 +5391,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A062.xml">
                      <val>A62</val>
@@ -5466,7 +5466,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A072.xml">
                      <val>A72</val>
@@ -5571,7 +5571,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A065.xml">
                      <val>A65</val>
@@ -5625,7 +5625,7 @@
                      <val>A85</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A088.xml">
                      <val>A88</val>
@@ -5840,7 +5840,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                   <p source="A065.xml">
                      <val>A65</val>
@@ -5870,7 +5870,7 @@
                      <val>A85</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A121a.xml">
                      <val>A121a</val>
@@ -5996,7 +5996,7 @@
                      <val>A133</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                </note>
             </item>
@@ -6163,7 +6163,7 @@
                      <val>A62</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                </note>
             </item>
@@ -6243,7 +6243,7 @@
                      <val>A65</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A065.xml">
                      <val>A65</val>
@@ -6321,7 +6321,7 @@
                      <val>A133</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                </note>
             </item>
@@ -6455,7 +6455,7 @@
                      <val>A216</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">13</note>
                   </p>
                   <p source="A216.xml">
                      <val>A216</val>
@@ -6837,7 +6837,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">36</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -7293,7 +7293,7 @@
                      <val>A182</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A183.xml">
                      <val>A183</val>
@@ -7473,7 +7473,7 @@
                      <val>A220</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A221.xml">
                      <val>A221</val>
@@ -7739,7 +7739,7 @@
                      <val>A215</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                </note>
             </item>
@@ -7965,7 +7965,7 @@
                      <val>A14</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -8079,7 +8079,7 @@
                      <val>A67</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A131.xml">
                      <val>A131</val>
@@ -8194,7 +8194,7 @@
                      <val>A67</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -8378,7 +8378,7 @@
                      <val>A250</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -8414,7 +8414,7 @@
                      <val>A207</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                </note>
             </item>
@@ -9443,7 +9443,7 @@
                      <val>A250</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -9461,7 +9461,7 @@
                      <val>A217</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                </note>
             </item>
@@ -9772,7 +9772,7 @@
                      <val>A243</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A254.xml">
                      <val>A254</val>
@@ -9814,7 +9814,7 @@
                      <val>A133</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                </note>
             </item>
@@ -9855,7 +9855,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -9885,7 +9885,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">36</note>
                   </p>
                   <p source="A117.xml">
                      <val>A117</val>
@@ -10000,7 +10000,7 @@
                      <val>A14</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A023.xml">
                      <val>A23</val>
@@ -10084,7 +10084,7 @@
                      <val>A189</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">7</note>
                   </p>
                   <p source="A216.xml">
                      <val>A216</val>
@@ -10187,7 +10187,7 @@
                      <val>A18</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">8</note>
                   </p>
                   <p source="A121b.xml">
                      <val>A121b</val>
@@ -10300,7 +10300,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A057.xml">
                      <val>A57</val>
@@ -10590,7 +10590,7 @@
                      <val>A85</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A102.xml">
                      <val>A102</val>
@@ -10774,7 +10774,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">71</note>
                   </p>
                   <p source="A097.xml">
                      <val>A97</val>
@@ -10877,7 +10877,7 @@
                      <val>A189</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A216.xml">
                      <val>A216</val>
@@ -11033,7 +11033,7 @@
                      <val>A189</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">7</note>
                   </p>
                </note>
             </item>
@@ -11059,7 +11059,7 @@
                      <val>A112</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A142.xml">
                      <val>A142</val>
@@ -11141,7 +11141,7 @@
                      <val>A136</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">27</note>
                   </p>
                </note>
             </item>
@@ -11303,7 +11303,7 @@
                      <val>A129</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A131.xml">
                      <val>A131</val>
@@ -11394,7 +11394,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">3</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -11490,7 +11490,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">36</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -11502,7 +11502,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -11790,7 +11790,7 @@
                      <val>A261</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">7</note>
                   </p>
                </note>
             </item>
@@ -11935,7 +11935,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -11983,7 +11983,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A066.xml">
                      <val>A66</val>
@@ -12055,7 +12055,7 @@
                      <val>A136</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">32</note>
                   </p>
                   <p source="A137.xml">
                      <val>A137</val>
@@ -12091,7 +12091,7 @@
                      <val>A164</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A175.xml">
                      <val>A175</val>
@@ -12287,7 +12287,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A153.xml">
                      <val>A153</val>
@@ -12356,7 +12356,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -12530,7 +12530,7 @@
                      <val>A250</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -12929,7 +12929,7 @@
                      <val>A26</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">26</note>
                   </p>
                   <p source="A075.xml">
                      <val>A75</val>
@@ -13026,7 +13026,7 @@
                      <val>A21</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A021.xml">
                      <val>A21</val>
@@ -13276,7 +13276,7 @@
                      <val>A46</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">6</note>
                   </p>
                   <p source="A056.xml">
                      <val>A56</val>
@@ -13288,7 +13288,7 @@
                      <val>A56</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">4</note>
                   </p>
                   <p source="A057.xml">
                      <val>A57</val>
@@ -13563,7 +13563,7 @@
                      <val>A14</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A018.xml">
                      <val>A18</val>
@@ -13701,7 +13701,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">49</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -13713,7 +13713,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">71</note>
                   </p>
                   <p source="A079.xml">
                      <val>A79</val>
@@ -13731,7 +13731,7 @@
                      <val>A87</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A105.xml">
                      <val>A105</val>
@@ -14299,7 +14299,7 @@
                      <val>A158</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">5</note>
                   </p>
                   <p source="A164.xml">
                      <val>A164</val>
@@ -14820,7 +14820,7 @@
                      <val>A97</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">1</note>
                   </p>
                   <p source="A256.xml">
                      <val>A256</val>
@@ -14847,7 +14847,7 @@
                      <val>A14</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A029.xml">
                      <val>A29</val>
@@ -14923,7 +14923,7 @@
                      <val>A76</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
-                     <note type="para"/>
+                     <note type="para">54</note>
                   </p>
                   <p source="A076.xml">
                      <val>A76</val>
@@ -14953,7 +14953,7 @@
                      <val>A129</val>
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
-                     <note type="para"/>
+                     <note type="para">2</note>
                   </p>
                   <p source="A136.xml">
                      <val>A136</val>
