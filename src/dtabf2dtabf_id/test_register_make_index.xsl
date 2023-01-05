@@ -47,7 +47,7 @@
                             <item>
                                 <note type="index">
                                     <index>
-                                        <term xml:id="index_{generate-id(@key)}">
+                                        <term n="index_{generate-id(@key)}">
                                             <xsl:value-of select="@key"/>
                                         </term>
                                     </index>

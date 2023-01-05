@@ -13,7 +13,6 @@
     </xsl:variable>
      
     <xsl:variable name="coll" select="collection($full_path)"/>
-    <!-- <xsl:variable name="coll" select="doc('//wsl$/Ubuntu/home/hoermann/GitHub/dev-ferdinand-I-data/data/dtabf/band_001/A087.xml')"/> -->
     
     <xsl:variable name="TEI" select="//element()"></xsl:variable>
     
@@ -47,7 +46,7 @@
 
                             <item>
                                 <note type="person">
-                                    <persName xml:id="person_{generate-id(@key)}">
+                                    <persName n="person_{generate-id(@key)}">
                                         <xsl:value-of select="@key"/>
                                     </persName>
                                 </note>

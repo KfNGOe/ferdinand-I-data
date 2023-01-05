@@ -16,7 +16,7 @@
         
         <xsl:for-each select="$elements//tei:persName">            
             <xsl:if test=". = $key">
-                <xsl:value-of select="./@xml:id"/>    
+                <xsl:value-of select="./@n"/>    
             </xsl:if>   
         </xsl:for-each>
         
@@ -30,7 +30,7 @@
         
         <xsl:for-each select="$elements//tei:placeName">            
             <xsl:if test=". = $key">
-                <xsl:value-of select="./@xml:id"/>    
+                <xsl:value-of select="./@n"/>    
             </xsl:if>   
         </xsl:for-each>
         
@@ -44,7 +44,7 @@
         
         <xsl:for-each select="$elements//tei:term">            
             <xsl:if test=". = $key">
-                <xsl:value-of select="./@xml:id"/>    
+                <xsl:value-of select="./@n"/>    
             </xsl:if>   
         </xsl:for-each>
         
@@ -84,7 +84,7 @@
     <xsl:template match="tei:persName">        
         <xsl:element name="persName">
             <xsl:if test="exists(@key)">
-                <xsl:attribute name="xml:id"                
+                <xsl:attribute name="n"                
                     select="functx:add-id-person($reg_person, @key)"/>
             </xsl:if>                      
             <xsl:apply-templates select="@*|node()"/>
@@ -94,7 +94,7 @@
     <xsl:template match="tei:placeName">
         <xsl:element name="placeName">
             <xsl:if test="exists(@key)">
-                <xsl:attribute name="xml:id"                
+                <xsl:attribute name="n"                
                     select="functx:add-id-place($reg_place, @key)"/>
             </xsl:if>                      
             <xsl:apply-templates select="@*|node()"/>
@@ -104,7 +104,7 @@
     <xsl:template match="tei:term">
         <xsl:element name="term">
             <xsl:if test="exists(@key)">
-                <xsl:attribute name="xml:id"                
+                <xsl:attribute name="n"                
                     select="functx:add-id-index($reg_index, @key)"/>
             </xsl:if>                      
             <xsl:apply-templates select="@*|node()"/>

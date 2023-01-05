@@ -1,0 +1,55 @@
+name: dispatch_docx2dtabf
+#converts docx to dtabf_id (incl. xlsx transformation) and generates a release with the generated dtabf_id files. The release is then pushed to the github repository.
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up JDK 11
+        uses: actions/setup-java@v2
+        with:
+          java-version: "11"
+          distribution: "adopt"
+      - name: running xlsx transform
+        run: . ghactions-xlsx2tei.sh
+      - name: running docx transform
+        run: . ghactions-docx2dtabf_id_all.sh
+      - name: Set outputs
+        id: vars
+        run: echo "timestap=$(date +%s)" >> $GITHUB_ENV
+      - uses: rickstaa/action-create-tag@v1
+        with:
+          tag: ${{ env.timestap }}
+      - name: Create Release
+        id: create_release
+        uses: juitnow/github-action-create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          tag_name: ${{ env.timestap }}
+          release_name: Release ${{ env.timestap }}
+          body: Generated Release
+          draft: false
+          prerelease: false
+      - name: upload data
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./data/data.zip
+          asset_name: data.zip
+          asset_content_type: application/gzip
+      - name: Trigger workflow in app repository
+        run: |
+          curl -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ secrets.ACCESS_TOKEN }}" https://api.github.com/repos/rh1967/dev-ferdinand-I-app/dispatches -d '{"event_type":"data-repository-dispatch","client_payload":{"unit":false,"integration":true}}'
+      - name: Set git permissions
+        run: |
+          sudo chown -R runner .git/*
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: docx2xml transform
+          push_options: "--force"

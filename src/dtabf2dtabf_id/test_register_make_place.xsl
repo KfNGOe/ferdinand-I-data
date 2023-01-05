@@ -47,7 +47,7 @@
                             
                             <item>
                                 <note type="place">
-                                    <placeName xml:id="place_{generate-id(@key)}">
+                                    <placeName n="place_{generate-id(@key)}">
                                         <xsl:value-of select="@key"/>
                                     </placeName>
                                 </note>

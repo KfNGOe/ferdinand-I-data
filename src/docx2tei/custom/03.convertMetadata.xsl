@@ -7,11 +7,11 @@
     exclude-result-prefixes="xs uibk tei"
     version="2.0">
     
-    <xsl:param name="fromToPattern">^(.*?)\s+an\s+(.*?)$</xsl:param>
+    <xsl:param name="fromToPattern">^(.*?)\s+an\s+(.*?)$</xsl:param><!-- e.g. Maximilian I. an Ferdinand. -->
     <xsl:param name="editionStmt"><edition><date when="2014-03-25" />Online Edition Test: Herrscher Korrespondenz</edition></xsl:param>
     <xsl:param name="publicationStmt"><p>Testveröffentlichung Herrscher Korrespondenz</p></xsl:param>
     <xsl:variable name="metadata">
-        <xsl:call-template name="getMetadata"/>
+        <xsl:call-template name="getMetadata"/><!-- e.g. ... <uibk:date>1514 Juli 21. Gmunden.</uibk:date> -->
     </xsl:variable>
     
     <xsl:output method="xml" indent="no"/>
@@ -26,7 +26,7 @@
                 <xsl:text> an </xsl:text>
                 <persName role="recipient"><xsl:value-of select="$metadata/uibk:metadata/uibk:recipient"/></persName>
                 <xsl:text>, </xsl:text>
-                <date><xsl:value-of select="$metadata/uibk:metadata/uibk:date"/></date></title>
+                <date><xsl:value-of select="$metadata/uibk:metadata/uibk:date"/><!-- e.g. 1514 Juli 21. Gmunden. --></date></title>
             <author><xsl:value-of select="$metadata/uibk:metadata/uibk:sender"/></author>
         </titleStmt>
     </xsl:template>
@@ -60,7 +60,7 @@
     </xsl:template>
     
     <xsl:template name="getMetadata">
-        <xsl:variable name="fromToDate">
+        <xsl:variable name="fromToDate"><!-- e.g. ... <uibk:date>1514 Juli 21. Gmunden.</uibk:date> -->
             <xsl:call-template name="getFromToDate"/>
         </xsl:variable>
         <xsl:variable name="title">
@@ -75,7 +75,7 @@
         <uibk:metadata>
             <uibk:sender><xsl:value-of select="$fromToDate//uibk:from"/></uibk:sender>
             <uibk:recipient><xsl:value-of select="$fromToDate//uibk:to"/></uibk:recipient>
-            <uibk:date><xsl:value-of select="$fromToDate//uibk:date"/></uibk:date>
+            <uibk:date><xsl:value-of select="$fromToDate//uibk:date"/></uibk:date><!-- e.g. <uibk:date>1514 Juli 21. Gmunden.</uibk:date> -->
             <uibk:id><xsl:value-of select="$id"/></uibk:id>
             <uibk:title><xsl:value-of select="$title"/></uibk:title>
         </uibk:metadata>
@@ -91,7 +91,7 @@
                 <xsl:variable name="table" select="//tei:body//tei:table[1]"/>
                 <xsl:choose>
                     <xsl:when test="count($table//tei:cell) = 2">
-                        <xsl:variable name="title" select="string($table/tei:row[1]/tei:cell[1])"/>
+                        <xsl:variable name="title" select="string($table/tei:row[1]/tei:cell[1])"/><!-- e.g. Maximilian I. an Ferdinand. -->
                         <xsl:choose>
                             <xsl:when test="matches($title, $fromToPattern)">
                                 <xsl:analyze-string select="$title" regex="{$fromToPattern}">
@@ -99,7 +99,7 @@
                                         <uibk:fromToDate>
                                             <uibk:from><xsl:value-of select="regex-group(1)"/></uibk:from>
                                             <uibk:to><xsl:value-of select="regex-group(2)"/></uibk:to>
-                                            <uibk:date><xsl:value-of select="$table/tei:row[1]/tei:cell[2]"/></uibk:date>
+                                            <uibk:date><xsl:value-of select="$table/tei:row[1]/tei:cell[2]"/><!-- e.g. 1514 Juli 21. Gmunden. --></uibk:date>
                                         </uibk:fromToDate>
                                     </xsl:matching-substring>
                                     <xsl:non-matching-substring>

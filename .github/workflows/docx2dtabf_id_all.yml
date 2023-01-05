@@ -1,10 +1,10 @@
 name: Docx To dtabfID
-#converts docx to dtabf_id (incl. xlsx transformation) and generates an release with the generated dtabf_id files. The release is then pushed to the github repository.
+#converts docx to dtabf_id (incl. xlsx transformation) and generates a release with the generated dtabf_id files. The release is then pushed to the github repository.
 
 on:
   push:
     paths:
-      - "data/docx/band_001/**"
+      - "data/docx/band_001/**"  
 
 jobs:
   build:

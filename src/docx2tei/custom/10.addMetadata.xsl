@@ -7,6 +7,8 @@
 
     <xsl:output method="xml" indent="no"/>
 
+    <xsl:import href="../date2iso.xsl"/>
+
     <xsl:variable name="headerInfo">
         <xsl:variable name="letterHeader">
             <xsl:choose>
@@ -106,8 +108,9 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-            <xsl:variable name="metadataLine2WithoutBrackets" select="replace($metadataLine2, '[\[\]()?]', '')"/>            
+            <xsl:variable name="metadataLine2WithoutBrackets" select="replace($metadataLine2, '[\[\]()?]', '')"/><!-- e.g. 1514 Juli 21. Gmunden. -->            
             <xsl:variable name="dates">
+                <!-- RH -->
                 <xsl:choose>
                     <xsl:when test="ends-with($metadataLine2WithoutBrackets, '.')">
                         <xsl:choose>
@@ -123,9 +126,44 @@
                         <xsl:message>Date input not valid, "." at the end missing: <xsl:value-of select="$metadataLine2WithoutBrackets"/></xsl:message>
                     </xsl:otherwise>
                 </xsl:choose>
+                <!-- RH -->
             </xsl:variable>            
             <uibk:dating>
-                <xsl:value-of select="$dates"/>
+                <!-- RH -->
+                <!-- date to iso 8601 conversion -->
+                <!-- https://stackoverflow.com/questions/17079954/convert-date-time-format-in-xslt -->                
+                <xsl:choose>
+                    <xsl:when test="contains($dates,' – ')"><!-- e.g. 1514 Juli 21 --><!-- e.g. 1525 März 26 – 31 -->
+                        <xsl:attribute name="notBefore">
+                            <xsl:analyze-string select="$dates" regex="([0-9]+)\s([A-Za-zä]+)\s([0-9]+)\s–\s([0-9]+)">
+                                <xsl:matching-substring>
+                                    <xsl:call-template name="date2iso">
+                                        <xsl:with-param name="date" select="concat(regex-group(1),' ', regex-group(2),' ', regex-group(3))"/>
+                                    </xsl:call-template>                                    
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>                            
+                        </xsl:attribute>
+                        <xsl:attribute name="notAfter">
+                            <xsl:analyze-string select="$dates" regex="([0-9]+)\s([A-Za-zä]+)\s([0-9]+)\s–\s([0-9]+)">
+                                <xsl:matching-substring>
+                                    <xsl:call-template name="date2iso">
+                                        <xsl:with-param name="date" select="concat(regex-group(1),' ', regex-group(2),' ', regex-group(4))"/>
+                                    </xsl:call-template>                                    
+                                </xsl:matching-substring>
+                            </xsl:analyze-string>
+                        </xsl:attribute>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:attribute name="parsed">
+                            <xsl:call-template name="date2iso">
+                                <xsl:with-param name="date" select="$dates"/><!-- e.g. 1514 Juli 21 -->
+                            </xsl:call-template>
+                        </xsl:attribute>                        
+                    </xsl:otherwise>
+                </xsl:choose>
+                
+                <xsl:value-of select="$dates"/><!-- e.g. 1514 Juli 21 -->
+                <!-- RH -->
             </uibk:dating>
             
             <xsl:variable name="places">
