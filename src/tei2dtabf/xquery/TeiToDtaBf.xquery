@@ -98,14 +98,14 @@ declare function local:insert-element($nodes as node()*)
         case element(placeName)
             return 
                 element { name($node) } {
-                    attribute ref { "nognd" },
+                    attribute ref { "nogeoname" },
                     $node/@*, 
                     local:insert-element($node/node())
                 }
         case element(settlement)
             return 
                 element placeName { 
-                attribute ref { "nognd" }, 
+                attribute ref { "nogeoname" }, 
                 $node/text() 
                 }
         case element(name)

@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- Stylesheet used to generate an XML from the JSON input -->
 <xsl:stylesheet xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:functx="http://www.functx.com" version="2.0" exclude-result-prefixes="xsl tei xs functx">
+    xmlns:xpathf="http://www.w3.org/2005/xpath-functions"
+    xmlns:functx="http://www.functx.com" version="3.0" exclude-result-prefixes="xsl tei xs xpathf functx">
     
-    <xsl:output encoding="UTF-8" media-type="text" method="xml" version="1.0" indent="yes" omit-xml-declaration="no"/>
+    <xsl:output encoding="UTF-8" media-type="text" method="xml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
     
+    <!-- fetch geoname id -->    
+    <xsl:function name="functx:add-geoname-id-reg" as="node()*"
+        xmlns:functx="http://www.functx.com"
+        xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns:xpathf="http://www.w3.org/2005/xpath-functions">
+        
+        <xsl:param name="elements" as="node()"/><!-- var $json2xml -->        
+        <xsl:param name="key" as="item()"/><!-- var @key -->
+        
+        <xsl:for-each select="$elements//xpathf:map[parent::xpathf:array]">            
+            <xsl:if test="./xpathf:string[@key = 'key']/text() = $key">
+                <xsl:value-of select="./xpathf:map[child::xpathf:string[@key = 'authority']/text() = 'GEO_NAMES']/xpathf:string[@key = 'id']/text()"/>    
+            </xsl:if>   
+        </xsl:for-each>        
+    </xsl:function>
+    
+    <!-- input XML letter files -->
     <xsl:variable name="full_path">
         <xsl:value-of select="document-uri(/)"/>
     </xsl:variable>
     
     <xsl:variable name="coll" select="collection($full_path)"/>
+    <!-- 
+    <xsl:variable name="coll" select="document($full_path)"/>
+    -->
     
+    <!-- input JSON file -->
+    <xsl:variable name="json" select="'../../data/json/map.json'"/>    
+    <xsl:variable name="json2xml" select="json-to-xml(unparsed-text($json))"/>    
     
-    <xsl:variable name="TEI" select="//element()"></xsl:variable>
-    
+    <!-- make register -->    
     <xsl:variable name="tree">
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
             <teiHeader>
@@ -51,6 +74,10 @@
                                         <xsl:value-of select="@key"/>
                                     </placeName>
                                 </note>
+                                <note type="geoname">
+                                    <xsl:value-of select="functx:add-geoname-id-reg($json2xml, @key)"/>
+                                </note>
+                                <note type="gnd"></note>
                                 <note type="writings">
                                     <xsl:for-each select="distinct-values($normalizeGroup/tei:p)">
                                         <xsl:sort select="." lang="de-de"/>
@@ -152,22 +179,41 @@
             </text>
         </TEI>
     </xsl:variable>
+    <!-- output JSON file -->
+    <xsl:variable name="xml2json">
+        <array xmlns="http://www.w3.org/2005/xpath-functions">            
+            <xsl:for-each select="$tree//tei:item">
+                <map>
+                    <string key="geoname">
+                        <xsl:value-of select="./tei:note[@type='geoname']"/>
+                    </string>
+                    <array key="writings">
+                        <xsl:for-each select="./tei:note[@type='writings']/tei:p">                                
+                            <string>
+                                <xsl:value-of select="."/>
+                            </string>
+                        </xsl:for-each>                            
+                    </array>
+                </map>
+            </xsl:for-each>                        
+        </array>
+    </xsl:variable>
     
+    <!-- initial template -->
     <xsl:template match="/">
-        <!-- 
-        <xsl:result-document href="../../register/test_reg.xml" method="xml">
-        -->
-        <xsl:call-template name="make_reg"></xsl:call-template>
-        <!--     
+        <xsl:result-document href="../../data/register/tmp/jsonToXml.xml">
+            <xsl:sequence select="$json2xml"/>
+        </xsl:result-document>
+        <xsl:call-template name="make_reg"/>
+        <xsl:result-document href="../../data/json/register_place_writings.json">                        
+            <xsl:value-of select="xml-to-json($xml2json)"/>
         </xsl:result-document>        
-        -->
-        
     </xsl:template>
     
-    <!-- make register -->
-    
+    <!-- register template -->    
     <xsl:template name="make_reg" match="$tree">
         <xsl:sequence select="$tree"/>
     </xsl:template>
     
 </xsl:stylesheet>
+    
