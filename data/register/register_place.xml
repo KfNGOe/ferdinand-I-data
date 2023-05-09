@@ -2891,6 +2891,7 @@
                   <p>Ispruc</p>
                   <p>Isprug</p>
                   <p>Ynsbrouch</p>
+                  <p>Ynsbrouck</p>
                   <p>Ynsprug</p>
                   <p>Ysbourgh</p>
                   <p>Ysbrouch</p>
@@ -3036,6 +3037,12 @@
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
                      <note type="para">2</note>
+                  </p>
+                  <p source="A105.xml">
+                     <val>A105</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
                   </p>
                   <p source="A106.xml">
                      <val>A106</val>
@@ -3282,24 +3289,6 @@
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
                      <note type="para">2</note>
-                  </p>
-               </note>
-            </item>
-            <item>
-               <note type="place">
-                  <placeName n="place_d108e139a1058">Innsbruck </placeName>
-               </note>
-               <note type="geoname"/>
-               <note type="gnd"/>
-               <note type="writings">
-                  <p>Ynsbrouck</p>
-               </note>
-               <note type="occurence">
-                  <p source="A105.xml">
-                     <val>A105</val>
-                     <note type="volNr">1</note>
-                     <note type="div">transcription</note>
-                     <note type="para">1</note>
                   </p>
                </note>
             </item>
