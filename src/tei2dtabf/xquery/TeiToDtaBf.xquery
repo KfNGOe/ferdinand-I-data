@@ -38,7 +38,9 @@ declare function local:insert-element($nodes as node()*)
                 element { name($node) } {
                     attribute ref { "nognd" },
                     (:if (($node[parent::title]) and ($node[@role])) then () else ($node/@*),:)
-                    $node/@*,
+                    attribute key { normalize-space($node/@key) },
+                    $node/@*[not(name()="key")],
+                    (:$node/@*,:)
                     local:insert-element($node/node())
                 }
         case element(editionStmt)
@@ -99,7 +101,9 @@ declare function local:insert-element($nodes as node()*)
             return 
                 element { name($node) } {
                     attribute ref { "nogeoname" },
-                    $node/@*, 
+                    attribute key { normalize-space($node/@key) },
+                    $node/@*[not(name()="key")],
+                    (:$node/@*,:) 
                     local:insert-element($node/node())
                 }
         case element(settlement)
@@ -206,7 +210,7 @@ declare function local:insert-element($nodes as node()*)
         case element(index)
             return
                 <index resp="{$node/@resp}">
-                    <term key="{$node/@key}">
+                    <term key="{normalize-space($node/@key)}">
                     {                        
                         local:insert-element($node/node())
                     }
