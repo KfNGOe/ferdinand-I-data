@@ -1405,7 +1405,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d60e213a1058">Celje</placeName>
+                  <placeName n="place_d60e209a1058">Celje</placeName>
                </note>
                <note type="geoname">3202781</note>
                <note type="gnd"/>
@@ -5059,6 +5059,7 @@
                   <p>Noremberghe</p>
                   <p>Norimbergensi</p>
                   <p>Nueremberga</p>
+                  <p>Nueremberge</p>
                   <p>Nuernbergam</p>
                   <p>Nuremberg</p>
                   <p>Nurembergẹ</p>
@@ -5162,6 +5163,12 @@
                      <note type="div">commentary</note>
                      <note type="para">5</note>
                   </p>
+                  <p source="A049.xml">
+                     <val>A49</val>
+                     <note type="volNr">1</note>
+                     <note type="div">archive_desc</note>
+                     <note type="para"/>
+                  </p>
                   <p source="A050.xml">
                      <val>A50</val>
                      <note type="volNr">1</note>
@@ -5196,6 +5203,12 @@
                      <val>A54</val>
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
+                     <note type="para"/>
+                  </p>
+                  <p source="A057.xml">
+                     <val>A57</val>
+                     <note type="volNr">1</note>
+                     <note type="div">archive_desc</note>
                      <note type="para"/>
                   </p>
                   <p source="A058.xml">
@@ -5371,30 +5384,6 @@
                      <note type="volNr">1</note>
                      <note type="div">commentary</note>
                      <note type="para">2</note>
-                  </p>
-               </note>
-            </item>
-            <item>
-               <note type="place">
-                  <placeName n="place_d52e145a1058">Nürnberg </placeName>
-               </note>
-               <note type="geoname"/>
-               <note type="gnd"/>
-               <note type="writings">
-                  <p>Nueremberge</p>
-               </note>
-               <note type="occurence">
-                  <p source="A049.xml">
-                     <val>A49</val>
-                     <note type="volNr">1</note>
-                     <note type="div">archive_desc</note>
-                     <note type="para"/>
-                  </p>
-                  <p source="A057.xml">
-                     <val>A57</val>
-                     <note type="volNr">1</note>
-                     <note type="div">archive_desc</note>
-                     <note type="para"/>
                   </p>
                </note>
             </item>

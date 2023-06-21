@@ -18,6 +18,42 @@
          <list>
             <item>
                <note type="person">
+                  <persName n="person_d52e56a1055"/>
+               </note>
+               <note type="writings">
+                  <p>Ferdinand</p>
+                  <p>Kg Ludwig II.</p>
+                  <p>Ludwig II.</p>
+               </note>
+               <note type="occurence">
+                  <p source="A049.xml">
+                     <val>A49</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
+                  <p source="A049.xml">
+                     <val>A49</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
+                  <p source="A057.xml">
+                     <val>A57</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
+                  <p source="A057.xml">
+                     <val>A57</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
                   <persName n="person_d39e368a1055">Absberg, Hans Thomas von, fränkischer Ritter</persName>
                </note>
                <note type="writings">
