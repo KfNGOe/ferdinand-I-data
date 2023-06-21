@@ -834,7 +834,7 @@
                <note type="place">
                   <placeName n="place_d135e207a1058">Bosnien</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3277605</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Bozna</p>
@@ -1733,7 +1733,7 @@
                <note type="place">
                   <placeName n="place_d225e207a1058">Engelsburg in Rom</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">6269267</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>chasteau de saint Angel</p>
@@ -1751,7 +1751,7 @@
                <note type="place">
                   <placeName n="place_d53e750a1058">Enna, Schloss in Südtirol</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3173113</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Schloß Enn</p>
@@ -2134,7 +2134,7 @@
                <note type="place">
                   <placeName n="place_d32e283a1058">Friaul</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3176525</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Friau</p>
@@ -2199,7 +2199,7 @@
                <note type="place">
                   <placeName n="place_d199e134a1058">Friesland</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2755812</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Frize</p>
@@ -2751,7 +2751,7 @@
                <note type="place">
                   <placeName n="place_d68e788a1058">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2903723</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Hirsperg</p>
@@ -3394,7 +3394,7 @@
                <note type="place">
                   <placeName n="place_d192e127a1058">Karpaten </placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">682674</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Krabathischen</p>
@@ -3430,7 +3430,7 @@
                <note type="place">
                   <placeName n="place_d26e348a1058">Kastilien</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3336900</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Kastilien</p>
@@ -4108,7 +4108,7 @@
                <note type="place">
                   <placeName n="place_d123e173a1058">Lucca</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3174530</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Luçois</p>
@@ -4622,7 +4622,7 @@
                <note type="place">
                   <placeName n="place_d79e1744a1058">Medina del Campo</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3117010</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Medina del Campo</p>
@@ -5755,7 +5755,7 @@
                <note type="place">
                   <placeName n="place_d29e538a1058">Pommern</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3088388</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Pomeren</p>
@@ -5859,7 +5859,7 @@
                <note type="place">
                   <placeName n="place_d68e568a1058">Preußen</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3082436</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Prussiẹ</p>
@@ -6037,7 +6037,7 @@
                <note type="place">
                   <placeName n="place_d108e166a1058">Rhône</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2983752</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Rosne</p>
@@ -6409,7 +6409,7 @@
                <note type="place">
                   <placeName n="place_d123e265a1058">Schottland</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2638360</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>affaire d’Ecosse</p>
@@ -7251,7 +7251,7 @@
                <note type="place">
                   <placeName n="place_d11e190a1058">Tolosa</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2510400</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Tolosa</p>
@@ -7706,7 +7706,7 @@
                <note type="place">
                   <placeName n="place_d224e299a1058">Utrecht</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2745911</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>ceulx d’Utrecht</p>
@@ -8075,7 +8075,7 @@
                <note type="place">
                   <placeName n="place_d14e142a1058">Wels</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">7871309</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Wels</p>
