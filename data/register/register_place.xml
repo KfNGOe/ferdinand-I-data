@@ -957,7 +957,7 @@
                <note type="place">
                   <placeName n="place_d4e148a1058">Braunschweig</placeName>
                </note>
-               <note type="geoname">6552297</note>
+               <note type="geoname"/>
                <note type="gnd"/>
                <note type="writings">
                   <p>Braunschweig</p>
@@ -3650,7 +3650,7 @@
                <note type="place">
                   <placeName n="place_d4e141a1058">Kurpfalz</placeName>
                </note>
-               <note type="geoname">2847618</note>
+               <note type="geoname"/>
                <note type="gnd"/>
                <note type="writings">
                   <p>Phaltz</p>
@@ -5050,7 +5050,7 @@
                <note type="place">
                   <placeName n="place_d4e151a1058">Nordsee</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2960848</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>see</p>
