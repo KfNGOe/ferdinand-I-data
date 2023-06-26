@@ -17,7 +17,7 @@
          <list>
             <item>
                <note type="place">
-                  <placeName n="place_d143e491a1058">Adria</placeName>
+                  <placeName n="place_d144e491a1058">Adria</placeName>
                </note>
                <note type="geoname">3183462</note>
                <note type="gnd"/>
@@ -35,7 +35,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d68e218a1058">Alcalá</placeName>
+                  <placeName n="place_d69e218a1058">Alcalá</placeName>
                </note>
                <note type="geoname">3130616</note>
                <note type="gnd"/>
@@ -53,7 +53,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d73e166a1058">Aldersbach</placeName>
+                  <placeName n="place_d74e166a1058">Aldersbach</placeName>
                </note>
                <note type="geoname">2958577</note>
                <note type="gnd"/>
@@ -71,7 +71,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d164e182a1058">Alessandria</placeName>
+                  <placeName n="place_d165e182a1058">Alessandria</placeName>
                </note>
                <note type="geoname">3183299</note>
                <note type="gnd"/>
@@ -89,7 +89,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d85e249a1058">Alexandria</placeName>
+                  <placeName n="place_d86e249a1058">Alexandria</placeName>
                </note>
                <note type="geoname">361058</note>
                <note type="gnd"/>
@@ -107,7 +107,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d238e204a1058">Amboise</placeName>
+                  <placeName n="place_d7e652a1058">Algier</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Algier</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d239e204a1058">Amboise</placeName>
                </note>
                <note type="geoname">3037902</note>
                <note type="gnd"/>
@@ -125,7 +143,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d115e136a1058">Amstetten</placeName>
+                  <placeName n="place_d116e136a1058">Amstetten</placeName>
                </note>
                <note type="geoname">2782555</note>
                <note type="gnd"/>
@@ -143,7 +161,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d231e153a1058">Antwerpen</placeName>
+                  <placeName n="place_d232e153a1058">Antwerpen</placeName>
                </note>
                <note type="geoname">2803138</note>
                <note type="gnd"/>
@@ -192,7 +210,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d60e121a1058">Aragón</placeName>
+                  <placeName n="place_d7e718a1058">Apulien</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Apulien</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d61e121a1058">Aragón</placeName>
                </note>
                <note type="geoname">3336899</note>
                <note type="gnd"/>
@@ -223,7 +259,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d152e375a1058">Aranjuez</placeName>
+                  <placeName n="place_d153e375a1058">Aranjuez</placeName>
                </note>
                <note type="geoname">3129857</note>
                <note type="gnd"/>
@@ -241,7 +277,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e273a1058">Arles</placeName>
+                  <placeName n="place_d63e273a1058">Arles</placeName>
                </note>
                <note type="geoname">3036938</note>
                <note type="gnd"/>
@@ -259,7 +295,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d238e383a1058">Arques-la-Bataille</placeName>
+                  <placeName n="place_d239e383a1058">Arques-la-Bataille</placeName>
                </note>
                <note type="geoname">3036797</note>
                <note type="gnd"/>
@@ -277,7 +313,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d14e140a1058">Astorga</placeName>
+                  <placeName n="place_d7e662a1058">Artois</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Artois</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d15e140a1058">Astorga</placeName>
                </note>
                <note type="geoname">3129231</note>
                <note type="gnd"/>
@@ -295,7 +349,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d17e134a1058">Augsburg</placeName>
+                  <placeName n="place_d7e1005a1058">Augsburg</placeName>
                </note>
                <note type="geoname">2954172</note>
                <note type="gnd"/>
@@ -314,6 +368,12 @@
                   <p>Auspurg</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">11</note>
+                  </p>
                   <p source="A011.xml">
                      <val>A11</val>
                      <note type="volNr">1</note>
@@ -462,7 +522,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e138a1058">Auvergne</placeName>
+                  <placeName n="place_d127e138a1058">Auvergne</placeName>
                </note>
                <note type="geoname">3035876</note>
                <note type="gnd"/>
@@ -480,7 +540,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e361a1058">Auxonne</placeName>
+                  <placeName n="place_d28e361a1058">Auxonne</placeName>
                </note>
                <note type="geoname">3035828</note>
                <note type="gnd"/>
@@ -498,7 +558,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d146e462a1058">Baden</placeName>
+                  <placeName n="place_d7e232a1058">Avignon</placeName>
+               </note>
+               <note type="geoname">3035681</note>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Avignon</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">3</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d147e462a1058">Baden</placeName>
                </note>
                <note type="geoname">2953504</note>
                <note type="gnd"/>
@@ -534,7 +612,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d165e320a1058">Baena</placeName>
+                  <placeName n="place_d166e320a1058">Baena</placeName>
                </note>
                <note type="geoname">2521415</note>
                <note type="gnd"/>
@@ -552,7 +630,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d244e296a1058">Balaton</placeName>
+                  <placeName n="place_d245e296a1058">Balaton</placeName>
                </note>
                <note type="geoname">3055597</note>
                <note type="gnd"/>
@@ -570,7 +648,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d138e352a1058">Balingen</placeName>
+                  <placeName n="place_d139e352a1058">Balingen</placeName>
                </note>
                <note type="geoname">2953089</note>
                <note type="gnd"/>
@@ -588,7 +666,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d152e240a1058">Bar, Herzogtum</placeName>
+                  <placeName n="place_d153e240a1058">Bar, Herzogtum</placeName>
                </note>
                <note type="geoname">3034911</note>
                <note type="gnd"/>
@@ -606,7 +684,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d18e147a1058">Barcelona</placeName>
+                  <placeName n="place_d19e147a1058">Barcelona</placeName>
                </note>
                <note type="geoname">3128760</note>
                <note type="gnd"/>
@@ -663,7 +741,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d132e121a1058">Basel</placeName>
+                  <placeName n="place_d133e121a1058">Basel</placeName>
                </note>
                <note type="geoname">2661604</note>
                <note type="gnd"/>
@@ -688,7 +766,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e136a1058">Bayonne</placeName>
+                  <placeName n="place_d63e136a1058">Bayonne</placeName>
                </note>
                <note type="geoname">3034475</note>
                <note type="gnd"/>
@@ -712,7 +790,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d245e450a1058">Béarn</placeName>
+                  <placeName n="place_d246e450a1058">Béarn</placeName>
                </note>
                <note type="geoname">3034397</note>
                <note type="gnd"/>
@@ -730,7 +808,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d209e151a1058">Belgrad</placeName>
+                  <placeName n="place_d210e151a1058">Belgrad</placeName>
                </note>
                <note type="geoname">792680</note>
                <note type="gnd"/>
@@ -748,7 +826,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d97e116a1058">Bern</placeName>
+                  <placeName n="place_d98e116a1058">Bern</placeName>
                </note>
                <note type="geoname">2661552</note>
                <note type="gnd"/>
@@ -766,7 +844,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d140e201a1058">Besançon</placeName>
+                  <placeName n="place_d141e201a1058">Besançon</placeName>
                </note>
                <note type="geoname">3033123</note>
                <note type="gnd"/>
@@ -796,7 +874,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e125a1058">Bidache</placeName>
+                  <placeName n="place_d63e125a1058">Bidache</placeName>
                </note>
                <note type="geoname">3032771</note>
                <note type="gnd"/>
@@ -814,7 +892,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d75e305a1058">Blois</placeName>
+                  <placeName n="place_d76e305a1058">Blois</placeName>
                </note>
                <note type="geoname">3032213</note>
                <note type="gnd"/>
@@ -832,7 +910,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e433a1058">Bologna</placeName>
+                  <placeName n="place_d7e919a1058">Bludenz</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Bludenz</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d224e433a1058">Bologna</placeName>
                </note>
                <note type="geoname">3181928</note>
                <note type="gnd"/>
@@ -850,7 +946,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d138e207a1058">Bosnien</placeName>
+                  <placeName n="place_d139e207a1058">Bosnien</placeName>
                </note>
                <note type="geoname">3277605</note>
                <note type="gnd"/>
@@ -868,7 +964,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e282a1058">Bourguignon</placeName>
+                  <placeName n="place_d130e282a1058">Bourguignon</placeName>
                </note>
                <note type="geoname">3030941</note>
                <note type="gnd"/>
@@ -886,7 +982,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d82e2449a1058">Brandenburg</placeName>
+                  <placeName n="place_d83e2449a1058">Brandenburg</placeName>
                </note>
                <note type="geoname">2945356</note>
                <note type="gnd"/>
@@ -904,7 +1000,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e512a1058">Bratislava</placeName>
+                  <placeName n="place_d25e512a1058">Bratislava</placeName>
                </note>
                <note type="geoname">3060972</note>
                <note type="gnd"/>
@@ -991,7 +1087,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d185e215a1058">Breda</placeName>
+                  <placeName n="place_d186e215a1058">Breda</placeName>
                </note>
                <note type="geoname">2758401</note>
                <note type="gnd"/>
@@ -1009,7 +1105,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d212e167a1058">Brescia</placeName>
+                  <placeName n="place_d213e167a1058">Brescia</placeName>
                </note>
                <note type="geoname">3181554</note>
                <note type="gnd"/>
@@ -1034,7 +1130,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e213a1058">Brixen</placeName>
+                  <placeName n="place_d28e213a1058">Brixen</placeName>
                </note>
                <note type="geoname">3181550</note>
                <note type="gnd"/>
@@ -1073,7 +1169,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d46e112a1058">Bruck an der Leitha</placeName>
+                  <placeName n="place_d47e112a1058">Bruck an der Leitha</placeName>
                </note>
                <note type="geoname">2781373</note>
                <note type="gnd"/>
@@ -1091,7 +1187,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d164e304a1058">Bruneck</placeName>
+                  <placeName n="place_d7e960a1058">Bruneck</placeName>
                </note>
                <note type="geoname">3181480</note>
                <note type="gnd"/>
@@ -1099,6 +1195,12 @@
                   <p>Bruneck</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
                   <p source="A157.xml">
                      <val>A157</val>
                      <note type="volNr">1</note>
@@ -1109,7 +1211,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d11e143a1058">Brüssel</placeName>
+                  <placeName n="place_d12e143a1058">Brüssel</placeName>
                </note>
                <note type="geoname">2800866</note>
                <note type="gnd"/>
@@ -1204,7 +1306,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d46e233a1058">Budapest</placeName>
+                  <placeName n="place_d47e233a1058">Budapest</placeName>
                </note>
                <note type="geoname">3054643</note>
                <note type="gnd"/>
@@ -1305,7 +1407,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d52e237a1058">Burgos</placeName>
+                  <placeName n="place_d53e237a1058">Burgos</placeName>
                </note>
                <note type="geoname">3127461</note>
                <note type="gnd"/>
@@ -1387,7 +1489,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d135e130a1058">Cambrai</placeName>
+                  <placeName n="place_d136e130a1058">Cambrai</placeName>
                </note>
                <note type="geoname">3029030</note>
                <note type="gnd"/>
@@ -1405,7 +1507,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d250e199a1058">Cartagena</placeName>
+                  <placeName n="place_d251e199a1058">Cartagena</placeName>
                </note>
                <note type="geoname">2520058</note>
                <note type="gnd"/>
@@ -1423,7 +1525,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d9e136a1058">Cazalegas</placeName>
+                  <placeName n="place_d10e136a1058">Cazalegas</placeName>
                </note>
                <note type="geoname">3125579</note>
                <note type="gnd"/>
@@ -1441,7 +1543,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d63e209a1058">Celje</placeName>
+                  <placeName n="place_d64e209a1058">Celje</placeName>
                </note>
                <note type="geoname">3202781</note>
                <note type="gnd"/>
@@ -1459,7 +1561,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e861a1058">Cervia</placeName>
+                  <placeName n="place_d144e861a1058">Cervia</placeName>
                </note>
                <note type="geoname">3178998</note>
                <note type="gnd"/>
@@ -1477,7 +1579,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d238e342a1058">Charolais</placeName>
+                  <placeName n="place_d7e682a1058">Champagne</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Champaigne</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d239e342a1058">Charolais</placeName>
                </note>
                <note type="geoname">3026516</note>
                <note type="gnd"/>
@@ -1495,7 +1615,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e272a1058">Châtelot</placeName>
+                  <placeName n="place_d130e272a1058">Châtelot</placeName>
                </note>
                <note type="geoname">3004686</note>
                <note type="gnd"/>
@@ -1513,7 +1633,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e477a1058">Cheb</placeName>
+                  <placeName n="place_d25e477a1058">Cheb</placeName>
                </note>
                <note type="geoname">3077835</note>
                <note type="gnd"/>
@@ -1531,7 +1651,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e700a1058">Chiavenna</placeName>
+                  <placeName n="place_d144e700a1058">Chiavenna</placeName>
                </note>
                <note type="geoname">3178829</note>
                <note type="gnd"/>
@@ -1556,7 +1676,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e276a1058">Clémont, Burg in der Franche-Comté</placeName>
+                  <placeName n="place_d130e276a1058">Clémont, Burg in der Franche-Comté</placeName>
                </note>
                <note type="geoname"/>
                <note type="gnd"/>
@@ -1574,7 +1694,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d238e260a1058">Como</placeName>
+                  <placeName n="place_d239e260a1058">Como</placeName>
                </note>
                <note type="geoname">3178229</note>
                <note type="gnd"/>
@@ -1592,7 +1712,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d173e168a1058">Cremona</placeName>
+                  <placeName n="place_d174e168a1058">Cremona</placeName>
                </note>
                <note type="geoname">3177838</note>
                <note type="gnd"/>
@@ -1635,7 +1755,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e277a1058">Dauphiné</placeName>
+                  <placeName n="place_d63e277a1058">Dauphiné</placeName>
                </note>
                <note type="geoname">3021686</note>
                <note type="gnd"/>
@@ -1653,7 +1773,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d245e447a1058">Dijon</placeName>
+                  <placeName n="place_d246e447a1058">Dijon</placeName>
                </note>
                <note type="geoname">3021372</note>
                <note type="gnd"/>
@@ -1671,7 +1791,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e286a1058">Diois</placeName>
+                  <placeName n="place_d63e286a1058">Diois</placeName>
                </note>
                <note type="geoname">3021339</note>
                <note type="gnd"/>
@@ -1689,7 +1809,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e182a1058">Dôle</placeName>
+                  <placeName n="place_d130e182a1058">Dôle</placeName>
                </note>
                <note type="geoname">3021263</note>
                <note type="gnd"/>
@@ -1713,7 +1833,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e712a1058">Dömitz</placeName>
+                  <placeName n="place_d57e712a1058">Dömitz</placeName>
                </note>
                <note type="geoname">2936292</note>
                <note type="gnd"/>
@@ -1731,7 +1851,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e847a1058">Eberbach</placeName>
+                  <placeName n="place_d72e847a1058">Eberbach</placeName>
                </note>
                <note type="geoname">3208037</note>
                <note type="gnd"/>
@@ -1749,7 +1869,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d42e256a1058">Ebernburg</placeName>
+                  <placeName n="place_d43e256a1058">Ebernburg</placeName>
                </note>
                <note type="geoname">11594504</note>
                <note type="gnd"/>
@@ -1767,7 +1887,32 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d228e207a1058">Engelsburg in Rom</placeName>
+                  <placeName n="place_d7e254a1058">Edirne</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Adrianopel/Edirne</p>
+                  <p>Andrynopoli</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">4</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d229e207a1058">Engelsburg in Rom</placeName>
                </note>
                <note type="geoname">6269267</note>
                <note type="gnd"/>
@@ -1785,7 +1930,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e750a1058">Enna, Schloss in Südtirol</placeName>
+                  <placeName n="place_d57e750a1058">Enna, Schloss in Südtirol</placeName>
                </note>
                <note type="geoname">3173113</note>
                <note type="gnd"/>
@@ -1810,7 +1955,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d48e148a1058">Enns</placeName>
+                  <placeName n="place_d49e148a1058">Enns</placeName>
                </note>
                <note type="geoname">2780048</note>
                <note type="gnd"/>
@@ -1849,7 +1994,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e162a1058">Ensisheim</placeName>
+                  <placeName n="place_d25e162a1058">Ensisheim</placeName>
                </note>
                <note type="geoname">3020152</note>
                <note type="gnd"/>
@@ -1906,7 +2051,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e263a1058">Esslingen</placeName>
+                  <placeName n="place_d72e263a1058">Esslingen</placeName>
                </note>
                <note type="geoname">2928751</note>
                <note type="gnd"/>
@@ -1982,7 +2127,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e291a1058">Estebon (?)</placeName>
+                  <placeName n="place_d130e291a1058">Estebon (?)</placeName>
                </note>
                <note type="geoname"/>
                <note type="gnd"/>
@@ -2000,7 +2145,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d99e202a1058">Esztergom</placeName>
+                  <placeName n="place_d100e202a1058">Esztergom</placeName>
                </note>
                <note type="geoname">3053163</note>
                <note type="gnd"/>
@@ -2018,7 +2163,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d109e264a1058">Etsch</placeName>
+                  <placeName n="place_d110e264a1058">Etsch</placeName>
                </note>
                <note type="geoname">3183470</note>
                <note type="gnd"/>
@@ -2036,7 +2181,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e161a1058">Florenz</placeName>
+                  <placeName n="place_d127e161a1058">Florenz</placeName>
                </note>
                <note type="geoname">3176959</note>
                <note type="gnd"/>
@@ -2073,7 +2218,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d42e236a1058">Frankfurt am Main</placeName>
+                  <placeName n="place_d43e236a1058">Frankfurt am Main</placeName>
                </note>
                <note type="geoname">2925533</note>
                <note type="gnd"/>
@@ -2125,7 +2270,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e929a1058">Freiburg im Breisgau</placeName>
+                  <placeName n="place_d72e929a1058">Freiburg im Breisgau</placeName>
                </note>
                <note type="geoname">2925177</note>
                <note type="gnd"/>
@@ -2150,7 +2295,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e525a1058">Freistadt</placeName>
+                  <placeName n="place_d25e525a1058">Freistadt</placeName>
                </note>
                <note type="geoname">2779275</note>
                <note type="gnd"/>
@@ -2168,7 +2313,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d35e283a1058">Friaul</placeName>
+                  <placeName n="place_d36e283a1058">Friaul</placeName>
                </note>
                <note type="geoname">3176525</note>
                <note type="gnd"/>
@@ -2233,7 +2378,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d202e134a1058">Friesland</placeName>
+                  <placeName n="place_d203e134a1058">Friesland</placeName>
                </note>
                <note type="geoname">2755812</note>
                <note type="gnd"/>
@@ -2251,7 +2396,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e457a1058">Gaeta</placeName>
+                  <placeName n="place_d224e457a1058">Gaeta</placeName>
                </note>
                <note type="geoname">3176438</note>
                <note type="gnd"/>
@@ -2269,7 +2414,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d10e124a1058">Galisteo</placeName>
+                  <placeName n="place_d11e124a1058">Galisteo</placeName>
                </note>
                <note type="geoname">2517409</note>
                <note type="gnd"/>
@@ -2287,7 +2432,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d213e156a1058">Geldern</placeName>
+                  <placeName n="place_d214e156a1058">Geldern</placeName>
                </note>
                <note type="geoname">2921528</note>
                <note type="gnd"/>
@@ -2305,7 +2450,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e335a1058">Gent</placeName>
+                  <placeName n="place_d28e335a1058">Gent</placeName>
                </note>
                <note type="geoname">2797656</note>
                <note type="gnd"/>
@@ -2323,12 +2468,13 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e586a1058">Genua</placeName>
+                  <placeName n="place_d7e143a1058">Genua</placeName>
                </note>
                <note type="geoname">3176219</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Genesve</p>
+                  <p>Gennes</p>
                   <p>Genua</p>
                   <p>Genues</p>
                   <p>Januenses</p>
@@ -2336,6 +2482,24 @@
                   <p>Jenues</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">8</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -2412,7 +2576,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d7e164a1058">Gmunden</placeName>
+                  <placeName n="place_d8e164a1058">Gmunden</placeName>
                </note>
                <note type="geoname">2778436</note>
                <note type="gnd"/>
@@ -2430,7 +2594,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d162e261a1058">Grad (Goričko)</placeName>
+                  <placeName n="place_d163e261a1058">Grad (Goričko)</placeName>
                </note>
                <note type="geoname">3199765</note>
                <note type="gnd"/>
@@ -2448,7 +2612,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e666a1058">Granada</placeName>
+                  <placeName n="place_d224e666a1058">Granada</placeName>
                </note>
                <note type="geoname">2517117</note>
                <note type="gnd"/>
@@ -2540,7 +2704,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e288a1058">Granges</placeName>
+                  <placeName n="place_d130e288a1058">Granges</placeName>
                </note>
                <note type="geoname">3014892</note>
                <note type="gnd"/>
@@ -2558,7 +2722,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d180e193a1058">Graz</placeName>
+                  <placeName n="place_d181e193a1058">Graz</placeName>
                </note>
                <note type="geoname">2778067</note>
                <note type="gnd"/>
@@ -2576,7 +2740,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d173e529a1058">Grießen</placeName>
+                  <placeName n="place_d174e529a1058">Grießen</placeName>
                </note>
                <note type="geoname">2917390</note>
                <note type="gnd"/>
@@ -2594,7 +2758,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d131e386a1058">Guadalupe</placeName>
+                  <placeName n="place_d132e386a1058">Guadalupe</placeName>
                </note>
                <note type="geoname">6356783</note>
                <note type="gnd"/>
@@ -2612,7 +2776,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d22e197a1058">Gurk</placeName>
+                  <placeName n="place_d23e197a1058">Gurk</placeName>
                </note>
                <note type="geoname">2777237</note>
                <note type="gnd"/>
@@ -2630,7 +2794,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e328a1058">Haguenau</placeName>
+                  <placeName n="place_d28e328a1058">Haguenau</placeName>
                </note>
                <note type="geoname">3014078</note>
                <note type="gnd"/>
@@ -2667,7 +2831,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d46e117a1058">Hainburg</placeName>
+                  <placeName n="place_d7e665a1058">Hainault</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Hainault</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d47e117a1058">Hainburg</placeName>
                </note>
                <note type="geoname">2776988</note>
                <note type="gnd"/>
@@ -2703,7 +2885,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d79e210a1058">Hamburg</placeName>
+                  <placeName n="place_d80e210a1058">Hamburg</placeName>
                </note>
                <note type="geoname">2911298</note>
                <note type="gnd"/>
@@ -2735,7 +2917,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d21e169a1058">Heidelberg</placeName>
+                  <placeName n="place_d22e169a1058">Heidelberg</placeName>
                </note>
                <note type="geoname">2907911</note>
                <note type="gnd"/>
@@ -2767,7 +2949,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e266a1058">Héricourt</placeName>
+                  <placeName n="place_d130e266a1058">Héricourt</placeName>
                </note>
                <note type="geoname">3013456</note>
                <note type="gnd"/>
@@ -2785,7 +2967,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d111e267a1058">Heusden</placeName>
+                  <placeName n="place_d112e267a1058">Heusden</placeName>
                </note>
                <note type="geoname">2754135</note>
                <note type="gnd"/>
@@ -2803,7 +2985,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e788a1058">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
+                  <placeName n="place_d72e788a1058">Hirschberg, Grafschaft (in der Oberpfalz?)</placeName>
                </note>
                <note type="geoname">2903723</note>
                <note type="gnd"/>
@@ -2821,7 +3003,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d32e225a1058">Hohentwiel, Schloss</placeName>
+                  <placeName n="place_d33e225a1058">Hohentwiel, Schloss</placeName>
                </note>
                <note type="geoname">7646414</note>
                <note type="gnd"/>
@@ -2839,7 +3021,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d227e325a1058">Holland</placeName>
+                  <placeName n="place_d228e325a1058">Holland</placeName>
                </note>
                <note type="geoname">2750405</note>
                <note type="gnd"/>
@@ -2863,7 +3045,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e337a1058">Hondarribia</placeName>
+                  <placeName n="place_d25e337a1058">Hondarribia</placeName>
                </note>
                <note type="geoname">3121881</note>
                <note type="gnd"/>
@@ -2901,7 +3083,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d249e439a1058">Hoogstraten</placeName>
+                  <placeName n="place_d250e439a1058">Hoogstraten</placeName>
                </note>
                <note type="geoname">2795398</note>
                <note type="gnd"/>
@@ -2926,7 +3108,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d8e155a1058">Innsbruck</placeName>
+                  <placeName n="place_d7e866a1058">Innsbruck</placeName>
                </note>
                <note type="geoname">2775220</note>
                <note type="gnd"/>
@@ -2960,6 +3142,12 @@
                   <p>Ysprug</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">9</note>
+                  </p>
                   <p source="A002.xml">
                      <val>A2</val>
                      <note type="volNr">1</note>
@@ -3348,14 +3536,28 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d209e148a1058">Istanbul</placeName>
+                  <placeName n="place_d7e209a1058">Istanbul</placeName>
                </note>
                <note type="geoname">745044</note>
                <note type="gnd"/>
                <note type="writings">
+                  <p>Constantinoble</p>
+                  <p>Constantinople</p>
                   <p>Constantinopoli</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">3</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">4</note>
+                  </p>
                   <p source="A202.xml">
                      <val>A202</val>
                      <note type="volNr">1</note>
@@ -3366,7 +3568,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d35e286a1058">Istrien</placeName>
+                  <placeName n="place_d36e286a1058">Istrien</placeName>
                </note>
                <note type="geoname">3337514</note>
                <note type="gnd"/>
@@ -3410,7 +3612,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e384a1058">Jajce</placeName>
+                  <placeName n="place_d144e384a1058">Jajce</placeName>
                </note>
                <note type="geoname">3198934</note>
                <note type="gnd"/>
@@ -3435,7 +3637,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d195e127a1058">Karpaten </placeName>
+                  <placeName n="place_d196e127a1058">Karpaten </placeName>
                </note>
                <note type="geoname">682674</note>
                <note type="gnd"/>
@@ -3453,7 +3655,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d41e218a1058">Kassel</placeName>
+                  <placeName n="place_d42e218a1058">Kassel</placeName>
                </note>
                <note type="geoname">2892518</note>
                <note type="gnd"/>
@@ -3471,7 +3673,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d29e348a1058">Kastilien</placeName>
+                  <placeName n="place_d30e348a1058">Kastilien</placeName>
                </note>
                <note type="geoname">3336900</note>
                <note type="gnd"/>
@@ -3495,7 +3697,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d60e128a1058">Katalonien</placeName>
+                  <placeName n="place_d61e128a1058">Katalonien</placeName>
                </note>
                <note type="geoname">3125609</note>
                <note type="gnd"/>
@@ -3513,7 +3715,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d257e358a1058">Kempten</placeName>
+                  <placeName n="place_d258e358a1058">Kempten</placeName>
                </note>
                <note type="geoname">2891621</note>
                <note type="gnd"/>
@@ -3531,14 +3733,27 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e564a1058">Klis</placeName>
+                  <placeName n="place_d7e327a1058">Klis</placeName>
                </note>
                <note type="geoname">11054607</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Clissa</p>
+                  <p>Clyss</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">6</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">13</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -3555,7 +3770,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d20e129a1058">Köln</placeName>
+                  <placeName n="place_d21e129a1058">Köln</placeName>
                </note>
                <note type="geoname">2886242</note>
                <note type="gnd"/>
@@ -3594,7 +3809,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d261e289a1058">Komárno/Komárom</placeName>
+                  <placeName n="place_d262e289a1058">Komárno/Komárom</placeName>
                </note>
                <note type="geoname">3059436</note>
                <note type="gnd"/>
@@ -3612,7 +3827,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d42e129a1058">Konstanz</placeName>
+                  <placeName n="place_d43e129a1058">Konstanz</placeName>
                </note>
                <note type="geoname">2885679</note>
                <note type="gnd"/>
@@ -3648,7 +3863,43 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d38e238a1058">Kreuznach, Burg</placeName>
+                  <placeName n="place_d7e725a1058">Korfu</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Korfu</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d7e352a1058">Košice</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Cassoue</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">7</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d39e238a1058">Kreuznach, Burg</placeName>
                </note>
                <note type="geoname">2953416</note>
                <note type="gnd"/>
@@ -3666,7 +3917,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d241e202a1058">Kufstein</placeName>
+                  <placeName n="place_d242e202a1058">Kufstein</placeName>
                </note>
                <note type="geoname">2773300</note>
                <note type="gnd"/>
@@ -3702,7 +3953,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d245e476a1058">Laeken</placeName>
+                  <placeName n="place_d246e476a1058">Laeken</placeName>
                </note>
                <note type="geoname">2793656</note>
                <note type="gnd"/>
@@ -3720,7 +3971,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d38e241a1058">Landstuhl</placeName>
+                  <placeName n="place_d39e241a1058">Landstuhl</placeName>
                </note>
                <note type="geoname">2881477</note>
                <note type="gnd"/>
@@ -3765,7 +4016,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d52e229a1058">Languedoc</placeName>
+                  <placeName n="place_d53e229a1058">Languedoc</placeName>
                </note>
                <note type="geoname">3007671</note>
                <note type="gnd"/>
@@ -3783,7 +4034,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d162e267a1058">Lendava</placeName>
+                  <placeName n="place_d163e267a1058">Lendava</placeName>
                </note>
                <note type="geoname">3196681</note>
                <note type="gnd"/>
@@ -3801,7 +4052,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e715a1058">Lenzen</placeName>
+                  <placeName n="place_d57e715a1058">Lenzen</placeName>
                </note>
                <note type="geoname">2878731</note>
                <note type="gnd"/>
@@ -3819,7 +4070,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d11e135a1058">Leuven/Louvain</placeName>
+                  <placeName n="place_d12e135a1058">Leuven/Louvain</placeName>
                </note>
                <note type="geoname">2792482</note>
                <note type="gnd"/>
@@ -3844,14 +4095,21 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d213e149a1058">Liège</placeName>
+                  <placeName n="place_d7e668a1058">Liège</placeName>
                </note>
                <note type="geoname">2792413</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Liege</p>
+                  <p>Liège</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
                   <p source="A206.xml">
                      <val>A206</val>
                      <note type="volNr">1</note>
@@ -3862,7 +4120,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e309a1058">Linz</placeName>
+                  <placeName n="place_d25e309a1058">Linz</placeName>
                </note>
                <note type="geoname">2772400</note>
                <note type="gnd"/>
@@ -3992,7 +4250,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d207e149a1058">Ljubljana</placeName>
+                  <placeName n="place_d208e149a1058">Ljubljana</placeName>
                </note>
                <note type="geoname">3196359</note>
                <note type="gnd"/>
@@ -4010,7 +4268,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d109e292a1058">Lodi</placeName>
+                  <placeName n="place_d110e292a1058">Lodi</placeName>
                </note>
                <note type="geoname">3174638</note>
                <note type="gnd"/>
@@ -4048,7 +4306,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d52e218a1058">Logroño</placeName>
+                  <placeName n="place_d53e218a1058">Logroño</placeName>
                </note>
                <note type="geoname">3118150</note>
                <note type="gnd"/>
@@ -4066,7 +4324,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d75e308a1058">London</placeName>
+                  <placeName n="place_d76e308a1058">London</placeName>
                </note>
                <note type="geoname">2643743</note>
                <note type="gnd"/>
@@ -4096,7 +4354,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d40e116a1058">Lothringen</placeName>
+                  <placeName n="place_d41e116a1058">Lothringen</placeName>
                </note>
                <note type="geoname">2997551</note>
                <note type="gnd"/>
@@ -4135,7 +4393,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e1026a1058">Lübeck</placeName>
+                  <placeName n="place_d72e1026a1058">Lübeck</placeName>
                </note>
                <note type="geoname">2875601</note>
                <note type="gnd"/>
@@ -4167,7 +4425,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e173a1058">Lucca</placeName>
+                  <placeName n="place_d127e173a1058">Lucca</placeName>
                </note>
                <note type="geoname">3174530</note>
                <note type="gnd"/>
@@ -4185,7 +4443,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d102e135a1058">Luxemburg</placeName>
+                  <placeName n="place_d7e671a1058">Luxemburg</placeName>
                </note>
                <note type="geoname">2960313</note>
                <note type="gnd"/>
@@ -4195,6 +4453,12 @@
                   <p>Luxemburg</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
                   <p source="A096.xml">
                      <val>A96</val>
                      <note type="volNr">1</note>
@@ -4235,7 +4499,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d66e167a1058">Luzern</placeName>
+                  <placeName n="place_d67e167a1058">Luzern</placeName>
                </note>
                <note type="geoname">2659811</note>
                <note type="gnd"/>
@@ -4253,7 +4517,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d118e235a1058">Lyon</placeName>
+                  <placeName n="place_d119e235a1058">Lyon</placeName>
                </note>
                <note type="geoname">2996944</note>
                <note type="gnd"/>
@@ -4289,7 +4553,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e280a1058">Lyonnais</placeName>
+                  <placeName n="place_d63e280a1058">Lyonnais</placeName>
                </note>
                <note type="geoname">2996941</note>
                <note type="gnd"/>
@@ -4307,7 +4571,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d125e127a1058">L’Isle sur le Doubs, Herrschaft</placeName>
+                  <placeName n="place_d126e127a1058">L’Isle sur le Doubs, Herrschaft</placeName>
                </note>
                <note type="geoname">2998126</note>
                <note type="gnd"/>
@@ -4339,7 +4603,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d171e151a1058">Maastricht</placeName>
+                  <placeName n="place_d172e151a1058">Maastricht</placeName>
                </note>
                <note type="geoname">2751283</note>
                <note type="gnd"/>
@@ -4416,7 +4680,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d123e224a1058">Madrid</placeName>
+                  <placeName n="place_d124e224a1058">Madrid</placeName>
                </note>
                <note type="geoname">3117735</note>
                <note type="gnd"/>
@@ -4496,7 +4760,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d42e232a1058">Mainz</placeName>
+                  <placeName n="place_d43e232a1058">Mainz</placeName>
                </note>
                <note type="geoname">2874225</note>
                <note type="gnd"/>
@@ -4521,7 +4785,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d79e309a1058">Marano Lagunare</placeName>
+                  <placeName n="place_d80e309a1058">Marano Lagunare</placeName>
                </note>
                <note type="geoname">3174017</note>
                <note type="gnd"/>
@@ -4546,7 +4810,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d94e396a1058">Marseille</placeName>
+                  <placeName n="place_d95e396a1058">Marseille</placeName>
                </note>
                <note type="geoname">2995469</note>
                <note type="gnd"/>
@@ -4564,7 +4828,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d199e124a1058">Masowien</placeName>
+                  <placeName n="place_d200e124a1058">Masowien</placeName>
                </note>
                <note type="geoname">765062</note>
                <note type="gnd"/>
@@ -4602,7 +4866,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e331a1058">Maya del Baztán, Burg (Navarra)</placeName>
+                  <placeName n="place_d25e331a1058">Maya del Baztán, Burg (Navarra)</placeName>
                </note>
                <note type="geoname">3117110</note>
                <note type="gnd"/>
@@ -4620,7 +4884,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e308a1058">Mechelen/Malines</placeName>
+                  <placeName n="place_d57e308a1058">Mechelen/Malines</placeName>
                </note>
                <note type="geoname">2791537</note>
                <note type="gnd"/>
@@ -4681,7 +4945,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d82e1744a1058">Medina del Campo</placeName>
+                  <placeName n="place_d83e1744a1058">Medina del Campo</placeName>
                </note>
                <note type="geoname">3117010</note>
                <note type="gnd"/>
@@ -4699,7 +4963,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d82e1560a1058">Metlika</placeName>
+                  <placeName n="place_d83e1560a1058">Metlika</placeName>
                </note>
                <note type="geoname">3195213</note>
                <note type="gnd"/>
@@ -4717,7 +4981,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d39e132a1058">Mézières</placeName>
+                  <placeName n="place_d40e132a1058">Mézières</placeName>
                </note>
                <note type="geoname">3026613</note>
                <note type="gnd"/>
@@ -4741,7 +5005,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d13e136a1058">Middelburg</placeName>
+                  <placeName n="place_d14e136a1058">Middelburg</placeName>
                </note>
                <note type="geoname">2750896</note>
                <note type="gnd"/>
@@ -4759,7 +5023,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d39e122a1058">Mindelheim</placeName>
+                  <placeName n="place_d40e122a1058">Mindelheim</placeName>
                </note>
                <note type="geoname">2871045</note>
                <note type="gnd"/>
@@ -4784,7 +5048,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e655a1058">Moldau</placeName>
+                  <placeName n="place_d72e655a1058">Moldau</placeName>
                </note>
                <note type="geoname">3062662</note>
                <note type="gnd"/>
@@ -4802,7 +5066,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d32e763a1058">Molukken</placeName>
+                  <placeName n="place_d33e763a1058">Molukken</placeName>
                </note>
                <note type="geoname">1636629</note>
                <note type="gnd"/>
@@ -4820,7 +5084,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d238e645a1058">Mons</placeName>
+                  <placeName n="place_d239e645a1058">Mons</placeName>
                </note>
                <note type="geoname">2790869</note>
                <note type="gnd"/>
@@ -4838,7 +5102,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e375a1058">Montbéliard</placeName>
+                  <placeName n="place_d25e375a1058">Montbéliard</placeName>
                </note>
                <note type="geoname">2992938</note>
                <note type="gnd"/>
@@ -4869,7 +5133,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e296a1058">Montélimar</placeName>
+                  <placeName n="place_d63e296a1058">Montélimar</placeName>
                </note>
                <note type="geoname">2992703</note>
                <note type="gnd"/>
@@ -4887,7 +5151,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e279a1058">Montrond-le-Château</placeName>
+                  <placeName n="place_d130e279a1058">Montrond-le-Château</placeName>
                </note>
                <note type="geoname">2992025</note>
                <note type="gnd"/>
@@ -4905,7 +5169,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d103e166a1058">Moskau</placeName>
+                  <placeName n="place_d104e166a1058">Moskau</placeName>
                </note>
                <note type="geoname">524901</note>
                <note type="gnd"/>
@@ -4942,7 +5206,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e299a1058">Mousson (?)</placeName>
+                  <placeName n="place_d63e299a1058">Mousson (?)</placeName>
                </note>
                <note type="geoname">2991370</note>
                <note type="gnd"/>
@@ -4960,7 +5224,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e697a1058">Musso</placeName>
+                  <placeName n="place_d7e1002a1058">München</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>München</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">11</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d144e697a1058">Musso</placeName>
                </note>
                <note type="geoname">3172414</note>
                <note type="gnd"/>
@@ -4978,7 +5260,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e327a1058">Navarra</placeName>
+                  <placeName n="place_d7e828a1058">Navarra</placeName>
                </note>
                <note type="geoname">3115609</note>
                <note type="gnd"/>
@@ -4986,6 +5268,12 @@
                   <p>Navarra</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">8</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -4996,7 +5284,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e263a1058">Neuchâtel</placeName>
+                  <placeName n="place_d130e263a1058">Neuchâtel</placeName>
                </note>
                <note type="geoname">2659496</note>
                <note type="gnd"/>
@@ -5028,15 +5316,22 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d29e202a1058">Nizza</placeName>
+                  <placeName n="place_d7e371a1058">Nizza</placeName>
                </note>
                <note type="geoname">2990440</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Nice</p>
                   <p>Nizza</p>
+                  <p>Nyce</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">8</note>
+                  </p>
                   <p source="A023.xml">
                      <val>A23</val>
                      <note type="volNr">1</note>
@@ -5053,7 +5348,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d91e207a1058">Nördlingen</placeName>
+                  <placeName n="place_d92e207a1058">Nördlingen</placeName>
                </note>
                <note type="geoname">2861914</note>
                <note type="gnd"/>
@@ -5102,7 +5397,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d73e192a1058">Novara</placeName>
+                  <placeName n="place_d74e192a1058">Novara</placeName>
                </note>
                <note type="geoname">3172189</note>
                <note type="gnd"/>
@@ -5133,7 +5428,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e285a1058">Nürnberg</placeName>
+                  <placeName n="place_d7e1008a1058">Nürnberg</placeName>
                </note>
                <note type="geoname">2861650</note>
                <note type="gnd"/>
@@ -5157,6 +5452,12 @@
                   <p>Nürnberger</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">11</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -5479,7 +5780,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e292a1058">Orange, Fürstentum</placeName>
+                  <placeName n="place_d63e292a1058">Orange, Fürstentum</placeName>
                </note>
                <note type="geoname">2989460</note>
                <note type="gnd"/>
@@ -5497,7 +5798,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d227e169a1058">Outremeuse (Liège)</placeName>
+                  <placeName n="place_d228e169a1058">Outremeuse (Liège)</placeName>
                </note>
                <note type="geoname">2792413</note>
                <note type="gnd"/>
@@ -5515,7 +5816,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d164e265a1058">Padua</placeName>
+                  <placeName n="place_d165e265a1058">Padua</placeName>
                </note>
                <note type="geoname">3171728</note>
                <note type="gnd"/>
@@ -5558,7 +5859,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d212e171a1058">Palma</placeName>
+                  <placeName n="place_d213e171a1058">Palma</placeName>
                </note>
                <note type="geoname">3171576</note>
                <note type="gnd"/>
@@ -5576,7 +5877,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d54e168a1058">Pamplona</placeName>
+                  <placeName n="place_d55e168a1058">Pamplona</placeName>
                </note>
                <note type="geoname">3114472</note>
                <note type="gnd"/>
@@ -5607,14 +5908,39 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e290a1058">Parma</placeName>
+                  <placeName n="place_d7e572a1058">Paris</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Paris</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">3</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d7e161a1058">Parma</placeName>
                </note>
                <note type="geoname">3171457</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Parma</p>
+                  <p>Parme</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">2</note>
+                  </p>
                   <p source="A120.xml">
                      <val>A120</val>
                      <note type="volNr">1</note>
@@ -5631,7 +5957,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e565a1058">Passau</placeName>
+                  <placeName n="place_d72e565a1058">Passau</placeName>
                </note>
                <note type="geoname">2855328</note>
                <note type="gnd"/>
@@ -5649,7 +5975,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e276a1058">Pavia</placeName>
+                  <placeName n="place_d144e276a1058">Pavia</placeName>
                </note>
                <note type="geoname">3171366</note>
                <note type="gnd"/>
@@ -5687,7 +6013,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d150e326a1058">Perpignan</placeName>
+                  <placeName n="place_d151e326a1058">Perpignan</placeName>
                </note>
                <note type="geoname">2987914</note>
                <note type="gnd"/>
@@ -5705,7 +6031,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e436a1058">Perugia</placeName>
+                  <placeName n="place_d224e436a1058">Perugia</placeName>
                </note>
                <note type="geoname">3171180</note>
                <note type="gnd"/>
@@ -5723,7 +6049,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d217e150a1058">Petrovaradin</placeName>
+                  <placeName n="place_d218e150a1058">Petrovaradin</placeName>
                </note>
                <note type="geoname">3193406</note>
                <note type="gnd"/>
@@ -5772,14 +6098,21 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e743a1058">Piacenza</placeName>
+                  <placeName n="place_d7e165a1058">Piacenza</placeName>
                </note>
                <note type="geoname">3171058</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Piacenza</p>
+                  <p>Plaisance</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">2</note>
+                  </p>
                   <p source="A050.xml">
                      <val>A50</val>
                      <note type="volNr">1</note>
@@ -5796,7 +6129,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e442a1058">Pisa</placeName>
+                  <placeName n="place_d7e676a1058">Picardie</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Picardie</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d224e442a1058">Pisa</placeName>
                </note>
                <note type="geoname">3170647</note>
                <note type="gnd"/>
@@ -5814,7 +6165,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e729a1058">Pliva</placeName>
+                  <placeName n="place_d144e729a1058">Pliva</placeName>
                </note>
                <note type="geoname">3193166</note>
                <note type="gnd"/>
@@ -5832,7 +6183,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d259e438a1058">Po</placeName>
+                  <placeName n="place_d260e438a1058">Po</placeName>
                </note>
                <note type="geoname">3170550</note>
                <note type="gnd"/>
@@ -5857,7 +6208,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d32e538a1058">Pommern</placeName>
+                  <placeName n="place_d33e538a1058">Pommern</placeName>
                </note>
                <note type="geoname">3088388</note>
                <note type="gnd"/>
@@ -5875,7 +6226,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d129e285a1058">Pomson (?)</placeName>
+                  <placeName n="place_d130e285a1058">Pomson (?)</placeName>
                </note>
                <note type="geoname"/>
                <note type="gnd"/>
@@ -5893,7 +6244,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e410a1058">Port Hercule</placeName>
+                  <placeName n="place_d224e410a1058">Port Hercule</placeName>
                </note>
                <note type="geoname">3225759</note>
                <note type="gnd"/>
@@ -5911,7 +6262,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d32e760a1058">Portugal</placeName>
+                  <placeName n="place_d33e760a1058">Portugal</placeName>
                </note>
                <note type="geoname">2264397</note>
                <note type="gnd"/>
@@ -5929,7 +6280,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e537a1058">Prag</placeName>
+                  <placeName n="place_d25e537a1058">Prag</placeName>
                </note>
                <note type="geoname">3067696</note>
                <note type="gnd"/>
@@ -5961,7 +6312,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e568a1058">Preußen</placeName>
+                  <placeName n="place_d72e568a1058">Preußen</placeName>
                </note>
                <note type="geoname">3082436</note>
                <note type="gnd"/>
@@ -5979,7 +6330,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d52e205a1058">Provence</placeName>
+                  <placeName n="place_d7e658a1058">Provence</placeName>
                </note>
                <note type="geoname">2985246</note>
                <note type="gnd"/>
@@ -5988,6 +6339,18 @@
                   <p>Provence</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">4</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
                   <p source="A046.xml">
                      <val>A46</val>
                      <note type="volNr">1</note>
@@ -6016,7 +6379,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d244e293a1058">Raab</placeName>
+                  <placeName n="place_d7e963a1058">Pustertal</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Pustertal</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d245e293a1058">Raab</placeName>
                </note>
                <note type="geoname">3046063</note>
                <note type="gnd"/>
@@ -6034,7 +6415,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d206e292a1058">Radstadt</placeName>
+                  <placeName n="place_d207e292a1058">Radstadt</placeName>
                </note>
                <note type="geoname">2768098</note>
                <note type="gnd"/>
@@ -6052,7 +6433,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d82e2398a1058">Ravensburg</placeName>
+                  <placeName n="place_d83e2398a1058">Ravensburg</placeName>
                </note>
                <note type="geoname">2849802</note>
                <note type="gnd"/>
@@ -6134,7 +6515,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d29e227a1058">Rhodos</placeName>
+                  <placeName n="place_d30e227a1058">Rhodos</placeName>
                </note>
                <note type="geoname">400665</note>
                <note type="gnd"/>
@@ -6152,7 +6533,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d111e166a1058">Rhône</placeName>
+                  <placeName n="place_d112e166a1058">Rhône</placeName>
                </note>
                <note type="geoname">2983752</note>
                <note type="gnd"/>
@@ -6176,7 +6557,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e389a1058">Rom</placeName>
+                  <placeName n="place_d7e179a1058">Rom</placeName>
                </note>
                <note type="geoname">3169070</note>
                <note type="gnd"/>
@@ -6188,6 +6569,18 @@
                   <p>Romme</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">2</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">14</note>
+                  </p>
                   <p source="A021.xml">
                      <val>A21</val>
                      <note type="volNr">1</note>
@@ -6318,7 +6711,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d250e214a1058">Romagna</placeName>
+                  <placeName n="place_d251e214a1058">Romagna</placeName>
                </note>
                <note type="geoname">3169068</note>
                <note type="gnd"/>
@@ -6343,7 +6736,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d206e214a1058">Rothenburg ob der Tauber</placeName>
+                  <placeName n="place_d207e214a1058">Rothenburg ob der Tauber</placeName>
                </note>
                <note type="geoname">2844056</note>
                <note type="gnd"/>
@@ -6361,7 +6754,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d156e533a1058">Rovereto</placeName>
+                  <placeName n="place_d157e533a1058">Rovereto</placeName>
                </note>
                <note type="geoname">3168854</note>
                <note type="gnd"/>
@@ -6379,7 +6772,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e139a1058">Saint-Jean-de-Luz</placeName>
+                  <placeName n="place_d63e139a1058">Saint-Jean-de-Luz</placeName>
                </note>
                <note type="geoname">2979309</note>
                <note type="gnd"/>
@@ -6397,7 +6790,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d52e225a1058">Saint Jean-Pied-de Port</placeName>
+                  <placeName n="place_d53e225a1058">Saint Jean-Pied-de Port</placeName>
                </note>
                <note type="geoname">2979207</note>
                <note type="gnd"/>
@@ -6415,7 +6808,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e122a1058">Salvatierra</placeName>
+                  <placeName n="place_d63e122a1058">Salvatierra</placeName>
                </note>
                <note type="geoname">3110967</note>
                <note type="gnd"/>
@@ -6433,7 +6826,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e115a1058">Santander</placeName>
+                  <placeName n="place_d25e115a1058">Santander</placeName>
                </note>
                <note type="geoname">3109718</note>
                <note type="gnd"/>
@@ -6451,7 +6844,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d223e401a1058">Savona</placeName>
+                  <placeName n="place_d224e401a1058">Savona</placeName>
                </note>
                <note type="geoname">3167022</note>
                <note type="gnd"/>
@@ -6469,7 +6862,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d29e205a1058">Savoyen</placeName>
+                  <placeName n="place_d30e205a1058">Savoyen</placeName>
                </note>
                <note type="geoname">2975518</note>
                <note type="gnd"/>
@@ -6506,7 +6899,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d154e374a1058">Schladming</placeName>
+                  <placeName n="place_d155e374a1058">Schladming</placeName>
                </note>
                <note type="geoname">2765961</note>
                <note type="gnd"/>
@@ -6524,7 +6917,31 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e265a1058">Schottland</placeName>
+                  <placeName n="place_d7e618a1058">Schmalkalden</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Schmalkalden</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">3</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">11</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d127e265a1058">Schottland</placeName>
                </note>
                <note type="geoname">2638360</note>
                <note type="gnd"/>
@@ -6567,7 +6984,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d56e736a1058">Schweinfurt</placeName>
+                  <placeName n="place_d57e736a1058">Schweinfurt</placeName>
                </note>
                <note type="geoname">2834498</note>
                <note type="gnd"/>
@@ -6585,7 +7002,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d152e165a1058">Segovia</placeName>
+                  <placeName n="place_d153e165a1058">Segovia</placeName>
                </note>
                <note type="geoname">3109256</note>
                <note type="gnd"/>
@@ -6603,7 +7020,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d37e111a1058">Senj</placeName>
+                  <placeName n="place_d38e111a1058">Senj</placeName>
                </note>
                <note type="geoname">3191055</note>
                <note type="gnd"/>
@@ -6621,7 +7038,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d165e228a1058">Sevilla</placeName>
+                  <placeName n="place_d166e228a1058">Sevilla</placeName>
                </note>
                <note type="geoname">2510911</note>
                <note type="gnd"/>
@@ -6659,14 +7076,21 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d255e214a1058">Siebenbürgen</placeName>
+                  <placeName n="place_d7e348a1058">Siebenbürgen</placeName>
                </note>
                <note type="geoname">664661</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Siebenbürgens</p>
+                  <p>Transilvanie</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">7</note>
+                  </p>
                   <p source="A248.xml">
                      <val>A248</val>
                      <note type="volNr">1</note>
@@ -6677,17 +7101,24 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d126e176a1058">Siena</placeName>
+                  <placeName n="place_d7e158a1058">Siena</placeName>
                </note>
                <note type="geoname">3166548</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Senes</p>
                   <p>Senis</p>
+                  <p>Sennes</p>
                   <p>Senois</p>
                   <p>terre de Senes</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">2</note>
+                  </p>
                   <p source="A120.xml">
                      <val>A120</val>
                      <note type="volNr">1</note>
@@ -6716,7 +7147,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d37e301a1058">Šintava</placeName>
+                  <placeName n="place_d38e301a1058">Šintava</placeName>
                </note>
                <note type="geoname">3057660</note>
                <note type="gnd"/>
@@ -6734,7 +7165,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d118e218a1058">Soncino</placeName>
+                  <placeName n="place_d119e218a1058">Soncino</placeName>
                </note>
                <note type="geoname">3166399</note>
                <note type="gnd"/>
@@ -6752,7 +7183,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d46e100a1058">Sopron</placeName>
+                  <placeName n="place_d7e922a1058">Sonnenburg</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Sonnenburg</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d47e100a1058">Sopron</placeName>
                </note>
                <note type="geoname">3045190</note>
                <note type="gnd"/>
@@ -6819,7 +7268,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e275a1058">Speyer</placeName>
+                  <placeName n="place_d72e275a1058">Speyer</placeName>
                </note>
                <note type="geoname">2830582</note>
                <note type="gnd"/>
@@ -7019,7 +7468,25 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d258e120a1058">Sremska Mitrovica</placeName>
+                  <placeName n="place_d7e797a1058">Split</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Split/Spalato</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">6</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d259e120a1058">Sremska Mitrovica</placeName>
                </note>
                <note type="geoname">3190103</note>
                <note type="gnd"/>
@@ -7037,7 +7504,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d82e2446a1058">Stendal</placeName>
+                  <placeName n="place_d83e2446a1058">Stendal</placeName>
                </note>
                <note type="geoname">2827479</note>
                <note type="gnd"/>
@@ -7055,7 +7522,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d246e1009a1058">Straßburg</placeName>
+                  <placeName n="place_d7e742a1058">Straßburg</placeName>
                </note>
                <note type="geoname">2973783</note>
                <note type="gnd"/>
@@ -7063,6 +7530,18 @@
                   <p>Straßburg</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">5</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">9</note>
+                  </p>
                   <p source="A239.xml">
                      <val>A239</val>
                      <note type="volNr">1</note>
@@ -7079,7 +7558,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d77e185a1058">Stuttgart</placeName>
+                  <placeName n="place_d78e185a1058">Stuttgart</placeName>
                </note>
                <note type="geoname">2825297</note>
                <note type="gnd"/>
@@ -7149,7 +7628,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d257e383a1058">Südtirol</placeName>
+                  <placeName n="place_d258e383a1058">Südtirol</placeName>
                </note>
                <note type="geoname">3165244</note>
                <note type="gnd"/>
@@ -7167,7 +7646,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d256e113a1058">Székesfehérvár</placeName>
+                  <placeName n="place_d257e113a1058">Székesfehérvár</placeName>
                </note>
                <note type="geoname">3044774</note>
                <note type="gnd"/>
@@ -7192,7 +7671,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d206e302a1058">Tauern</placeName>
+                  <placeName n="place_d207e302a1058">Tauern</placeName>
                </note>
                <note type="geoname">2775659</note>
                <note type="gnd"/>
@@ -7210,7 +7689,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e786a1058">Toledo</placeName>
+                  <placeName n="place_d144e786a1058">Toledo</placeName>
                </note>
                <note type="geoname">2510409</note>
                <note type="gnd"/>
@@ -7373,7 +7852,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d14e190a1058">Tolosa</placeName>
+                  <placeName n="place_d15e190a1058">Tolosa</placeName>
                </note>
                <note type="geoname">2510400</note>
                <note type="gnd"/>
@@ -7391,7 +7870,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d100e153a1058">Tordesillas</placeName>
+                  <placeName n="place_d101e153a1058">Tordesillas</placeName>
                </note>
                <note type="geoname">3107952</note>
                <note type="gnd"/>
@@ -7429,7 +7908,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d14e165a1058">Tortosa</placeName>
+                  <placeName n="place_d15e165a1058">Tortosa</placeName>
                </note>
                <note type="geoname">3107677</note>
                <note type="gnd"/>
@@ -7447,7 +7926,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d250e229a1058">Toscana</placeName>
+                  <placeName n="place_d251e229a1058">Toscana</placeName>
                </note>
                <note type="geoname">3165361</note>
                <note type="gnd"/>
@@ -7465,7 +7944,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d35e271a1058">Trient</placeName>
+                  <placeName n="place_d36e271a1058">Trient</placeName>
                </note>
                <note type="geoname">3165243</note>
                <note type="gnd"/>
@@ -7576,7 +8055,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d29e275a1058">Trier</placeName>
+                  <placeName n="place_d30e275a1058">Trier</placeName>
                </note>
                <note type="geoname">2821164</note>
                <note type="gnd"/>
@@ -7634,7 +8113,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d154e287a1058">Tübingen</placeName>
+                  <placeName n="place_d155e287a1058">Tübingen</placeName>
                </note>
                <note type="geoname">2820860</note>
                <note type="gnd"/>
@@ -7761,7 +8240,31 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e260a1058">Ulm</placeName>
+                  <placeName n="place_d7e610a1058">Tunis</placeName>
+               </note>
+               <note type="geoname"/>
+               <note type="gnd"/>
+               <note type="writings">
+                  <p>Tunis</p>
+               </note>
+               <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">3</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">10</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="place">
+                  <placeName n="place_d72e260a1058">Ulm</placeName>
                </note>
                <note type="geoname">2820256</note>
                <note type="gnd"/>
@@ -7792,7 +8295,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d169e198a1058">Urach</placeName>
+                  <placeName n="place_d170e198a1058">Urach</placeName>
                </note>
                <note type="geoname">2818246</note>
                <note type="gnd"/>
@@ -7810,7 +8313,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e128a1058">Ustaritz</placeName>
+                  <placeName n="place_d63e128a1058">Ustaritz</placeName>
                </note>
                <note type="geoname">2971286</note>
                <note type="gnd"/>
@@ -7828,7 +8331,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d227e299a1058">Utrecht</placeName>
+                  <placeName n="place_d228e299a1058">Utrecht</placeName>
                </note>
                <note type="geoname">2745911</note>
                <note type="gnd"/>
@@ -7852,7 +8355,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e283a1058">Valence</placeName>
+                  <placeName n="place_d63e283a1058">Valence</placeName>
                </note>
                <note type="geoname">2971053</note>
                <note type="gnd"/>
@@ -7870,7 +8373,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d60e131a1058">Valencia</placeName>
+                  <placeName n="place_d61e131a1058">Valencia</placeName>
                </note>
                <note type="geoname">2509954</note>
                <note type="gnd"/>
@@ -7888,7 +8391,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d135e124a1058">Valenciennes</placeName>
+                  <placeName n="place_d136e124a1058">Valenciennes</placeName>
                </note>
                <note type="geoname">2971041</note>
                <note type="gnd"/>
@@ -7906,7 +8409,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d24e316a1058">Valladolid</placeName>
+                  <placeName n="place_d7e514a1058">Valladolid</placeName>
                </note>
                <note type="geoname">3106672</note>
                <note type="gnd"/>
@@ -7918,6 +8421,12 @@
                   <p>Valladoly</p>
                </note>
                <note type="occurence">
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">14</note>
+                  </p>
                   <p source="A018.xml">
                      <val>A18</val>
                      <note type="volNr">1</note>
@@ -7982,7 +8491,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d96e144a1058">Verona</placeName>
+                  <placeName n="place_d97e144a1058">Verona</placeName>
                </note>
                <note type="geoname">3164527</note>
                <note type="gnd"/>
@@ -8012,7 +8521,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d96e148a1058">Vicenza</placeName>
+                  <placeName n="place_d97e148a1058">Vicenza</placeName>
                </note>
                <note type="geoname">3164419</note>
                <note type="gnd"/>
@@ -8030,7 +8539,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d164e192a1058">Vigevano</placeName>
+                  <placeName n="place_d165e192a1058">Vigevano</placeName>
                </note>
                <note type="geoname">3164376</note>
                <note type="gnd"/>
@@ -8055,7 +8564,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d91e383a1058">Villefranche-sur-Mer</placeName>
+                  <placeName n="place_d92e383a1058">Villefranche-sur-Mer</placeName>
                </note>
                <note type="geoname">2968749</note>
                <note type="gnd"/>
@@ -8080,7 +8589,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d62e315a1058">Vitoria-Gasteiz</placeName>
+                  <placeName n="place_d63e315a1058">Vitoria-Gasteiz</placeName>
                </note>
                <note type="geoname">3104499</note>
                <note type="gnd"/>
@@ -8111,7 +8620,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d117e159a1058">Vöcklabruck</placeName>
+                  <placeName n="place_d118e159a1058">Vöcklabruck</placeName>
                </note>
                <note type="geoname">2762342</note>
                <note type="gnd"/>
@@ -8129,7 +8638,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d143e732a1058">Vrbas</placeName>
+                  <placeName n="place_d144e732a1058">Vrbas</placeName>
                </note>
                <note type="geoname">3187296</note>
                <note type="gnd"/>
@@ -8147,7 +8656,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d71e651a1058">Walachei</placeName>
+                  <placeName n="place_d72e651a1058">Walachei</placeName>
                </note>
                <note type="geoname">662112</note>
                <note type="gnd"/>
@@ -8165,7 +8674,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d103e140a1058">Waldshut im Breisgau</placeName>
+                  <placeName n="place_d104e140a1058">Waldshut im Breisgau</placeName>
                </note>
                <note type="geoname">2814791</note>
                <note type="gnd"/>
@@ -8197,7 +8706,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d17e142a1058">Wels</placeName>
+                  <placeName n="place_d18e142a1058">Wels</placeName>
                </note>
                <note type="geoname">7871309</note>
                <note type="gnd"/>
@@ -8249,6 +8758,18 @@
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
                      <note type="para">3</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">7</note>
+                  </p>
+                  <p source="1067.xml">
+                     <val>1067</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">5</note>
                   </p>
                   <p source="A016.xml">
                      <val>A16</val>
@@ -8416,7 +8937,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d27e472a1058">Wiener Neustadt</placeName>
+                  <placeName n="place_d28e472a1058">Wiener Neustadt</placeName>
                </note>
                <note type="geoname">2761353</note>
                <note type="gnd"/>
@@ -8476,7 +8997,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d214e391a1058">Wijnendale (Torhout)</placeName>
+                  <placeName n="place_d215e391a1058">Wijnendale (Torhout)</placeName>
                </note>
                <note type="geoname">2783680</note>
                <note type="gnd"/>
@@ -8494,7 +9015,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d20e145a1058">Worms</placeName>
+                  <placeName n="place_d21e145a1058">Worms</placeName>
                </note>
                <note type="geoname">2806142</note>
                <note type="gnd"/>
@@ -8618,7 +9139,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d150e205a1058">Xàtiva</placeName>
+                  <placeName n="place_d151e205a1058">Xàtiva</placeName>
                </note>
                <note type="geoname">2516345</note>
                <note type="gnd"/>
@@ -8636,7 +9157,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d243e125a1058">Ybbs</placeName>
+                  <placeName n="place_d244e125a1058">Ybbs</placeName>
                </note>
                <note type="geoname">2760772</note>
                <note type="gnd"/>
@@ -8654,7 +9175,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d253e104a1058">Zagreb</placeName>
+                  <placeName n="place_d254e104a1058">Zagreb</placeName>
                </note>
                <note type="geoname">3186886</note>
                <note type="gnd"/>
@@ -8672,7 +9193,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d13e139a1058">Zeeland</placeName>
+                  <placeName n="place_d14e139a1058">Zeeland</placeName>
                </note>
                <note type="geoname">2744011</note>
                <note type="gnd"/>
@@ -8704,7 +9225,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d66e170a1058">Zürich</placeName>
+                  <placeName n="place_d67e170a1058">Zürich</placeName>
                </note>
                <note type="geoname">2657896</note>
                <note type="gnd"/>
