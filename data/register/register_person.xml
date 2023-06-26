@@ -52,6 +52,18 @@
                      <note type="div"/>
                      <note type="para"/>
                   </p>
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div"/>
+                     <note type="para"/>
+                  </p>
                   <p source="A049.xml">
                      <val>A49</val>
                      <note type="volNr">1</note>
@@ -80,7 +92,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e368a1055">Absberg, Hans Thomas von, fränkischer Ritter</persName>
+                  <persName n="person_d42e368a1055">Absberg, Hans Thomas von, fränkischer Ritter</persName>
                </note>
                <note type="writings">
                   <p>Hans Thomas von Absberg</p>
@@ -103,7 +115,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d237e754a1055">Acciaiuoli, Roberto, päpstl. Nuntius am französischen Hof</persName>
+                  <persName n="person_d238e754a1055">Acciaiuoli, Roberto, päpstl. Nuntius am französischen Hof</persName>
                </note>
                <note type="writings">
                   <p>Acciaiuoli</p>
@@ -119,7 +131,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e583a1055">Adurno, Girolamo, Gesandter K’s in Venedig</persName>
+                  <persName n="person_d24e583a1055">Adurno, Girolamo, Gesandter K’s in Venedig</persName>
                </note>
                <note type="writings">
                   <p>Adornos</p>
@@ -149,7 +161,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d248e413a1055">Adurza, Juan de, Schatzmeister K‘s</persName>
+                  <persName n="person_d249e413a1055">Adurza, Juan de, Schatzmeister K‘s</persName>
                </note>
                <note type="writings">
                   <p>Juan de Adurça</p>
@@ -165,7 +177,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d138e130a1055">Águila, Suero del, Gespiele F‘s</persName>
+                  <persName n="person_d139e130a1055">Águila, Suero del, Gespiele F‘s</persName>
                </note>
                <note type="writings">
                   <p>Suero del’ Agilla</p>
@@ -202,7 +214,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d108e199a1055">Alarcón, Hernando de, spanischer Heerführer</persName>
+                  <persName n="person_d109e199a1055">Alarcón, Hernando de, spanischer Heerführer</persName>
                </note>
                <note type="writings">
                   <p>Allarcon</p>
@@ -218,7 +230,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2951a1055">Alborgo, Andreas, Erzbischof (?)</persName>
+                  <persName n="person_d82e2951a1055">Alborgo, Andreas, Erzbischof (?)</persName>
                </note>
                <note type="writings">
                   <p>Andreas Alborgo</p>
@@ -241,7 +253,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e372a1055">Albrecht VII., Herzog von Mecklenburg</persName>
+                  <persName n="person_d56e372a1055">Albrecht VII., Herzog von Mecklenburg</persName>
                </note>
                <note type="writings">
                   <p>de Melckelbourg</p>
@@ -257,7 +269,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e409a1055">Albrecht von Brandenburg, Erzbischof von Mainz, Kardinal, Kurfürst</persName>
+                  <persName n="person_d24e409a1055">Albrecht von Brandenburg, Erzbischof von Mainz, Kardinal, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>archiepiscopi Moguntini</p>
@@ -363,7 +375,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e365a1055">Albrecht von Preußen</persName>
+                  <persName n="person_d56e365a1055">Albrecht von Preußen</persName>
                </note>
                <note type="writings">
                   <p>grant-maistre de Prusse</p>
@@ -399,7 +411,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d170e257a1055">Alfonso I. d’Este, Herzog von Ferrara</persName>
+                  <persName n="person_d171e257a1055">Alfonso I. d’Este, Herzog von Ferrara</persName>
                </note>
                <note type="writings">
                   <p>duc de Ferrare</p>
@@ -427,7 +439,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d28e224a1055">Amaral, André do, Großmeister des Johanniterordens</persName>
+                  <persName n="person_d29e224a1055">Amaral, André do, Großmeister des Johanniterordens</persName>
                </note>
                <note type="writings">
                   <p>grant maistre</p>
@@ -443,7 +455,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d153e392a1055">Angrer, Dr. Gregor, F’s Gesandter in Venedig</persName>
+                  <persName n="person_d154e392a1055">Angrer, Dr. Gregor, F’s Gesandter in Venedig</persName>
                </note>
                <note type="writings">
                   <p>Doktor Gregor Angrer</p>
@@ -473,7 +485,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d15e164a1055">Anna von Böhmen und Ungarn, Gattin Ferdinands I.</persName>
+                  <persName n="person_d16e164a1055">Anna von Böhmen und Ungarn, Gattin Ferdinands I.</persName>
                </note>
                <note type="writings">
                   <p>Anna</p>
@@ -535,7 +547,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d148e202a1055">Anton II., Herzog von Lothringen</persName>
+                  <persName n="person_d149e202a1055">Anton II., Herzog von Lothringen</persName>
                </note>
                <note type="writings">
                   <p>duc de Lorraine</p>
@@ -578,7 +590,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e260a1055">Arco, Graf von, Gesandter des Hgs von Mailand</persName>
+                  <persName n="person_d56e260a1055">Arco, Graf von, Gesandter des Hgs von Mailand</persName>
                </note>
                <note type="writings">
                   <p>conte d’Arc</p>
@@ -594,7 +606,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d97e118a1055">Arenberg, Eurard d‘</persName>
+                  <persName n="person_d98e118a1055">Arenberg, Eurard d‘</persName>
                </note>
                <note type="writings">
                   <p>Eurard</p>
@@ -610,7 +622,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d97e121a1055">Arenberg, Robert d‘</persName>
+                  <persName n="person_d98e121a1055">Arenberg, Robert d‘</persName>
                </note>
                <note type="writings">
                   <p>obert d’Aremberg</p>
@@ -626,7 +638,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d266e237a1055">Arezzo, Paulo d‘, päpstlicher Kämmerer, Gesandter bei K</persName>
+                  <persName n="person_d267e237a1055">Arezzo, Paulo d‘, päpstlicher Kämmerer, Gesandter bei K</persName>
                </note>
                <note type="writings">
                   <p>Paule de Rezo</p>
@@ -642,7 +654,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d221e153a1055">Avalos, Alfonso d’, Marchese Del Vasto</persName>
+                  <persName n="person_d222e153a1055">Avalos, Alfonso d’, Marchese Del Vasto</persName>
                </note>
                <note type="writings">
                   <p>marquis del Gasto</p>
@@ -658,7 +670,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e263a1055">Avena, conte d‘, Gesandter des Hgs von Mailand</persName>
+                  <persName n="person_d56e263a1055">Avena, conte d‘, Gesandter des Hgs von Mailand</persName>
                </note>
                <note type="writings">
                   <p>d’Avena</p>
@@ -690,7 +702,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d78e159a1055">Baden, Markgraf Philipp von</persName>
+                  <persName n="person_d79e159a1055">Baden, Markgraf Philipp von</persName>
                </note>
                <note type="writings">
                   <p>marchionem Philippum Badensern</p>
@@ -839,7 +851,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e343a1055">Badt, Jacques, Kommissär K’s in Sachen der Schulden Maximilians I.</persName>
+                  <persName n="person_d44e343a1055">Badt, Jacques, Kommissär K’s in Sachen der Schulden Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>Jacques Badt</p>
@@ -855,7 +867,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d222e426a1055">Baillons, aus dem Kirchenstaat vertriebenes Geschlecht</persName>
+                  <persName n="person_d223e426a1055">Baillons, aus dem Kirchenstaat vertriebenes Geschlecht</persName>
                </note>
                <note type="writings">
                   <p>Baillons</p>
@@ -871,7 +883,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2439a1055">Baker, John, Gesandter aus England</persName>
+                  <persName n="person_d82e2439a1055">Baker, John, Gesandter aus England</persName>
                </note>
                <note type="writings">
                   <p>Joanne Backer Anglico</p>
@@ -887,7 +899,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d19e180a1055">Balbi, Girolamo, venezianischer Humanist, Bischof von Gurk, Diplomat (u. a. im Dienst Ludwigs II. von Ungarn)</persName>
+                  <persName n="person_d20e180a1055">Balbi, Girolamo, venezianischer Humanist, Bischof von Gurk, Diplomat (u. a. im Dienst Ludwigs II. von Ungarn)</persName>
                </note>
                <note type="writings">
                   <p>Balbi</p>
@@ -916,7 +928,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d135e127a1055">Ballieu (Ballieul), ungarischer Kurier</persName>
+                  <persName n="person_d136e127a1055">Ballieu (Ballieul), ungarischer Kurier</persName>
                </note>
                <note type="writings">
                   <p>Bailleul</p>
@@ -939,7 +951,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e264a1055">Bánffy, ?</persName>
+                  <persName n="person_d162e264a1055">Bánffy, ?</persName>
                </note>
                <note type="writings">
                   <p>Bamphi</p>
@@ -955,7 +967,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d7e165a1055">Bannissis, Jacobus de, Sekretär Maximilians I.</persName>
+                  <persName n="person_d8e165a1055">Bannissis, Jacobus de, Sekretär Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>Ja. de Bannissis.</p>
@@ -978,7 +990,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d12e155a1055">Barres, Guillaume de, Sekretär Mg‘s</persName>
+                  <persName n="person_d13e155a1055">Barres, Guillaume de, Sekretär Mg‘s</persName>
                </note>
                <note type="writings">
                   <p>Des Barres</p>
@@ -1021,7 +1033,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e118a1055">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
+                  <persName n="person_d159e118a1055">Basin, Guillaume, Lizentiat der Rechte, F’s Vertreter bei K in Sachen des Prozesses, den Nachlass nach dem Herrn von Neuchâtel betreffend</persName>
                </note>
                <note type="writings">
                   <p>Guillaume Basin</p>
@@ -1043,7 +1055,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d191e211a1055">Batthyány de Németújvár, Ferenc, Ban von Kroatien</persName>
+                  <persName n="person_d192e211a1055">Batthyány de Németújvár, Ferenc, Ban von Kroatien</persName>
                </note>
                <note type="writings">
                   <p>Francisci de Bathiani, Croatie bani</p>
@@ -1059,7 +1071,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d67e288a1055">Bayern, Herzöge von</persName>
+                  <persName n="person_d68e288a1055">Bayern, Herzöge von</persName>
                </note>
                <note type="writings">
                   <p>Bavariẹ</p>
@@ -1136,7 +1148,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d254e120a1055">Beck, Dr. Markus, von Leopoldsdorf, Rat und Prokurator der Kammer von Niederösterreich</persName>
+                  <persName n="person_d255e120a1055">Beck, Dr. Markus, von Leopoldsdorf, Rat und Prokurator der Kammer von Niederösterreich</persName>
                </note>
                <note type="writings">
                   <p>Marcum Beck</p>
@@ -1152,7 +1164,46 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e580a1055">Beichlingen, Adam von</persName>
+                  <persName n="person_d6e124a1055">Beheim, Bernhard, Oberkammergraf Ms</persName>
+               </note>
+               <note type="writings">
+                  <p>camergraf</p>
+                  <p>le camergraf</p>
+               </note>
+               <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
+                  </p>
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">3</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName n="person_d6e316a1055">Beheim, Thomas</persName>
+               </note>
+               <note type="writings">
+                  <p>Thomas</p>
+               </note>
+               <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">1</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName n="person_d71e580a1055">Beichlingen, Adam von</persName>
                </note>
                <note type="writings">
                   <p>comiti de Beuchlingen</p>
@@ -1168,7 +1219,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d222e423a1055">Bentivogli, Familie aus Bologna</persName>
+                  <persName n="person_d223e423a1055">Bentivogli, Familie aus Bologna</persName>
                </note>
                <note type="writings">
                   <p>Bentevogles</p>
@@ -1184,7 +1235,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d251e108a1055">Bernardus, cantor Agriensis, Sekretär M‘s</persName>
+                  <persName n="person_d252e108a1055">Bernardus, cantor Agriensis, Sekretär M‘s</persName>
                </note>
                <note type="writings">
                   <p>Bernardum, cantorem Agriensem</p>
@@ -1200,7 +1251,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d248e229a1055">Bernuy (Vernuy), Fernando (Hernando) de, Begründer eines der ältesten spanischen Handelshäuser in Antwerpen</persName>
+                  <persName n="person_d249e229a1055">Bernuy (Vernuy), Fernando (Hernando) de, Begründer eines der ältesten spanischen Handelshäuser in Antwerpen</persName>
                </note>
                <note type="writings">
                   <p>Hernand de Bernuy</p>
@@ -1216,7 +1267,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d95e151a1055">Besten oder Mosten, capitain de, Grenzhauptmann F‘s</persName>
+                  <persName n="person_d96e151a1055">Besten oder Mosten, capitain de, Grenzhauptmann F‘s</persName>
                </note>
                <note type="writings">
                   <p>cappitaine de Besten</p>
@@ -1232,7 +1283,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e182a1055">Bissy, Herr von, Hausmarschall (marechal de logis) K's, Gesandter bei Charles Bourbon</persName>
+                  <persName n="person_d52e182a1055">Bissy, Herr von, Hausmarschall (marechal de logis) K's, Gesandter bei Charles Bourbon</persName>
                </note>
                <note type="writings">
                   <p>sr de Bissy</p>
@@ -1248,7 +1299,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e553a1055">Bloix, Kurier</persName>
+                  <persName n="person_d56e553a1055">Bloix, Kurier</persName>
                </note>
                <note type="writings">
                   <p>Bloix</p>
@@ -1264,7 +1315,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e536a1055">Bogislaw X., Herzog von Pommern</persName>
+                  <persName n="person_d32e536a1055">Bogislaw X., Herzog von Pommern</persName>
                </note>
                <note type="writings">
                   <p>duc de Pomeren</p>
@@ -1280,7 +1331,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e182a1055">Bonomo, Petrus, Bischof von Wien</persName>
+                  <persName n="person_d22e182a1055">Bonomo, Petrus, Bischof von Wien</persName>
                </note>
                <note type="writings">
                   <p>Petrus Bonomo</p>
@@ -1296,7 +1347,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e237a1055">Bösing, Graf Franz von St. Georgen und (?)</persName>
+                  <persName n="person_d162e237a1055">Bösing, Graf Franz von St. Georgen und (?)</persName>
                </note>
                <note type="writings">
                   <p>Gfen von Pösing</p>
@@ -1312,7 +1363,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d53e112a1055">Bourbon, Karl III., Herzog von, „Connétable de Bourbon“</persName>
+                  <persName n="person_d54e112a1055">Bourbon, Karl III., Herzog von, „Connétable de Bourbon“</persName>
                </note>
                <note type="writings">
                   <p>Bourbon</p>
@@ -1648,7 +1699,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d237e330a1055">Bourbon, Karl IV. von, Herzog von Vendôme</persName>
+                  <persName n="person_d238e330a1055">Bourbon, Karl IV. von, Herzog von Vendôme</persName>
                </note>
                <note type="writings">
                   <p>duc de Vendosme</p>
@@ -1664,7 +1715,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d244e453a1055">Bourchier, John, 2. Baron Berners, Marschall von Calais</persName>
+                  <persName n="person_d245e453a1055">Bourchier, John, 2. Baron Berners, Marschall von Calais</persName>
                </note>
                <note type="writings">
                   <p>mareschal de Calayz</p>
@@ -1687,7 +1738,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d143e241a1055">Bourgogne, Adolf de, Gesandter Mg’s in England</persName>
+                  <persName n="person_d144e241a1055">Bourgogne, Adolf de, Gesandter Mg’s in England</persName>
                </note>
                <note type="writings">
                   <p>Adolf de Bourgogne</p>
@@ -1703,7 +1754,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e112a1055">Bouton, Claude, Herr von Corbaron, Gesandter F’s und K‘s</persName>
+                  <persName n="person_d44e112a1055">Bouton, Claude, Herr von Corbaron, Gesandter F’s und K‘s</persName>
                </note>
                <note type="writings">
                   <p>Bouton</p>
@@ -1732,7 +1783,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e113a1055">Bredam </persName>
+                  <persName n="person_d82e113a1055">Bredam </persName>
                </note>
                <note type="writings">
                   <p>Carolus de Burgundia, dominus de Bredam</p>
@@ -1755,7 +1806,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e724a1055">Bredam, Charles de Bourgogne, Herr von</persName>
+                  <persName n="person_d32e724a1055">Bredam, Charles de Bourgogne, Herr von</persName>
                </note>
                <note type="writings">
                   <p>Bredam</p>
@@ -2249,7 +2300,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d213e323a1055">Brinon, Jean, Herr von Villaines d‘Humières, französischer Gesandter in England</persName>
+                  <persName n="person_d214e323a1055">Brinon, Jean, Herr von Villaines d‘Humières, französischer Gesandter in England</persName>
                </note>
                <note type="writings">
                   <p>sr de Humyeres</p>
@@ -2265,7 +2316,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d92e218a1055">Brodarić, Stefan (Stjepan/István), Bischof von Sirmium/Sremska Mitrovica</persName>
+                  <persName n="person_d93e218a1055">Brodarić, Stefan (Stjepan/István), Bischof von Sirmium/Sremska Mitrovica</persName>
                </note>
                <note type="writings">
                   <p>Stephan Brodarics</p>
@@ -2288,7 +2339,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e733a1055">Brunner, Hieronymus, Kommissär K’s in Sachen der Schulden Maximilians I.</persName>
+                  <persName n="person_d32e733a1055">Brunner, Hieronymus, Kommissär K’s in Sachen der Schulden Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>Hieronymus Brunner</p>
@@ -2304,7 +2355,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d92e221a1055">Burgio, Baron de, päpstlicher Nuntius in Ungarn</persName>
+                  <persName n="person_d93e221a1055">Burgio, Baron de, päpstlicher Nuntius in Ungarn</persName>
                </note>
                <note type="writings">
                   <p>Baron de Burgio</p>
@@ -2320,7 +2371,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e195a1055">Burgo, Andrea del, kaiserlicher Gesandter</persName>
+                  <persName n="person_d24e195a1055">Burgo, Andrea del, kaiserlicher Gesandter</persName>
                </note>
                <note type="writings">
                   <p>Andra de Bourgo</p>
@@ -2461,7 +2512,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d15e128a1055">Caballis, Friedrich von</persName>
+                  <persName n="person_d16e128a1055">Caballis, Friedrich von</persName>
                </note>
                <note type="writings">
                   <p>Fridericum de Coballis</p>
@@ -2477,7 +2528,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d15e118a1055">Caballis, Paula von</persName>
+                  <persName n="person_d16e118a1055">Caballis, Paula von</persName>
                </note>
                <note type="writings">
                   <p>Paula</p>
@@ -2493,7 +2544,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e168a1055">Campeggi, Lorenzo, Kardinal, päpstlicher Legat </persName>
+                  <persName n="person_d31e168a1055">Campeggi, Lorenzo, Kardinal, päpstlicher Legat </persName>
                </note>
                <note type="writings">
                   <p>Campeggi</p>
@@ -2580,7 +2631,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d46e231a1055">Caracciolo, Marino, Kardinal, Diplomat im Dienste K's, Gouverneur von Mailand</persName>
+                  <persName n="person_d47e231a1055">Caracciolo, Marino, Kardinal, Diplomat im Dienste K's, Gouverneur von Mailand</persName>
                </note>
                <note type="writings">
                   <p>Caracciolo</p>
@@ -2615,7 +2666,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d170e274a1055">Carpy (Carpi), Graf (vielleicht Pedró de Córdoba, Graf von Cabra)</persName>
+                  <persName n="person_d171e274a1055">Carpy (Carpi), Graf (vielleicht Pedró de Córdoba, Graf von Cabra)</persName>
                </note>
                <note type="writings">
                   <p>conte de Carpy</p>
@@ -2631,7 +2682,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d138e168a1055">Carvajal, Isabel de</persName>
+                  <persName n="person_d139e168a1055">Carvajal, Isabel de</persName>
                </note>
                <note type="writings">
                   <p>Isabel de Carvajal</p>
@@ -2647,7 +2698,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d170e415a1055">Castiglione, Baldassare</persName>
+                  <persName n="person_d171e415a1055">Castiglione, Baldassare</persName>
                </note>
                <note type="writings">
                   <p>Gf Baldassare Castiglione</p>
@@ -2663,7 +2714,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e149a1055">Castro, Juan de</persName>
+                  <persName n="person_d164e149a1055">Castro, Juan de</persName>
                </note>
                <note type="writings">
                   <p>Jehan de Castro</p>
@@ -2679,7 +2730,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d267e288a1055">Cathaneis, Gabriel de, Kurier K‘s</persName>
+                  <persName n="person_d268e288a1055">Cathaneis, Gabriel de, Kurier K‘s</persName>
                </note>
                <note type="writings">
                   <p>Gabriel de Cathaneis</p>
@@ -2695,7 +2746,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e348a1055">Chabannes de La Palice (Palisse), Jacques II de</persName>
+                  <persName n="person_d24e348a1055">Chabannes de La Palice (Palisse), Jacques II de</persName>
                </note>
                <note type="writings">
                   <p>Marschall La Palisse</p>
@@ -2711,7 +2762,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d123e164a1055">Chalon, Claude de, Prinzessin von Oranien</persName>
+                  <persName n="person_d124e164a1055">Chalon, Claude de, Prinzessin von Oranien</persName>
                </note>
                <note type="writings">
                   <p>princesse d’Oranges</p>
@@ -2727,7 +2778,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d134e128a1055">Chappelle, Daniel de la, Siegelbewahrer (‘scelleur’) von Cambrai</persName>
+                  <persName n="person_d135e128a1055">Chappelle, Daniel de la, Siegelbewahrer (‘scelleur’) von Cambrai</persName>
                </note>
                <note type="writings">
                   <p>Daniel de la Chappelle, selleur de Cambray</p>
@@ -2743,7 +2794,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d13e151a1055">Chaux, M. de la, Gesandter Ks</persName>
+                  <persName n="person_d14e151a1055">Chaux, M. de la, Gesandter Ks</persName>
                </note>
                <note type="writings">
                   <p>M. de la Chaux</p>
@@ -2759,7 +2810,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d17e161a1055">Chièvres, Guillaume II., S. de Croÿ</persName>
+                  <persName n="person_d18e161a1055">Chièvres, Guillaume II., S. de Croÿ</persName>
                </note>
                <note type="writings">
                   <p>Chièvres</p>
@@ -2775,7 +2826,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d184e210a1055">Christian II. </persName>
+                  <persName n="person_d185e210a1055">Christian II. </persName>
                </note>
                <note type="writings">
                   <p>Christian II.</p>
@@ -2791,7 +2842,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d42e123a1055">Christian II., König von Dänemark, König von Schweden, Gemahl Isabellas von Österreich</persName>
+                  <persName n="person_d43e123a1055">Christian II., König von Dänemark, König von Schweden, Gemahl Isabellas von Österreich</persName>
                </note>
                <note type="writings">
                   <p>au roi</p>
@@ -2884,7 +2935,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d260e262a1055">Christian III., König von Dänemark</persName>
+                  <persName n="person_d261e262a1055">Christian III., König von Dänemark</persName>
                </note>
                <note type="writings">
                   <p>le filz aisné</p>
@@ -2932,7 +2983,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e475a1055">Christoph von Württemberg, Herzog von</persName>
+                  <persName n="person_d56e475a1055">Christoph von Württemberg, Herzog von</persName>
                </note>
                <note type="writings">
                   <p>Christofle duc de Wiertemberg</p>
@@ -2962,7 +3013,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e234a1055">Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat</persName>
+                  <persName n="person_d162e234a1055">Ciriac, ein Ungar, der dem Kloster Marienburg den Frieden gebrochen hat</persName>
                </note>
                <note type="writings">
                   <p>Ciriac</p>
@@ -2978,7 +3029,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d10e150a1055">Cisneros, Francisco (Gonzalo) Jiménez de, Kardinal, Erzbischof von Toledo</persName>
+                  <persName n="person_d11e150a1055">Cisneros, Francisco (Gonzalo) Jiménez de, Kardinal, Erzbischof von Toledo</persName>
                </note>
                <note type="writings">
                   <p>cardenal de España</p>
@@ -3001,7 +3052,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e692a1055">Cles, Balthasar von</persName>
+                  <persName n="person_d32e692a1055">Cles, Balthasar von</persName>
                </note>
                <note type="writings">
                   <p>Balthasarem de Gles</p>
@@ -3137,7 +3188,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d222e417a1055">Colonna, Familie und Anhänger</persName>
+                  <persName n="person_d223e417a1055">Colonna, Familie und Anhänger</persName>
                </note>
                <note type="writings">
                   <p>Collonnois</p>
@@ -3167,7 +3218,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d227e194a1055">Colonna, Pompeo, Kardinal</persName>
+                  <persName n="person_d228e194a1055">Colonna, Pompeo, Kardinal</persName>
                </note>
                <note type="writings">
                   <p>cardinal de Colonne</p>
@@ -3183,7 +3234,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d108e222a1055">Contarini, Carlo</persName>
+                  <persName n="person_d109e222a1055">Contarini, Carlo</persName>
                </note>
                <note type="writings">
                   <p>Carlo Contarini</p>
@@ -3230,7 +3281,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d95e242a1055">Contarini, Gaspar</persName>
+                  <persName n="person_d96e242a1055">Contarini, Gaspar</persName>
                </note>
                <note type="writings">
                   <p>Gaspar Contarini</p>
@@ -3246,7 +3297,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d102e240a1055">Conti, Antonio de‘, Gesandter K‘s</persName>
+                  <persName n="person_d103e240a1055">Conti, Antonio de‘, Gesandter K‘s</persName>
                </note>
                <note type="writings">
                   <p>De Conti</p>
@@ -3262,7 +3313,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e265a1055">Córdoba, Pedro de, Graf von Cabra, F's Oberststallmeister, Gesandter und Rat</persName>
+                  <persName n="person_d44e265a1055">Córdoba, Pedro de, Graf von Cabra, F's Oberststallmeister, Gesandter und Rat</persName>
                </note>
                <note type="writings">
                   <p>comite Caprẹ, Don Petro</p>
@@ -3438,7 +3489,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e262a1055">Cornelius, unehelicher Sohn Maximilians I.</persName>
+                  <persName n="person_d164e262a1055">Cornelius, unehelicher Sohn Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>Cornelio</p>
@@ -3461,7 +3512,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e179a1055">Corradino, kaiserlicher Hauptmann in Italien</persName>
+                  <persName n="person_d164e179a1055">Corradino, kaiserlicher Hauptmann in Italien</persName>
                </note>
                <note type="writings">
                   <p>Corradino</p>
@@ -3477,7 +3528,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e156a1055">Croÿ, Adrien de, Herr von Beauraing, Graf von Roeulx, Vertrauter und Gesandter K's, Gouverneur von Flandern</persName>
+                  <persName n="person_d52e156a1055">Croÿ, Adrien de, Herr von Beauraing, Graf von Roeulx, Vertrauter und Gesandter K's, Gouverneur von Flandern</persName>
                </note>
                <note type="writings">
                   <p>Adrien de Croy</p>
@@ -3571,7 +3622,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d264e110a1055">Crysenith, Gaspar</persName>
+                  <persName n="person_d265e110a1055">Crysenith, Gaspar</persName>
                </note>
                <note type="writings">
                   <p>Gasparis Crysenyth</p>
@@ -3587,7 +3638,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e334a1055">Cueva, Bertrán de la </persName>
+                  <persName n="person_d24e334a1055">Cueva, Bertrán de la </persName>
                </note>
                <note type="writings">
                   <p>Bertran de la Cueva</p>
@@ -3603,7 +3654,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e183a1055">Cusance, Ferry de, Herr von Belvoir (Saint-Julien und Darcey)</persName>
+                  <persName n="person_d159e183a1055">Cusance, Ferry de, Herr von Belvoir (Saint-Julien und Darcey)</persName>
                </note>
                <note type="writings">
                   <p>Belvoir</p>
@@ -3626,7 +3677,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d134e118a1055">Cuvellerye (Cuvelerye), Jehan de la, Kaplan F‘s</persName>
+                  <persName n="person_d135e118a1055">Cuvellerye (Cuvelerye), Jehan de la, Kaplan F‘s</persName>
                </note>
                <note type="writings">
                   <p>Jehan de la Cuvelerye</p>
@@ -3642,7 +3693,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d258e356a1055">Dages, sr, Gesandter Franz‘ I. bei K</persName>
+                  <persName n="person_d259e356a1055">Dages, sr, Gesandter Franz‘ I. bei K</persName>
                </note>
                <note type="writings">
                   <p>sr Dages</p>
@@ -3658,7 +3709,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d145e465a1055">Daugerant, Louis, Herr von Boisrigaut, Gesandter Franz I. in der Schweiz</persName>
+                  <persName n="person_d146e465a1055">Daugerant, Louis, Herr von Boisrigaut, Gesandter Franz I. in der Schweiz</persName>
                </note>
                <note type="writings">
                   <p>Herrn von Boisrigaut</p>
@@ -3674,7 +3725,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d197e145a1055">Dax, Philipp</persName>
+                  <persName n="person_d198e145a1055">Dax, Philipp</persName>
                </note>
                <note type="writings">
                   <p>Philippe Dax</p>
@@ -3690,7 +3741,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d191e156a1055">Dersffy, Katharina, Nichte des Bans von Kroatien, Ferenc von Batthyány de Németújvár, Kammerfrau von F’s Gattin Anna</persName>
+                  <persName n="person_d192e156a1055">Dersffy, Katharina, Nichte des Bans von Kroatien, Ferenc von Batthyány de Németújvár, Kammerfrau von F’s Gattin Anna</persName>
                </note>
                <note type="writings">
                   <p>Catherinam Dersfy</p>
@@ -3706,7 +3757,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d153e371a1055">Dietrichstein, Siegmund von, Landeshauptmann der Steiermark</persName>
+                  <persName n="person_d154e371a1055">Dietrichstein, Siegmund von, Landeshauptmann der Steiermark</persName>
                </note>
                <note type="writings">
                   <p>Sigismund von Dietrichstein</p>
@@ -3722,7 +3773,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d153e395a1055">Dornberg, Erasmus von</persName>
+                  <persName n="person_d154e395a1055">Dornberg, Erasmus von</persName>
                </note>
                <note type="writings">
                   <p>Erasmus von Dornberg</p>
@@ -3750,7 +3801,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d174e112a1055">Dyr, Sigismund de</persName>
+                  <persName n="person_d175e112a1055">Dyr, Sigismund de</persName>
                </note>
                <note type="writings">
                   <p>Sigismond de Dyr</p>
@@ -3766,7 +3817,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e406a1055">Eck, Johannes, Dr.</persName>
+                  <persName n="person_d44e406a1055">Eck, Johannes, Dr.</persName>
                </note>
                <note type="writings">
                   <p>Doktor Johann Ecks</p>
@@ -3782,7 +3833,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e407a1055">Eitzing (zu Schrattenthal), Michael von</persName>
+                  <persName n="person_d32e407a1055">Eitzing (zu Schrattenthal), Michael von</persName>
                </note>
                <note type="writings">
                   <p>Michiel von Hezinghen</p>
@@ -3798,7 +3849,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d11e145a1055">Eleonore von Österreich, Königin von Portugal, Königin von Frankreich </persName>
+                  <persName n="person_d12e145a1055">Eleonore von Österreich, Königin von Portugal, Königin von Frankreich </persName>
                </note>
                <note type="writings">
                   <p>Leonor</p>
@@ -3862,7 +3913,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d215e158a1055">Elisabeth von Österreich,Tochter F's, Gemahlin von Sigismund II. August von Polen</persName>
+                  <persName n="person_d216e158a1055">Elisabeth von Österreich,Tochter F's, Gemahlin von Sigismund II. August von Polen</persName>
                </note>
                <note type="writings">
                   <p>fille</p>
@@ -3898,7 +3949,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d38e125a1055">Ems (Hohenems), Marx Sittich I. von, Landsknechtsführer</persName>
+                  <persName n="person_d39e125a1055">Ems (Hohenems), Marx Sittich I. von, Landsknechtsführer</persName>
                </note>
                <note type="writings">
                   <p>Marck Sitigh</p>
@@ -3963,7 +4014,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d211e203a1055">Enscheinghen, Dr., Bewerber um die Stelle eines conseillier ordinaire in Luxemburg (vielleicht identisch mit Eustzringen)</persName>
+                  <persName n="person_d212e203a1055">Enscheinghen, Dr., Bewerber um die Stelle eines conseillier ordinaire in Luxemburg (vielleicht identisch mit Eustzringen)</persName>
                </note>
                <note type="writings">
                   <p>docteur Enscheinghen</p>
@@ -3986,7 +4037,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d249e258a1055">Ercole II. d’Este</persName>
+                  <persName n="person_d250e258a1055">Ercole II. d’Este</persName>
                </note>
                <note type="writings">
                   <p>don Hercules</p>
@@ -4002,7 +4053,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d194e130a1055">Erdödy von Monyorókerék, Simon, Bischof von Zagreb</persName>
+                  <persName n="person_d195e130a1055">Erdödy von Monyorókerék, Simon, Bischof von Zagreb</persName>
                </note>
                <note type="writings">
                   <p>bischof zu Agram</p>
@@ -4025,7 +4076,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d191e153a1055">Erdödy von Monyorókerék et Monoszló, Peter (II.?)</persName>
+                  <persName n="person_d192e153a1055">Erdödy von Monyorókerék et Monoszló, Peter (II.?)</persName>
                </note>
                <note type="writings">
                   <p>Petrum Erdewdi de Monyarokerek</p>
@@ -4041,7 +4092,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d172e326a1055">Ernst, Herzog von Bayern, Administrator des Bistums Passau</persName>
+                  <persName n="person_d173e326a1055">Ernst, Herzog von Bayern, Administrator des Bistums Passau</persName>
                </note>
                <note type="writings">
                   <p>l’evesque de Passaou</p>
@@ -4073,7 +4124,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d160e135a1055">Eustzringen, Jehan de, Dr. (vielleicht identisch mit Dr. Enscheinghen)</persName>
+                  <persName n="person_d161e135a1055">Eustzringen, Jehan de, Dr. (vielleicht identisch mit Dr. Enscheinghen)</persName>
                </note>
                <note type="writings">
                   <p>messr Jehan de Eustzringhen</p>
@@ -4089,7 +4140,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e189a1055">Fabri, Johann, Bischof von Wien</persName>
+                  <persName n="person_d22e189a1055">Fabri, Johann, Bischof von Wien</persName>
                </note>
                <note type="writings">
                   <p>Johann Fabri</p>
@@ -4105,7 +4156,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d135e195a1055">Federico II. Gonzaga, Markgraf von Mantua</persName>
+                  <persName n="person_d136e195a1055">Federico II. Gonzaga, Markgraf von Mantua</persName>
                </note>
                <note type="writings">
                   <p>Fridrichn Gonsaga</p>
@@ -4121,7 +4172,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e143a1055">Ferdinand II., der Katholische, König von Aragón</persName>
+                  <persName n="person_d7e143a1055">Ferdinand II., der Katholische, König von Aragón</persName>
                </note>
                <note type="writings">
                   <p>Catholico rey</p>
@@ -4172,7 +4223,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d84e330a1055">Fernández de Córdoba, Luis, Herzog von Sessa</persName>
+                  <persName n="person_d85e330a1055">Fernández de Córdoba, Luis, Herzog von Sessa</persName>
                </note>
                <note type="writings">
                   <p>duc de Ceze</p>
@@ -4216,7 +4267,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d241e121a1055">Fernberger, Johann, Sekretär F‘s</persName>
+                  <persName n="person_d242e121a1055">Fernberger, Johann, Sekretär F‘s</persName>
                </note>
                <note type="writings">
                   <p>J. Ferenberger</p>
@@ -4238,7 +4289,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e736a1055">Fevrier, Jacques</persName>
+                  <persName n="person_d32e736a1055">Fevrier, Jacques</persName>
                </note>
                <note type="writings">
                   <p>Jaques Feurier</p>
@@ -4268,7 +4319,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d258e327a1055">Fieramosca (Feramosca), Cesare, Gesandter K’s bei Klemens VII.</persName>
+                  <persName n="person_d259e327a1055">Fieramosca (Feramosca), Cesare, Gesandter K’s bei Klemens VII.</persName>
                </note>
                <note type="writings">
                   <p>Cesar Feramosca</p>
@@ -4284,7 +4335,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d15e121a1055">Firmian an der Etsch, Niklas</persName>
+                  <persName n="person_d16e121a1055">Firmian an der Etsch, Niklas</persName>
                </note>
                <note type="writings">
                   <p>Firmiano</p>
@@ -4300,7 +4351,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d59e118a1055">Forcz, Dr. Dominikus Adam de, Arzt</persName>
+                  <persName n="person_d60e118a1055">Forcz, Dr. Dominikus Adam de, Arzt</persName>
                </note>
                <note type="writings">
                   <p>Adam de Forcz</p>
@@ -4337,7 +4388,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e1317a1055">Francesco II. </persName>
+                  <persName n="person_d82e1317a1055">Francesco II. </persName>
                </note>
                <note type="writings">
                   <p>dux a Mediolanensibus</p>
@@ -4353,7 +4404,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e570a1055">Francesco II. Sforza, Herzog von Mailand</persName>
+                  <persName n="person_d27e570a1055">Francesco II. Sforza, Herzog von Mailand</persName>
                </note>
                <note type="writings">
                   <p>duc de Milan</p>
@@ -4512,7 +4563,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d218e218a1055">Francesco Maria I. della Rovere, Herzog von Urbino</persName>
+                  <persName n="person_d219e218a1055">Francesco Maria I. della Rovere, Herzog von Urbino</persName>
                </note>
                <note type="writings">
                   <p>Hgs von Urbino</p>
@@ -4535,7 +4586,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d36e100a1055">Frangepan, Bernhard von</persName>
+                  <persName n="person_d37e100a1055">Frangepan, Bernhard von</persName>
                </note>
                <note type="writings">
                   <p>Bernhard de Frangipanibus</p>
@@ -4551,7 +4602,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d36e105a1055">Frangepan, Christoph von</persName>
+                  <persName n="person_d37e105a1055">Frangepan, Christoph von</persName>
                </note>
                <note type="writings">
                   <p>Christofle de Frangebanibus</p>
@@ -4595,7 +4646,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d36e108a1055">Frangepan, Ferdinand von</persName>
+                  <persName n="person_d37e108a1055">Frangepan, Ferdinand von</persName>
                </note>
                <note type="writings">
                   <p>Ferdinand</p>
@@ -4618,7 +4669,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d137e373a1055">Frangepan, Johann von</persName>
+                  <persName n="person_d138e373a1055">Frangepan, Johann von</persName>
                </note>
                <note type="writings">
                   <p>Johann Frangipani</p>
@@ -4634,7 +4685,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d195e257a1055">Franz, Dauphin von Frankreich (Sohn Franz‘ I.)</persName>
+                  <persName n="person_d196e257a1055">Franz, Dauphin von Frankreich (Sohn Franz‘ I.)</persName>
                </note>
                <note type="writings">
                   <p>daulphin</p>
@@ -4664,7 +4715,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d142e281a1055">Franz I. </persName>
+                  <persName n="person_d143e281a1055">Franz I. </persName>
                </note>
                <note type="writings">
                   <p>rey de Francia</p>
@@ -4687,7 +4738,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e342a1055">Franz I., König von Frankreich</persName>
+                  <persName n="person_d24e342a1055">Franz I., König von Frankreich</persName>
                </note>
                <note type="writings">
                   <p>François</p>
@@ -5329,7 +5380,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e731a1055">Friedrich I., König von Dänemark, Herzog von Holstein</persName>
+                  <persName n="person_d71e731a1055">Friedrich I., König von Dänemark, Herzog von Holstein</persName>
                </note>
                <note type="writings">
                   <p>duc de Holstain</p>
@@ -5366,7 +5417,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d222e533a1055">Friedrich II. </persName>
+                  <persName n="person_d223e533a1055">Friedrich II. </persName>
                </note>
                <note type="writings">
                   <p>conte Palatin Frederic</p>
@@ -5382,7 +5433,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e270a1055">Friedrich II., Pfalzgraf, Kurfürst</persName>
+                  <persName n="person_d24e270a1055">Friedrich II., Pfalzgraf, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>comitem Palatinum ducem Fridericum</p>
@@ -5624,7 +5675,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d45e143a1055">Friedrich III., Kaiser</persName>
+                  <persName n="person_d46e143a1055">Friedrich III., Kaiser</persName>
                </note>
                <note type="writings">
                   <p>Friderico</p>
@@ -5640,7 +5691,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e919a1055">Friedrich III., Kaiser </persName>
+                  <persName n="person_d71e919a1055">Friedrich III., Kaiser </persName>
                </note>
                <note type="writings">
                   <p>Friderici III.</p>
@@ -5656,7 +5707,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e386a1055">Friedrich III. der Weise, Herzog von Sachsen, Kurfürst</persName>
+                  <persName n="person_d42e386a1055">Friedrich III. der Weise, Herzog von Sachsen, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>duc de Saxe</p>
@@ -5727,7 +5778,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d38e116a1055">Frundsberg, Georg von, kaiserlicher Landsknechtsführer</persName>
+                  <persName n="person_d39e116a1055">Frundsberg, Georg von, kaiserlicher Landsknechtsführer</persName>
                </note>
                <note type="writings">
                   <p>conde y micer George</p>
@@ -5884,7 +5935,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d125e204a1055">Fruyes, Jean de</persName>
+                  <persName n="person_d126e204a1055">Fruyes, Jean de</persName>
                </note>
                <note type="writings">
                   <p>Jehan de Fruyes</p>
@@ -5900,7 +5951,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d172e535a1055">Fuchs, Christoph, von Fuchsberg, von F gesandt an den Rat der Stadt Straßburg, um Geld auszuleihen</persName>
+                  <persName n="person_d173e535a1055">Fuchs, Christoph, von Fuchsberg, von F gesandt an den Rat der Stadt Straßburg, um Geld auszuleihen</persName>
                </note>
                <note type="writings">
                   <p>Christoph Fuchs</p>
@@ -5930,7 +5981,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d83e150a1055">Fuchs, Thomas, Rat des Reichsregiments</persName>
+                  <persName n="person_d84e150a1055">Fuchs, Thomas, Rat des Reichsregiments</persName>
                </note>
                <note type="writings">
                   <p>Thomas Fux</p>
@@ -5946,7 +5997,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e180a1055">Fuchsstein, Dr. Johann von</persName>
+                  <persName n="person_d32e180a1055">Fuchsstein, Dr. Johann von</persName>
                </note>
                <note type="writings">
                   <p>Fuxstain</p>
@@ -5962,7 +6013,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e464a1055">Fugger</persName>
+                  <persName n="person_d6e133a1055">Fugger</persName>
                </note>
                <note type="writings">
                   <p>Focqueres</p>
@@ -5970,8 +6021,15 @@
                   <p>Fouckers</p>
                   <p>Foukers</p>
                   <p>Fuccaros</p>
+                  <p>Fucres</p>
                </note>
                <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
+                  </p>
                   <p source="A026.xml">
                      <val>A26</val>
                      <note type="volNr">1</note>
@@ -6006,7 +6064,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2288a1055">Fürstenberg, Graf Friedrich von</persName>
+                  <persName n="person_d82e2288a1055">Fürstenberg, Graf Friedrich von</persName>
                </note>
                <note type="writings">
                   <p>comitem Fridericum de Fürstenberg</p>
@@ -6029,7 +6087,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e155a1055">Fürstenberg, Graf Wilhelm von</persName>
+                  <persName n="person_d24e155a1055">Fürstenberg, Graf Wilhelm von</persName>
                </note>
                <note type="writings">
                   <p>conte de Furstemberch</p>
@@ -6124,7 +6182,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d130e373a1055">Fusil, Gesandter K’s bei dem Kg von Polen</persName>
+                  <persName n="person_d131e373a1055">Fusil, Gesandter K’s bei dem Kg von Polen</persName>
                </note>
                <note type="writings">
                   <p>Fusil</p>
@@ -6140,7 +6198,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d205e175a1055">Gaißmayr, Michael, ehemaliger Sekretär des B. von Brixen, Führer der Salzburger Bauern</persName>
+                  <persName n="person_d206e175a1055">Gaißmayr, Michael, ehemaliger Sekretär des B. von Brixen, Führer der Salzburger Bauern</persName>
                </note>
                <note type="writings">
                   <p>Casmer</p>
@@ -6163,7 +6221,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d266e271a1055">García de Loaysa y Mendoza, Juan, Bischof von Osma, Erzbischof von Sevilla, Großinquisitor, Generaloberer der Dominikaner, Kardinal, Präsident des Indienrates, Beichtvater K‘s</persName>
+                  <persName n="person_d267e271a1055">García de Loaysa y Mendoza, Juan, Bischof von Osma, Erzbischof von Sevilla, Großinquisitor, Generaloberer der Dominikaner, Kardinal, Präsident des Indienrates, Beichtvater K‘s</persName>
                </note>
                <note type="writings">
                   <p>l’evesque d’Osma</p>
@@ -6179,7 +6237,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d143e220a1055">Gattinara </persName>
+                  <persName n="person_d144e220a1055">Gattinara </persName>
                </note>
                <note type="writings">
                   <p>Mercurinos</p>
@@ -6195,7 +6253,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d143e169a1055">Gattinara, Gian Bartolomeo</persName>
+                  <persName n="person_d144e169a1055">Gattinara, Gian Bartolomeo</persName>
                </note>
                <note type="writings">
                   <p>Jehan Barthelome</p>
@@ -6211,7 +6269,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d34e106a1055">Gattinara, Mercurino Arborio di, Marchese, Großkanzler Ks </persName>
+                  <persName n="person_d35e106a1055">Gattinara, Mercurino Arborio di, Marchese, Großkanzler Ks </persName>
                </note>
                <note type="writings">
                   <p>chancellier</p>
@@ -6308,7 +6366,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e227a1055">Georg der Bärtige, Herzog des albertinischen Sachsen und Sagans</persName>
+                  <persName n="person_d27e227a1055">Georg der Bärtige, Herzog des albertinischen Sachsen und Sagans</persName>
                </note>
                <note type="writings">
                   <p>duc de Saxen</p>
@@ -6437,7 +6495,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d260e235a1055">Georg von Brandenburg-Ansbach, Markgraf</persName>
+                  <persName n="person_d261e235a1055">Georg von Brandenburg-Ansbach, Markgraf</persName>
                </note>
                <note type="writings">
                   <p>George de Brandenburg</p>
@@ -6453,7 +6511,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d47e121a1055">Georg von Österreich, unehelicher Sohn Maximilians I.</persName>
+                  <persName n="person_d48e121a1055">Georg von Österreich, unehelicher Sohn Maximilians I.</persName>
                </note>
                <note type="writings">
                   <p>don George</p>
@@ -6553,7 +6611,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d255e108a1055">Gerendi, Miklós, Custos der Kirche von Székesfehérvár, Sekretär M's</persName>
+                  <persName n="person_d256e108a1055">Gerendi, Miklós, Custos der Kirche von Székesfehérvár, Sekretär M's</persName>
                </note>
                <note type="writings">
                   <p>Nicolaum de Gherend</p>
@@ -6569,7 +6627,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e203a1055">Germaine de Foix, Königin von Aragón, zweite Frau Ferdinands des Katholischen </persName>
+                  <persName n="person_d7e203a1055">Germaine de Foix, Königin von Aragón, zweite Frau Ferdinands des Katholischen </persName>
                </note>
                <note type="writings">
                   <p>Germaine</p>
@@ -6591,7 +6649,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2926a1055">Gian Galeazzo Visconti, Herzog von Mailand</persName>
+                  <persName n="person_d82e2926a1055">Gian Galeazzo Visconti, Herzog von Mailand</persName>
                </note>
                <note type="writings">
                   <p>Giangaleazzo</p>
@@ -6607,7 +6665,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d117e238a1055">Giberti, Gian Matteo, Bischof von Verona</persName>
+                  <persName n="person_d118e238a1055">Giberti, Gian Matteo, Bischof von Verona</persName>
                </note>
                <note type="writings">
                   <p>Gian Matteo Giberti</p>
@@ -6623,7 +6681,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d237e757a1055">Giberti, Gian Matteo, Bischof von Verona, päpstlicher Datar</persName>
+                  <persName n="person_d238e757a1055">Giberti, Gian Matteo, Bischof von Verona, päpstlicher Datar</persName>
                </note>
                <note type="writings">
                   <p>Gibertis</p>
@@ -6639,7 +6697,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d74e270a1055">Gilles, Michael, Sekretär K‘s</persName>
+                  <persName n="person_d75e270a1055">Gilles, Michael, Sekretär K‘s</persName>
                </note>
                <note type="writings">
                   <p>Michael Gilles</p>
@@ -6683,7 +6741,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e338a1055">Glapion, Jean, Beichtvater Ks</persName>
+                  <persName n="person_d27e338a1055">Glapion, Jean, Beichtvater Ks</persName>
                </note>
                <note type="writings">
                   <p>Glapion</p>
@@ -6706,7 +6764,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d190e115a1055">Gorrevod, Laurent de, Gf von Pont de Vaux, Oberhofmeister K’s, Marschall von Burgund</persName>
+                  <persName n="person_d191e115a1055">Gorrevod, Laurent de, Gf von Pont de Vaux, Oberhofmeister K’s, Marschall von Burgund</persName>
                </note>
                <note type="writings">
                   <p>conte de Pont de-Vaulx</p>
@@ -6729,7 +6787,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e628a1055">Gosztonyi, János, Bischof von Györ</persName>
+                  <persName n="person_d71e628a1055">Gosztonyi, János, Bischof von Györ</persName>
                </note>
                <note type="writings">
                   <p>episcopus Jauriensis</p>
@@ -6745,7 +6803,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d78e396a1055">Grander, Andreas</persName>
+                  <persName n="person_d79e396a1055">Grander, Andreas</persName>
                </note>
                <note type="writings">
                   <p>Andreas Grander</p>
@@ -6761,7 +6819,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d106e202a1055">Granvelle, Nicolas Perrenot, Herr von</persName>
+                  <persName n="person_d107e202a1055">Granvelle, Nicolas Perrenot, Herr von</persName>
                </note>
                <note type="writings">
                   <p>monsr Nicolas Perrenot</p>
@@ -6809,7 +6867,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e406a1055">Greiffenklau, Richard von, Erzbischof von Trier</persName>
+                  <persName n="person_d24e406a1055">Greiffenklau, Richard von, Erzbischof von Trier</persName>
                </note>
                <note type="writings">
                   <p>archevesque de Treves</p>
@@ -6899,7 +6957,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e707a1055">Grimani, Antonio, Doge von Venedig</persName>
+                  <persName n="person_d32e707a1055">Grimani, Antonio, Doge von Venedig</persName>
                </note>
                <note type="writings">
                   <p>Antonio Grimano</p>
@@ -6915,7 +6973,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d46e201a1055">Gritti, Andrea</persName>
+                  <persName n="person_d47e201a1055">Gritti, Andrea</persName>
                </note>
                <note type="writings">
                   <p>Andrea Gritti</p>
@@ -6931,7 +6989,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d13e147a1055">Guevara, Diego de, Clavero (Festungshauptmann) von Calatrava</persName>
+                  <persName n="person_d14e147a1055">Guevara, Diego de, Clavero (Festungshauptmann) von Calatrava</persName>
                </note>
                <note type="writings">
                   <p>don Diego de Guevara</p>
@@ -6947,7 +7005,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d220e181a1055">Guicciardini, Francesco</persName>
+                  <persName n="person_d221e181a1055">Guicciardini, Francesco</persName>
                </note>
                <note type="writings">
                   <p>Francesco Guicciardinis</p>
@@ -6970,7 +7028,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d223e350a1055">Guise, Claude de Lorraine, Herzog von</persName>
+                  <persName n="person_d224e350a1055">Guise, Claude de Lorraine, Herzog von</persName>
                </note>
                <note type="writings">
                   <p>sr de Vauldemont</p>
@@ -6986,7 +7044,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d262e260a1055">Guzmán, Gonzalo de</persName>
+                  <persName n="person_d263e260a1055">Guzmán, Gonzalo de</persName>
                </note>
                <note type="writings">
                   <p>Gonzalo de Guzman</p>
@@ -7002,7 +7060,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d7e128a1055">Gylabertus, Aloysius</persName>
+                  <persName n="person_d8e128a1055">Gylabertus, Aloysius</persName>
                </note>
                <note type="writings">
                   <p>Aloysio Gylaberto</p>
@@ -7018,7 +7076,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d10e132a1055">Hadrian VI., Papst, Adrian von Utrecht (Adriaan Floriszoon Boeyens), Dekan von Saint-Pierre in Leuven/Louvain</persName>
+                  <persName n="person_d11e132a1055">Hadrian VI., Papst, Adrian von Utrecht (Adriaan Floriszoon Boeyens), Dekan von Saint-Pierre in Leuven/Louvain</persName>
                </note>
                <note type="writings">
                   <p>Adriano</p>
@@ -7083,7 +7141,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e1566a1055">Hain Ahmed Pascha</persName>
+                  <persName n="person_d82e1566a1055">Hain Ahmed Pascha</persName>
                </note>
                <note type="writings">
                   <p>Turcico ẹgyptum</p>
@@ -7106,7 +7164,23 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e256a1055">Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland</persName>
+                  <persName n="person_d6e350a1055">Haller (von Hallerstein), Wolf(gang)</persName>
+               </note>
+               <note type="writings">
+                  <p>Wolfgang Haller von Hallerstein</p>
+               </note>
+               <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">commentary</note>
+                     <note type="para">3</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName n="person_d52e256a1055">Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland</persName>
                </note>
                <note type="writings">
                   <p>Anart</p>
@@ -7432,7 +7506,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e466a1055">Hardegg, Graf Johann von</persName>
+                  <persName n="person_d24e466a1055">Hardegg, Graf Johann von</persName>
                </note>
                <note type="writings">
                   <p>Johann Hardegg</p>
@@ -7448,7 +7522,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d241e117a1055">Harroch, Kanzler Fs</persName>
+                  <persName n="person_d242e117a1055">Harroch, Kanzler Fs</persName>
                </note>
                <note type="writings">
                   <p>Harroch, cantzler</p>
@@ -7464,7 +7538,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d208e261a1055">Hehenfeld, Ridulphi</persName>
+                  <persName n="person_d209e261a1055">Hehenfeld, Ridulphi</persName>
                </note>
                <note type="writings">
                   <p>Ridulphi Hehenfeld</p>
@@ -7480,7 +7554,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e368a1055">Heinrich II., der Jüngere, von Braunschweig-Wolfenbüttel, Herzog</persName>
+                  <persName n="person_d56e368a1055">Heinrich II., der Jüngere, von Braunschweig-Wolfenbüttel, Herzog</persName>
                </note>
                <note type="writings">
                   <p>ducz de Brunswyk</p>
@@ -7524,7 +7598,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d195e260a1055">Heinrich II. von Frankreich, Herzog von Orléans</persName>
+                  <persName n="person_d196e260a1055">Heinrich II. von Frankreich, Herzog von Orléans</persName>
                </note>
                <note type="writings">
                   <p>des enffans de France</p>
@@ -7554,7 +7628,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d37e144a1055">Heinrich VIII., König von England</persName>
+                  <persName n="person_d38e144a1055">Heinrich VIII., König von England</persName>
                </note>
                <note type="writings">
                   <p>Angleterre</p>
@@ -7863,7 +7937,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d28e368a1055">Helfenberg, Hans von</persName>
+                  <persName n="person_d29e368a1055">Helfenberg, Hans von</persName>
                </note>
                <note type="writings">
                   <p>Hans von Helfenbergs</p>
@@ -7879,7 +7953,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d142e353a1055">Helfenstein, Graf Ludwig von</persName>
+                  <persName n="person_d143e353a1055">Helfenstein, Graf Ludwig von</persName>
                </note>
                <note type="writings">
                   <p>conde Ludobico de Helfestain</p>
@@ -7895,7 +7969,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d78e207a1055">Helfenstein, Graf Ulrich von</persName>
+                  <persName n="person_d79e207a1055">Helfenstein, Graf Ulrich von</persName>
                </note>
                <note type="writings">
                   <p>comite Udalrico de Helffenstain</p>
@@ -7946,7 +8020,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e113a1055">Hemricourt, Henri de, Hofmeister Fs </persName>
+                  <persName n="person_d27e113a1055">Hemricourt, Henri de, Hofmeister Fs </persName>
                </note>
                <note type="writings">
                   <p>Emericourt</p>
@@ -8183,7 +8257,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e940a1055">Henneberg, Berthold von, Erzbischof von Mainz</persName>
+                  <persName n="person_d71e940a1055">Henneberg, Berthold von, Erzbischof von Mainz</persName>
                </note>
                <note type="writings">
                   <p>archiepiscopi Bertoldi</p>
@@ -8199,7 +8273,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e242a1055">Herberstein, Siegmund von</persName>
+                  <persName n="person_d56e242a1055">Herberstein, Siegmund von</persName>
                </note>
                <note type="writings">
                   <p>Erbrestai</p>
@@ -8229,7 +8303,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d173e205a1055">Herrera, Miguel de</persName>
+                  <persName n="person_d174e205a1055">Herrera, Miguel de</persName>
                </note>
                <note type="writings">
                   <p>Herrera</p>
@@ -8252,7 +8326,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e330a1055">Herwart, Kaufherr in Augsburg</persName>
+                  <persName n="person_d257e330a1055">Herwart, Kaufherr in Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Herwart</p>
@@ -8268,7 +8342,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e323a1055">Höchstetter, Kaufherr in Augsburg</persName>
+                  <persName n="person_d257e323a1055">Höchstetter, Kaufherr in Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Höchstettern</p>
@@ -8284,7 +8358,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e897a1055">Hohnstein, Wilhelm III. von, Bischof von Straßburg</persName>
+                  <persName n="person_d82e897a1055">Hohnstein, Wilhelm III. von, Bischof von Straßburg</persName>
                </note>
                <note type="writings">
                   <p>Wilhelmum, episcopum Argentinensem</p>
@@ -8300,7 +8374,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e250a1055">Hoogstraten, Anton von Lalaing, 1. Graf von, Statthalter von Holland und Seeland</persName>
+                  <persName n="person_d44e250a1055">Hoogstraten, Anton von Lalaing, 1. Graf von, Statthalter von Holland und Seeland</persName>
                </note>
                <note type="writings">
                   <p>conte de Hoochstrate</p>
@@ -8330,7 +8404,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d102e222a1055">Hubmaier, Balthasar</persName>
+                  <persName n="person_d103e222a1055">Hubmaier, Balthasar</persName>
                </note>
                <note type="writings">
                   <p>Balthasar Hubmaiers</p>
@@ -8346,7 +8420,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e304a1055">Hundsrück, Hans von</persName>
+                  <persName n="person_d56e304a1055">Hundsrück, Hans von</persName>
                </note>
                <note type="writings">
                   <p>Hanns von Hunsrucken</p>
@@ -8362,7 +8436,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d248e204a1055">Hunstede (Lesung unsicher), François de, von Bourbon an Mg gesandt</persName>
+                  <persName n="person_d249e204a1055">Hunstede (Lesung unsicher), François de, von Bourbon an Mg gesandt</persName>
                </note>
                <note type="writings">
                   <p>François de Hunstede</p>
@@ -8378,7 +8452,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d151e348a1055">Hurtado (de Mendoza), Lope, Gesandter K’s</persName>
+                  <persName n="person_d152e348a1055">Hurtado (de Mendoza), Lope, Gesandter K’s</persName>
                </note>
                <note type="writings">
                   <p>Lope Hurtado</p>
@@ -8415,7 +8489,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2291a1055">Ijsselstein, Florian von</persName>
+                  <persName n="person_d82e2291a1055">Ijsselstein, Florian von</persName>
                </note>
                <note type="writings">
                   <p>Floriano de Isselstain</p>
@@ -8431,7 +8505,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e146a1055">Isabella die Katholische, Königin von Kastilien</persName>
+                  <persName n="person_d7e146a1055">Isabella die Katholische, Königin von Kastilien</persName>
                </note>
                <note type="writings">
                   <p>Cathólica reyna</p>
@@ -8454,7 +8528,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e382a1055">Isabella von Österreich, Königin von Dänemark</persName>
+                  <persName n="person_d56e382a1055">Isabella von Österreich, Königin von Dänemark</persName>
                </note>
                <note type="writings">
                   <p>La reina di Dinamarca</p>
@@ -8526,7 +8600,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d149e221a1055">Isabella von Portugal, Kaiserin, Gemahlin K's</persName>
+                  <persName n="person_d150e221a1055">Isabella von Portugal, Kaiserin, Gemahlin K's</persName>
                </note>
                <note type="writings">
                   <p>celle de Portugal</p>
@@ -8577,7 +8651,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d86e145a1055">Ismail I., Schah von Persien</persName>
+                  <persName n="person_d87e145a1055">Ismail I., Schah von Persien</persName>
                </note>
                <note type="writings">
                   <p>Sophie</p>
@@ -8599,7 +8673,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e520a1055">Joachim I. von Brandenburg, "Nestor", Markgraf von Brandenburg, Kurfürst</persName>
+                  <persName n="person_d27e520a1055">Joachim I. von Brandenburg, "Nestor", Markgraf von Brandenburg, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>Joachim de Brandemburg</p>
@@ -8671,7 +8745,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e525a1055">Joachim II. von Brandenburg, "Hector", Markgraf von Brandenburg, Kurfürst</persName>
+                  <persName n="person_d32e525a1055">Joachim II. von Brandenburg, "Hector", Markgraf von Brandenburg, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>son filz aisné</p>
@@ -8687,7 +8761,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d228e157a1055">Johann, der Beständige, Herzog von Sachsen, Kurfürst</persName>
+                  <persName n="person_d229e157a1055">Johann, der Beständige, Herzog von Sachsen, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>duc de Saxen</p>
@@ -8703,7 +8777,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d245e453a1055">Johann/János I. Szapolyai/Zápolya, Woiwode von Siebenbürgen, König von Ungarn</persName>
+                  <persName n="person_d246e453a1055">Johann/János I. Szapolyai/Zápolya, Woiwode von Siebenbürgen, König von Ungarn</persName>
                </note>
                <note type="writings">
                   <p>Johannem de Zapolia</p>
@@ -8739,7 +8813,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e206a1055">Johanna von Kastilien, Gattin Philipps I. („des Schönen“), „Johanna die Wahnsinnige“, Königin von Kastilien (1504-1555)</persName>
+                  <persName n="person_d7e206a1055">Johanna von Kastilien, Gattin Philipps I. („des Schönen“), „Johanna die Wahnsinnige“, Königin von Kastilien (1504-1555)</persName>
                </note>
                <note type="writings">
                   <p>Johanna von Kastilien</p>
@@ -8762,7 +8836,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d265e99a1055">Johannes Baptista (?)</persName>
+                  <persName n="person_d266e99a1055">Johannes Baptista (?)</persName>
                </note>
                <note type="writings">
                   <p>Johannes Baptista</p>
@@ -8778,7 +8852,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e418a1055">Johann III., König von Portugal</persName>
+                  <persName n="person_d32e418a1055">Johann III., König von Portugal</persName>
                </note>
                <note type="writings">
                   <p>Johann von Portugal</p>
@@ -8844,7 +8918,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d67e238a1055">Johann von Dänemark, Sohn Christians II. von Dänemark</persName>
+                  <persName n="person_d68e238a1055">Johann von Dänemark, Sohn Christians II. von Dänemark</persName>
                </note>
                <note type="writings">
                   <p>son filz aisné, nostre neveur</p>
@@ -8860,7 +8934,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d125e207a1055">Jonglet, Jehan, seigneur de Maretz</persName>
+                  <persName n="person_d126e207a1055">Jonglet, Jehan, seigneur de Maretz</persName>
                </note>
                <note type="writings">
                   <p>Jehan Jonglet</p>
@@ -8883,7 +8957,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d194e167a1055">Jurischitz, Niklas</persName>
+                  <persName n="person_d195e167a1055">Jurischitz, Niklas</persName>
                </note>
                <note type="writings">
                   <p>Niklas Juritschitsch</p>
@@ -8899,7 +8973,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d245e779a1055">Karl III. von Savoyen, Herzog</persName>
+                  <persName n="person_d246e779a1055">Karl III. von Savoyen, Herzog</persName>
                </note>
                <note type="writings">
                   <p>duc de Savoye</p>
@@ -8921,7 +8995,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e943a1055">Karl IV., Kaiser</persName>
+                  <persName n="person_d71e943a1055">Karl IV., Kaiser</persName>
                </note>
                <note type="writings">
                   <p>Caroli</p>
@@ -8937,7 +9011,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d110e183a1055">Karl von Egmond, Herzog von Geldern</persName>
+                  <persName n="person_d111e183a1055">Karl von Egmond, Herzog von Geldern</persName>
                </note>
                <note type="writings">
                   <p>Charles de Gheldres</p>
@@ -8953,7 +9027,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e461a1055">Kasimir von Brandenburg-Kulmbach, Markgraf</persName>
+                  <persName n="person_d56e461a1055">Kasimir von Brandenburg-Kulmbach, Markgraf</persName>
                </note>
                <note type="writings">
                   <p>Casymirum, marchionem Brandenburgensem</p>
@@ -8990,7 +9064,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e727a1055">Kassel, Propst Georg von</persName>
+                  <persName n="person_d32e727a1055">Kassel, Propst Georg von</persName>
                </note>
                <note type="writings">
                   <p>prevost de Cassel</p>
@@ -9031,7 +9105,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d40e216a1055">Kassel, Propst Georg von </persName>
+                  <persName n="person_d41e216a1055">Kassel, Propst Georg von </persName>
                </note>
                <note type="writings">
                   <p>prevost de Cassel</p>
@@ -9047,7 +9121,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d197e148a1055">Kasselt, Jehan</persName>
+                  <persName n="person_d198e148a1055">Kasselt, Jehan</persName>
                </note>
                <note type="writings">
                   <p>Jehan Kasselt</p>
@@ -9108,7 +9182,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d250e186a1055">Katharina von Aragón, Königin von England, F's Tante</persName>
+                  <persName n="person_d251e186a1055">Katharina von Aragón, Königin von England, F's Tante</persName>
                </note>
                <note type="writings">
                   <p>la roine</p>
@@ -9124,7 +9198,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d7e143a1055">Katharina von Österreich, Königin von Portugal</persName>
+                  <persName n="person_d8e143a1055">Katharina von Österreich, Königin von Portugal</persName>
                </note>
                <note type="writings">
                   <p>ames</p>
@@ -9180,7 +9254,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e658a1055">Klemens VII., Papst, Giulio de' Medici</persName>
+                  <persName n="person_d56e658a1055">Klemens VII., Papst, Giulio de' Medici</persName>
                </note>
                <note type="writings">
                   <p>au pape</p>
@@ -9637,7 +9711,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2282a1055">Königstein-Eppstein, Graf Eberhard IV. von</persName>
+                  <persName n="person_d82e2282a1055">Königstein-Eppstein, Graf Eberhard IV. von</persName>
                </note>
                <note type="writings">
                   <p>comitem Eberhardum de Kunigstain</p>
@@ -9681,7 +9755,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d228e205a1055">Krafft, Adam, Prediger des Landgrafen Philipp von Hessen</persName>
+                  <persName n="person_d229e205a1055">Krafft, Adam, Prediger des Landgrafen Philipp von Hessen</persName>
                </note>
                <note type="writings">
                   <p>Adam Krafft</p>
@@ -9697,7 +9771,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d171e124a1055">Lambelin, Jehan, Sekretär der Stadt Besançon</persName>
+                  <persName n="person_d172e124a1055">Lambelin, Jehan, Sekretär der Stadt Besançon</persName>
                </note>
                <note type="writings">
                   <p>Jehan Lambelin</p>
@@ -9713,7 +9787,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e241a1055">Lamberg, Graf Johann von</persName>
+                  <persName n="person_d162e241a1055">Lamberg, Graf Johann von</persName>
                </note>
                <note type="writings">
                   <p>Gfen Johann von Lamberg</p>
@@ -9743,7 +9817,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d20e166a1055">Lang von Wellenburg, Matthäus, Bischof von Gurk und Cartagena, Erzbischof von Salzburg</persName>
+                  <persName n="person_d21e166a1055">Lang von Wellenburg, Matthäus, Bischof von Gurk und Cartagena, Erzbischof von Salzburg</persName>
                </note>
                <note type="writings">
                   <p>archevesque</p>
@@ -9825,7 +9899,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e690a1055">Lannoy, Charles de, Vizekönig von Neapel</persName>
+                  <persName n="person_d27e690a1055">Lannoy, Charles de, Vizekönig von Neapel</persName>
                </note>
                <note type="writings">
                   <p>Lannoy</p>
@@ -10212,7 +10286,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d94e188a1055">La Roche, Herr Gérard de la Plaine</persName>
+                  <persName n="person_d95e188a1055">La Roche, Herr Gérard de la Plaine</persName>
                </note>
                <note type="writings">
                   <p>monsr de la Roche</p>
@@ -10235,7 +10309,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d95e245a1055">La Torre, Vido de</persName>
+                  <persName n="person_d96e245a1055">La Torre, Vido de</persName>
                </note>
                <note type="writings">
                   <p>Vido de la Torre</p>
@@ -10251,7 +10325,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d53e138a1055">Laufen (Lopffe), Graf von (?)</persName>
+                  <persName n="person_d54e138a1055">Laufen (Lopffe), Graf von (?)</persName>
                </note>
                <note type="writings">
                   <p>Lopffe</p>
@@ -10267,7 +10341,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d143e244a1055">Laurens, J., Gesandter Mg’s in England</persName>
+                  <persName n="person_d144e244a1055">Laurens, J., Gesandter Mg’s in England</persName>
                </note>
                <note type="writings">
                   <p>J. Laurens</p>
@@ -10283,7 +10357,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e142a1055">Leo X., Papst, Giovanni (di Lorenzo) de' Medici </persName>
+                  <persName n="person_d22e142a1055">Leo X., Papst, Giovanni (di Lorenzo) de' Medici </persName>
                </note>
                <note type="writings">
                   <p>Leo</p>
@@ -10326,7 +10400,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e183a1055">Leuchtenberg, Landgraf Johann IV. von</persName>
+                  <persName n="person_d32e183a1055">Leuchtenberg, Landgraf Johann IV. von</persName>
                </note>
                <note type="writings">
                   <p>lantgrave von Lichtenberg</p>
@@ -10342,7 +10416,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e155a1055">Leyva, Antonio de, Prinz von Ascoli</persName>
+                  <persName n="person_d164e155a1055">Leyva, Antonio de, Prinz von Ascoli</persName>
                </note>
                <note type="writings">
                   <p>Anthoine de Leva</p>
@@ -10365,7 +10439,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d212e180a1055">Liège, monsr. de</persName>
+                  <persName n="person_d213e180a1055">Liège, monsr. de</persName>
                </note>
                <note type="writings">
                   <p>monsr de Liege</p>
@@ -10381,7 +10455,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e148a1055">Longepierre, Anne de, Enkelin des Herrn von Montagu, Jean de Neuchâtel</persName>
+                  <persName n="person_d159e148a1055">Longepierre, Anne de, Enkelin des Herrn von Montagu, Jean de Neuchâtel</persName>
                </note>
                <note type="writings">
                   <p>dame de Longepierre</p>
@@ -10417,7 +10491,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d151e306a1055">Longepierre, Christophe de Longwy, Herr von</persName>
+                  <persName n="person_d152e306a1055">Longepierre, Christophe de Longwy, Herr von</persName>
                </note>
                <note type="writings">
                   <p>de Longepierre</p>
@@ -10472,7 +10546,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e121a1055">Loquinghen, Agent Ks in der Schweiz</persName>
+                  <persName n="person_d52e121a1055">Loquinghen, Agent Ks in der Schweiz</persName>
                </note>
                <note type="writings">
                   <p>Locquinghen,</p>
@@ -10526,7 +10600,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d226e160a1055">Lothringen, Herzöge von</persName>
+                  <persName n="person_d227e160a1055">Lothringen, Herzöge von</persName>
                </note>
                <note type="writings">
                   <p>duczc) de Lotrech</p>
@@ -10542,7 +10616,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d181e282a1055">Ludovico Sforza, Herzog von Mailand</persName>
+                  <persName n="person_d182e282a1055">Ludovico Sforza, Herzog von Mailand</persName>
                </note>
                <note type="writings">
                   <p>dux Ludovicus</p>
@@ -10558,7 +10632,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d135e165a1055">Ludwig II. </persName>
+                  <persName n="person_d136e165a1055">Ludwig II. </persName>
                </note>
                <note type="writings">
                   <p>roy</p>
@@ -10574,7 +10648,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d19e173a1055">Ludwig II., König von Böhmen und Ungarn</persName>
+                  <persName n="person_d6e194a1055">Ludwig II., König von Böhmen und Ungarn</persName>
                </note>
                <note type="writings">
                   <p>beaufrere, le roi d’Hongrie</p>
@@ -10590,6 +10664,7 @@
                   <p>Ludovico</p>
                   <p>Ludovicum</p>
                   <p>Ludovicus</p>
+                  <p>Ludovik</p>
                   <p>Ludwig</p>
                   <p>Ludwigs</p>
                   <p>Ludwigs II.</p>
@@ -10609,6 +10684,12 @@
                   <p>sr roi dud. Hungrie</p>
                </note>
                <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
+                  </p>
                   <p source="A014.xml">
                      <val>A14</val>
                      <note type="volNr">1</note>
@@ -10949,7 +11030,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e738a1055">Ludwig V. von der Pfalz, Kurfürst</persName>
+                  <persName n="person_d71e738a1055">Ludwig V. von der Pfalz, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>Comesa4) Palatinus, elector</p>
@@ -11013,7 +11094,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e409a1055">Ludwig X., Herzog von Bayern (Landshut)</persName>
+                  <persName n="person_d44e409a1055">Ludwig X., Herzog von Bayern (Landshut)</persName>
                </note>
                <note type="writings">
                   <p>duc Lois de Baviere</p>
@@ -11057,7 +11138,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d139e144a1055">Luise von Savoyen, Mutter Franz‘ I., Regentin von Frankreich</persName>
+                  <persName n="person_d140e144a1055">Luise von Savoyen, Mutter Franz‘ I., Regentin von Frankreich</persName>
                </note>
                <note type="writings">
                   <p>la regente</p>
@@ -11134,7 +11215,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d61e423a1055">Lurssy, Gesandter K’s bei Bourbon</persName>
+                  <persName n="person_d62e423a1055">Lurssy, Gesandter K’s bei Bourbon</persName>
                </note>
                <note type="writings">
                   <p>Lurssy</p>
@@ -11150,7 +11231,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e234a1055">Luther</persName>
+                  <persName n="person_d32e234a1055">Luther</persName>
                </note>
                <note type="writings">
                   <p>Luther</p>
@@ -11236,7 +11317,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d237e333a1055">Luxembourg, Marie de, Gräfin von Vendôme</persName>
+                  <persName n="person_d238e333a1055">Luxembourg, Marie de, Gräfin von Vendôme</persName>
                </note>
                <note type="writings">
                   <p>la ducesse, sa mere</p>
@@ -11252,7 +11333,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e516a1055">L’Allemand, Jean</persName>
+                  <persName n="person_d42e516a1055">L’Allemand, Jean</persName>
                </note>
                <note type="writings">
                   <p>Jan Lalemand</p>
@@ -11316,7 +11397,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2285a1055">Mansfeld, Graf Hoyer VI. von</persName>
+                  <persName n="person_d82e2285a1055">Mansfeld, Graf Hoyer VI. von</persName>
                </note>
                <note type="writings">
                   <p>comitem Hoirum de Mansfeld</p>
@@ -11339,7 +11420,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d127e667a1055">Manuel I. von Portugal</persName>
+                  <persName n="person_d128e667a1055">Manuel I. von Portugal</persName>
                </note>
                <note type="writings">
                   <p>Manuel von Portugal</p>
@@ -11355,7 +11436,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d151e133a1055">Margarete, Königin von Navarra, Herzogin von Alençon, Schwester Franz’ I.</persName>
+                  <persName n="person_d152e133a1055">Margarete, Königin von Navarra, Herzogin von Alençon, Schwester Franz’ I.</persName>
                </note>
                <note type="writings">
                   <p>duchesse d’Alançon</p>
@@ -11391,7 +11472,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d12e151a1055">Margarete von Österreich, Prinzessin von Asturien, Herzogin von Savoyen, Statthalterin der Niederlande</persName>
+                  <persName n="person_d13e151a1055">Margarete von Österreich, Prinzessin von Asturien, Herzogin von Savoyen, Statthalterin der Niederlande</persName>
                </note>
                <note type="writings">
                   <p>mad. dame, nostre tante</p>
@@ -11717,7 +11798,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d249e250a1055">Margarete von Parma, Tochter K‘s</persName>
+                  <persName n="person_d250e250a1055">Margarete von Parma, Tochter K‘s</persName>
                </note>
                <note type="writings">
                   <p>bastarde</p>
@@ -11733,7 +11814,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d155e231a1055">Maria/Mary, Prinzessin (später Königin) von England, Tochter Heinrichs VIII.</persName>
+                  <persName n="person_d156e231a1055">Maria/Mary, Prinzessin (später Königin) von England, Tochter Heinrichs VIII.</persName>
                </note>
                <note type="writings">
                   <p>celle d’Angleterre</p>
@@ -11749,7 +11830,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e139a1055">Marín, Fernando, Abt von Nájera, Schatzmeister K’s in Italien</persName>
+                  <persName n="person_d52e139a1055">Marín, Fernando, Abt von Nájera, Schatzmeister K’s in Italien</persName>
                </note>
                <note type="writings">
                   <p>l’abbé de Matarra</p>
@@ -11772,7 +11853,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d188e257a1055">Mark, Robert de la, Herr von Sedan</persName>
+                  <persName n="person_d189e257a1055">Mark, Robert de la, Herr von Sedan</persName>
                </note>
                <note type="writings">
                   <p>Robert de la Marck</p>
@@ -11788,7 +11869,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d92e230a1055">Massaro, venezianischer Gesandter in Ungarn</persName>
+                  <persName n="person_d93e230a1055">Massaro, venezianischer Gesandter in Ungarn</persName>
                </note>
                <note type="writings">
                   <p>Massaro</p>
@@ -11804,7 +11885,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e121a1055">Masson, Jehan</persName>
+                  <persName n="person_d159e121a1055">Masson, Jehan</persName>
                </note>
                <note type="writings">
                   <p>Jehan Macon</p>
@@ -11827,7 +11908,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e133a1055">Maximilian I., Kaiser</persName>
+                  <persName n="person_d7e133a1055">Maximilian I., Kaiser</persName>
                </note>
                <note type="writings">
                   <p>defunctẹ Mtis</p>
@@ -12143,7 +12224,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d142e694a1055">Medici, Gian Giacomo</persName>
+                  <persName n="person_d143e694a1055">Medici, Gian Giacomo</persName>
                </note>
                <note type="writings">
                   <p>Johann Jakob de’ Medici,</p>
@@ -12159,7 +12240,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d267e244a1055">Medici, Giovanni de</persName>
+                  <persName n="person_d268e244a1055">Medici, Giovanni de</persName>
                </note>
                <note type="writings">
                   <p>Janin de Medicis</p>
@@ -12175,7 +12256,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e506a1055">Medicis, Raphael de</persName>
+                  <persName n="person_d42e506a1055">Medicis, Raphael de</persName>
                </note>
                <note type="writings">
                   <p>Raphael de Medicis</p>
@@ -12191,7 +12272,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d261e124a1055">Mendoza, Antonio de</persName>
+                  <persName n="person_d262e124a1055">Mendoza, Antonio de</persName>
                </note>
                <note type="writings">
                   <p>Anthonio de Mandoça</p>
@@ -12226,7 +12307,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d221e212a1055">Mendoza, Iñigo de, K’s Botschafter in England</persName>
+                  <persName n="person_d222e212a1055">Mendoza, Iñigo de, K’s Botschafter in England</persName>
                </note>
                <note type="writings">
                   <p>Inigo de Mandoça</p>
@@ -12273,7 +12354,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d108e240a1055">Meneses, Alonso de (González), Gesandter F's</persName>
+                  <persName n="person_d109e240a1055">Meneses, Alonso de (González), Gesandter F's</persName>
                </note>
                <note type="writings">
                   <p>Alonso de Meneses</p>
@@ -12490,7 +12571,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d53e184a1055">Merino, Esteban Gabriel, Erzbischof von Bari, Bischof von León, Jaén und Gaeta, Kardinal</persName>
+                  <persName n="person_d54e184a1055">Merino, Esteban Gabriel, Erzbischof von Bari, Bischof von León, Jaén und Gaeta, Kardinal</persName>
                </note>
                <note type="writings">
                   <p>l’arcevesque de Bary</p>
@@ -12506,7 +12587,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d206e141a1055">Mertlykh, Leonhard</persName>
+                  <persName n="person_d207e141a1055">Mertlykh, Leonhard</persName>
                </note>
                <note type="writings">
                   <p>Leonardus Mertlykh</p>
@@ -12529,7 +12610,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e775a1055">Metzler, Bartholomäus</persName>
+                  <persName n="person_d56e775a1055">Metzler, Bartholomäus</persName>
                </note>
                <note type="writings">
                   <p>Bartholomäus Metzler</p>
@@ -12545,7 +12626,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d213e427a1055">Michele Antonio, Marchese di Saluzzo</persName>
+                  <persName n="person_d214e427a1055">Michele Antonio, Marchese di Saluzzo</persName>
                </note>
                <note type="writings">
                   <p>Marchese di Saluzzo</p>
@@ -12561,7 +12642,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e325a1055">Miranda, Francisco de Zúñiga Avellaneda, Graf von, Vizekönig von Navarra</persName>
+                  <persName n="person_d24e325a1055">Miranda, Francisco de Zúñiga Avellaneda, Graf von, Vizekönig von Navarra</persName>
                </note>
                <note type="writings">
                   <p>Vizekönig von Navarra</p>
@@ -12577,7 +12658,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d42e142a1055">Mocqueron, Herr von (?)</persName>
+                  <persName n="person_d43e142a1055">Mocqueron, Herr von (?)</persName>
                </note>
                <note type="writings">
                   <p>Mocqueron</p>
@@ -12593,7 +12674,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d140e143a1055">Moncada, Ugo de, Vizekönig von Sizilien, Heerführer in Italien</persName>
+                  <persName n="person_d141e143a1055">Moncada, Ugo de, Vizekönig von Sizilien, Heerführer in Italien</persName>
                </note>
                <note type="writings">
                   <p>Hugo de Moncada</p>
@@ -12649,7 +12730,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d128e192a1055">Montagu, Jean de Neuchâtel, Herr von</persName>
+                  <persName n="person_d129e192a1055">Montagu, Jean de Neuchâtel, Herr von</persName>
                </note>
                <note type="writings">
                   <p>Jehan de Neufchastel</p>
@@ -12685,7 +12766,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d157e138a1055">Montfort, Nicolas de</persName>
+                  <persName n="person_d158e138a1055">Montfort, Nicolas de</persName>
                </note>
                <note type="writings">
                   <p>Montfort</p>
@@ -12734,7 +12815,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e139a1055">Montfort, Wolf, Graf von, Kammerherr Ks</persName>
+                  <persName n="person_d56e139a1055">Montfort, Wolf, Graf von, Kammerherr Ks</persName>
                </note>
                <note type="writings">
                   <p>Holf de Monfort</p>
@@ -12769,7 +12850,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e351a1055">Montmorency, Anne de, Marschall und Connétable von Frankreich</persName>
+                  <persName n="person_d24e351a1055">Montmorency, Anne de, Marschall und Connétable von Frankreich</persName>
                </note>
                <note type="writings">
                   <p>Anne de Montmorency</p>
@@ -12810,7 +12891,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e129a1055">Morone, Girolamo, Großkanzler des Herzogs von Mailand</persName>
+                  <persName n="person_d164e129a1055">Morone, Girolamo, Großkanzler des Herzogs von Mailand</persName>
                </note>
                <note type="writings">
                   <p>Iheronime Morron</p>
@@ -12847,7 +12928,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d135e221a1055">Münsterberg, Hg Karl von</persName>
+                  <persName n="person_d136e221a1055">Münsterberg, Hg Karl von</persName>
                </note>
                <note type="writings">
                   <p>Karl von Münsterberg</p>
@@ -12863,7 +12944,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d242e175a1055">Nádasdy, Thomas</persName>
+                  <persName n="person_d243e175a1055">Nádasdy, Thomas</persName>
                </note>
                <note type="writings">
                   <p>Thomas Nadasthi</p>
@@ -12879,7 +12960,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d258e447a1055">Navagero, Andrea, venezianischer Gesandter in Spanien</persName>
+                  <persName n="person_d259e447a1055">Navagero, Andrea, venezianischer Gesandter in Spanien</persName>
                </note>
                <note type="writings">
                   <p>Andrea Navagero</p>
@@ -12895,7 +12976,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d128e162a1055">Neuchâtel, Bona (Jutta) de</persName>
+                  <persName n="person_d129e162a1055">Neuchâtel, Bona (Jutta) de</persName>
                </note>
                <note type="writings">
                   <p>femme</p>
@@ -12911,7 +12992,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d124e121a1055">Neuchâtel, Claude de</persName>
+                  <persName n="person_d125e121a1055">Neuchâtel, Claude de</persName>
                </note>
                <note type="writings">
                   <p>Claude</p>
@@ -12941,7 +13022,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d128e173a1055">Neuchâtel, Fernando de</persName>
+                  <persName n="person_d129e173a1055">Neuchâtel, Fernando de</persName>
                </note>
                <note type="writings">
                   <p>Fernando de Neufchastel</p>
@@ -12957,7 +13038,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e300a1055">Neuchâtel, Guillaume de</persName>
+                  <persName n="person_d159e300a1055">Neuchâtel, Guillaume de</persName>
                </note>
                <note type="writings">
                   <p>Guillaume de Neufchastel</p>
@@ -12973,7 +13054,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e294a1055">Neuchâtel, Henry de</persName>
+                  <persName n="person_d159e294a1055">Neuchâtel, Henry de</persName>
                </note>
                <note type="writings">
                   <p>Henry</p>
@@ -12989,7 +13070,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e250a1055">Neuchâtel, Thibault de, Marschall von Burgund</persName>
+                  <persName n="person_d159e250a1055">Neuchâtel, Thibault de, Marschall von Burgund</persName>
                </note>
                <note type="writings">
                   <p>messire Thiebault de Neufchastel</p>
@@ -13021,7 +13102,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d149e315a1055">Nogarola, Graf Leonhard</persName>
+                  <persName n="person_d150e315a1055">Nogarola, Graf Leonhard</persName>
                </note>
                <note type="writings">
                   <p>conte de Padua</p>
@@ -13044,7 +13125,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d13e132a1055">Núñez de Guzmán, Pedro</persName>
+                  <persName n="person_d14e132a1055">Núñez de Guzmán, Pedro</persName>
                </note>
                <note type="writings">
                   <p>comendador mayor de Calatrava</p>
@@ -13060,7 +13141,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d262e169a1055">Núñez de Guzmán, Ramiro, Teilnehmer am Comunero-Aufstand</persName>
+                  <persName n="person_d263e169a1055">Núñez de Guzmán, Ramiro, Teilnehmer am Comunero-Aufstand</persName>
                </note>
                <note type="writings">
                   <p>Ramir Nunez de Gusman</p>
@@ -13076,7 +13157,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e371a1055">Oettingen, Graf Joachim von</persName>
+                  <persName n="person_d42e371a1055">Oettingen, Graf Joachim von</persName>
                </note>
                <note type="writings">
                   <p>conte de Witinghen</p>
@@ -13092,7 +13173,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d252e145a1055">Oláh, Nikolaus, Berater und Gesandter M's, Bischof von Zagreb, Erzbischof von Eger und Esztergom</persName>
+                  <persName n="person_d253e145a1055">Oláh, Nikolaus, Berater und Gesandter M's, Bischof von Zagreb, Erzbischof von Eger und Esztergom</persName>
                </note>
                <note type="writings">
                   <p>Nicolaus Olah</p>
@@ -13120,7 +13201,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d90e256a1055">Oranien, Philibert de Chalon, Prinz von</persName>
+                  <persName n="person_d91e256a1055">Oranien, Philibert de Chalon, Prinz von</persName>
                </note>
                <note type="writings">
                   <p>cousin d’Oranges</p>
@@ -13170,7 +13251,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e127a1055">Orti, Gabriel von</persName>
+                  <persName n="person_d7e127a1055">Orti, Gabriel von</persName>
                </note>
                <note type="writings">
                   <p>Cabriel de Horti</p>
@@ -13186,7 +13267,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d12e121a1055">Osorio, Álvaro de, Bischof von Astorga</persName>
+                  <persName n="person_d13e121a1055">Osorio, Álvaro de, Bischof von Astorga</persName>
                </note>
                <note type="writings">
                   <p>Don Alvares Ozorio</p>
@@ -13216,7 +13297,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e663a1055">Pack, Dr. Otto von</persName>
+                  <persName n="person_d27e663a1055">Pack, Dr. Otto von</persName>
                </note>
                <note type="writings">
                   <p>Doktor Otto von Pack</p>
@@ -13232,7 +13313,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e326a1055">Paumgartner, Kaufherrnfamilie in Augsburg</persName>
+                  <persName n="person_d257e326a1055">Paumgartner, Kaufherrnfamilie in Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Paumgartnern</p>
@@ -13248,7 +13329,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d135e142a1055">Pem(pf)flinger, ?</persName>
+                  <persName n="person_d136e142a1055">Pem(pf)flinger, ?</persName>
                </note>
                <note type="writings">
                   <p>Pemflinger</p>
@@ -13264,7 +13345,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d223e553a1055">Pérez, ?, K’s Gesandter in Rom (1526)</persName>
+                  <persName n="person_d224e553a1055">Pérez, ?, K’s Gesandter in Rom (1526)</persName>
                </note>
                <note type="writings">
                   <p>Perez</p>
@@ -13280,7 +13361,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d264e105a1055">Perwsyth, Johannes</persName>
+                  <persName n="person_d265e105a1055">Perwsyth, Johannes</persName>
                </note>
                <note type="writings">
                   <p>Joannis Perwsyth</p>
@@ -13296,7 +13377,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d108e289a1055">Pescara, Fernando Francesco d’Avalos, Marchese di, K’s General in Italien</persName>
+                  <persName n="person_d109e289a1055">Pescara, Fernando Francesco d’Avalos, Marchese di, K’s General in Italien</persName>
                </note>
                <note type="writings">
                   <p>marquis de Pescara</p>
@@ -13371,7 +13452,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e260a1055">Pfalzgrafen</persName>
+                  <persName n="person_d24e260a1055">Pfalzgrafen</persName>
                </note>
                <note type="writings">
                   <p>aux contes Palatins</p>
@@ -13431,7 +13512,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e1179a1055">Philipp I. von Österreich (Philipp der Schöne), König von Kastilien</persName>
+                  <persName n="person_d82e1179a1055">Philipp I. von Österreich (Philipp der Schöne), König von Kastilien</persName>
                </note>
                <note type="writings">
                   <p>Philipp I</p>
@@ -13470,7 +13551,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d28e279a1055">Philipp von Hessen, Landgraf (1518-1567) </persName>
+                  <persName n="person_d29e279a1055">Philipp von Hessen, Landgraf (1518-1567) </persName>
                </note>
                <note type="writings">
                   <p>lansgrave von Hessen</p>
@@ -13520,7 +13601,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e955a1055">Philipp von Pfalz-Neuburg</persName>
+                  <persName n="person_d82e955a1055">Philipp von Pfalz-Neuburg</persName>
                </note>
                <note type="writings">
                   <p>Philippi comitis Palatini</p>
@@ -13536,7 +13617,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e816a1055">Phrysius, Dr.</persName>
+                  <persName n="person_d71e816a1055">Phrysius, Dr.</persName>
                </note>
                <note type="writings">
                   <p>doctoris Phrysii</p>
@@ -13552,7 +13633,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e333a1055">Pimel, Kaufherr in Augsburg</persName>
+                  <persName n="person_d257e333a1055">Pimel, Kaufherr in Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Pimel</p>
@@ -13568,7 +13649,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e772a1055">Planitz, Hans von der</persName>
+                  <persName n="person_d32e772a1055">Planitz, Hans von der</persName>
                </note>
                <note type="writings">
                   <p>Plains</p>
@@ -13607,7 +13688,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d39e119a1055">Pole, Richard de la, Herzog (Earl) von Suffolk, genannt "La blanche Rose"</persName>
+                  <persName n="person_d40e119a1055">Pole, Richard de la, Herzog (Earl) von Suffolk, genannt "La blanche Rose"</persName>
                </note>
                <note type="writings">
                   <p>La blanche Rose</p>
@@ -13623,7 +13704,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e545a1055">Polheim, Cyriak von, Statthalter von Niederösterreich</persName>
+                  <persName n="person_d24e545a1055">Polheim, Cyriak von, Statthalter von Niederösterreich</persName>
                </note>
                <note type="writings">
                   <p>Ciriaco baroni de Polhaim et Wartemburg</p>
@@ -13646,7 +13727,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d191e146a1055">Polydor von Brixen (Polidoro di Bressanone), Titularbischof von Oropus</persName>
+                  <persName n="person_d192e146a1055">Polydor von Brixen (Polidoro di Bressanone), Titularbischof von Oropus</persName>
                </note>
                <note type="writings">
                   <p>episcopi Polydori</p>
@@ -13669,7 +13750,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d259e99a1055">Posonio, Martinus de</persName>
+                  <persName n="person_d260e99a1055">Posonio, Martinus de</persName>
                </note>
                <note type="writings">
                   <p>Martinus de Posonio</p>
@@ -13685,7 +13766,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d61e438a1055">Praet, Louis, Seigneur de, Gesandter K's</persName>
+                  <persName n="person_d62e438a1055">Praet, Louis, Seigneur de, Gesandter K's</persName>
                </note>
                <note type="writings">
                   <p>Louis de Praet</p>
@@ -13741,7 +13822,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e120a1055">Prantner, Dr. Wolfgang</persName>
+                  <persName n="person_d42e120a1055">Prantner, Dr. Wolfgang</persName>
                </note>
                <note type="writings">
                   <p>docteur Prantenar</p>
@@ -13792,7 +13873,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d233e125a1055">Presinger, F’s pannetier, gesandt an K</persName>
+                  <persName n="person_d234e125a1055">Presinger, F’s pannetier, gesandt an K</persName>
                </note>
                <note type="writings">
                   <p>led. Presinger</p>
@@ -13867,7 +13948,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d254e123a1055">Preuner, Philipp, Gesandter F’s bei Z</persName>
+                  <persName n="person_d255e123a1055">Preuner, Philipp, Gesandter F’s bei Z</persName>
                </note>
                <note type="writings">
                   <p>Philippum Prewner</p>
@@ -13883,7 +13964,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e192a1055">Quintana, Pedro de, Sekretär Ferdinands des Katholischen</persName>
+                  <persName n="person_d7e192a1055">Quintana, Pedro de, Sekretär Ferdinands des Katholischen</persName>
                </note>
                <note type="writings">
                   <p>Pedro de Quyntana</p>
@@ -13913,7 +13994,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d166e98a1055">Rauber, Christophorus, Bischof von Ljubljana</persName>
+                  <persName n="person_d167e98a1055">Rauber, Christophorus, Bischof von Ljubljana</persName>
                </note>
                <note type="writings">
                   <p>B. Christoph von Laibach</p>
@@ -13943,7 +14024,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e372a1055">Reischach, Eberlin (Eberhard?) von</persName>
+                  <persName n="person_d24e372a1055">Reischach, Eberlin (Eberhard?) von</persName>
                </note>
                <note type="writings">
                   <p>Eberlin von Reischach</p>
@@ -13959,7 +14040,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e850a1055">Remminger, Georg</persName>
+                  <persName n="person_d71e850a1055">Remminger, Georg</persName>
                </note>
                <note type="writings">
                   <p>Georgium Remminger</p>
@@ -13975,7 +14056,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d6e189a1055">Renée (Renata) de France, spätere Herzogin von Ferrara</persName>
+                  <persName n="person_d7e189a1055">Renée (Renata) de France, spätere Herzogin von Ferrara</persName>
                </note>
                <note type="writings">
                   <p>Renata</p>
@@ -13991,7 +14072,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e345a1055">René von Savoyen, Graf von Villars</persName>
+                  <persName n="person_d24e345a1055">René von Savoyen, Graf von Villars</persName>
                </note>
                <note type="writings">
                   <p>René</p>
@@ -14007,7 +14088,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e730a1055">Renner, Hans</persName>
+                  <persName n="person_d32e730a1055">Renner, Hans</persName>
                </note>
                <note type="writings">
                   <p>Hans Renner</p>
@@ -14030,7 +14111,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e115a1055">Renner, Konrad, Probst von Löwen</persName>
+                  <persName n="person_d22e115a1055">Renner, Konrad, Probst von Löwen</persName>
                </note>
                <note type="writings">
                   <p>Conrard Renner</p>
@@ -14046,7 +14127,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e185a1055">Revellis, Johann de, Bischof von Wien</persName>
+                  <persName n="person_d22e185a1055">Revellis, Johann de, Bischof von Wien</persName>
                </note>
                <note type="writings">
                   <p>Johann de Revellis</p>
@@ -14062,7 +14143,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d266e357a1055">Rexo, Paulo de</persName>
+                  <persName n="person_d267e357a1055">Rexo, Paulo de</persName>
                </note>
                <note type="writings">
                   <p>Paulo de Rexo</p>
@@ -14078,7 +14159,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d90e242a1055">Rheinische Fürsten</persName>
+                  <persName n="person_d91e242a1055">Rheinische Fürsten</persName>
                </note>
                <note type="writings">
                   <p>ceulx du Rhin</p>
@@ -14094,7 +14175,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d245e940a1055">Richard (Boullengier, Convon, Rixarte), Kurier F’s an K</persName>
+                  <persName n="person_d246e940a1055">Richard (Boullengier, Convon, Rixarte), Kurier F’s an K</persName>
                </note>
                <note type="writings">
                   <p>Richard</p>
@@ -14137,7 +14218,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e697a1055">Riepper, Dr. Johann</persName>
+                  <persName n="person_d32e697a1055">Riepper, Dr. Johann</persName>
                </note>
                <note type="writings">
                   <p>doctorem Joannem Riepper</p>
@@ -14153,7 +14234,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e1741a1055">Rincón, Antonio de, ehemaliger Comunero, im Dienste Frankreichs</persName>
+                  <persName n="person_d82e1741a1055">Rincón, Antonio de, ehemaliger Comunero, im Dienste Frankreichs</persName>
                </note>
                <note type="writings">
                   <p>Anthoine de Rincon</p>
@@ -14183,7 +14264,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d212e146a1055">Rochefort, Graf ? von</persName>
+                  <persName n="person_d213e146a1055">Rochefort, Graf ? von</persName>
                </note>
                <note type="writings">
                   <p>conte de Rocheffort</p>
@@ -14206,7 +14287,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d136e166a1055">Rodríguez de Fonseca, Juan, Bischof von Burgos</persName>
+                  <persName n="person_d137e166a1055">Rodríguez de Fonseca, Juan, Bischof von Burgos</persName>
                </note>
                <note type="writings">
                   <p>Juan Rodrigues de Fonseca</p>
@@ -14222,7 +14303,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d133e115a1055">Roeulx, (Baudouin?), Bastard du</persName>
+                  <persName n="person_d134e115a1055">Roeulx, (Baudouin?), Bastard du</persName>
                </note>
                <note type="writings">
                   <p>bastard du Roeux</p>
@@ -14273,7 +14354,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d166e101a1055">Roggendorff, Baron Georg von</persName>
+                  <persName n="person_d167e101a1055">Roggendorff, Baron Georg von</persName>
                </note>
                <note type="writings">
                   <p>Baron Georg von Roggendorff</p>
@@ -14289,7 +14370,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e256a1055">Ruffault, Jean, Sieur de Neuville, Schatzmeister Mgs</persName>
+                  <persName n="person_d44e256a1055">Ruffault, Jean, Sieur de Neuville, Schatzmeister Mgs</persName>
                </note>
                <note type="writings">
                   <p>Ruffault</p>
@@ -14305,7 +14386,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e216a1055">Sachsen, Herzöge von</persName>
+                  <persName n="person_d257e216a1055">Sachsen, Herzöge von</persName>
                </note>
                <note type="writings">
                   <p>ducz de Saxen</p>
@@ -14321,7 +14402,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d85e348a1055">Sadoletus, Jakob</persName>
+                  <persName n="person_d86e348a1055">Sadoletus, Jakob</persName>
                </note>
                <note type="writings">
                   <p>Jakob Sadoletus</p>
@@ -14337,7 +14418,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d67e379a1055">Salamanca, ?, Bruder des Gabriel de Salamanca</persName>
+                  <persName n="person_d68e379a1055">Salamanca, ?, Bruder des Gabriel de Salamanca</persName>
                </note>
                <note type="writings">
                   <p>son frere</p>
@@ -14353,7 +14434,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e253a1055">Salamanca, Francisco de</persName>
+                  <persName n="person_d164e253a1055">Salamanca, Francisco de</persName>
                </note>
                <note type="writings">
                   <p>Francisco de Salamanca</p>
@@ -14642,7 +14723,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e116a1055">Salinas, Martín de, Botschafter Fs bei K </persName>
+                  <persName n="person_d27e116a1055">Salinas, Martín de, Botschafter Fs bei K </persName>
                </note>
                <note type="writings">
                   <p>Martin de Salinas</p>
@@ -15107,7 +15188,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d142e704a1055">Salis, Dietegen von</persName>
+                  <persName n="person_d143e704a1055">Salis, Dietegen von</persName>
                </note>
                <note type="writings">
                   <p>Dietegen von Salis</p>
@@ -15123,7 +15204,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e567a1055">Salm, Graf Niklas von, habsburgischer Feldherr, Verteidiger Wiens 1529</persName>
+                  <persName n="person_d24e567a1055">Salm, Graf Niklas von, habsburgischer Feldherr, Verteidiger Wiens 1529</persName>
                </note>
                <note type="writings">
                   <p>conde de Salbia</p>
@@ -15191,7 +15272,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d155e402a1055">Salm, Niklas, Graf </persName>
+                  <persName n="person_d156e402a1055">Salm, Niklas, Graf </persName>
                </note>
                <note type="writings">
                   <p>conte de Salme</p>
@@ -15207,7 +15288,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d170e418a1055">Salviati, Giovanni, Kardinal</persName>
+                  <persName n="person_d171e418a1055">Salviati, Giovanni, Kardinal</persName>
                </note>
                <note type="writings">
                   <p>Giovanni Salviati</p>
@@ -15230,7 +15311,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d139e231a1055">Sampy (Sempy), Herr de</persName>
+                  <persName n="person_d140e231a1055">Sampy (Sempy), Herr de</persName>
                </note>
                <note type="writings">
                   <p>sr de Sampy</p>
@@ -15265,7 +15346,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e580a1055">Sánchez, Alfonso, K's Botschafter in Venedig</persName>
+                  <persName n="person_d24e580a1055">Sánchez, Alfonso, K's Botschafter in Venedig</persName>
                </note>
                <note type="writings">
                   <p>Alfonso Sanchez</p>
@@ -15321,7 +15402,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d237e760a1055">Sanga, Giambattista, Sekretär Gibertis</persName>
+                  <persName n="person_d238e760a1055">Sanga, Giambattista, Sekretär Gibertis</persName>
                </note>
                <note type="writings">
                   <p>Giambattista Sanga</p>
@@ -15337,7 +15418,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d19e184a1055">Sárkány, Ambrosius</persName>
+                  <persName n="person_d20e184a1055">Sárkány, Ambrosius</persName>
                </note>
                <note type="writings">
                   <p>Ambrosius Sackan</p>
@@ -15360,7 +15441,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d19e115a1055">Sauch, Jean de la</persName>
+                  <persName n="person_d20e115a1055">Sauch, Jean de la</persName>
                </note>
                <note type="writings">
                   <p>Jehan de la Saulx</p>
@@ -15376,7 +15457,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d83e154a1055">Schellenberg, Ulrich von, Rat des Reichsregiments</persName>
+                  <persName n="person_d84e154a1055">Schellenberg, Ulrich von, Rat des Reichsregiments</persName>
                </note>
                <note type="writings">
                   <p>Walrick de Chalenborger</p>
@@ -15392,7 +15473,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d54e157a1055">Schnaitpeck, Johann, Baron in Schönkirchen, Gesandter Ks und Fs in Ungarn</persName>
+                  <persName n="person_d55e157a1055">Schnaitpeck, Johann, Baron in Schönkirchen, Gesandter Ks und Fs in Ungarn</persName>
                </note>
                <note type="writings">
                   <p>Baron Johann Schnaitpeck</p>
@@ -15436,7 +15517,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d137e346a1055">Schönberg, Dietrich von</persName>
+                  <persName n="person_d138e346a1055">Schönberg, Dietrich von</persName>
                </note>
                <note type="writings">
                   <p>Dietrichs von Schönberg</p>
@@ -15452,7 +15533,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d74e173a1055">Schönberg, Nikolaus von, Erzbischof von Capua, Kardinal, päpstlicher Nuntius</persName>
+                  <persName n="person_d75e173a1055">Schönberg, Nikolaus von, Erzbischof von Capua, Kardinal, päpstlicher Nuntius</persName>
                </note>
                <note type="writings">
                   <p>Eb von Kapua (Nikolaus von Schönberg)</p>
@@ -15512,7 +15593,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e791a1055">Schwabach, Dr. Konrad, Prokurator am Reichskammergericht</persName>
+                  <persName n="person_d71e791a1055">Schwabach, Dr. Konrad, Prokurator am Reichskammergericht</persName>
                </note>
                <note type="writings">
                   <p>Swabach</p>
@@ -15528,7 +15609,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d102e237a1055">Semjën Borisov, Djak, russischer Gesandter bei K</persName>
+                  <persName n="person_d103e237a1055">Semjën Borisov, Djak, russischer Gesandter bei K</persName>
                </note>
                <note type="writings">
                   <p>Djak Semjën Borisov</p>
@@ -15544,7 +15625,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e179a1055">Sickingen, Franz von</persName>
+                  <persName n="person_d24e179a1055">Sickingen, Franz von</persName>
                </note>
                <note type="writings">
                   <p>Francisque</p>
@@ -15637,7 +15718,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e552a1055">Sickingen, Hans von</persName>
+                  <persName n="person_d42e552a1055">Sickingen, Hans von</persName>
                </note>
                <note type="writings">
                   <p>Hans</p>
@@ -15653,7 +15734,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e159a1055">Siebenbürger, Andreas</persName>
+                  <persName n="person_d31e159a1055">Siebenbürger, Andreas</persName>
                </note>
                <note type="writings">
                   <p>Andreas</p>
@@ -15669,7 +15750,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e165a1055">Siebenbürger, Anna</persName>
+                  <persName n="person_d31e165a1055">Siebenbürger, Anna</persName>
                </note>
                <note type="writings">
                   <p>Anna</p>
@@ -15685,7 +15766,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e121a1055">Siebenbürger, Dr. Martin</persName>
+                  <persName n="person_d31e121a1055">Siebenbürger, Dr. Martin</persName>
                </note>
                <note type="writings">
                   <p>doctori Martino Sybennbwrger</p>
@@ -15701,7 +15782,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e127a1055">Siebenbürger, Helene</persName>
+                  <persName n="person_d31e127a1055">Siebenbürger, Helene</persName>
                </note>
                <note type="writings">
                   <p>Helene</p>
@@ -15717,7 +15798,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e156a1055">Siebenbürger, Thomas</persName>
+                  <persName n="person_d31e156a1055">Siebenbürger, Thomas</persName>
                </note>
                <note type="writings">
                   <p>Thomas</p>
@@ -15733,7 +15814,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d30e162a1055">Siebenbürger, Ulrich</persName>
+                  <persName n="person_d31e162a1055">Siebenbürger, Ulrich</persName>
                </note>
                <note type="writings">
                   <p>Ulrich</p>
@@ -15749,7 +15830,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d88e163a1055">Sigismund I., König von Polen</persName>
+                  <persName n="person_d89e163a1055">Sigismund I., König von Polen</persName>
                </note>
                <note type="writings">
                   <p>Kg. von Polen</p>
@@ -15819,7 +15900,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d172e492a1055">Silva, Diego de, spanischer Hauptmann in F’s Diensten in Norditalien</persName>
+                  <persName n="person_d173e492a1055">Silva, Diego de, spanischer Hauptmann in F’s Diensten in Norditalien</persName>
                </note>
                <note type="writings">
                   <p>Didacus de Sylva</p>
@@ -15835,7 +15916,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e131a1055">Slatkonia, Georg von, Bischof von Wien</persName>
+                  <persName n="person_d22e131a1055">Slatkonia, Georg von, Bischof von Wien</persName>
                </note>
                <note type="writings">
                   <p>evesque</p>
@@ -15851,7 +15932,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d256e355a1055">Snytter, Gordian</persName>
+                  <persName n="person_d257e355a1055">Snytter, Gordian</persName>
                </note>
                <note type="writings">
                   <p>Gordian Snytter</p>
@@ -15867,7 +15948,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e270a1055">Sorator, Räuber</persName>
+                  <persName n="person_d162e270a1055">Sorator, Räuber</persName>
                </note>
                <note type="writings">
                   <p>Sorator</p>
@@ -15883,7 +15964,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d93e238a1055">Soria, Lope de, Botschafter K's in Venedig</persName>
+                  <persName n="person_d94e238a1055">Soria, Lope de, Botschafter K's in Venedig</persName>
                </note>
                <note type="writings">
                   <p>Lope de Soria</p>
@@ -15899,7 +15980,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d126e489a1055">Sorne(s) Graf</persName>
+                  <persName n="person_d127e489a1055">Sorne(s) Graf</persName>
                </note>
                <note type="writings">
                   <p>conte de Sornes</p>
@@ -15915,7 +15996,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e355a1055">Spack, Friedrich Dietrich</persName>
+                  <persName n="person_d42e355a1055">Spack, Friedrich Dietrich</persName>
                </note>
                <note type="writings">
                   <p>Fredrick Dietrich Spack</p>
@@ -15931,7 +16012,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d153e360a1055">Spagna, Cornelius de</persName>
+                  <persName n="person_d154e360a1055">Spagna, Cornelius de</persName>
                </note>
                <note type="writings">
                   <p>Cornelius de Spagna</p>
@@ -15947,7 +16028,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d68e223a1055">Spiegel, Jakob</persName>
+                  <persName n="person_d69e223a1055">Spiegel, Jakob</persName>
                </note>
                <note type="writings">
                   <p>Jacobi Spiegel</p>
@@ -15984,7 +16065,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e223a1055">Sprenz (Sperantius), Sebastian, Bischof von Brixen</persName>
+                  <persName n="person_d164e223a1055">Sprenz (Sperantius), Sebastian, Bischof von Brixen</persName>
                </note>
                <note type="writings">
                   <p>l’esvesque de Brixen</p>
@@ -16000,7 +16081,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d70e552a1055">Stadion, Christoph von, Bischof von Augsburg</persName>
+                  <persName n="person_d71e552a1055">Stadion, Christoph von, Bischof von Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Chrystophorum, episcopum Augustensem</p>
@@ -16030,7 +16111,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d41e358a1055">Staufer (Estaufer)</persName>
+                  <persName n="person_d42e358a1055">Staufer (Estaufer)</persName>
                </note>
                <note type="writings">
                   <p>Estaufer</p>
@@ -16046,7 +16127,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e741a1055">Sturtzel von Buchheim, Dr. Jakob</persName>
+                  <persName n="person_d32e741a1055">Sturtzel von Buchheim, Dr. Jakob</persName>
                </note>
                <note type="writings">
                   <p>Doktor Jakob Stürtzl</p>
@@ -16069,7 +16150,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d110e255a1055">Suffolk, Herzog von, Charles Brandon</persName>
+                  <persName n="person_d111e255a1055">Suffolk, Herzog von, Charles Brandon</persName>
                </note>
                <note type="writings">
                   <p>Hg von Suffolk</p>
@@ -16085,7 +16166,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d28e230a1055">Süleyman I.</persName>
+                  <persName n="person_d29e230a1055">Süleyman I.</persName>
                </note>
                <note type="writings">
                   <p>cesaris Thurcorum</p>
@@ -16486,7 +16567,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e307a1055">Sulz, Graf Rudolf von</persName>
+                  <persName n="person_d164e307a1055">Sulz, Graf Rudolf von</persName>
                </note>
                <note type="writings">
                   <p>Gf Rudolf von Sulz</p>
@@ -16509,7 +16590,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2436a1055">Sunderusen, Dr. Hermann</persName>
+                  <persName n="person_d82e2436a1055">Sunderusen, Dr. Hermann</persName>
                </note>
                <note type="writings">
                   <p>doctore Hermanno Sunderusen</p>
@@ -16525,7 +16606,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e703a1055">Sutor, Veit</persName>
+                  <persName n="person_d27e703a1055">Sutor, Veit</persName>
                </note>
                <note type="writings">
                   <p>Veit Sutor</p>
@@ -16547,7 +16628,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d98e197a1055">Szalkai, Laszlo, Erzbischof von Esztergom</persName>
+                  <persName n="person_d99e197a1055">Szalkai, Laszlo, Erzbischof von Esztergom</persName>
                </note>
                <note type="writings">
                   <p>Ebs von Gran</p>
@@ -16563,7 +16644,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e257a1055">Széchy, Thomas</persName>
+                  <persName n="person_d162e257a1055">Széchy, Thomas</persName>
                </note>
                <note type="writings">
                   <p>Thomas de Zetschi</p>
@@ -16579,7 +16660,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d258e307a1055">Tassis, Donato de</persName>
+                  <persName n="person_d259e307a1055">Tassis, Donato de</persName>
                </note>
                <note type="writings">
                   <p>Donato de Tassis</p>
@@ -16595,7 +16676,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d223e539a1055">Taylor, John, englischer Gesandter in Frankreich</persName>
+                  <persName n="person_d224e539a1055">Taylor, John, englischer Gesandter in Frankreich</persName>
                </note>
                <note type="writings">
                   <p>John Tayler</p>
@@ -16611,7 +16692,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d13e154a1055">Téllez Girón, Alonso</persName>
+                  <persName n="person_d14e154a1055">Téllez Girón, Alonso</persName>
                </note>
                <note type="writings">
                   <p>don Alonso Tellez Girón</p>
@@ -16627,7 +16708,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e254a1055">Terniko, Georg</persName>
+                  <persName n="person_d162e254a1055">Terniko, Georg</persName>
                </note>
                <note type="writings">
                   <p>Georg Terniko</p>
@@ -16643,7 +16724,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d72e202a1055">Terrail, Pierre, Seigneur de Bayard, Feldherr Franz’ I. von Frankreich</persName>
+                  <persName n="person_d73e202a1055">Terrail, Pierre, Seigneur de Bayard, Feldherr Franz’ I. von Frankreich</persName>
                </note>
                <note type="writings">
                   <p>Bajart</p>
@@ -16659,7 +16740,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d201e131a1055">Tetman, Dr. Dominik, Rat und Assistent beim Reichsregiment</persName>
+                  <persName n="person_d202e131a1055">Tetman, Dr. Dominik, Rat und Assistent beim Reichsregiment</persName>
                </note>
                <note type="writings">
                   <p>Dominicus Tetman</p>
@@ -16691,7 +16772,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d131e128a1055">Thomassin, Jehan, Mg’s Rat</persName>
+                  <persName n="person_d132e128a1055">Thomassin, Jehan, Mg’s Rat</persName>
                </note>
                <note type="writings">
                   <p>Jehan Thomassin</p>
@@ -16707,7 +16788,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d58e193a1055">Thüngen, Konrad II. von, Bischof von Würzburg</persName>
+                  <persName n="person_d59e193a1055">Thüngen, Konrad II. von, Bischof von Würzburg</persName>
                </note>
                <note type="writings">
                   <p>episcopo Herbipolensi</p>
@@ -16737,7 +16818,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d87e195a1055">Tovar, Luis de, Mitglied des Hofstaats F's</persName>
+                  <persName n="person_d88e195a1055">Tovar, Luis de, Mitglied des Hofstaats F's</persName>
                </note>
                <note type="writings">
                   <p>Loys de Thouard</p>
@@ -16785,7 +16866,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d109e129a1055">Transsilvano, Maximilian, K’s Sekretär</persName>
+                  <persName n="person_d110e129a1055">Transsilvano, Maximilian, K’s Sekretär</persName>
                </note>
                <note type="writings">
                   <p>Maximilian Transsilvano</p>
@@ -16801,7 +16882,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d23e147a1055">Ulrich von Württemberg, Herzog</persName>
+                  <persName n="person_d24e147a1055">Ulrich von Württemberg, Herzog</persName>
                </note>
                <note type="writings">
                   <p>duc de Wirtemberg</p>
@@ -16944,7 +17025,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d125e210a1055">Vauldripont, Anthoine de</persName>
+                  <persName n="person_d126e210a1055">Vauldripont, Anthoine de</persName>
                </note>
                <note type="writings">
                   <p>Anthoine de Vauldripont</p>
@@ -16960,7 +17041,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d95e154a1055">Vello, Sebastian und Gonzilio de, Lehensleute des B von Vicenza</persName>
+                  <persName n="person_d96e154a1055">Vello, Sebastian und Gonzilio de, Lehensleute des B von Vicenza</persName>
                </note>
                <note type="writings">
                   <p>Sebastien et Gonzilio de Vello</p>
@@ -16976,7 +17057,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d19e189a1055">Verböczy, Stefan, ungarischer Jurist und Gesandter</persName>
+                  <persName n="person_d20e189a1055">Verböczy, Stefan, ungarischer Jurist und Gesandter</persName>
                </note>
                <note type="writings">
                   <p>Verböczy.</p>
@@ -16992,7 +17073,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d171e112a1055">Vergy, Antoine de, Erzbischof von Besançon</persName>
+                  <persName n="person_d172e112a1055">Vergy, Antoine de, Erzbischof von Besançon</persName>
                </note>
                <note type="writings">
                   <p>l’archevesque</p>
@@ -17014,7 +17095,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d95e160a1055">Vicenza, Bischof von</persName>
+                  <persName n="person_d96e160a1055">Vicenza, Bischof von</persName>
                </note>
                <note type="writings">
                   <p>l’evesque de Vincence</p>
@@ -17030,7 +17111,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d40e266a1055">Villena, Fernando, Marqués de</persName>
+                  <persName n="person_d41e266a1055">Villena, Fernando, Marqués de</persName>
                </note>
                <note type="writings">
                   <p>Ferdinand de Villena</p>
@@ -17046,7 +17127,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d13e157a1055">Villena, Fernando, Marqués de </persName>
+                  <persName n="person_d14e157a1055">Villena, Fernando, Marqués de </persName>
                </note>
                <note type="writings">
                   <p>marques de Villena</p>
@@ -17062,7 +17143,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d266e274a1055">Villena y de la Vega, Juan Manuel de, Herr von Belmonte, Vertrauter K’s</persName>
+                  <persName n="person_d267e274a1055">Villena y de la Vega, Juan Manuel de, Herr von Belmonte, Vertrauter K’s</persName>
                </note>
                <note type="writings">
                   <p>D. Juan Manuel</p>
@@ -17085,7 +17166,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d21e172a1055">Villinger, Jakob</persName>
+                  <persName n="person_d22e172a1055">Villinger, Jakob</persName>
                </note>
                <note type="writings">
                   <p>Jakob Villinger</p>
@@ -17114,7 +17195,23 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e273a1055">Vlaklo, Hg Laurenz de</persName>
+                  <persName n="person_d6e190a1055">Vladislav II., König von Böhmen und Ungarn</persName>
+               </note>
+               <note type="writings">
+                  <p>le roy Wladislaw</p>
+               </note>
+               <note type="occurence">
+                  <p source="1064.xml">
+                     <val>1064</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">1</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="person">
+                  <persName n="person_d162e273a1055">Vlaklo, Hg Laurenz de</persName>
                </note>
                <note type="writings">
                   <p>Hg Laurenz de Vlaklo</p>
@@ -17130,7 +17227,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d215e206a1055">Volanndt, Wolfgang, Sekretär von Erzherzogin Anna</persName>
+                  <persName n="person_d216e206a1055">Volanndt, Wolfgang, Sekretär von Erzherzogin Anna</persName>
                </note>
                <note type="writings">
                   <p>Wolfgang Volanndt</p>
@@ -17146,7 +17243,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e310a1055">Völs, Leonhard von</persName>
+                  <persName n="person_d164e310a1055">Völs, Leonhard von</persName>
                </note>
                <note type="writings">
                   <p>Leonhard Freiherr von Vels</p>
@@ -17162,7 +17259,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d162e152a1055">Waldburg, Wilhelm Truchseß von</persName>
+                  <persName n="person_d163e152a1055">Waldburg, Wilhelm Truchseß von</persName>
                </note>
                <note type="writings">
                   <p>Guillame Truxes</p>
@@ -17185,7 +17282,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2755a1055">Waldburg-Zeil, Georg III. Truchseß von</persName>
+                  <persName n="person_d82e2755a1055">Waldburg-Zeil, Georg III. Truchseß von</persName>
                </note>
                <note type="writings">
                   <p>George Truxes</p>
@@ -17228,7 +17325,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e276a1055">Walitzko, Paul, nach Ungarn entflohener Rebell</persName>
+                  <persName n="person_d162e276a1055">Walitzko, Paul, nach Ungarn entflohener Rebell</persName>
                </note>
                <note type="writings">
                   <p>Paul Walitzko</p>
@@ -17244,7 +17341,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e769a1055">Wanner, Johannes</persName>
+                  <persName n="person_d56e769a1055">Wanner, Johannes</persName>
                </note>
                <note type="writings">
                   <p>Johannes Wanner</p>
@@ -17260,7 +17357,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d184e218a1055">Warti, Pierre de, Sekretär der französischen Regentin</persName>
+                  <persName n="person_d185e218a1055">Warti, Pierre de, Sekretär der französischen Regentin</persName>
                </note>
                <note type="writings">
                   <p>Pierre de Wart</p>
@@ -17276,7 +17373,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d102e169a1055">Wassili III. Iwanowitsch, Großfürst von Moskau</persName>
+                  <persName n="person_d103e169a1055">Wassili III. Iwanowitsch, Großfürst von Moskau</persName>
                </note>
                <note type="writings">
                   <p>grant-maistre de Moscovye</p>
@@ -17326,7 +17423,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d254e217a1055">Weichselberger, Sigismund, Gesandter F’s bei den Ständen Siebenbürgens</persName>
+                  <persName n="person_d255e217a1055">Weichselberger, Sigismund, Gesandter F’s bei den Ständen Siebenbürgens</persName>
                </note>
                <note type="writings">
                   <p>Sigismund Weichselberger</p>
@@ -17342,7 +17439,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d161e251a1055">Weißpriach, Herrin von</persName>
+                  <persName n="person_d162e251a1055">Weißpriach, Herrin von</persName>
                </note>
                <note type="writings">
                   <p>domina de Weispriach</p>
@@ -17358,7 +17455,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e124a1055">Welser</persName>
+                  <persName n="person_d52e124a1055">Welser</persName>
                </note>
                <note type="writings">
                   <p>Welsern</p>
@@ -17388,7 +17485,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d51e145a1055">Werdenberg, Graf Felix von</persName>
+                  <persName n="person_d52e145a1055">Werdenberg, Graf Felix von</persName>
                </note>
                <note type="writings">
                   <p>conte Felix</p>
@@ -17423,7 +17520,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d128e153a1055">Werdenberg, Gräfin Elisabeth von, geborene von Neuchâtel</persName>
+                  <persName n="person_d129e153a1055">Werdenberg, Gräfin Elisabeth von, geborene von Neuchâtel</persName>
                </note>
                <note type="writings">
                   <p>contesse de Werdemberg</p>
@@ -17446,7 +17543,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d162e149a1055">Werdenberg (?), Graf ? von</persName>
+                  <persName n="person_d163e149a1055">Werdenberg (?), Graf ? von</persName>
                </note>
                <note type="writings">
                   <p>conte de Werten</p>
@@ -17462,7 +17559,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d26e656a1055">Werthern, Dr. Dietrich von</persName>
+                  <persName n="person_d27e656a1055">Werthern, Dr. Dietrich von</persName>
                </note>
                <note type="writings">
                   <p>Dietrich von Werthern</p>
@@ -17478,7 +17575,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d163e313a1055">Widmann, Beatus</persName>
+                  <persName n="person_d164e313a1055">Widmann, Beatus</persName>
                </note>
                <note type="writings">
                   <p>Beatus Widmann</p>
@@ -17494,7 +17591,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d90e132a1055">Wied, Hermann V. von, Erzbischof von Köln, Kurfürst</persName>
+                  <persName n="person_d91e132a1055">Wied, Hermann V. von, Erzbischof von Köln, Kurfürst</persName>
                </note>
                <note type="writings">
                   <p>l’evesque de Couloingne</p>
@@ -17510,7 +17607,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d43e412a1055">Wilhelm IV., Herzog von Bayern (München)</persName>
+                  <persName n="person_d44e412a1055">Wilhelm IV., Herzog von Bayern (München)</persName>
                </note>
                <note type="writings">
                   <p>Bayern</p>
@@ -17547,7 +17644,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d55e772a1055">Windner, Jakob</persName>
+                  <persName n="person_d56e772a1055">Windner, Jakob</persName>
                </note>
                <note type="writings">
                   <p>Jakob Windner</p>
@@ -17563,7 +17660,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d81e2761a1055">Wittelsbacher</persName>
+                  <persName n="person_d82e2761a1055">Wittelsbacher</persName>
                </note>
                <note type="writings">
                   <p>Wittelsbacher</p>
@@ -17579,7 +17676,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e770a1055">Wolfsthal, Balthasar Wolf von, Kammermeister F‘s</persName>
+                  <persName n="person_d32e770a1055">Wolfsthal, Balthasar Wolf von, Kammermeister F‘s</persName>
                </note>
                <note type="writings">
                   <p>Balthasar Wolf von Wolfsthal</p>
@@ -17602,7 +17699,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d110e258a1055">Wolsey, Kardinal, Minister Heinrich VIII. von England</persName>
+                  <persName n="person_d111e258a1055">Wolsey, Kardinal, Minister Heinrich VIII. von England</persName>
                </note>
                <note type="writings">
                   <p>Wolsey</p>
@@ -17618,7 +17715,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d158e180a1055">Württemberg-Mömpelgard, Graf Georg von</persName>
+                  <persName n="person_d159e180a1055">Württemberg-Mömpelgard, Graf Georg von</persName>
                </note>
                <note type="writings">
                   <p>conte George</p>
@@ -17647,7 +17744,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d102e234a1055">Zasêkin-Jaroslavskij, Fürst Ivan, russischer Gesandter bei K</persName>
+                  <persName n="person_d103e234a1055">Zasêkin-Jaroslavskij, Fürst Ivan, russischer Gesandter bei K</persName>
                </note>
                <note type="writings">
                   <p>Ivan Zasêkin-Jaroslavskij</p>
@@ -17663,7 +17760,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d83e157a1055">Zasius, Dr. Johann, Rat des Reichsregiments</persName>
+                  <persName n="person_d84e157a1055">Zasius, Dr. Johann, Rat des Reichsregiments</persName>
                </note>
                <note type="writings">
                   <p>docteur Sasius</p>
@@ -17679,7 +17776,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d260e221a1055">Zevenberg, Herr ? von</persName>
+                  <persName n="person_d261e221a1055">Zevenberg, Herr ? von</persName>
                </note>
                <note type="writings">
                   <p>feu sr de Zevemberghes</p>
@@ -17695,7 +17792,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d31e187a1055">Zollern (Hohenzollern), Graf Eitel Friedrich (Eitelfritz) III. von</persName>
+                  <persName n="person_d32e187a1055">Zollern (Hohenzollern), Graf Eitel Friedrich (Eitelfritz) III. von</persName>
                </note>
                <note type="writings">
                   <p>conde de Sorna</p>
@@ -17773,7 +17870,7 @@
             </item>
             <item>
                <note type="person">
-                  <persName n="person_d245e1006a1055">Zott, Johann, von F gesandt an den Rat der Stadt Straßburg und nach Augsburg</persName>
+                  <persName n="person_d246e1006a1055">Zott, Johann, von F gesandt an den Rat der Stadt Straßburg und nach Augsburg</persName>
                </note>
                <note type="writings">
                   <p>Johann Zott</p>
