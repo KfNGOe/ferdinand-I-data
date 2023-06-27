@@ -38,7 +38,9 @@ declare function local:insert-element($nodes as node()*)
                 element { name($node) } {
                     attribute ref { "nognd" },
                     (:if (($node[parent::title]) and ($node[@role])) then () else ($node/@*),:)
-                    attribute key { normalize-space($node/@key) },
+                    if ($node/@*[name()="key"]) then (
+                        attribute key { normalize-space($node/@key) }
+                    ) else (),
                     $node/@*[not(name()="key")],
                     (:$node/@*,:)
                     local:insert-element($node/node())
