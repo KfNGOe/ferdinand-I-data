@@ -102,8 +102,10 @@ declare function local:insert-element($nodes as node()*)
         case element(placeName)
             return 
                 element { name($node) } {
-                    attribute ref { "nogeoname" },
-                    attribute key { normalize-space($node/@key) },
+                    attribute ref { "nogeoname" },                    
+                    if ($node/@*[name()="key"]) then (
+                        attribute key { normalize-space($node/@key) }
+                    ) else (),
                     $node/@*[not(name()="key")],
                     (:$node/@*,:) 
                     local:insert-element($node/node())
