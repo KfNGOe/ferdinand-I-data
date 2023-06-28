@@ -18,7 +18,7 @@
          <list>
             <item>
                <note type="person">
-                  <persName n="person_d4e56a1055"/>
+                  <persName n="person_d5e56a1055"/>
                </note>
                <note type="writings">
                   <p>Ferdinand</p>
@@ -28,18 +28,6 @@
                   <p>Maria</p>
                </note>
                <note type="occurence">
-                  <p source="1060.xml">
-                     <val>1060</val>
-                     <note type="volNr">1</note>
-                     <note type="div"/>
-                     <note type="para"/>
-                  </p>
-                  <p source="1060.xml">
-                     <val>1060</val>
-                     <note type="volNr">1</note>
-                     <note type="div"/>
-                     <note type="para"/>
-                  </p>
                   <p source="1061.xml">
                      <val>1061</val>
                      <note type="volNr">1</note>
