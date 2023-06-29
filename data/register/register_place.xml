@@ -5841,24 +5841,6 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d5e173a1058">Palencia</placeName>
-               </note>
-               <note type="geoname">3114531</note>
-               <note type="gnd"/>
-               <note type="writings">
-                  <p>Palencia</p>
-               </note>
-               <note type="occurence">
-                  <p source="1061.xml">
-                     <val>1061</val>
-                     <note type="volNr">1</note>
-                     <note type="div">commentary</note>
-                     <note type="para">1</note>
-                  </p>
-               </note>
-            </item>
-            <item>
-               <note type="place">
                   <placeName n="place_d213e171a1058">Palma</placeName>
                </note>
                <note type="geoname">3171576</note>
@@ -6075,24 +6057,6 @@
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
                      <note type="para">1</note>
-                  </p>
-               </note>
-            </item>
-            <item>
-               <note type="place">
-                  <placeName n="place_d5e203a1058">Pforzheim</placeName>
-               </note>
-               <note type="geoname">2853969</note>
-               <note type="gnd"/>
-               <note type="writings">
-                  <p>Pforzheim</p>
-               </note>
-               <note type="occurence">
-                  <p source="1061.xml">
-                     <val>1061</val>
-                     <note type="volNr">1</note>
-                     <note type="div">commentary</note>
-                     <note type="para">2</note>
                   </p>
                </note>
             </item>
@@ -6959,7 +6923,7 @@
             </item>
             <item>
                <note type="place">
-                  <placeName n="place_d5e218a1058">Schwarzwald</placeName>
+                  <placeName n="place_d5e212a1058">Schwarzwald</placeName>
                </note>
                <note type="geoname">2834688</note>
                <note type="gnd"/>
