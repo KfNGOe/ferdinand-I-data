@@ -19,7 +19,7 @@
                <note type="place">
                   <placeName n="place_d144e491a1058">Adria</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3183462</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Adriatico</p>
@@ -596,7 +596,7 @@
                <note type="place">
                   <placeName n="place_d5e140a1058">Baden, Markgrafschaft</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">2953481</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Baden</p>
@@ -5843,7 +5843,7 @@
                <note type="place">
                   <placeName n="place_d5e173a1058">Palencia</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3114531</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Palencia</p>
@@ -6082,7 +6082,7 @@
                <note type="place">
                   <placeName n="place_d5e203a1058">Pforzheim</placeName>
                </note>
-               <note type="geoname"/>
+               <note type="geoname">3114531</note>
                <note type="gnd"/>
                <note type="writings">
                   <p>Pforzheim</p>
