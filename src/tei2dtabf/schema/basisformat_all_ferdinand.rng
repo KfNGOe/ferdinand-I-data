@@ -2500,6 +2500,16 @@ Measures]</a:documentation>
          <ref name="tei_att.global.linking.attribute.next"/>
          <ref name="tei_att.global.linking.attribute.prev"/>
          <optional>
+            <attribute name="resp">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">who is responsible</a:documentation>
+               <list>
+                  <oneOrMore>
+                     <ref name="tei_teidata.pointer"/>
+                  </oneOrMore>
+               </list>
+            </attribute>
+         </optional>
+         <optional>
             <attribute name="target">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the destination of the reference by supplying one or more URI References</a:documentation>
                <list>
@@ -2653,6 +2663,8 @@ Measures]</a:documentation>
                <list>
                   <oneOrMore>
                      <choice>
+                        <value>comment</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Note describes a comment</a:documentation>
                         <value>left</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Marginalie links</a:documentation>
                         <value>right</value>
