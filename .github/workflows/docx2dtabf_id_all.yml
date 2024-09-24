@@ -37,8 +37,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
-          tag_name: ${{ env.timestap }}
-          release_name: Release ${{ env.timestap }}
+          tag: ${{ env.timestap }}
+          name: Release ${{ env.timestap }}
           body: Generated Release
           draft: false
           prerelease: false
