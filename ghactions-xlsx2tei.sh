@@ -19,7 +19,7 @@ if [ $nfiles = 1 ]; then
 	
 	echo "Starting xlsx to tei transformation"
 	
-	ant -f src/xlsx2tei/build-from.xml -DinputFile=../../$inputDir/$name.xlsx -DoutputFile=../../$teiOutputDir/$name.xml      
+	ant -verbose -f src/xlsx2tei/build-from.xml -DinputFile=../../$inputDir/$name.xlsx -DoutputFile=../../$teiOutputDir/$name.xml      
 	
 	echo "transformation was successfull"
 
