@@ -54,7 +54,7 @@ else
                   echo "Starting docx to tei transformation"
                   
                   echo "common part"
-                  ant -f src/docx2tei/docx/build-from.xml -DinputFile=../../../$changed_file -DoutputFile="${cwd}/${teiOutputDir}temp/$name.xml"
+                  ant -verbose -f src/docx2tei/docx/build-from.xml -DinputFile=../../../$changed_file -DoutputFile="${cwd}/${teiOutputDir}temp/$name.xml"
                   
                   echo "custom part"
                   java -cp src/docx2tei/saxon-he-10.jar net.sf.saxon.Transform -s:"${cwd}/${teiOutputDir}temp/$name.xml" -xsl:"${cwd}/src/docx2tei/docx2tei.xsl" -o:"${cwd}/${teiOutputDir}$name.xml"
