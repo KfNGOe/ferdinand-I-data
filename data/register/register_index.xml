@@ -4065,6 +4065,24 @@
             <item>
                <note type="index">
                   <index>
+                     <term n="index_d105e159a1056">Frankreich, U</term>
+                  </index>
+               </note>
+               <note type="writings">
+                  <p>practicques</p>
+               </note>
+               <note type="occurence">
+                  <p source="A102.xml">
+                     <val>A102</val>
+                     <note type="volNr">1</note>
+                     <note type="div">transcription</note>
+                     <note type="para">2</note>
+                  </p>
+               </note>
+            </item>
+            <item>
+               <note type="index">
+                  <index>
                      <term n="index_d32e156a1056">Frankreich B</term>
                   </index>
                </note>
@@ -4333,12 +4351,6 @@
                      <note type="volNr">1</note>
                      <note type="div">transcription</note>
                      <note type="para">34</note>
-                  </p>
-                  <p source="A102.xml">
-                     <val>A102</val>
-                     <note type="volNr">1</note>
-                     <note type="div">transcription</note>
-                     <note type="para">2</note>
                   </p>
                   <p source="A121b.xml">
                      <val>A121b</val>
@@ -5164,7 +5176,7 @@
             <item>
                <note type="index">
                   <index>
-                     <term n="index_d86e171a1056">Heirat, Projekt Polen - Frankreich</term>
+                     <term n="index_d86e171a1056">Heiratsprojekt, Polen - Frankreich</term>
                   </index>
                </note>
                <note type="writings">
@@ -5195,7 +5207,7 @@
             <item>
                <note type="index">
                   <index>
-                     <term n="index_d105e225a1056">Heirat, Projekt Polen – Sachsen</term>
+                     <term n="index_d105e227a1056">Heiratsprojekt, Polen – Sachsen</term>
                   </index>
                </note>
                <note type="writings">
