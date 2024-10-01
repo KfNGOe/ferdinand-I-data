@@ -19,8 +19,8 @@ jobs:
           distribution: "adopt"
       - id: files
         uses: jitterbit/get-changed-files@v1
-      #- name: running xlsx transform
-      #  run: . ghactions-xlsx2tei.sh        
+      - name: running xlsx transform
+        run: . ghactions-xlsx2tei.sh        
       - name: running docx transform
         run: . ghactions-docx2dtabf_id_all.sh
         env:
